@@ -1,0 +1,63 @@
+collections:
+- name          : page
+  plural        : pages
+  related_pages :
+    template   : app/index.html
+    permalinks : { structure: :slug:ext }
+    pagination :
+      sort: !!js/function >
+        function(x, y) {
+          return x.data.date > y.data.date ? -1 : 1;
+        }
+
+- name          : archive
+  plural        : archives
+  related_pages :
+    template   : 'app/partials/archives.html'
+    permalinks : { structure: 'archives/:slug:ext' }
+    pagination :
+      limit : 5
+      prop  : num
+      sort  : !!js/function >
+        function(x, y) {
+          return x.data.date > y.data.date ? -1 : 1;
+        }
+
+- name          : category
+  plural        : categories
+  related_pages :
+    template   : 'app/partials/categories.html'
+    permalinks : { structure: category/:slug:ext }
+    pagination :
+      limit : 5
+      prop  : num
+      sort  : !!js/function >
+        function(x, y) {
+          return x.data.date > y.data.date ? -1 : 1;
+        }
+
+- name          : continent
+  plural        : continents
+  related_pages :
+    template   : app/partials/continents.html
+    permalinks : { structure: in/:slug:ext }
+    pagination :
+      limit : 5
+      prop  : num
+      sort  : !!js/function >
+        function(x, y) {
+          return x.data.date > y.data.date ? -1 : 1;
+        }
+
+# - name          : tag
+#   plural        : tags
+#   related_pages :
+#     template   : app/partials/tags.html
+#     permalinks : { structure: tags/:slug:ext }
+#     pagination :
+#       limit : 1
+#       prop  : num
+#       sort  : !!js/function >
+#         function(x, y) {
+#           return x.data.date > y.data.date ? -1 : 1;
+#         }

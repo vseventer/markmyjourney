@@ -1,0 +1,6 @@
+{
+  "name"            : "MarkMyJourney.com",
+  "dependencies"    : { },
+  "devDependencies" : { "bootstrap": "3.2.x" },
+  "private"         : true
+}
