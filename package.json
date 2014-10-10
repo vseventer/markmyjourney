@@ -6,7 +6,7 @@
   "author"      : "Mark van Seventer",
   "licenses"    : {
     "type" : "MIT",
-    "url"  : "https://raw.github.com/vseventer/markmyjourney.com/master/LICENSE"
+    "url"  : "https://raw.githubusercontent.com/vseventer/markmyjourney.com/master/LICENSE.txt"
   },
   "repository": {
     "type" : "git",
@@ -54,9 +54,9 @@
     "gulp-util"         : "3.0.x",
     "gulp-webserver"    : "0.8.x",
     "js-yaml"           : "3.2.x",
-    "main-bower-files"  : "2.0.x",
+    "main-bower-files"  : "2.1.x",
     "moment"            : "2.8.x",
-    "request"           : "2.44.x",
+    "request"           : "2.45.x",
     "run-sequence"      : "1.0.x",
     "through2"          : "0.6.x",
     "underscore.string" : "2.3.x",
