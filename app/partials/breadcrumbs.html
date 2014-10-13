@@ -8,14 +8,14 @@
         <li><a href="/{{ pagination.first.dest }}">Archives</a></li>
       {{/withFirst}}
       {{#is archive.length 4}}
-        <li class="active">{{ moment archive 'YYYY' format='YYYY' }}</li>
+        <li class="active">{{ archive }}</li>
       {{else}}
         {{#each (getCollection 'archives')}}
-          {{#is archive (moment ../archive 'YYYY' format='YYYY')}}
+          {{#is archive (moment ../archive format='YYYY')}}
           <li><a href="/{{ pagination.first.dest }}">{{ archive }}</a></li>
           {{/is}}
         {{/each}}
-        <li class="active">{{ moment archive 'YYYY-MM' format='MMMM' }}</li>
+        <li class="active">{{ moment archive format='MMMM' }}</li>
       {{/is}}
     {{/unless}}
   {{else}}

@@ -52,7 +52,7 @@ module.exports = (assemble) ->
       else
         break for value, index in prev when year is value.name # Lookup index.
         prev[index].months ?= [ ]
-        prev[index].months.push name: month, page: current
+        prev[index].months.push name: current.archive, page: current
       prev
     , [ ]
 

@@ -9,9 +9,9 @@ slug   : <%= slugify(archive.replace('-', '/'), false) %>
   <div class="container">
     <h1>Archives{{#if title}}:
       {{#is title.length 4}}
-        {{ moment title 'YYYY' format='YYYY' }}
+        {{ title }}
       {{else}}
-        {{ moment title 'YYYY-MM' format='MMMM YYYY' }}
+        {{ moment title format='MMMM YYYY' }}
       {{/is}}
     {{/if}}</h1>
   </div><!-- /container -->
@@ -34,7 +34,7 @@ slug   : <%= slugify(archive.replace('-', '/'), false) %>
               <a href="/{{ page.pagination.first.dest }}">{{ name }} ({{ page.pages.length }})</a>
               <ol class="list-unstyled">
               {{#each months}}
-                <li>└ <a href="/{{ page.pagination.first.dest }}">{{ moment name 'MM' format='MMMM' }} ({{ page.pages.length }})</a></li>
+                <li>└ <a href="/{{ page.pagination.first.dest }}">{{ moment name format='MMMM' }} ({{ page.pages.length }})</a></li>
               {{/each}}
               </ol>
             </li>
