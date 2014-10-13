@@ -1,0 +1,46 @@
+---
+layout : layout.html
+slug   : index
+---
+
+<div class="jumbotron mmjy-cover mmjy-jumbotron mmjy-map">
+  <div class="container text-center">
+    <h1>{{ config.title }}</h1>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      <p class="breadcrumb"><strong>Latest Posts</strong></p>
+
+      {{#withSlice related-pages 0 3}}
+        {{> excerpt this }}
+        <hr />
+      {{/withSlice}}
+
+      {{#withFirst collections.archives}}
+      <ul class="pager">
+        <li><a href="/{{ pagination.first.dest }}">More →</a></li>
+      </ul>
+      {{/withFirst}}
+    </div><!-- /col-md-8 -->
+
+    <div class="col-md-4 hidden-xs">
+      {{> sidebar }}
+    </div><!-- /col-md-4 -->
+
+  </div><!-- /row -->
+</div><!-- /container -->
+
+{{#any related-pages}}
+<span class="hidden">
+  {{#related-pages}}
+    {{#data.geography}}
+      <div class="media" data-marker="{{ ../data.title }}" data-lat="{{ last coord }}" data-lng="{{ first coord }}">
+        {{> excerpt .. }}
+      </div>
+    {{/data.geography}}
+  {{/related-pages}}
+</span>
+{{/any}}

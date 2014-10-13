@@ -1,0 +1,30 @@
+<ol class="breadcrumb">
+  <li><a href="/index.html">Home</a></li>
+  {{#isset archive}}
+    {{#unless archive}}
+      <li class="active">Archives</li>
+    {{else}}
+      {{#withFirst (getCollection 'archives')}}
+        <li><a href="/{{ pagination.first.dest }}">Archives</a></li>
+      {{/withFirst}}
+      {{#is archive.length 4}}
+        <li class="active">{{ moment archive 'YYYY' format='YYYY' }}</li>
+      {{else}}
+        {{#each (getCollection 'archives')}}
+          {{#is archive (moment ../archive 'YYYY' format='YYYY')}}
+          <li><a href="/{{ pagination.first.dest }}">{{ archive }}</a></li>
+          {{/is}}
+        {{/each}}
+        <li class="active">{{ moment archive 'YYYY-MM' format='MMMM' }}</li>
+      {{/is}}
+    {{/unless}}
+  {{else}}
+    {{#if category}}<li class="active">Categories</li>{{/if}}
+    {{#is num 1}}
+    <li class="active">{{ title }}</li>
+    {{else}}
+    <li><a href="/{{ pagination.first.dest }}">{{ title }}</a></li>
+    <li class="active">Page {{ num }}</li>
+    {{/is}}
+  {{/isset}}
+</ol><!-- /breadcrumb -->

@@ -1,0 +1,32 @@
+<h2><a href="/{{ dest }}">{{ data.title }}</a></h2>
+<p>
+  <strong><date datetime="{{ data.date }}">{{ moment data.date format='MMM D, YYYY' }}</date></strong>
+  {{#withFirst data.geography}}• {{ name }}{{/withFirst}}
+  {{#isnt data.geography.length 1}}
+    {{#withLast data.geography}} to {{ name }}{{/withLast}}
+  {{/isnt}}
+
+  {{#any data.categories}}•
+    {{#each (getCollection 'categories')}}
+      {{#inArray ../data.categories category}}
+        <a class="label label-primary" href="/{{ pagination.first.dest }}"><em>{{ category }}</em></a>
+      {{/inArray}}
+    {{/each}}
+  {{/any}}
+</p>
+
+{{#any data.photos}}
+  <ul class="list-inline">
+  {{#withSlice data.photos 0 5}}
+    <li>
+      <a href="/{{ ../dest }}#{{ src }}">
+        <img alt="{{ description }}" class="mmjy-img-small" src="/blog/{{ ../data.slug }}/t/{{ src }}" title="{{ description }}" />
+      </a>
+    </li>
+  {{/withSlice}}
+  </ul>
+{{/any}}
+
+{{#markdown}}{{ excerpt }}{{/markdown}}
+
+<p><a href="/{{ dest }}">Continue reading {{ data.title }}</a></p>

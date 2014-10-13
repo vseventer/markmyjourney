@@ -1,0 +1,8 @@
+- src         : PA111623.JPG
+  cover       : false
+  date        : !!str 2014-10-11T11:11:32-04:00
+  description : Packing chaos.
+- src         : PA111629.JPG
+  cover       : true
+  date        : !!str 2014-10-11T15:11:29-04:00
+  description : Everything we will need for the next seven months. The carry-on will be left in Amsterdam.

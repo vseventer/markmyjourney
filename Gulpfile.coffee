@@ -197,7 +197,9 @@ gulp.task 'watch', [ 'webserver' ], ->
   gulp.watch paths.images, [ 'images' ]
 
 # The deploy tasks.
-gulp.task 'tag', ->
+gulp.task 'deploy', ->
+  gulp.src paths.dist
+      .pipe plugins.deploy()
   gulp.src 'package.json'
       .pipe plugins.tagVersion()
 

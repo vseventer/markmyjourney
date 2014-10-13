@@ -1,0 +1,10 @@
+<figure class="mmjy-photo thumbnail">
+  <img alt="{{ geography.name }}" class="img-responsive" src="/{{ path }}" />
+  <figcaption class="text-center">
+    <strong><date datetime="{{ date }}">{{ moment date format='MMM D, YYYY' }}</date></strong>
+    {{#if description}} • {{ description }}{{/if}}
+    {{#if geography}}
+    • <span class="glyphicon glyphicon-map-marker"></span>{{ dms geography.coord }} ({{ geography.name }})
+    {{/if}}
+  </figcaption>
+</figure>

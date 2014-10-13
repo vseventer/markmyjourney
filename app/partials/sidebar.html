@@ -1,0 +1,35 @@
+<!-- Search. -->
+<form action="https://encrypted.google.com/search" class="mmjy-search" role="search">
+  <input type="hidden" name="sitesearch" value="{{ config.url }}" />
+  <div class="input-group">
+    <input class="form-control" name="q" placeholder="Search with Google" required="required" type="search" />
+    <div class="input-group-btn">
+      <button class="btn btn-default">
+        <span class="glyphicon glyphicon-search"></span>
+      </button>
+    </div>
+  </div>
+</form>
+
+<!-- Popular. -->
+{{#collections.pages}}
+  {{#is page 'all'}}
+  <div class="hidden-xs panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">Popular Posts</h3>
+    </div>
+    <ol class="list-group">
+      {{#withSlice (dataSort pages 'sticky' dir='desc') 0 3}}
+        <li class="list-group-item">
+          {{> excerpt-sidebar }}
+        </li><!-- /list-group-item -->
+      {{/withSlice}}
+    </ol><!-- /list-group -->
+  </div><!-- /panel -->
+  {{/is}}
+{{/collections.pages}}
+
+<!-- Twitter. -->
+<div class="hidden-xs">
+  <div class="twitter-timeline" data-border-color="#DDDDDD" data-tweet-limit="3" data-widget-id="512390021861498880"></div>
+</div>

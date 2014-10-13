@@ -1,0 +1,24 @@
+---
+layout : layout.html
+title  : <%= category %>
+seo    : noindex, follow
+slug   : <%= slugify(category) %>
+---
+
+<div class="jumbotron mmjy-jumbotron mmjy-related">
+  <div class="container">
+    <h1>{{ title }}</h1>
+  </div><!-- /container -->
+</div><!-- /jumbotron -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      {{> list }}
+    </div>
+
+    <div class="col-md-4">
+      {{> sidebar }}
+    </div>
+  </div><!-- /row -->
+</div><!-- /container -->

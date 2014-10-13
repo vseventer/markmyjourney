@@ -1,0 +1,14 @@
+{{#any geography}}
+<div class="panel panel-default mmjy-summary">
+  <img alt="Destinations" class="img-responsive" src="/blog/{{ slug }}/map.png" />
+  <div class="panel-footer">
+    <strong>Destinations</strong> •
+    {{#eachIndex geography}}
+      {{#if index}}→{{/if}}
+      {{#if item.country}}<span class="flag flag-{{ lowercase item.country.code }}" title="{{ item.country.name }}"></span>{{/if}}
+      {{ item.name }}
+      {{#is item.transport "overland"}}→ <em>OVERLAND</em>{{/is}}
+    {{/eachIndex}}
+  </div>
+</div>
+{{/any}}

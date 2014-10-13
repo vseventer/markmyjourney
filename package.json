@@ -35,6 +35,7 @@
     "gulp-coffeelint"   : "0.4.x",
     "gulp-csso"         : "0.2.x",
     "gulp-filter"       : "1.0.x",
+    "gulp-gh-pages"     : "0.4.x",
     "gulp-htmlhint"     : "0.0.x",
     "gulp-if"           : "1.2.x",
     "gulp-imagemin"     : "1.0.x",

@@ -1,0 +1,41 @@
+---
+layout: layout.html
+---
+
+<article>
+  <header>
+    <div class="jumbotron mmjy-jumbotron mmjy-cover" style="background-image: url('/blog/{{ slug }}/cover.jpg')">
+      <div class="container text-center">
+        {{#any categories}}
+        <ul class="list list-inline">
+          {{#each collections.categories}}
+            {{#inArray ../categories category}}
+              <li><a class="btn btn-primary btn-sm" href="/{{ pagination.first.dest }}">{{ category }}</a></li>
+            {{/inArray}}
+          {{/each}}
+        </ul>
+        {{/any}}
+        <h1>{{ title }}</h1>
+        {{#if date}}
+        <p class="mmjy-date"><date datetime="{{ date }}">{{ moment date format='MMMM Do, YYYY' }}</date></p>
+        {{/if}}
+      </div>
+    </div><!-- /jumbotron -->
+  </header>
+
+  <div class="container">
+    {{> summary }}
+    {{#markdown}}
+      {{> body }}
+    {{/markdown}}
+  </div><!-- /container -->
+
+  <section>
+    {{> gallery }}
+  </section>
+
+  <div class="container">
+    {{> comments }}
+  </div><!-- /container -->
+
+</article>

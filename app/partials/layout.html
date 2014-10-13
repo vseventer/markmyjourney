@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="{{ config.language }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>{{#isset archive}}Archives • {{/isset}}{{#if title}}{{ title }} • {{/if}}{{ config.title }}</title>
+
+    <link href="/{{ dest }}" rel="canonical" />
+    {{#if seo}}<meta content="{{ seo }}" name="robots" />{{/if}}
+
+    <!-- build:css /styles/main.css -->
+    <!-- bower:css -->
+    <!-- endbower -->
+    <link href="styles/main.css" rel="stylesheet" />
+    <!-- endbuild -->
+  </head>
+  <body>
+    <!-- Navigation. -->
+    {{> nav }}
+
+    <!-- Main component. -->
+    {{> body }}
+
+    <!-- Footer -->
+    {{> footer }}
+
+    <!-- build:js /scripts/main.js -->
+    <!-- bower:js -->
+    <!-- endbower -->
+    <script src="scripts/jquery-custom.js"></script>
+    <script src="bower_components/bootstrap/js/collapse.js"></script>
+    <script src="bower_components/bootstrap/js/dropdown.js"></script>
+    <script src="scripts/main.js"></script>
+    <!-- endbuild -->
+  </body>
+</html>

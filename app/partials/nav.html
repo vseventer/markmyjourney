@@ -1,0 +1,46 @@
+<nav class="navbar navbar-default navbar-static-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" type="button">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/index.html">{{ config.title }}</a>
+    </div>
+
+    <div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav navbar-left">
+        <li{{#is basename "about"}} class="active"{{/is}}><a href="/about.html">About Us</a></li>
+        <li{{#isset archive}} class="active"{{/isset}}><a href="/archives/index.html">Blog</a></li>
+
+        {{#any collections.continents}}
+        <li class="dropdown {{#if continent}}active{{/if}}">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Destinations <b class="caret"></b></a>
+          <ul class="dropdown-menu" role="menu">
+            {{#collections.continents}}
+              <li{{#is ../continent continent}} class="active"{{/is}} role="presentation">
+                <a href="/{{ pagination.first.dest }}" role="menuitem" tabindex="-1">{{ continent }}</a>
+              </li>
+            {{/collections.continents}}
+          </ul>
+        </li>
+        {{/any}}
+
+        {{#collections.categories}}
+        <li{{#is ../category category}} class="active"{{/is}}><a href="/{{ pagination.first.dest }}">{{ category }}</a></li>
+        {{/collections.categories}}
+      </ul>
+      <ul class="hidden-xs list-inline navbar-right mmjy-social">
+        <li>
+          <a href="https://twitter.com/vseventer" title="Twitter"><img alt="Twitter" src="/images/twitter.png" /></a>
+        </li>
+        <li>
+          <a href="mailto:{{ config.contact }}" title="E-mail"><img alt="E-mail" src="/images/email.png" /></a>
+        </li>
+      </ul>
+    </div><!-- /navbar-collapse -->
+
+  </div><!-- /container -->
+</nav><!-- /navbar -->

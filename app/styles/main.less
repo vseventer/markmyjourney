@@ -1,0 +1,188 @@
+// Imports.
+@import url("//fonts.googleapis.com/css?family=Playfair+Display:700");
+@import "./flags.less";
+
+// bower:less
+@import "../bower_components/bootstrap/less/bootstrap.less";
+// endbower
+
+// Variables.
+@mmjy-background         : #2E0854;
+@container-large-desktop : @container-desktop;
+@screen-lg               : @screen-md;
+@font-family-sans-serif  : Georgia, "Times New Roman", Times, serif;
+@font-family-serif       : "Playfair Display", Georgia, "Times New Roman", Times, serif;
+@jumbotron-bg            : lighten(@mmjy-background, 74.1%);
+@jumbotron-height        : 75vh;
+
+// Overrides.
+.jumbotron {
+  margin-top : -@navbar-margin-bottom;
+  padding    : 0;
+
+  &.mmjy-cover {
+    background-position : center center;
+    background-size     : cover;
+    height              : @jumbotron-height;
+    min-height          : 300px;
+
+    .container {
+      background-color : rgba(255, 255, 255, .8);
+      border-radius    : @border-radius-base;
+      padding          : @jumbotron-padding / 2;
+    }
+  }
+
+  h1, .h1 {
+    font-family : @font-family-serif;
+  }
+  h1, .h1, h2, .h2 {
+    margin-top: 0;
+  }
+
+  .list {
+    text-transform: uppercase;
+  }
+
+  .mmjy-date {
+    margin: 0;
+  }
+}
+.navbar-form {
+  .navbar-vertical-align(@input-height-small);
+}
+
+// Styles.
+.mmjy-about-us {
+  margin-top : @font-size-h3 + @line-height-computed * 1.5;
+  width      : 160px;
+}
+
+.mmjy-current {
+  height : 200px;
+  width  : 455px;
+}
+
+.mmjy-footer {
+  background-color : @navbar-default-bg;
+  border-top       : 1px solid @navbar-default-border;
+  margin-top       : @jumbotron-padding - @line-height-computed;
+  padding-bottom   : @jumbotron-padding / 1.5;
+}
+
+.mmjy-arrow-up {
+  border-bottom : 8px solid @jumbotron-bg;
+  border-left   : 8px solid transparent;
+  border-right  : 8px solid transparent;
+  height        : 0;
+  margin-top    : -(@line-height-computed - 1 + 7);
+  position      : absolute;
+  width         : 0;
+}
+
+.mmjy-gallery {
+  background-color : @jumbotron-bg;
+  border-bottom    : 1px solid @thumbnail-border;
+  border-top       : 1px solid @thumbnail-border;
+  margin-top       : -(@line-height-computed - 1);
+  padding-bottom   : @padding-large-vertical;
+
+  img {
+    margin-top: @padding-large-vertical;
+  }
+  .active img {
+    border  : 1px solid @mmjy-background;
+    opacity : .5;
+  }
+}
+.mmjy-gallery-wrapper .container {
+  position: relative;
+}
+.mmjy-gallery-nav {
+  background-color : @thumbnail-border;
+  cursor           : pointer;
+  margin-top       : -40px - (@line-height-computed / 2);
+  padding          : 40px 5px;
+  position         : absolute;
+  text-align       : center;
+  top              : 50%;
+
+  &:hover {
+    background-color: darken(@thumbnail-border, 10%);
+  }
+}
+.mmjy-gallery-prev {
+  left: -4px;
+}
+.mmjy-gallery-next {
+  right: -4px;
+}
+
+.mmjy-img-small {
+  height : 75px;
+  width  : 100px;
+}
+
+.mmjy-jumbotron {
+  background-position : right (@grid-gutter-width / 2) center;
+  background-repeat   : no-repeat;
+  border-bottom       : 1px solid @navbar-default-border;
+  display             : flex;
+  flex-direction      : column;
+  height              : 200px;
+  justify-content     : center;
+}
+.mmjy-map {
+  p {
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    font-size: @font-size-base;
+  }
+  .media {
+    font-family: @font-family-sans-serif;
+  }
+}
+
+.mmjy-photo {
+  clear    : both;
+  position : relative;
+
+  img {
+    width: 960px;
+  }
+
+  figcaption {
+    background-color : rgba(255, 255, 255, .8);
+    bottom           : 0;
+    left             : 0;
+    margin           : @thumbnail-padding;
+    padding          : @thumbnail-padding;
+    position         : absolute;
+    right            : 0;
+  }
+}
+
+.mmjy-search {
+  margin-bottom: @line-height-computed;
+}
+
+.mmjy-social {
+  .navbar-vertical-align(24px);
+
+  img {
+    height : 24px;
+    width  : 24px;
+  }
+}
+
+.mmjy-summary {
+  &:extend(.pull-right);
+  margin-left: @grid-gutter-width / 2;
+
+  img {
+    height : 270px;
+    width  : 480px;
+  }
+}

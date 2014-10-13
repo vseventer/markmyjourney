@@ -1,0 +1,48 @@
+---
+layout : layout.html
+title  : <%= archive %>
+seo    : noindex, follow
+slug   : <%= slugify(archive.replace('-', '/'), false) %>
+---
+
+<div class="jumbotron mmjy-jumbotron mmjy-related">
+  <div class="container">
+    <h1>Archives{{#if title}}:
+      {{#is title.length 4}}
+        {{ moment title 'YYYY' format='YYYY' }}
+      {{else}}
+        {{ moment title 'YYYY-MM' format='MMMM YYYY' }}
+      {{/is}}
+    {{/if}}</h1>
+  </div><!-- /container -->
+</div><!-- /jumbotron -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      {{> list }}
+    </div>
+
+    <div class="col-md-4">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">Time Machine</h3>
+        </div>
+        <ol class="panel-body list-unstyled">
+          {{#each (getArchives)}}
+            <li>
+              <a href="/{{ page.pagination.first.dest }}">{{ name }} ({{ page.pages.length }})</a>
+              <ol class="list-unstyled">
+              {{#each months}}
+                <li>└ <a href="/{{ page.pagination.first.dest }}">{{ moment name 'MM' format='MMMM' }} ({{ page.pages.length }})</a></li>
+              {{/each}}
+              </ol>
+            </li>
+          {{/each}}
+        </ol>
+      </div><!-- /panel -->
+
+      {{> sidebar }}
+    </div><!-- /col-md-4 -->
+  </div><!-- /row -->
+</div><!-- /container -->
