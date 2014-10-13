@@ -200,7 +200,7 @@ gulp.task 'watch', [ 'webserver' ], ->
 gulp.task 'tag', ->
   gulp.src 'package.json'
       .pipe plugins.tagVersion()
-gulp.task 'deploy', [  ], ->
+gulp.task 'deploy', [ 'tag' ], ->
   src = path.join paths.dist, '**/*'
   gulp.src src, base: paths.dist
       .pipe plugins.ghPages()
