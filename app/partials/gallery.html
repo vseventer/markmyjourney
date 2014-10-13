@@ -20,10 +20,10 @@
       <a{{^if index}} class="active"{{/if}} href="/blog/{{ ../slug }}/{{ item.src }}" id="{{ item.src }}">
         <img alt="{{ item.description }}" class="mmjy-img-small" src="/blog/{{ ../slug }}/t/{{ item.src }}" title="{{ item.description }}" />
         <span class="mmjy-caption hidden">
-          <strong><date datetime="{{ item.date }}">{{ moment item.date format='MMM D, YYYY' }}</date></strong> •
-          {{#if item.description}}{{ item.description }} •{{/if}}
+          <strong><date datetime="{{ item.date }}">{{ moment item.date format='MMM D, YYYY' }}</date></strong>
+          {{#if item.description}} • {{ item.description }}{{/if}}
           {{#if item.geography}}
-          <span class="glyphicon glyphicon-map-marker"></span>{{ dms item.geography.coord }} ({{ item.geography.name }})
+           • <span class="glyphicon glyphicon-map-marker"></span>{{ dms item.geography.coord }} ({{ item.geography.name }})
           {{/if}}
         </span>
       </a>
