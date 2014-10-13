@@ -197,11 +197,12 @@ gulp.task 'watch', [ 'webserver' ], ->
   gulp.watch paths.images, [ 'images' ]
 
 # The deploy tasks.
-gulp.task 'deploy', ->
-  gulp.src paths.dist
-      .pipe plugins.deploy()
+gulp.task 'tag', ->
   gulp.src 'package.json'
       .pipe plugins.tagVersion()
+gulp.task 'deploy', [ 'tag' ], ->
+  gulp.src paths.dist
+      .pipe plugins.ghPages()
 
 # Composite tasks.
 gulp.task 'lint',    [ 'coffeelint', 'htmlhint', 'jsonlint' ]
