@@ -13,11 +13,10 @@
     "url"  : "https://github.com/vseventer/markmyjourney.com"
   },
   "scripts": {
-    "prestart"   : "./node_modules/.bin/bower install",
-    "start"      : "./node_modules/.bin/gulp watch",
-    "predeploy"  : "NODE_ENV=production ./node_modules/.bin/gulp",
-    "deploy"     : "./bin/deploy.sh",
-    "postdeploy" : "NODE_ENV=production ./node_modules/.bin/gulp tag"
+    "prestart"  : "./node_modules/.bin/bower install",
+    "start"     : "./node_modules/.bin/gulp watch",
+    "predeploy" : "NODE_ENV=production ./node_modules/.bin/gulp",
+    "deploy"    : "NODE_ENV=production ./node_modules/.bin/gulp deploy"
   },
   "dependencies"    : { },
   "devDependencies" : {
