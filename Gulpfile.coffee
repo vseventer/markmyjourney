@@ -48,7 +48,7 @@ paths =
   json     : [ '*rc', '*.json' ]
 
   app      : './app'
-  extras   : [ 'app/*.*', '!app/*.html', '!app/*.md' ] # All top-level non-pages.
+  extras   : [ 'app/*', '!app/*.html', '!app/*.md' ] # All top-level non-pages.
   coffee   : 'app/scripts/*.coffee'
   helpers  : 'app/helpers/*.coffee'
   images   : 'app/images/**'
@@ -200,8 +200,9 @@ gulp.task 'watch', [ 'webserver' ], ->
 gulp.task 'tag', ->
   gulp.src 'package.json'
       .pipe plugins.tagVersion()
-gulp.task 'deploy', [ 'tag' ], ->
-  gulp.src paths.dist
+gulp.task 'deploy', [  ], ->
+  src = path.join paths.dist, '**/*'
+  gulp.src src, base: paths.dist
       .pipe plugins.ghPages()
 
 # Composite tasks.
