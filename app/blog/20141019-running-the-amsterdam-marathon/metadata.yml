@@ -1,0 +1,70 @@
+- src         : PA171646.JPG
+  cover       : false
+  date        : !!str 2014-10-17T12:52:23+02:00
+  description : null
+  geography   :
+    id        : 6951731
+    name      : Olympisch Stadion
+    coord     : [ 4.8542, 52.34339 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA171653.JPG
+  cover       : false
+  date        : !!str 2014-10-17T16:28:10+02:00
+  description : Survival Kit.
+  geography   :
+    id        : 2750815
+    name      : Mijdrecht
+    coord     : [ 4.860776666666666, 52.21365666666667 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : P1000740.JPG
+  cover       : false
+  date        : !!str 2014-10-19T09:05:50+02:00
+  description : Preparation stage, about an hour before the start.
+  geography   :
+    id        : 6951731
+    name      : Olympisch Stadion
+    coord     : [ 4.8542, 52.34339 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : P1000747.JPG
+  cover       : true
+  date        : !!str 2014-10-19T09:39:55+02:00
+  description : Many of the 16,000 runners eager to get started.
+  geography   :
+    id        : 6951731
+    name      : Olympisch Stadion
+    coord     : [ 4.8542, 52.34339 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : P1000752.JPG
+  cover       : false
+  date        : !!str 2014-10-19T10:59:22+02:00
+  description : Smiles after the first 13km flew by.
+  geography   :
+    id        : 2759794
+    name      : Amsterdam
+    coord     : [ 4.88969, 52.37403 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : P1000756.JPG
+  cover       : false
+  date        : !!str 2014-10-19T12:07:37+02:00
+  description : Exhaustion. Taken around the 25km mark.
+  geography   :
+    id        : 2745907
+    name      : Utrechtse Brug
+    coord     : [ 4.90939, 52.33896 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : P1000760.JPG
+  cover       : false
+  date        : !!str 2014-10-19T14:25:29+02:00
+  description : A glass of chocolate milk never tasted better.
+  geography   :
+    id        : 6951731
+    name      : Olympisch Stadion
+    coord     : [ 4.8542, 52.34339 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
