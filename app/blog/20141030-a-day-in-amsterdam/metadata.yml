@@ -1,0 +1,60 @@
+- src         : PA141635.JPG
+  cover       : false
+  date        : !!str 2014-10-14T09:49:16+02:00
+  description : "One of Mark’s favorite walks: along the colorful apartment buildings and the Ringvaart river."
+  geography   :
+    id        : 2753201
+    name      : Jordaan
+    coord     : [ 4.869593333333333, 52.37538166666667 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA251763.JPG
+  cover       : false
+  date        : !!str 2014-10-25T10:27:08+02:00
+  description : null
+  geography   :
+    id        : 6944491
+    name      : Concertgebouw
+    coord     : [ 4.880655000000001, 52.356883333333336 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA251764.JPG
+  cover       : false
+  date        : !!str 2014-10-25T10:27:21+02:00
+  description : null
+  geography   :
+    id        : 6884787
+    name      : Stedelijk Museum Amsterdam
+    coord     : [ 4.880675, 52.356950000000005 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA251766.JPG
+  cover       : false
+  date        : !!str 2014-10-25T10:32:27+02:00
+  description : null
+  geography   :
+    id        : 7602112
+    name      : Museumplein
+    coord     : [ 4.883235000000001, 52.35885833333334 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA251773.JPG
+  cover       : false
+  date        : !!str 2014-10-25T11:35:18+02:00
+  description : null
+  geography   :
+    id        : 6951005
+    name      : Leidsebrug
+    coord     : [ 4.884716666666666, 52.364871666666666 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA251781.JPG
+  cover       : true
+  date        : !!str 2014-10-25T17:37:06+02:00
+  description : The bike garage. No cars allowed.
+  geography   :
+    id        : 2759790
+    name      : Amsterdam Centraal Railway Station
+    coord     : [ 4.896318333333332, 52.379846666666666 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }

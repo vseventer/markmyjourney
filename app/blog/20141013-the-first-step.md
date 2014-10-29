@@ -4,7 +4,7 @@ slug       : the-first-step
 title      : The First Step
 date       : !!str 2014-10-13T23:00:00+02:00
 categories : [ ]
-tags       : [ ]
+tags       : [ Icelandair ]
 geography  :
   - id        : 4930956
     name      : Boston, MA

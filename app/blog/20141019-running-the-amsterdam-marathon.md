@@ -4,7 +4,8 @@ slug       : running-the-amsterdam-marathon
 title      : Running the Amsterdam Marathon
 date       : !!str 2014-10-19T23:26:00+02:00
 categories : [ ]
-tags       : [ ]
+tags       : [ Sports ]
+sticky     : 100
 geography  :
   - id        : 2759794
     name      : Amsterdam

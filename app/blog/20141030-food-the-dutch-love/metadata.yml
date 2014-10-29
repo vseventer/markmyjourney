@@ -1,0 +1,66 @@
+- src         : PA141634.JPG
+  cover       : false
+  date        : !!str 2014-10-14T07:29:52+02:00
+  description : Kroket, from the vending machine.
+  geography   : null
+- src         : PA161644.JPG
+  cover       : true
+  date        : !!str 2014-10-16T14:21:35+02:00
+  description : Licorice.
+  geography   : null
+- src         : PA181672.JPG
+  cover       : false
+  date        : !!str 2014-10-18T08:37:31+02:00
+  description : Chocolate sprinkles.
+- src         : PA181673.JPG
+  cover       : false
+  date        : !!str 2014-10-18T08:37:39+02:00
+  description : Vlaflip. A mix of vanilla pudding and yoghurt.
+- src         : PA181675.JPG
+  cover       : false
+  date        : !!str 2014-10-18T13:15:31+02:00
+  description : Leverworst. For on your sandwich.
+- src         : PA181679.JPG
+  cover       : false
+  date        : !!str 2014-10-18T13:23:00+02:00
+  description : Erwtensoep.
+- src         : PA211703.JPG
+  cover       : false
+  date        : !!str 2014-10-21T12:18:49+02:00
+  description : Apple Pie.
+  geography   : null
+- src         : PA211708.JPG
+  cover       : false
+  date        : !!str 2014-10-21T12:49:15+02:00
+  description : Hollandse Nieuwe.
+  geography   : null
+- src         : PA211713.JPG
+  cover       : false
+  date        : !!str 2014-10-21T12:50:11+02:00
+  description : Eating like the locals.
+  geography   : null
+- src         : PA221733.JPG
+  cover       : false
+  date        : !!str 2014-10-22T18:07:19+02:00
+  description : Boerenkool met worst (kale with sausage).
+- src         : PA251785.JPG
+  cover       : false
+  date        : !!str 2014-10-25T17:56:27+02:00
+  description : Fries with mayonaise. We stole it from Belgium.
+  geography   : null
+- src         : PA251788.JPG
+  cover       : false
+  date        : !!str 2014-10-25T18:15:50+02:00
+  description : Oliebol. On the menu around New Years.
+  geography   :
+  geography   : null
+- src         : PA271831.JPG
+  cover       : false
+  date        : !!str 2014-10-27T15:44:49+01:00
+  description : Poffertjes.
+  geography   :
+  geography   : null
+- src         : IMG_0772.JPG
+  cover       : false
+  date        : !!str 2014-10-22T16:26:37+02:00
+  description : Jonge Jenever (gin).

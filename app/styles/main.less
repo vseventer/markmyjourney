@@ -120,8 +120,8 @@
 }
 
 .mmjy-img-small {
-  height : 75px;
-  width  : 100px;
+  max-height : 75px;
+  max-width  : 100px;
 }
 
 .mmjy-jumbotron {
@@ -180,7 +180,8 @@
 
 .mmjy-summary {
   &:extend(.pull-right);
-  margin-left: @grid-gutter-width / 2;
+  margin-left : @grid-gutter-width / 2;
+  max-width   : 482px;
 
   img {
     height : 270px;

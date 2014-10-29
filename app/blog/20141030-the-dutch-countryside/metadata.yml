@@ -1,0 +1,180 @@
+- src         : PA281865.JPG
+  cover       : false
+  date        : !!str 2014-10-28T14:07:28+01:00
+  description : Bridge over the Kromme Mijdrecht river.
+  geography   :
+    id        : 2750815
+    name      : Mijdrecht
+    coord     : [ 4.858778333333333, 52.21422333333334 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : IMG_0775.JPG
+  cover       : false
+  date        : !!str 2014-10-23T16:51:39+02:00
+  description : Every Wednesday, “de Markt” is in town. It’s like food trucks, but not limited to food.
+  geography   :
+    id        : 2750815
+    name      : Mijdrecht
+    coord     : [ 4.858778333333333, 52.21422333333334 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA181681.JPG
+  cover       : false
+  date        : !!str 2014-10-18T17:55:43+02:00
+  description : Herta’s favorite treeline, located behind Mark’s house, during sunset.
+  geography   :
+    id        : 2750815
+    name      : Mijdrecht
+    coord     : [ 4.858778333333333, 52.21422333333334 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA161643.JPG
+  cover       : false
+  date        : !!str 2014-10-16T13:02:45+02:00
+  description : De Kromme Mijdrecht river, just before merging into the Amstel river.
+  geography   :
+    id        : 2752243
+    name      : Kromme Mijdrecht
+    coord     : [ 4.8175316666666665, 52.225755 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA171651.JPG
+  cover       : false
+  date        : !!str 2014-10-17T15:34:05+02:00
+  description : The boat from Mark’s parents. All ready for winter.
+  geography   :
+    id        : 2760134
+    name      : Aalsmeer
+    coord     : [ 4.7152883333333335, 52.25555833333333 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA211690.JPG
+  cover       : false
+  date        : !!str 2014-10-21T10:57:14+02:00
+  description : View on the Veluwemeer from the hotel in Putten.
+  geography   :
+    id        : 6505036
+    name      : Mercure Amersfoort Veluwemeer
+    coord     : [ 5.531538333333334, 52.26822833333333 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA211697.JPG
+  cover       : false
+  date        : !!str 2014-10-21T11:46:56+02:00
+  description : Fishing boat and mill “de Hoop”.
+  geography   :
+    id        : 6948576
+    name      : De Hoop
+    coord     : [ 5.622680000000001, 52.35215166666667 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA211702.JPG
+  cover       : false
+  date        : !!str 2014-10-21T11:55:47+02:00
+  description : Sadly the umbrelas were of little help.
+  geography   :
+    id        : 2754848
+    name      : Harderwijk
+    coord     : [ 5.618825, 52.350880000000004 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA211718.JPG
+  cover       : false
+  date        : !!str 2014-10-21T13:56:20+02:00
+  description : Near the University Library in Utrecht.
+  geography   :
+    id        : 6950907
+    name      : Plompetorenbrug
+    coord     : [ 5.123546666666666, 52.094985 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA211724.JPG
+  cover       : false
+  date        : !!str 2014-10-21T14:12:50+02:00
+  description : Utrecht city center.
+  geography   :
+    id        : 6950935
+    name      : Bezembrug
+    coord     : [ 5.119236666666667, 52.09160166666667 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA271801.JPG
+  cover       : false
+  date        : !!str 2014-10-27T12:20:00+01:00
+  description : null
+  geography   :
+    id        : 2757345
+    name      : Delft
+    coord     : [ 4.368348333333333, 52.010895 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA271805.JPG
+  cover       : false
+  date        : !!str 2014-10-27T12:21:18+01:00
+  description : null
+  geography   :
+    id        : 2757345
+    name      : Delft
+    coord     : [ 4.368348333333333, 52.010895 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA271808.JPG
+  cover       : false
+  date        : !!str 2014-10-27T12:35:42+01:00
+  description : null
+  geography   :
+    id        : 2757345
+    name      : Delft
+    coord     : [ 4.368348333333333, 52.010895 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA271813.JPG
+  cover       : false
+  date        : !!str 2014-10-27T13:53:55+01:00
+  description : null
+  geography   :
+    id        : 2757345
+    name      : Delft
+    coord     : [ 4.368348333333333, 52.010895 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA271816.JPG
+  cover       : false
+  date        : !!str 2014-10-27T13:58:40+01:00
+  description : Last remaining gate into the city of Delft.
+  geography   :
+    id        : 2757345
+    name      : Delft
+    coord     : [ 4.368348333333333, 52.010895 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA271829.JPG
+  cover       : false
+  date        : !!str 2014-10-27T15:26:57+01:00
+  description : null
+  geography   :
+    id        : 7911122
+    name      : Molenmuseum de Valk
+    coord     : [ 4.486066666666667, 52.164265 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA271848.JPG
+  cover       : true
+  date        : !!str 2014-10-27T16:14:56+01:00
+  description : null
+  geography   :
+    id        : 2751773
+    name      : Leiden
+    coord     : [ 4.49204, 52.158085 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
+- src         : PA271856.JPG
+  cover       : false
+  date        : !!str 2014-10-27T16:34:57+01:00
+  description : null
+  geography   :
+    id        : 6950249
+    name      : De Put
+    coord     : [ 4.482823333333333, 52.16121166666667 ]
+    continent : { code: EU, name: Europe }
+    country   : { code: NL, name: Netherlands }
