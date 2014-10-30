@@ -1,6 +1,5 @@
 ---
 pages      : all
-draft      : false
 slug       : dutch-specialties
 title      : Dutch Specialties
 date       : !!str 2014-10-30T21:00:00+01:00
@@ -21,7 +20,6 @@ archives:
   - !!str ''
   - !!str 2014
   - !!str 2014-10
-map: http://maps.googleapis.com/maps/api/staticmap?markers=size%3Amid%7C52.25%2C5.75&&size=480x270&style=feature%3Alandscape%7Celement%3Ageometry.fill%7Chue%3A0x2E0854%7Clightness%3A-2%7Cgamma%3A0.25&style=feature%3Awater%7Celement%3Ageometry.fill%7Ccolor%3A0xEBDAFC&style=feature%3Aadministrative%7Celement%3Ageometry.fill%7Cvisibility%3Aoff&style=element%3Ageometry.stroke%7Cvisibility%3Aoff&zoom=2
 ---
 
 A store full of licorice. Chocolate sprinkles with everything. The Dutch have strange eating habits. Or at least, so you think, until you actually have breakfast in the Netherlands, and see yourself wandering around in the same store stocking up on delicious licorice.

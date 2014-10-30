@@ -1,6 +1,5 @@
 ---
 pages      : all
-draft      : false
 slug       : the-dutch-countryside
 title      : The Dutch Countryside
 date       : !!str 2014-10-30T20:00:00+01:00
@@ -46,7 +45,6 @@ archives:
   - !!str ''
   - !!str 2014
   - !!str 2014-10
-map: http://maps.googleapis.com/maps/api/staticmap?markers=size%3Amid%7C52.21422333333334%2C4.858778333333333%7C52.24438%2C5.57827%7C52.7375%2C4.99306%7C52.09083%2C5.12222%7C52.010895%2C4.368348333333333%7C52.158085%2C4.49204&path=color%3A0xFF0000FF%7Cweight%3A3%7C52.21422333333334%2C4.858778333333333%7C52.24438%2C5.57827&path=color%3A0xFF0000FF%7Cweight%3A3%7C52.24438%2C5.57827%7C52.7375%2C4.99306&path=color%3A0xFF0000FF%7Cweight%3A3%7C52.7375%2C4.99306%7C52.09083%2C5.12222&path=color%3A0xFF0000FF%7Cweight%3A3%7C52.09083%2C5.12222%7C52.010895%2C4.368348333333333&path=color%3A0xFF0000FF%7Cweight%3A3%7C52.010895%2C4.368348333333333%7C52.158085%2C4.49204&size=480x270&style=feature%3Alandscape%7Celement%3Ageometry.fill%7Chue%3A0x2E0854%7Clightness%3A-2%7Cgamma%3A0.25&style=feature%3Awater%7Celement%3Ageometry.fill%7Ccolor%3A0xEBDAFC&style=feature%3Aadministrative%7Celement%3Ageometry.fill%7Cvisibility%3Aoff&style=element%3Ageometry.stroke%7Cvisibility%3Aoff&zoom=
 ---
 
 Our home base during our stay in the Netherlands was my old hometown of Mijdrecht. Mijdrecht, located 20 minutes outside of Amsterdam, is a quiet and typical Dutch town: not much to do, a few small shops (closed on Sundays of course), and a population predominated by parents with young kids, and older couples.
