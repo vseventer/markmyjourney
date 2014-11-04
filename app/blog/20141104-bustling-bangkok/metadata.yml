@@ -1,0 +1,96 @@
+- src         : PA311895.JPG
+  cover       : false
+  date        : !!str 2014-10-31T12:20:41+07:00
+  description : The reclining Buddha.
+  geography   :
+    id        : 1151366
+    name      : Wat Pho
+    coord     : [ 99.85, 13.6 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PA311928.JPG
+  cover       : false
+  date        : !!str 2014-10-31T14:50:33+07:00
+  description : null
+  geography   :
+    id        : 6946120
+    name      : Grand Palace
+    coord     : [ 100.49080666666667, 13.750356666666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PA311934.JPG
+  cover       : false
+  date        : !!str 2014-10-31T15:49:10+07:00
+  description : Approaching Wat Arun by ferry.
+  geography   :
+    id        : 1605063
+    name      : Khlong Wat Arun
+    coord     : [ 100.48891333333333, 13.743643333333333 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PA311943.JPG
+  cover       : false
+  date        : !!str 2014-10-31T15:58:40+07:00
+  description : After climbing a set of very, very steep stairs.
+  geography   :
+    id        : 1605063
+    name      : Khlong Wat Arun
+    coord     : [ 100.48891333333333, 13.743643333333333 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB022030.JPG
+  cover       : false
+  date        : !!str 2014-11-02T16:23:39+07:00
+  description : null
+  geography   :
+    id        : 7284942
+    name      : Queen Sirikit Botanic Garden
+    coord     : [ 100.55396999999999, 13.804748333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB022033.JPG
+  cover       : false
+  date        : !!str 2014-11-02T16:37:39+07:00
+  description : null
+  geography   :
+    id        : 7284942
+    name      : Queen Sirikit Botanic Garden
+    coord     : [ 100.55396999999999, 13.804748333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB032039.JPG
+  cover       : false
+  date        : !!str 2014-11-03T13:07:41+07:00
+  description : Flower Market.
+- src         : PB032044.JPG
+  cover       : false
+  date        : !!str 2014-11-03T13:10:42+07:00
+  description : Narrow streets of the flower market.
+  geography   : null
+- src         : PB032057.JPG
+  cover       : false
+  date        : !!str 2014-11-03T14:08:14+07:00
+  description : Taxi boat station.
+  geography   : null
+- src         : PB032080.JPG
+  cover       : true
+  date        : !!str 2014-11-03T15:15:36+07:00
+  description : null
+  geography   :
+    id        : 1606087
+    name      : Suan Lumphini
+    coord     : [ 100.54149833333334, 13.732955 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : IMG_3225.JPG
+  cover       : false
+  date        : !!str 2014-11-02T19:38:23+07:00
+  description : Eating on the street next to traffic.
+- src         : IMG_3222.JPG
+  cover       : false
+  date        : !!str 2014-11-02T19:24:54+07:00
+  description : Pad Thai, sweet-sour chicken with rice, and Chang, the local beer.
+- src         : IMG_3224.JPG
+  cover       : false
+  date        : !!str 2014-11-02T19:25:08+07:00
+  description : null
