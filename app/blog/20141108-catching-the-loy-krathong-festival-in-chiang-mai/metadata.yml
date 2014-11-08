@@ -1,0 +1,118 @@
+- src         : PB042099.JPG
+  cover       : false
+  date        : !!str 2014-11-04T05:55:02+07:00
+  description : A songthaew.
+- src         : PB042109.JPG
+  cover       : false
+  date        : !!str 2014-11-04T19:35:55+07:00
+  description : Streets decorated with lanterns because of the festival.
+- src         : PB052149.JPG
+  cover       : false
+  date        : !!str 2014-11-05T14:13:56+07:00
+  description : Stairs from and to Doi Suthep.
+  geography   :
+    id        : 6942165
+    name      : Wat Phra That Doi Suthep
+    coord     : [ 98.9218, 18.80512166666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB052125.JPG
+  cover       : false
+  date        : !!str 2014-11-05T13:46:49+07:00
+  description : null
+  geography   :
+    id        : 6942165
+    name      : Wat Phra That Doi Suthep
+    coord     : [ 98.9218, 18.80512166666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB052137.JPG
+  cover       : false
+  date        : !!str 2014-11-05T13:58:38+07:00
+  description : It was a rainy day, yet temperatures still in the high 20s.
+  geography   :
+    id        : 6942165
+    name      : Wat Phra That Doi Suthep
+    coord     : [ 98.9218, 18.80512166666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB052146.JPG
+  cover       : false
+  date        : !!str 2014-11-05T14:07:11+07:00
+  description : View over Chiang Mai.
+  geography   :
+    id        : 6942165
+    name      : Wat Phra That Doi Suthep
+    coord     : [ 98.9218, 18.80512166666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB072272.JPG
+  cover       : false
+  date        : !!str 2014-11-07T13:59:30+07:00
+  description : Tha Phae Gate.
+  geography   :
+    id        : 1153671
+    name      : Chiang Mai
+    coord     : [ 98.99337, 18.787813333333336 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB052179.JPG
+  cover       : false
+  date        : !!str 2014-11-05T19:27:08+07:00
+  description : Lanterns outside of Tha Phae Gate.
+  geography   :
+    id        : 1153671
+    name      : Chiang Mai
+    coord     : [ 98.99337, 18.787813333333336 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB052160.JPG
+  cover       : false
+  date        : !!str 2014-11-05T19:10:19+07:00
+  description : Lantern parade.
+  geography   :
+    id        : 1153671
+    name      : Chiang Mai
+    coord     : [ 98.99337, 18.787813333333336 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB052168.JPG
+  cover       : false
+  date        : !!str 2014-11-05T19:21:49+07:00
+  description : Lantarn parade.
+  geography   :
+    id        : 1153671
+    name      : Chiang Mai
+    coord     : [ 98.99337, 18.787813333333336 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB062245.JPG
+  cover       : false
+  date        : !!str 2014-11-06T22:49:09+07:00
+  description : Release of a lantern.
+  geography   :
+    id        : 1153671
+    name      : Chiang Mai
+    coord     : [ 98.99337, 18.787813333333336 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB072251.JPG
+  cover       : true
+  date        : !!str 2014-11-07T11:23:39+07:00
+  description : null
+  geography   :
+    id        : 1153682
+    name      : Wat Chedi Luang
+    coord     : [ 98.986105, 18.786508333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB072259.JPG
+  cover       : false
+  date        : !!str 2014-11-07T11:38:52+07:00
+  description : null
+  geography   :
+    id        : 1153682
+    name      : Wat Chedi Luang
+    coord     : [ 98.986105, 18.786508333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
