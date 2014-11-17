@@ -1,0 +1,150 @@
+- src         : PB102315.JPG
+  cover       : true
+  date        : !!str 2014-11-10T13:54:14+07:00
+  description : Beach of Ao Nang, about 20 minutes by taxi from Krabi.
+  geography   :
+    id        : 8275756
+    name      : Hat Ao Nang
+    coord     : [ 98.82271999999999, 8.030363333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB112354.JPG
+  cover       : false
+  date        : !!str 2014-11-11T11:42:23+07:00
+  description : The craziness at James Bond Island. Still a great place to visit.
+  geography   :
+    id        : 7778911
+    name      : Khao Phing Kan
+    coord     : [ 98.50019333333333, 8.274681666666668 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB112361.JPG
+  cover       : false
+  date        : !!str 2014-11-11T12:10:15+07:00
+  description : Driver of the longtail boats transporting tourists to the islands.
+  geography   :
+    id        : 7778912
+    name      : Ko Tapu
+    coord     : [ 98.50337166666667, 8.280123333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB112398.JPG
+  cover       : false
+  date        : !!str 2014-11-11T14:17:50+07:00
+  description : Floating village, mainly restaurants here to feed the tourists passing by.
+  geography   :
+    id        : 8276389
+    name      : Ko Pan Yi
+    coord     : [ 98.50512833333333, 8.336083333333335 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB122481.JPG
+  cover       : false
+  date        : !!str 2014-11-12T18:18:05+07:00
+  description : Sunset at Koh Lanta.
+  geography   :
+    id        : 8271189
+    name      : Ban Khlong Top
+    coord     : [ 99.03365333333333, 7.5712399999999995 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB142604.JPG
+  cover       : false
+  date        : !!str 2014-11-14T18:05:54+07:00
+  description : Sunset at Koh Lanta, two days later.
+  geography   :
+    id        : 8271189
+    name      : Ban Khlong Top
+    coord     : [ 99.03365333333333, 7.5712399999999995 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB142535.JPG
+  cover       : false
+  date        : !!str 2014-11-14T11:21:50+07:00
+  description : null
+  geography   :
+    id        : 1153564
+    name      : Ko Chueak
+    coord     : [ 99.23197166666667, 7.406255000000001 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB142547.JPG
+  cover       : false
+  date        : !!str 2014-11-14T13:23:15+07:00
+  description : Hidden beach - only accessible by swimming through the Emerald Cave.
+  geography   :
+    id        : 8232058
+    name      : Laem Tham Suea
+    coord     : [ 99.28299833333334, 7.368953333333333 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB142581.JPG
+  cover       : false
+  date        : !!str 2014-11-14T14:37:11+07:00
+  description : Private beach.
+  geography   :
+    id        : 6355128
+    name      : Koh Ngai
+    coord     : [ 99.21597, 7.405073333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB152606.JPG
+  cover       : false
+  date        : !!str 2014-11-15T19:59:35+07:00
+  description : We were lucky to catch a series of festivals while in Krabi, meaning great food and shows to enjoy.
+  geography   :
+    id        : 1152633
+    name      : Krabi
+    coord     : [ 98.91802333333334, 8.064405 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB162619.JPG
+  cover       : false
+  date        : !!str 2014-11-16T13:08:24+07:00
+  description : Cave at Khao Nang, just 10 minutes away from Ao Nang beach by boat.
+  geography   :
+    id        : 8594650
+    name      : Khao Laem Nang
+    coord     : [ 98.83707666666666, 8.006023333333333 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB162620.JPG
+  cover       : false
+  date        : !!str 2014-11-16T13:08:31+07:00
+  description : Tourists, tourists, tourists.
+  geography   :
+    id        : 8594650
+    name      : Khao Laem Nang
+    coord     : [ 98.83707666666666, 8.006023333333333 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB162623.JPG
+  cover       : false
+  date        : !!str 2014-11-16T13:19:46+07:00
+  description : Swimming with a view.
+  geography   :
+    id        : 8594650
+    name      : Khao Laem Nang
+    coord     : [ 98.83707666666666, 8.006023333333333 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB162627.JPG
+  cover       : false
+  date        : !!str 2014-11-16T13:20:29+07:00
+  description : Unfortunately, all the boats took away much of the scenery.
+  geography   :
+    id        : 8594650
+    name      : Khao Laem Nang
+    coord     : [ 98.83707666666666, 8.006023333333333 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB162629.JPG
+  cover       : false
+  date        : !!str 2014-11-16T15:00:40+07:00
+  description : Railay East Beach. The picture looks nice, but the beach looked and smelled disgusting.
+  geography   :
+    id        : 6691848
+    name      : Railay Beach
+    coord     : [ 98.84136666666666, 8.00743 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
