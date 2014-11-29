@@ -1,0 +1,64 @@
+- src         : PB182647.JPG
+  cover       : false
+  date        : !!str 2014-11-18T17:21:58+08:00
+  description : Hairy tree.
+  geography   :
+    id        : 1735106
+    name      : George Town
+    coord     : [ 100.34294666666666, 5.421068333333333 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: MY, name: Malaysia }
+- src         : PB192677.JPG
+  cover       : false
+  date        : !!str 2014-11-19T19:03:03+08:00
+  description : Street food at Jalan Alor.
+  geography   : null
+- src         : PB192684.JPG
+  cover       : false
+  date        : !!str 2014-11-19T20:18:08+08:00
+  description : A few hours later, Jalan Alor lights up.
+  geography   : null
+- src         : PB202690.JPG
+  cover       : false
+  date        : !!str 2014-11-20T13:50:06+08:00
+  description : Masjid Jamek mosque.
+  geography   : null
+- src         : PB202693.JPG
+  cover       : false
+  date        : !!str 2014-11-20T14:00:29+08:00
+  description : Central Market.
+  geography   : null
+- src         : PB202697.JPG
+  cover       : false
+  date        : !!str 2014-11-20T14:26:47+08:00
+  description : Sultan Abdul Samad Building.
+  geography   : null
+- src         : PB202702.JPG
+  cover       : false
+  date        : !!str 2014-11-20T14:35:20+08:00
+  description : Independence Square.
+  geography   : null
+- src         : PB212739.JPG
+  cover       : false
+  date        : !!str 2014-11-21T15:00:41+08:00
+  description : null
+  geography   :
+    id        : 6695784
+    name      : Batu Caves
+    coord     : [ 101.68350166666667, 3.2370383333333335 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: MY, name: Malaysia }
+- src         : PB212780.JPG
+  cover       : true
+  date        : !!str 2014-11-21T17:39:17+08:00
+  description : null
+  geography   :
+    id        : 6619683
+    name      : Petronas Twin Towers
+    coord     : [ 101.71109666666666, 3.1578583333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: MY, name: Malaysia }
+- src         : PB222798.JPG
+  cover       : false
+  date        : !!str 2014-11-22T12:17:20+07:00
+  description : "Excited for our next adventure: Singapore."

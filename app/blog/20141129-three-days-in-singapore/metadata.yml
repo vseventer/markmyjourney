@@ -1,0 +1,130 @@
+- src         : PB232808.JPG
+  cover       : false
+  date        : !!str 2014-11-23T13:24:20+08:00
+  description : Marina Bay Sands first appearance, while walking towards the bay area.
+  geography   :
+    id        : 1882076
+    name      : Queen Elizabeth Walk
+    coord     : [ 103.85602833333333, 1.2907316666666666 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: SG, name: Singapore }
+- src         : PB232822.JPG
+  cover       : false
+  date        : !!str 2014-11-23T13:45:09+08:00
+  description : The Helix bridge, Marina Bay Sands, and Art Museum.
+  geography   :
+    id        : 1882722
+    name      : Marina Bay
+    coord     : [ 103.86018, 1.2888283333333332 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: SG, name: Singapore }
+- src         : PB232829.JPG
+  cover       : false
+  date        : !!str 2014-11-23T13:51:35+08:00
+  description : Floating Stadium.
+  geography   :
+    id        : 1882722
+    name      : Marina Bay
+    coord     : [ 103.86018, 1.2888283333333332 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: SG, name: Singapore }
+- src         : PB232834.JPG
+  cover       : true
+  date        : !!str 2014-11-23T13:57:35+08:00
+  description : Business district.
+  geography   :
+    id        : 1882722
+    name      : Marina Bay
+    coord     : [ 103.86018, 1.2888283333333332 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: SG, name: Singapore }
+- src         : PB232840.JPG
+  cover       : false
+  date        : !!str 2014-11-23T14:32:14+08:00
+  description : On top of Marina Bay Sands.
+  geography   :
+    id        : 1882722
+    name      : Marina Bay
+    coord     : [ 103.86018, 1.2888283333333332 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: SG, name: Singapore }
+- src         : PB232848.JPG
+  cover       : false
+  date        : !!str 2014-11-23T14:35:08+08:00
+  description : The infinity pool, unfortunately only accessible for hotel guests.
+  geography   :
+    id        : 1882722
+    name      : Marina Bay
+    coord     : [ 103.86018, 1.2888283333333332 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: SG, name: Singapore }
+- src         : PB232891.JPG
+  cover       : false
+  date        : !!str 2014-11-23T21:11:42+08:00
+  description : At night, the bay area turns into a light show.
+  geography   :
+    id        : 1882722
+    name      : Marina Bay
+    coord     : [ 103.86018, 1.2888283333333332 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: SG, name: Singapore }
+- src         : PB242914.JPG
+  cover       : false
+  date        : !!str 2014-11-24T14:28:14+08:00
+  description : Christmas in the sea aquarium.
+  geography   :
+    id        : 1880272
+    name      : Sentosa
+    coord     : [ 103.821765, 1.2482383333333333 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: SG, name: Singapore }
+- src         : PB242927.JPG
+  cover       : false
+  date        : !!str 2014-11-24T15:09:45+08:00
+  description : Not everyone was happy to see us.
+  geography   :
+    id        : 1880272
+    name      : Sentosa
+    coord     : [ 103.821765, 1.2482383333333333 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: SG, name: Singapore }
+- src         : PB242941.JPG
+  cover       : false
+  date        : !!str 2014-11-24T16:27:42+08:00
+  description : The southernmost point of continental Asia. Ships everywhere.
+  geography   :
+    id        : 1880272
+    name      : Sentosa
+    coord     : [ 103.821765, 1.2482383333333333 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: SG, name: Singapore }
+- src         : PB242946.JPG
+  cover       : false
+  date        : !!str 2014-11-24T16:31:16+08:00
+  description : Inbound rain storm.
+  geography   :
+    id        : 1880272
+    name      : Sentosa
+    coord     : [ 103.821765, 1.2482383333333333 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: SG, name: Singapore }
+- src         : PB242952.JPG
+  cover       : false
+  date        : !!str 2014-11-24T17:00:24+08:00
+  description : The only way to get a clear picture of this is to wait for the tropical rain to fall.
+  geography   :
+    id        : 8436367
+    name      : Universal Studios Singapore
+    coord     : [ 103.82113333333334, 1.2565266666666666 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: SG, name: Singapore }
+- src         : PB242967.JPG
+  cover       : false
+  date        : !!str 2014-11-24T18:45:59+08:00
+  description : Old town.
+  geography   :
+    id        : 1885260
+    name      : Read Bridge
+    coord     : [ 103.84512166666666, 1.2891716666666666 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: SG, name: Singapore }

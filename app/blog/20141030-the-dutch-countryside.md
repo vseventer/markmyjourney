@@ -5,7 +5,6 @@ title      : The Dutch Countryside
 date       : !!str 2014-10-30T20:00:00+01:00
 categories : [ City Trips ]
 tags       : [ Sightseeing ]
-sticky     : 50
 geography  :
   - id        : 2750815
     name      : Mijdrecht
