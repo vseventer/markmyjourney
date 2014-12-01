@@ -1,10 +1,10 @@
 {{#isnt pagination.first.data.num pagination.last.data.num}}
 <ul class="pager">
   {{#isnt num pagination.last.data.num}}
-  <li class="previous"><a href="/{{ pagination.prev.dest }}">← Older</a></li>
+  <li class="previous"><a href="/{{ pagination.next.dest }}">← Older</a></li>
   {{/isnt}}
   {{#isnt num pagination.first.data.num}}
-  <li class="next"><a href="/{{ pagination.next.dest }}">Newer →</a></li>
+  <li class="next"><a href="/{{ pagination.prev.dest }}">Newer →</a></li>
   {{/isnt}}
 </ul>
 {{/isnt}}
