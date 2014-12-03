@@ -55,7 +55,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 ## Flights
 * Amsterdam to Bangkok: **$775** ($388 pp) on [Ukraine International Airlines](http://www.flyuia.com/),
 * Singapore to Bangkok: **$162** ($81 pp) on [Tigerair](http://www.tigerair.com/),
-* Bangkok (Don Mueang) to Siem Reap: **$142,50** ($71 pp) on [AirAsia](http://www.airasia.com/).
+* Bangkok (Don Mueang) to Siem Reap: **$142.50** ($71 pp) on [AirAsia](http://www.airasia.com/).
 
 ## Thailand
 * Days: **22**,
