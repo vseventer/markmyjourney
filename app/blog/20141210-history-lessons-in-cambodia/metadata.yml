@@ -1,0 +1,100 @@
+- src         : PB283032.JPG
+  cover       : false
+  date        : !!str 2014-11-28T06:12:08+07:00
+  description : null
+  geography   :
+    id        : 1831948
+    name      : Angkor Wat
+    coord     : [ 103.86693333333332, 13.41198 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: KH, name: Cambodia }
+- src         : PB283034.JPG
+  cover       : false
+  date        : !!str 2014-11-28T06:13:23+07:00
+  description : null
+  geography   :
+    id        : 1831948
+    name      : Angkor Wat
+    coord     : [ 103.86693333333332, 13.41198 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: KH, name: Cambodia }
+- src         : PB283046.JPG
+  cover       : false
+  date        : !!str 2014-11-28T06:26:31+07:00
+  description : Sunrise makes for a beautiful color.
+  geography   :
+    id        : 1831948
+    name      : Angkor Wat
+    coord     : [ 103.86693333333332, 13.41198 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: KH, name: Cambodia }
+- src         : PB283064.JPG
+  cover       : false
+  date        : !!str 2014-11-28T08:17:42+07:00
+  description : null
+  geography   :
+    id        : 6942128
+    name      : Bayon
+    coord     : [ 103.85945, 13.441576666666666 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: KH, name: Cambodia }
+- src         : PB283067.JPG
+  cover       : false
+  date        : !!str 2014-11-28T08:22:17+07:00
+  description : Faces all around the temple.
+  geography   :
+    id        : 6942128
+    name      : Bayon
+    coord     : [ 103.85945, 13.441576666666666 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: KH, name: Cambodia }
+- src         : PB283092.JPG
+  cover       : true
+  date        : !!str 2014-11-28T10:03:25+07:00
+  description : Tree-covered temples of Ta Prohm.
+  geography   :
+    id        : 8224690
+    name      : Ta Prohm
+    coord     : [ 103.88931500000001, 13.434828333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: KH, name: Cambodia }
+- src         : PB283103.JPG
+  cover       : false
+  date        : !!str 2014-11-28T10:09:28+07:00
+  description : null
+  geography   :
+    id        : 8224690
+    name      : Ta Prohm
+    coord     : [ 103.88931500000001, 13.434828333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: KH, name: Cambodia }
+- src         : PC013179.JPG
+  cover       : false
+  date        : !!str 2014-12-01T09:45:07+07:00
+  description : Decorations around many of the mass graves.
+  geography   :
+    id        : 6942278
+    name      : Choeung Ek
+    coord     : [ 104.90234500000001, 11.484383333333332 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: KH, name: Cambodia }
+- src         : PC013187.JPG
+  cover       : false
+  date        : !!str 2014-12-01T09:54:55+07:00
+  description : The Killing Fields.
+  geography   :
+    id        : 6942278
+    name      : Choeung Ek
+    coord     : [ 104.90234500000001, 11.484383333333332 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: KH, name: Cambodia }
+- src         : PC013205.JPG
+  cover       : false
+  date        : !!str 2014-12-01T11:42:05+07:00
+  description : Prison. For many prisoners, the Killing Fields at Choeung Ek would be their final destination.
+  geography   :
+    id        : 7647403
+    name      : Tuol Sleng Genocide Museum
+    coord     : [ 104.91751166666667, 11.54956 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: KH, name: Cambodia }
