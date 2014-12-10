@@ -26,7 +26,6 @@ archives:
   - !!str ''
   - !!str 2014
   - !!str 2014-12
-map: http://maps.googleapis.com/maps/api/staticmap?markers=size%3Amid%7C13.5%2C104%7C11.56245%2C104.91601&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C13.5%2C104%7C11.56245%2C104.91601&size=480x270&style=feature%3Alandscape%7Celement%3Ageometry.fill%7Chue%3A0x2E0854%7Clightness%3A-2%7Cgamma%3A0.25&style=feature%3Awater%7Celement%3Ageometry.fill%7Ccolor%3A0xEBDAFC&style=feature%3Aadministrative%7Celement%3Ageometry.fill%7Cvisibility%3Aoff&style=element%3Ageometry.stroke%7Cvisibility%3Aoff&zoom=
 ---
 
 Our stay in Cambodia was limited to six days - three in Siem Reap and three in the capital Phnom Penh. Our main goal was to visit two important historic sites in Cambodia, before moving on to Vietnam. We flew in from Bangkok, and after a long and tiring visa procedure at the airport we found ourselves in Siem Reap. This town has little to offer except the ancient temples of Angkor Wat.

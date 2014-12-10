@@ -26,7 +26,7 @@
     "coffee-script"     : "1.8.x",
     "glob"              : "4.0.x",
     "gulp"              : "3.8.x",
-    "gulp-assemble"     : "0.1.x",
+    "gulp-assemble"     : "git://github.com/assemble/gulp-assemble#79d8daeb9871fe15cc1acc54c8e242a2ac8917f7",
     "gulp-autoprefixer" : "1.0.x",
     "gulp-cache"        : "0.2.x",
     "gulp-cdn-absolute-path": "0.0.x",

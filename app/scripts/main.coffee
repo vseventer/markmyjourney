@@ -99,11 +99,11 @@ if gallery? # Initialize gallery.
   # Navigation.
   $(gallery).on 'click', '.mmjy-gallery-nav', (e) ->
     current = document.getElementById document.location.hash.substr 1
-    parent  = current?.parentNode || gallery.querySelector 'li' # First photo.
+    parent  = current?.parentNode or gallery.querySelector 'li' # First photo.
     if -1 isnt e.currentTarget.className.indexOf 'mmjy-gallery-next' # Next, or first.
-      target = parent.nextElementSibling || parent.parentNode.firstElementChild
+      target = parent.nextElementSibling or parent.parentNode.firstElementChild
     else # Previous, or last.
-      target = parent.previousElementSibling || parent.parentNode.lastElementChild
+      target = parent.previousElementSibling or parent.parentNode.lastElementChild
     $(target.querySelector('a')).trigger 'click'
 
   # On click, update the photo.
