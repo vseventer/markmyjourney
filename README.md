@@ -1,6 +1,9 @@
 # MarkMyJourney.com
 > My personal website [MarkMyJourney.com](http://www.markmyjourney.com).
 
+## Installation
+The `gulp-assemble` dependency does *not* work out of the box. To fix, change the `assemble` dependency to `handlebars-helpers` to sha `a3bd92623e7bfa26eef191e6c99a769bbf62847d`. Also, update the `any` function in `lib/helpers-collection.js` to check for `array` existence before reading the `length` property.
+
 ## Changelog
 See the [Changelog](./CHANGELOG.md) for a list of changes.
 
