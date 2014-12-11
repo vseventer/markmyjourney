@@ -3,7 +3,7 @@ git --work-tree dist checkout --orphan gh-pages
 git --work-tree dist rm -r "*"
 git --work-tree dist add --all
 git --work-tree dist commit -m 'Manual deploy.'
-git push origin gh-pages
+git push origin gh-pages -f
 git checkout master -f
 git branch -D gh-pages
 git stash pop
