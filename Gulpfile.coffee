@@ -196,14 +196,10 @@ gulp.task 'watch', [ 'webserver' ], ->
   gulp.watch paths.extras, [ 'extras' ]
   gulp.watch paths.images, [ 'images' ]
 
-# The deploy tasks.
+# The deploy tasks. The deployment is performed through a shell script.
 gulp.task 'tag', ->
   gulp.src 'package.json'
       .pipe plugins.tagVersion()
-gulp.task 'deploy', [ 'tag' ], ->
-  src = path.join paths.dist, '**/*'
-  gulp.src src, base: paths.dist
-      .pipe plugins.ghPages()
 
 # Composite tasks.
 gulp.task 'lint',    [ 'coffeelint', 'htmlhint', 'jsonlint' ]
