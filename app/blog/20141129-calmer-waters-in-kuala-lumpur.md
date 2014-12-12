@@ -3,7 +3,7 @@ pages      : all
 slug       : calmer-waters-in-kuala-lumpur
 title      : Calmer Waters in Kuala Lumpur
 date       : !!str 2014-11-29T23:00:00+08:00
-categories : [ City Trips ]
+categories : [ Day Trips ]
 tags       : [ Sightseeing ]
 sticky     : 50
 geography  :

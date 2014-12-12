@@ -3,7 +3,7 @@ pages      : all
 slug       : three-days-in-singapore
 title      : Three Days in Singapore
 date       : !!str 2014-11-29T23:45:00+08:00
-categories : [ City Trips ]
+categories : [ Day Trips ]
 tags       : [ Sightseeing ]
 geography  :
   - id        : 1880252

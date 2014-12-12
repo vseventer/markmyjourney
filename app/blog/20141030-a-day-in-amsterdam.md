@@ -3,7 +3,7 @@ pages      : all
 slug       : a-day-in-amsterdam
 title      : A Day In Amsterdam
 date       : !!str 2014-10-30T19:00:00+01:00
-categories : [ City Trips ]
+categories : [ Day Trips ]
 tags       : [ Sightseeing ]
 geography  :
   - id        : 2759794

@@ -3,7 +3,7 @@ pages      : all
 slug       : the-dutch-countryside
 title      : The Dutch Countryside
 date       : !!str 2014-10-30T20:00:00+01:00
-categories : [ City Trips ]
+categories : [ Day Trips ]
 tags       : [ Sightseeing ]
 geography  :
   - id        : 2750815

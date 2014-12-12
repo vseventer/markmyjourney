@@ -1,6 +1,6 @@
 {
   "name"        : "MarkMyJourney.com",
-  "version"     : "0.0.22",
+  "version"     : "0.0.23",
   "description" : "My personal website MarkMyJourney.com.",
   "homepage"    : "http://www.markmyjourney.com",
   "author"      : "Mark van Seventer",
@@ -16,7 +16,7 @@
     "prestart"  : "./node_modules/.bin/bower install",
     "start"     : "./node_modules/.bin/gulp watch",
     "predeploy" : "NODE_ENV=production ./node_modules/.bin/gulp",
-    "deploy"    : "NODE_ENV=production ./node_modules/.bin/gulp tag && bash ./lib/deploy.sh"
+    "deploy"    : "NODE_ENV=production ./node_modules/.bin/gulp tag && bash ./build/deploy.sh"
   },
   "dependencies"    : { },
   "devDependencies" : {
