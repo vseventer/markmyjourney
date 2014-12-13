@@ -1,84 +1,104 @@
 - src         : PC123531.JPG
   cover       : false
   date        : !!str 2014-12-12T16:33:26+07:00
-  description : null
+  description : Halong Bay junk of Paloma Cruise.
   geography   :
-    id        : 1576137
-    name      : Le Dragon
+    id        : 1581250
+    name      : Vịnh Hạ Long
     coord     : [ 107.16420333333333, 20.837126666666666 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
 - src         : PC123558.JPG
   cover       : false
   date        : !!str 2014-12-12T21:22:53+07:00
-  description : null
+  description : Our room.
 - src         : PC123455.JPG
   cover       : true
   date        : !!str 2014-12-12T14:05:46+07:00
-  description : null
+  description : Top deck.
   geography   :
     id        : 1581250
     name      : Vịnh Hạ Long
-    coord     : [ 107.111915, 20.90850833333333 ]
-    continent : { code: AS, name: Asia }
-    country   : { code: VN, name: Vietnam }
-- src         : PC123458.JPG
-  cover       : false
-  date        : !!str 2014-12-12T14:07:49+07:00
-  description : null
-  geography   :
-    id        : 1581250
-    name      : Vịnh Hạ Long
-    coord     : [ 107.111915, 20.90850833333333 ]
-    continent : { code: AS, name: Asia }
-    country   : { code: VN, name: Vietnam }
-- src         : PC123480.JPG
-  cover       : false
-  date        : !!str 2014-12-12T15:45:01+07:00
-  description : null
-  geography   :
-    id        : 1576137
-    name      : Le Dragon
-    coord     : [ 107.16420333333333, 20.837126666666666 ]
-    continent : { code: AS, name: Asia }
-    country   : { code: VN, name: Vietnam }
-- src         : PC123500.JPG
-  cover       : false
-  date        : !!str 2014-12-12T15:51:50+07:00
-  description : null
-  geography   :
-    id        : 1576137
-    name      : Le Dragon
     coord     : [ 107.16420333333333, 20.837126666666666 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
 - src         : PC123540.JPG
   cover       : false
   date        : !!str 2014-12-12T17:31:07+07:00
-  description : null
+  description : Top deck during sunset.
   geography   :
-    id        : 1567391
-    name      : Île de la Surprise
-    coord     : [ 107.10480833333332, 20.84765833333333 ]
+    id        : 1581250
+    name      : Vịnh Hạ Long
+    coord     : [ 107.16420333333333, 20.837126666666666 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC123458.JPG
+  cover       : false
+  date        : !!str 2014-12-12T14:07:49+07:00
+  description : Cruising the bays.
+  geography   :
+    id        : 1581250
+    name      : Vịnh Hạ Long
+    coord     : [ 107.16420333333333, 20.837126666666666 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC123480.JPG
+  cover       : false
+  date        : !!str 2014-12-12T15:45:01+07:00
+  description : Vung Vieng fishing village.
+  geography   :
+    id        : 1581250
+    name      : Vịnh Hạ Long
+    coord     : [ 107.16420333333333, 20.837126666666666 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC123500.JPG
+  cover       : false
+  date        : !!str 2014-12-12T15:51:50+07:00
+  description : Kayaking through the village.
+  geography   :
+    id        : 1581250
+    name      : Vịnh Hạ Long
+    coord     : [ 107.16420333333333, 20.837126666666666 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
 - src         : PC123549.JPG
   cover       : false
   date        : !!str 2014-12-12T18:37:35+07:00
-  description : null
+  description : You don’t pick - but get all of these.
   geography   :
     id        : 1567391
     name      : Île de la Surprise
-    coord     : [ 107.10480833333332, 20.84765833333333 ]
+    coord     : [ 107.09123333333334, 20.844856666666665 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
 - src         : PC123552.JPG
   cover       : false
   date        : !!str 2014-12-12T19:11:37+07:00
-  description : null
+  description : With life cooking. Or setting the boat on fire, not sure.
   geography   :
     id        : 1567391
     name      : Île de la Surprise
-    coord     : [ 107.10480833333332, 20.84765833333333 ]
+    coord     : [ 107.09123333333334, 20.844856666666665 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC133564.JPG
+  cover       : false
+  date        : !!str 2014-12-13T08:01:47+07:00
+  description : The bay with all the other junks, before entering the cave.
+  geography   :
+    id        : 1567391
+    name      : Île de la Surprise
+    coord     : [ 107.09123333333334, 20.844856666666665 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC133577.JPG
+  cover       : false
+  date        : !!str 2014-12-13T08:38:59+07:00
+  description : Inside the Hang Sửng Sốt cave.
+  geography   :
+    id        : 1567391
+    name      : Île de la Surprise
+    coord     : [ 107.09123333333334, 20.844856666666665 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }

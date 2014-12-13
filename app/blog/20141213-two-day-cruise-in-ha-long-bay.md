@@ -1,21 +1,21 @@
 ---
 pages      : all
 slug       : two-day-cruise-in-ha-long-bay
-title      : Two-day Cruise in Hạ Long Bay
-date       : !!str 2014-12-13T20:00:00+07:00
+title      : Two-day Cruise in Ha Long Bay
+date       : !!str 2014-12-13T22:00:00+07:00
 categories : [ Day Trips ]
 tags       : [ ]
 geography  :
-  - id        : 1581251
-    name      : Hạ Long
-    coord     : [ 105.06667, 21.35 ]
-    continent : { code: AS, name: &continent1581251 Asia }
-    country   : { code: VN, name: &country1581251 Vietnam }
+  - id        : 1581250
+    name      : Vịnh Hạ Long
+    coord     : [ 107.10446, 20.90611 ]
+    continent : { code: AS, name: &continent1581250 Asia }
+    country   : { code: VN, name: &country1581250 Vietnam }
     transport : flight
 continents:
-  - *continent1581251
+  - *continent1581250
 countries:
-  - *country1581251
+  - *country1581250
 archives:
   - !!str ''
   - !!str 2014
@@ -26,7 +26,7 @@ map: http://maps.googleapis.com/maps/api/staticmap?markers=size%3Amid%7C21.35%2C
 A few days before flying to Hanoi, we made reservations for a cruise around Hạ Long Bay. After browsing the various options, it became clear that paying a little bit more for the cruise would result in a much better experience. We read horror stories about boats being unsafe and crammed with tourists, something we really wanted to avoid. In the end, we decided to go with [Paloma Cruise](http://www.palomacruise.com). They have excellent reviews, and we found a great deal for the two day one night tour.
 
 # Day 1
-Hạ Long Bay is one of the main attractions of Vietnam. After an almost four hour bus ride from Hanoi, we arrived in Hạ Long City, the departure point for many of the boats, or “Junks”. Our tour guide, who had been joking a lot, informed us with a rather serious face that the cruise was canceled due to heavy winds. Given that the sun was shining for the first time in a few days, and there was practically no wind, we didn’t believe him. It turned out, however, that the Vietnamese government had ordered all boats to stay put in the harbor. As our itinerary was tight (we would be heading to Sapa in only two days), it looked like our cruise was over before it even started.
+Hạ Long Bay is one of the main attractions of Vietnam. After an almost four hour bus ride from Hanoi, we arrived in Hạ Long City, the departure point for many of the boats, or “Junks”. Our tour guide, who had been joking a lot, informed us with a rather serious face that the cruise was canceled due to heavy winds. Given that the sun was shining for the first time in a few days, and there was practically no wind, we didn’t believe him. It turned out, however, that the Vietnamese government had ordered all boats to stay put in the harbor. As our itinerary was tight (we would be heading to Sa Pa in only two days), it looked like our cruise was over before it even started.
 
 After having lunch on the boat, the tour guide happily announced the government lifted the ban and the boat would set sail. Apart from the 25-staff members, only ten of us tourists were on board. An hour after leaving the port, we arrived at the Vung Vieng floating village where we could kayak around the village. Also, the village people gave us a quick look into how to cultivate pearls, their main source of income.
 
@@ -35,3 +35,6 @@ From the floating village the boat left to a bay nearby where it would anchor fo
 Before heading to our room for the night, we took a (failed) attempt to catch some squid. It didn’t matter for our first day experience though - a beautiful day in Hạ Long Bay.
 
 # Day 2
+The second day began with an extended breakfast buffet, before heading to the Hang Sửng Sốt (which means Surprise) caves. Even though we had been in caves before (the ones in Thailand were quite disappointing), this one surprised us indeed. Once inside, the cave was very large and shaped by waves over millions of years. The view over the bay was a nice addition.
+
+This was our last activity of the day, and the Paloma Cruise junk headed back to Hạ Long city. After lunch, we were transferred back to Hanoi. Our overall experience with Paloma Cruise was excellent, we felt very warm and welcome during our stay. Sometimes this made us even feel uncomfortable, as we are definitely not used to four-star hotel environments. But we are not complaining!
