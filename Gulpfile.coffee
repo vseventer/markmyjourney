@@ -138,7 +138,7 @@ gulp.task 'views', [ 'assemble', 'coffee', 'less', ], ->
       .pipe assetFilter # Start asset processing (staging and production only).
       .pipe cssFilter # Start CSS processing.
       .pipe plugins.autoprefixer 'last 1 version'
-      .pipe plugins.uncss ignore: [ /\.mmjy*/, /\.open*/ ], html: glob paths.html, sync: true
+      .pipe plugins.uncss ignore: [ /\.in/, /\.mmjy/, /\.open/ ], html: glob paths.html, sync: true
       .pipe plugins.csso()
       .pipe cssFilter.restore() # End CSS processing.
       .pipe plugins.if '**/*.js', plugins.uglify preserveComments: 'some' # JS processing.
