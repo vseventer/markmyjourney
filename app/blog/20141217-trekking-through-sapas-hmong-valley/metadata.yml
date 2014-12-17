@@ -1,0 +1,100 @@
+- src         : PC153610.JPG
+  cover       : false
+  date        : !!str 2014-12-15T10:22:36+07:00
+  description : null
+  geography   :
+    id        : 1576302
+    name      : Lao Chải
+    coord     : [ 103.81667, 22.3 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC153612.JPG
+  cover       : false
+  date        : !!str 2014-12-15T10:22:53+07:00
+  description : null
+  geography   :
+    id        : 1576302
+    name      : Lao Chải
+    coord     : [ 103.81667, 22.3 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC153616.JPG
+  cover       : false
+  date        : !!str 2014-12-15T10:33:13+07:00
+  description : Suspension bridge over the Muong Hoa stream.
+  geography   :
+    id        : 1576302
+    name      : Lao Chải
+    coord     : [ 103.81667, 22.3 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC153617.JPG
+  cover       : false
+  date        : !!str 2014-12-15T10:46:14+07:00
+  description : null
+  geography   :
+    id        : 1576302
+    name      : Lao Chải
+    coord     : [ 103.81667, 22.3 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC153628.JPG
+  cover       : false
+  date        : !!str 2014-12-15T12:24:14+07:00
+  description : null
+  geography   :
+    id        : 1576302
+    name      : Lao Chải
+    coord     : [ 103.81667, 22.3 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC153637.JPG
+  cover       : false
+  date        : !!str 2014-12-15T12:46:12+07:00
+  description : Showing the Black H’mong tribe how it’s done.
+  geography   :
+    id        : 1566600
+    name      : Tả Van
+    coord     : [ 103.900295, 22.294628333333335 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC153643.JPG
+  cover       : true
+  date        : !!str 2014-12-15T12:52:03+07:00
+  description : null
+  geography   :
+    id        : 1566600
+    name      : Tả Van
+    coord     : [ 103.900295, 22.294628333333335 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC153645.JPG
+  cover       : false
+  date        : !!str 2014-12-15T13:13:46+07:00
+  description : Muddy trails of the valley.
+  geography   :
+    id        : 1581824
+    name      : Giang Tả Tchay
+    coord     : [ 103.904955, 22.29473666666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC153655.JPG
+  cover       : false
+  date        : !!str 2014-12-15T13:20:37+07:00
+  description : null
+  geography   :
+    id        : 1581824
+    name      : Giang Tả Tchay
+    coord     : [ 103.904955, 22.29473666666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC153662.JPG
+  cover       : false
+  date        : !!str 2014-12-15T13:31:02+07:00
+  description : One of two Rattan Bridges in the area - hidden by the tree.
+  geography   :
+    id        : 1581824
+    name      : Giang Tả Tchay
+    coord     : [ 103.904955, 22.29473666666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
