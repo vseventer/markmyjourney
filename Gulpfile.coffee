@@ -172,7 +172,9 @@ gulp.task 'images', [ 'map' ], ->
       .pipe plugins.size title: 'images'
       .pipe gulp.dest paths.dist
 gulp.task 'map', (cb) ->
+  return cb()
   src    = util.format config.staticMap, config.location.coord.lat, config.location.coord.lng
+  console.log src
   stream = request src # Request the image.
   stream.pipe fs.createWriteStream path.join path.dirname(paths.images), 'current-location.png'
   stream.on 'error', (err) -> cb() # Ignore errors to avoid breaking the buildchain.
