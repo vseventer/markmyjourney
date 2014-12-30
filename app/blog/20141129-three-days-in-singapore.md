@@ -6,16 +6,16 @@ date       : !!str 2014-11-29T23:45:00+08:00
 categories : [ Day Trips ]
 tags       : [ Sightseeing ]
 geography  :
-  - id        : 1880252
-    name      : Singapore
-    coord     : [ 103.85007, 1.28967 ]
-    continent : { code: AS, name: &continent1880252 Asia }
-    country   : { code: SG, name: &country1880252 Singapore }
+  - id        : 1880251
+    name      : Republic of Singapore
+    coord     : [ 103.8, 1.36667 ]
+    continent : { code: AS, name: &continent1880251 Asia }
+    country   : { code: SG, name: &country1880251 Singapore }
     transport : flight
 continents:
-  - *continent1880252
+  - *continent1880251
 countries:
-  - *country1880252
+  - *country1880251
 archives:
   - !!str ''
   - !!str 2014

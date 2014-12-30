@@ -1,0 +1,270 @@
+- src         : PB032065.JPG
+  cover       : false
+  date        : !!str 2014-11-03T13:22:30+07:00
+  description : null
+  geography   :
+    id        : 1609350
+    name      : Bangkok
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB032092.JPG
+  cover       : false
+  date        : !!str 2014-11-03T20:03:56+07:00
+  description : null
+  geography   :
+    id        : 6692483
+    name      : Chiang Mai
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB042096.JPG
+  cover       : false
+  date        : !!str 2014-11-04T00:18:03+07:00
+  description : null
+  geography   :
+    id        : 6692483
+    name      : Chiang Mai
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB042099.JPG
+  cover       : false
+  date        : !!str 2014-11-04T04:55:02+07:00
+  description : null
+  geography   :
+    id        : 6692483
+    name      : Chiang Mai
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB042105.JPG
+  cover       : false
+  date        : !!str 2014-11-04T15:51:15+07:00
+  description : null
+  geography   :
+    id        : 6692483
+    name      : Chiang Mai
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB082282.JPG
+  cover       : false
+  date        : !!str 2014-11-08T18:02:19+07:00
+  description : null
+  geography   :
+    id        : 1609350
+    name      : Bangkok
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB082291.JPG
+  cover       : false
+  date        : !!str 2014-11-08T18:11:26+07:00
+  description : null
+  geography   :
+    id        : 1609350
+    name      : Bangkok
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB112380.JPG
+  cover       : false
+  date        : !!str 2014-11-11T11:28:54+07:00
+  description : null
+  geography   :
+    id        : 1152633
+    name      : Krabi
+    coord     : [ 99.23197666666667, 7.406236666666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB142536.JPG
+  cover       : false
+  date        : !!str 2014-11-14T10:22:02+07:00
+  description : null
+  geography   :
+    id        : 1152633
+    name      : Krabi
+    coord     : [ 99.23197666666667, 7.406236666666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB273009.JPG
+  cover       : false
+  date        : !!str 2014-11-27T12:31:30+07:00
+  description : null
+  geography   :
+    id        : 1609350
+    name      : Bangkok
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: TH, name: Thailand }
+- src         : PB182659.JPG
+  cover       : false
+  date        : !!str 2014-11-18T18:59:59+08:00
+  description : null
+  geography   :
+    id        : 1735106
+    name      : George Town
+    coord     : [ 100.344375, 5.412793333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: MY, name: Malaysia }
+- src         : PB182667.JPG
+  cover       : false
+  date        : !!str 2014-11-18T21:42:29+08:00
+  description : null
+  geography   :
+    id        : 1735076
+    name      : Butterworth
+    coord     : [ 100.36697666666666, 5.393138333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: MY, name: Malaysia }
+- src         : PB182671.JPG
+  cover       : false
+  date        : !!str 2014-11-18T21:43:09+08:00
+  description : null
+  geography   :
+    id        : 1735076
+    name      : Butterworth
+    coord     : [ 100.36697666666666, 5.393138333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: MY, name: Malaysia }
+- src         : PB192685.JPG
+  cover       : false
+  date        : !!str 2014-11-19T20:13:45+08:00
+  description : null
+  geography   :
+    id        : 1735161
+    name      : Kuala Lumpur
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: MY, name: Malaysia }
+- src         : PB222801.JPG
+  cover       : false
+  date        : !!str 2014-11-22T14:26:20+08:00
+  description : null
+  geography   :
+    id        : 1735161
+    name      : Kuala Lumpur
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: MY, name: Malaysia }
+- src         : PB303153.JPG
+  cover       : false
+  date        : !!str 2014-11-30T07:32:48+07:00
+  description : null
+  geography   :
+    id        : 1822213
+    name      : Siem Reap
+    coord     : [ 105.00823333333334, 12.605668333333332 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: KH, name: Cambodia }
+- src         : PB303161.JPG
+  cover       : false
+  date        : !!str 2014-11-30T10:50:45+07:00
+  description : null
+  geography   :
+    id        : 1822213
+    name      : Siem Reap
+    coord     : [ 105.00823333333334, 12.605668333333332 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: KH, name: Cambodia }
+- src         : PC063328.JPG
+  cover       : false
+  date        : !!str 2014-12-06T07:01:33+07:00
+  description : null
+  geography   :
+    id        : 1580578
+    name      : Ho Chi Minh City
+    coord     : [ 108.11003, 10.93099 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC063333.JPG
+  cover       : false
+  date        : !!str 2014-12-06T07:03:19+07:00
+  description : null
+  geography   :
+    id        : 1580578
+    name      : Ho Chi Minh City
+    coord     : [ 108.11003, 10.93099 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC063335.JPG
+  cover       : false
+  date        : !!str 2014-12-06T13:48:13+07:00
+  description : null
+  geography   :
+    id        : 1580578
+    name      : Ho Chi Minh City
+    coord     : [ 108.11003, 10.93099 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC073363.JPG
+  cover       : true
+  date        : !!str 2014-12-07T13:40:16+07:00
+  description : null
+  geography   :
+    id        : 7304197
+    name      : Mui Ne
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC083400.JPG
+  cover       : false
+  date        : !!str 2014-12-08T10:14:10+07:00
+  description : null
+  geography   :
+    id        : 7304197
+    name      : Mui Ne
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC143600.JPG
+  cover       : false
+  date        : !!str 2014-12-14T08:04:31+07:00
+  description : null
+  geography   :
+    id        : 1568043
+    name      : Sa Pá
+    coord     : [ 104.53289833333334, 22.013895 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC143602.JPG
+  cover       : false
+  date        : !!str 2014-12-14T09:50:00+07:00
+  description : null
+  geography   :
+    id        : 1568043
+    name      : Sa Pá
+    coord     : [ 104.53289833333334, 22.013895 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC213677.JPG
+  cover       : false
+  date        : !!str 2014-12-21T11:03:11+08:00
+  description : null
+  geography   :
+    id        : 6951523
+    name      : Star Ferry
+    coord     : [ 114.16330333333335, 22.28936666666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: HK, name: Hong Kong }
+- src         : PC213710.JPG
+  cover       : false
+  date        : !!str 2014-12-21T15:33:56+08:00
+  description : null
+  geography   :
+    id        : 1819730
+    name      : Hong Kong Special Administrative Region
+    coord     : [ 114.16667, 22.25 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: HK, name: Hong Kong }
+- src         : PC223757.JPG
+  cover       : false
+  date        : !!str 2014-12-22T16:35:14+08:00
+  description : null
+  geography   :
+    id        : 1821274
+    name      : Macau
+    coord     : [ 113.54168, 22.197398333333332 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: MO, name: Macao }

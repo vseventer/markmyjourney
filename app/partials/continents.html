@@ -8,11 +8,13 @@ slug   : <%= slugify(continent) %>
 <div class="jumbotron mmjy-related">
   <div class="container mmjy-jumbotron" style="background-image: url('/images/continents/{{ cover }}.png')">
     <h1>{{ title }}</h1>
-    <ul class="list list-inline">
-      {{#withCountries this}}
-      <li><span class="flag flag-{{ lowercase code }}"></span> {{ name }}</li>
-      {{/withCountries}}
-    </ul>
+    <div class="row">
+      <ul class="col-md-8 list list-inline">
+        {{#withCountries this}}
+        <li><span class="flag flag-{{ lowercase code }}"></span> {{ name }}</li>
+        {{/withCountries}}
+      </ul>
+    </div>
   </div><!-- /mmjy-jumbotron -->
 </div><!-- /jumbotron -->
 

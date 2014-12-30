@@ -1,0 +1,130 @@
+- src         : PC043226.JPG
+  cover       : false
+  date        : !!str 2014-12-04T13:17:34+07:00
+  description : Waterfront.
+  geography   :
+    id        : 1566083
+    name      : Ho Chi Minh City
+    coord     : [ 106.69468666666667, 10.769106666666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC043246.JPG
+  cover       : false
+  date        : !!str 2014-12-04T15:09:53+07:00
+  description : The local market.
+  geography   :
+    id        : 1566083
+    name      : Ho Chi Minh City
+    coord     : [ 106.69468666666667, 10.769106666666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC043238.JPG
+  cover       : false
+  date        : !!str 2014-12-04T13:53:58+07:00
+  description : Cathedral originating from the French occupation.
+  geography   :
+    id        : 1566083
+    name      : Ho Chi Minh City
+    coord     : [ 106.69468666666667, 10.769106666666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC053326.JPG
+  cover       : true
+  date        : !!str 2014-12-05T16:24:19+07:00
+  description : Motorbikes. Motorbikes. Motorbikes.
+  geography   :
+    id        : 1566083
+    name      : Ho Chi Minh City
+    coord     : [ 106.69468666666667, 10.769106666666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC053306.JPG
+  cover       : false
+  date        : !!str 2014-12-05T13:16:05+07:00
+  description : Waterways of the Mekong Delta.
+  geography   :
+    id        : 1574717
+    name      : Mekong Delta
+    coord     : [ 106.35023666666666, 10.325061666666667 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC073343.JPG
+  cover       : false
+  date        : !!str 2014-12-07T12:48:52+07:00
+  description : Red Sand Dunes.
+  geography   :
+    id        : 7304197
+    name      : Mui Ne
+    coord     : [ 108.42718666666667, 11.069123333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC073358.JPG
+  cover       : false
+  date        : !!str 2014-12-07T13:31:22+07:00
+  description : Fishing village of Mui Ne.
+  geography   :
+    id        : 7304197
+    name      : Mui Ne
+    coord     : [ 108.42718666666667, 11.069123333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC073372.JPG
+  cover       : false
+  date        : !!str 2014-12-07T14:28:40+07:00
+  description : White Sand Dunes.
+  geography   :
+    id        : 7304197
+    name      : Mui Ne
+    coord     : [ 108.42718666666667, 11.069123333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC073376.JPG
+  cover       : false
+  date        : !!str 2014-12-07T14:31:01+07:00
+  description : null
+  geography   :
+    id        : 7304197
+    name      : Mui Ne
+    coord     : [ 108.42718666666667, 11.069123333333334 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC093417.JPG
+  cover       : false
+  date        : !!str 2014-12-09T15:38:46+07:00
+  description : Tunnels from the Vietnam War.
+  geography   :
+    id        : 1585555
+    name      : Chi Chú
+    coord     : [ 105.16484, 21.43953 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC113435.JPG
+  cover       : false
+  date        : !!str 2014-12-11T11:57:43+07:00
+  description : Active train tracks through a narrow street.
+  geography   :
+    id        : 1581130
+    name      : Hanoi
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC113441.JPG
+  cover       : false
+  date        : !!str 2014-12-11T13:07:24+07:00
+  description : Old city wall.
+  geography   :
+    id        : 1581130
+    name      : Hanoi
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }
+- src         : PC113444.JPG
+  cover       : false
+  date        : !!str 2014-12-11T13:59:30+07:00
+  description : null
+  geography   :
+    id        : 1581130
+    name      : Hanoi
+    coord     : [ ,  ]
+    continent : { code: AS, name: Asia }
+    country   : { code: VN, name: Vietnam }

@@ -18,19 +18,18 @@ geography  :
     continent : { code: AS, name: &continent1735161 Asia }
     country   : { code: MY, name: &country1735161 Malaysia }
     transport : flight
-  - id        : 1880252
-    name      : Singapore
-    coord     : [ 103.85007, 1.28967 ]
-    continent : { code: AS, name: &continent1880252 Asia }
-    country   : { code: SG, name: &country1880252 Singapore }
+  - id        : 1880251
+    name      : Republic of Singapore
+    coord     : [ 103.8, 1.36667 ]
+    continent : { code: AS, name: &continent1880251 Asia }
+    country   : { code: SG, name: &country1880251 Singapore }
     transport : flight
 continents:
   - *continent1605651
 countries:
   - *country1605651
   - *country1735161
-  - *country1880252
-  - *country1605651
+  - *country1880251
 archives:
   - !!str ''
   - !!str 2014
