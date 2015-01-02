@@ -5,7 +5,6 @@ title      : Calmer Waters in Kuala Lumpur
 date       : !!str 2014-11-29T23:00:00+08:00
 categories : [ Day Trips ]
 tags       : [ Sightseeing ]
-sticky     : 50
 geography  :
   - id        : 1735161
     name      : Kuala Lumpur
