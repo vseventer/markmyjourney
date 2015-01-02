@@ -48,7 +48,6 @@ archives:
   - !!str ''
   - !!str 2015
   - !!str 2015-01
-map: http://maps.googleapis.com/maps/api/staticmap?markers=size%3Amid%7C13%2C105%7C16.16667%2C107.83333%7C22.25%2C114.16667%7C22.15778%2C113.55972%7C35%2C105&path=color%3A0xFF0000FF%7Cweight%3A3%7C13%2C105%7C16.16667%2C107.83333&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C16.16667%2C107.83333%7C22.25%2C114.16667&path=color%3A0xFF0000FF%7Cweight%3A3%7C22.25%2C114.16667%7C22.15778%2C113.55972&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C22.15778%2C113.55972%7C35%2C105&size=480x270&style=feature%3Alandscape%7Celement%3Ageometry.fill%7Chue%3A0x2E0854%7Clightness%3A-2%7Cgamma%3A0.25&style=feature%3Awater%7Celement%3Ageometry.fill%7Ccolor%3A0xEBDAFC&style=feature%3Aadministrative%7Celement%3Ageometry.fill%7Cvisibility%3Aoff&style=element%3Ageometry.stroke%7Cvisibility%3Aoff&zoom=
 ---
 
 In December 2014, we visited five countries: Cambodia, Vietnam, Hong Kong, Macau, and China. We visited some [great historical sites in Cambodia](/blog/history-lessons-in-cambodia.html), enjoyed the [cities of Vietnam](/blog/cities-of-vietnam.html), before heading on trips to [Hạ Long Bay](/blog/two-day-cruise-in-ha-long-bay.html) and [Sa Pá](/blog/trekking-through-sapas-hmong-valley.html). From Vietnam, we visited [Hong Kong and Macau](/blog/shopping-and-gambling.html), before celebrating Christmas and New Year’s in China.
