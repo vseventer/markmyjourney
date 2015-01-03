@@ -1,10 +1,10 @@
 ---
 pages      : all
 draft      : true
-slug       : typical-asian-streetfood
-title      : Typical Asian Streetfood
-date       : !!str 2015-01-01T07:00:00+07:00
-categories : [ ]
+slug       : typical-asian-street-food
+title      : Typical Asian Street Food
+date       : !!str 2015-01-04T07:00:00+07:00
+categories : [ Food ]
 tags       : [ ]
 geography  :
   - id        : 1605651
@@ -56,7 +56,7 @@ archives:
   - !!str ''
   - !!str 2015
   - !!str 2015-01
-map: http://maps.googleapis.com/maps/api/staticmap?markers=size%3Amid%7C15.5%2C101%7C2.5%2C112.5%7C1.2894083333333333%2C103.85673%7C13%2C105%7C16.16667%2C107.83333%7C35%2C105&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C15.5%2C101%7C2.5%2C112.5&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C2.5%2C112.5%7C1.2894083333333333%2C103.85673&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C1.2894083333333333%2C103.85673%7C13%2C105&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C13%2C105%7C16.16667%2C107.83333&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C16.16667%2C107.83333%7C35%2C105&size=480x270&style=feature%3Alandscape%7Celement%3Ageometry.fill%7Chue%3A0x2E0854%7Clightness%3A-2%7Cgamma%3A0.25&style=feature%3Awater%7Celement%3Ageometry.fill%7Ccolor%3A0xEBDAFC&style=feature%3Aadministrative%7Celement%3Ageometry.fill%7Cvisibility%3Aoff&style=element%3Ageometry.stroke%7Cvisibility%3Aoff&zoom=
+map: http://maps.googleapis.com/maps/api/staticmap?markers=size%3Amid%7C15.5%2C101%7C2.5%2C101.68653%7C3.1412%2C103.85673%7C13%2C105%7C16.16667%2C107.83333%7C35%2C105&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C15.5%2C101%7C2.5%2C101.68653&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C2.5%2C101.68653%7C3.1412%2C103.85673&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C3.1412%2C103.85673%7C13%2C105&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C13%2C105%7C16.16667%2C107.83333&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C16.16667%2C107.83333%7C35%2C105&size=480x270&style=feature%3Alandscape%7Celement%3Ageometry.fill%7Chue%3A0x2E0854%7Clightness%3A-2%7Cgamma%3A0.25&style=feature%3Awater%7Celement%3Ageometry.fill%7Ccolor%3A0xEBDAFC&style=feature%3Aadministrative%7Celement%3Ageometry.fill%7Cvisibility%3Aoff&style=element%3Ageometry.stroke%7Cvisibility%3Aoff&zoom=
 ---
 
 Lorem ipsum dolor sit amet.

@@ -52,7 +52,7 @@ archives:
 
 In December 2014, we visited five countries: Cambodia, Vietnam, Hong Kong, Macau, and China. We visited some [great historical sites in Cambodia](/blog/history-lessons-in-cambodia.html), enjoyed the [cities of Vietnam](/blog/cities-of-vietnam.html), before heading on trips to [Hạ Long Bay](/blog/two-day-cruise-in-ha-long-bay.html) and [Sa Pá](/blog/trekking-through-sapas-hmong-valley.html). From Vietnam, we visited [Hong Kong and Macau](/blog/shopping-and-gambling.html), before celebrating Christmas and New Year’s in China.
 
-After staying on budget in [November](/blog/monthly-recap-november-2014.html), our plan was to do the same in December. However, in Cambodia our stomaches did not take the local food (or water, we still are not really sure what caused it) well. Therefore, we switched back to Western food for a couple of days. Therefore, we spent slightly more in Cambodia. Well worth it.
+After staying on budget in [November](/blog/monthly-recap-november-2014.html), our plan was to do the same in December. However, in Cambodia our stomaches did not take the local food (or water, we still are not really sure what caused it) well. Therefore, we switched back to Western food for a couple of days and spent slightly more. Well worth it.
 
 In Vietnam we overspent (deliberately, as we had some money to spare from November) by going on a luxury cruise. Other than that, we stayed on budget. The same holds for Hong Kong and Macau. We also decided to include China into December’s Recap, even though we stayed here until January 6th. But, separating the budget between Asia and our next destination, South America, makes much more sense.
 
@@ -61,7 +61,7 @@ In Vietnam we overspent (deliberately, as we had some money to spare from Novemb
 * By booking early for lodging in China (our visa application required us to have advance reservations), we saved a lot of money. We learned some of our fellow travelers paid triple for the same room for the days around New Year’s.
 
 **The Bad**
-* In Shanghai, we paid 16$ for  “The Bund Sightseeing Tunnel”. Other than a way to cross the river, it was a waste of money. We reckon only people who like to get in higher atmospheres would appreciate its, well, beauty I guess.
+* In Shanghai, we paid 16$ for “The Bund Sightseeing Tunnel”. Other than a way to cross the river, it was a waste of money. We reckon only people who like to get in higher atmospheres would appreciate its, well, beauty I guess.
 
 A detailed list of expenses per country is listed below. The amounts per person are based on our two-person journey. Flights are listed separately (and are not included in the countries’ budget) as we booked these in advance.
 

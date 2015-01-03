@@ -1,0 +1,109 @@
+- src         : PC263788.JPG
+  cover       : false
+  date        : !!str 2014-12-26T15:46:58+08:00
+  description : People’s Square in the Huangpu district.
+  geography   :
+    id        : 8307452
+    name      : Huangpu
+    coord     : [ 121.47037833333333, 31.23151833333333 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : PC263800.JPG
+  cover       : false
+  date        : !!str 2014-12-26T16:32:55+08:00
+  description : Lujiazui skyline from The Bund.
+  geography   :
+    id        : 6619200
+    name      : The Bund
+    coord     : [ 121.48616666666666, 31.240476666666666 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : PC263801.JPG
+  cover       : false
+  date        : !!str 2014-12-26T16:33:30+08:00
+  description : null
+  geography   :
+    id        : 6619200
+    name      : The Bund
+    coord     : [ 121.48616666666666, 31.240476666666666 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : PC263821.JPG
+  cover       : true
+  date        : !!str 2014-12-26T18:13:38+08:00
+  description : null
+  geography   :
+    id        : 6619200
+    name      : The Bund
+    coord     : [ 121.48616666666666, 31.240476666666666 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : PC263803.JPG
+  cover       : false
+  date        : !!str 2014-12-26T16:44:45+08:00
+  description : The Bund Sightseeing Tunnel.
+  geography   :
+    id        : 6619200
+    name      : The Bund
+    coord     : [ 121.48616666666666, 31.240476666666666 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : PC263807.JPG
+  cover       : false
+  date        : !!str 2014-12-26T17:00:15+08:00
+  description : Lujiazui financial district.
+  geography   : null
+- src         : PC263817.JPG
+  cover       : false
+  date        : !!str 2014-12-26T17:40:56+08:00
+  description : null
+  geography   :
+    id        : 6325499
+    name      : Oriental Pearl Tower
+    coord     : [ 121.49976333333333, 31.238780000000002 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : PC273836.JPG
+  cover       : false
+  date        : !!str 2014-12-27T15:16:33+08:00
+  description : The traditional Chinese town of Qibao.
+  geography   :
+    id        : 1798097
+    name      : Qibao
+    coord     : [ 121.350535, 31.154511666666664 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : PC273850.JPG
+  cover       : false
+  date        : !!str 2014-12-27T15:40:35+08:00
+  description : null
+  geography   :
+    id        : 1798097
+    name      : Qibao
+    coord     : [ 121.350535, 31.154511666666664 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : PC273854.JPG
+  cover       : false
+  date        : !!str 2014-12-27T15:53:07+08:00
+  description : null
+  geography   :
+    id        : 1798097
+    name      : Qibao
+    coord     : [ 121.350535, 31.154511666666664 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : PC283858.JPG
+  cover       : false
+  date        : !!str 2014-12-28T18:59:48+08:00
+  description : Awaiting the ERA Acrobats.
+- src         : PC303863.JPG
+  cover       : false
+  date        : !!str 2014-12-30T16:04:39+08:00
+  description : Bullet train to Beijing - only took five hours.
+  geography   :
+    id        : 1899242
+    name      : Beijing Nanzhan
+    coord     : [ 116.37294, 39.86357 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }

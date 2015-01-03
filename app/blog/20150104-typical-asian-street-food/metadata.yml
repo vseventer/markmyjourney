@@ -5,7 +5,7 @@
   geography   :
     id        : 1735161
     name      : Kuala Lumpur
-    coord     : [ 101.70965833333334, 3.1462433333333335 ]
+    coord     : [ 101.68653, 3.1412 ]
     continent : { code: AS, name: Asia }
     country   : { code: MY, name: Malaysia }
 - src         : IMG_3222.JPG
@@ -25,7 +25,7 @@
   geography   :
     id        : 1152633
     name      : Krabi
-    coord     : [ ,  ]
+    coord     : [ 98.91052, 8.07257 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : IMG_3244.JPG
@@ -35,7 +35,7 @@
   geography   :
     id        : 1152633
     name      : Krabi
-    coord     : [ ,  ]
+    coord     : [ 98.91052, 8.07257 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB052151.JPG
@@ -43,9 +43,9 @@
   date        : !!str 2014-11-05T13:26:47+07:00
   description : null
   geography   :
-    id        : 1158145
-    name      : Ban Doi Suthep
-    coord     : [ 98.919865, 18.804898333333334 ]
+    id        : 1153671
+    name      : Chiang Mai
+    coord     : [ 98.44856, 8.450943333333333 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB052183.JPG
@@ -53,9 +53,9 @@
   date        : !!str 2014-11-05T18:49:02+07:00
   description : null
   geography   :
-    id        : 7114786
-    name      : Eurana Boutique Hotel
-    coord     : [ 98.99325, 18.7877 ]
+    id        : 1153671
+    name      : Chiang Mai
+    coord     : [ 98.44856, 8.450943333333333 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB062215.JPG
@@ -63,8 +63,8 @@
   date        : !!str 2014-11-06T14:35:31+07:00
   description : null
   geography   :
-    id        : 6692483
-    name      : Chiang Mai
+    id        : 1153669
+    name      : Chiang Rai
     coord     : [ 99.88099166666666, 20.44332 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
@@ -73,8 +73,8 @@
   date        : !!str 2014-11-11T15:41:07+07:00
   description : null
   geography   :
-    id        : 7092247
-    name      : Nam Tok Raman
+    id        : 1153671
+    name      : Chiang Mai
     coord     : [ 98.44856, 8.450943333333333 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
@@ -85,7 +85,7 @@
   geography   :
     id        : 1152633
     name      : Krabi
-    coord     : [ ,  ]
+    coord     : [ 98.91052, 8.07257 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB122453.JPG
@@ -95,7 +95,7 @@
   geography   :
     id        : 1152633
     name      : Krabi
-    coord     : [ ,  ]
+    coord     : [ 98.91052, 8.07257 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB192679.JPG
@@ -103,9 +103,9 @@
   date        : !!str 2014-11-19T19:08:18+08:00
   description : null
   geography   :
-    id        : 1733046
+    id        : 1735161
     name      : Kuala Lumpur
-    coord     : [ ,  ]
+    coord     : [ 101.68653, 3.1412 ]
     continent : { code: AS, name: Asia }
     country   : { code: MY, name: Malaysia }
 - src         : PB212788.JPG
@@ -113,9 +113,9 @@
   date        : !!str 2014-11-21T17:55:12+08:00
   description : null
   geography   :
-    id        : 1733046
+    id        : 1735161
     name      : Kuala Lumpur
-    coord     : [ ,  ]
+    coord     : [ 101.68653, 3.1412 ]
     continent : { code: AS, name: Asia }
     country   : { code: MY, name: Malaysia }
 - src         : PB232898.JPG
@@ -123,19 +123,19 @@
   date        : !!str 2014-11-23T22:07:35+08:00
   description : null
   geography   :
-    id        : 1733046
-    name      : Kuala Lumpur
-    coord     : [ ,  ]
+    id        : 1880252
+    name      : Singapore
+    coord     : [ 103.85673, 1.2894083333333333 ]
     continent : { code: AS, name: Asia }
-    country   : { code: MY, name: Malaysia }
+    country   : { code: SG, name: Singapore }
 - src         : PB212791.JPG
   cover       : false
   date        : !!str 2014-11-21T19:35:53+08:00
   description : null
   geography   :
-    id        : 1733046
+    id        : 1735161
     name      : Kuala Lumpur
-    coord     : [ ,  ]
+    coord     : [ 101.68653, 3.1412 ]
     continent : { code: AS, name: Asia }
     country   : { code: MY, name: Malaysia }
 - src         : PB232863.JPG
@@ -143,8 +143,8 @@
   date        : !!str 2014-11-23T14:40:55+08:00
   description : null
   geography   :
-    id        : 1880251
-    name      : Republic of Singapore
+    id        : 1880252
+    name      : Singapore
     coord     : [ 103.85673, 1.2894083333333333 ]
     continent : { code: AS, name: Asia }
     country   : { code: SG, name: Singapore }
@@ -153,8 +153,8 @@
   date        : !!str 2014-11-24T19:14:54+08:00
   description : null
   geography   :
-    id        : 1880251
-    name      : Republic of Singapore
+    id        : 1880252
+    name      : Singapore
     coord     : [ 103.85673, 1.2894083333333333 ]
     continent : { code: AS, name: Asia }
     country   : { code: SG, name: Singapore }
@@ -163,9 +163,9 @@
   date        : !!str 2014-11-26T14:08:06+07:00
   description : null
   geography   :
-    id        : 1609348
+    id        : 1609350
     name      : Bangkok
-    coord     : [ ,  ]
+    coord     : [ 100.50512833333333, 13.755585 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB262991.JPG
@@ -173,9 +173,9 @@
   date        : !!str 2014-11-26T14:20:23+07:00
   description : null
   geography   :
-    id        : 1609348
+    id        : 1609350
     name      : Bangkok
-    coord     : [ ,  ]
+    coord     : [ 100.50512833333333, 13.755585 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB263008.JPG
@@ -195,7 +195,7 @@
   geography   :
     id        : 1822213
     name      : Siem Reap
-    coord     : [ ,  ]
+    coord     : [ 104, 13.5 ]
     continent : { code: AS, name: Asia }
     country   : { code: KH, name: Cambodia }
 - src         : PB293122.JPG
@@ -205,7 +205,7 @@
   geography   :
     id        : 1822213
     name      : Siem Reap
-    coord     : [ ,  ]
+    coord     : [ 104, 13.5 ]
     continent : { code: AS, name: Asia }
     country   : { code: KH, name: Cambodia }
 - src         : PB293125.JPG
@@ -215,7 +215,7 @@
   geography   :
     id        : 1822213
     name      : Siem Reap
-    coord     : [ ,  ]
+    coord     : [ 104, 13.5 ]
     continent : { code: AS, name: Asia }
     country   : { code: KH, name: Cambodia }
 - src         : PB293128.JPG
@@ -225,7 +225,7 @@
   geography   :
     id        : 1822213
     name      : Siem Reap
-    coord     : [ ,  ]
+    coord     : [ 104, 13.5 ]
     continent : { code: AS, name: Asia }
     country   : { code: KH, name: Cambodia }
 - src         : PB293133.JPG
@@ -235,7 +235,7 @@
   geography   :
     id        : 1822213
     name      : Siem Reap
-    coord     : [ ,  ]
+    coord     : [ 104, 13.5 ]
     continent : { code: AS, name: Asia }
     country   : { code: KH, name: Cambodia }
 - src         : PB293140.JPG
@@ -273,8 +273,8 @@
   date        : !!str 2014-12-04T16:10:07+07:00
   description : null
   geography   :
-    id        : 7304197
-    name      : Mui Ne
+    id        : 1572747
+    name      : Mũi Né
     coord     : [ 106.69322000000001, 10.769508333333334 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
@@ -305,7 +305,7 @@
   geography   :
     id        : 1581130
     name      : Hanoi
-    coord     : [ ,  ]
+    coord     : [ 105.84117, 21.0245 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
 - src         : PC113442.JPG
@@ -315,7 +315,7 @@
   geography   :
     id        : 1581130
     name      : Hanoi
-    coord     : [ ,  ]
+    coord     : [ 105.84117, 21.0245 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
 - src         : PC123553.JPG
@@ -325,7 +325,7 @@
   geography   :
     id        : 1581250
     name      : Vịnh Hạ Long
-    coord     : [ ,  ]
+    coord     : [ 107.10446, 20.90611 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
 - src         : PC133561.JPG
@@ -335,7 +335,7 @@
   geography   :
     id        : 1581250
     name      : Vịnh Hạ Long
-    coord     : [ ,  ]
+    coord     : [ 107.10446, 20.90611 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
 - src         : PC143604.JPG
@@ -345,7 +345,7 @@
   geography   :
     id        : 1568043
     name      : Sa Pá
-    coord     : [ ,  ]
+    coord     : [ 103.84415, 22.34023 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
 - src         : PC153671.JPG
@@ -355,9 +355,19 @@
   geography   :
     id        : 1568043
     name      : Sa Pá
-    coord     : [ ,  ]
+    coord     : [ 103.84415, 22.34023 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
+- src         : PC273835.JPG
+  cover       : false
+  date        : !!str 2014-12-27T15:09:25+08:00
+  description : null
+  geography   :
+    id        : 1798097
+    name      : Qibao
+    coord     : [ 121.34990499999999, 31.154294999999998 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
 - src         : PC273840.JPG
   cover       : false
   date        : !!str 2014-12-27T15:22:50+08:00
@@ -366,5 +376,45 @@
     id        : 1798097
     name      : Qibao
     coord     : [ 121.34990499999999, 31.154294999999998 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : PC293859.JPG
+  cover       : false
+  date        : !!str 2014-12-29T18:47:59+08:00
+  description : null
+  geography   :
+    id        : 1796236
+    name      : Shanghai
+    coord     : [ 121.45806, 31.22222 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : P1023971.JPG
+  cover       : false
+  date        : !!str 2015-01-02T20:46:32+08:00
+  description : null
+  geography   :
+    id        : 1816670
+    name      : Beijing
+    coord     : [ 116.38723833333334, 39.993655000000004 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : P1033989.JPG
+  cover       : false
+  date        : !!str Invalid date
+  description : null
+  geography   :
+    id        : 1816670
+    name      : Beijing
+    coord     : [ 116.38723833333334, 39.993655000000004 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : P1033996.JPG
+  cover       : false
+  date        : !!str 2015-01-03T16:44:51+08:00
+  description : null
+  geography   :
+    id        : 1816670
+    name      : Beijing
+    coord     : [ 116.38723833333334, 39.993655000000004 ]
     continent : { code: AS, name: Asia }
     country   : { code: CN, name: China }
