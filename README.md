@@ -10,7 +10,7 @@ See the [Changelog](./CHANGELOG.md) for a list of changes.
 ## License
     The MIT License (MIT)
 
-    Copyright (c) 2014 Mark van Seventer
+    Copyright (c) 2015 Mark van Seventer
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
