@@ -73,14 +73,16 @@ A detailed list of expenses per country is listed below. The amounts per person 
 ## Cambodia
 * Days: **6**,
 * Budget: **$360** ($30 pppd),
-* Expenses: **$402** ($33.50 pppd).
+* Expenses: **$402** ($33.50 pppd),
+* Additional visa costs: **$60** ($30 pp).
 
 <span class="img-thumbnail">![Expenses Breakdown](/images/budget-cambodia.png)</span>
 
 ## Vietnam
 * Days: **16**,
 * Budget: **$800** ($25 pppd),
-* Expenses: **$1,021** ($32 pppd).
+* Expenses: **$1,021** ($32 pppd),
+* Additional visa costs: **$200** ($100 pp).
 
 <span class="img-thumbnail">![Expenses Breakdown](/images/budget-vietnam.png)</span>
 
