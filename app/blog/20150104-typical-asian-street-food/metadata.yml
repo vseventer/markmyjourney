@@ -11,7 +11,7 @@
 - src         : IMG_3222.JPG
   cover       : false
   date        : !!str 2014-11-02T18:24:54+07:00
-  description : null
+  description : "Sweet and sour chicken with rice, and Pad Thai, two Thai street food favorites. The Chang beer remains our favorite beer so far."
   geography   :
     id        : 1609350
     name      : Bangkok
@@ -21,7 +21,7 @@
 - src         : IMG_3242.JPG
   cover       : false
   date        : !!str 2014-11-09T19:26:50+07:00
-  description : null
+  description : "Pang Gee fritter, a Thai desert made of coconut, taro and palm sugar with corn."
   geography   :
     id        : 1152633
     name      : Krabi
@@ -29,9 +29,9 @@
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : IMG_3244.JPG
-  cover       : false
+  cover       : null
   date        : !!str 2014-11-09T19:27:36+07:00
-  description : null
+  description : Pang Gee with chocolate.
   geography   :
     id        : 1152633
     name      : Krabi
@@ -41,7 +41,7 @@
 - src         : PB052151.JPG
   cover       : false
   date        : !!str 2014-11-05T13:26:47+07:00
-  description : null
+  description : "Coconut-milk pancake sprinkled with sugar, and quail eggs with maggi made for a great snack."
   geography   :
     id        : 1153671
     name      : Chiang Mai
@@ -51,7 +51,7 @@
 - src         : PB052183.JPG
   cover       : false
   date        : !!str 2014-11-05T18:49:02+07:00
-  description : null
+  description : Chiang Mai noodle soup with beef.
   geography   :
     id        : 1153671
     name      : Chiang Mai
@@ -61,7 +61,7 @@
 - src         : PB062215.JPG
   cover       : false
   date        : !!str 2014-11-06T14:35:31+07:00
-  description : null
+  description : Sticky rice cookie.
   geography   :
     id        : 1153669
     name      : Chiang Rai
@@ -71,7 +71,7 @@
 - src         : PB112447.JPG
   cover       : false
   date        : !!str 2014-11-11T15:41:07+07:00
-  description : null
+  description : Yummy pineapple cookie.
   geography   :
     id        : 1153671
     name      : Chiang Mai
@@ -81,7 +81,7 @@
 - src         : PB112451.JPG
   cover       : false
   date        : !!str 2014-11-11T18:36:31+07:00
-  description : null
+  description : Fried egg with spicy seafood.
   geography   :
     id        : 1152633
     name      : Krabi
@@ -91,7 +91,7 @@
 - src         : PB122453.JPG
   cover       : false
   date        : !!str 2014-11-12T09:08:48+07:00
-  description : null
+  description : Coconut juice. As fresh as it gets.
   geography   :
     id        : 1152633
     name      : Krabi
@@ -101,7 +101,7 @@
 - src         : PB192679.JPG
   cover       : false
   date        : !!str 2014-11-19T19:08:18+08:00
-  description : null
+  description : One of the many versions of nasi prepared on the Malaysian street.
   geography   :
     id        : 1735161
     name      : Kuala Lumpur
@@ -111,7 +111,7 @@
 - src         : PB212788.JPG
   cover       : false
   date        : !!str 2014-11-21T17:55:12+08:00
-  description : null
+  description : "Durian puff. Anything made with durian is definitely an acquired taste, it is extremely smelly."
   geography   :
     id        : 1735161
     name      : Kuala Lumpur
@@ -121,7 +121,7 @@
 - src         : PB232898.JPG
   cover       : false
   date        : !!str 2014-11-23T22:07:35+08:00
-  description : null
+  description : "Therefore, not everyone likes Durians."
   geography   :
     id        : 1880252
     name      : Singapore
@@ -131,7 +131,7 @@
 - src         : PB212791.JPG
   cover       : false
   date        : !!str 2014-11-21T19:35:53+08:00
-  description : null
+  description : "Dragon fruit; does not really taste like anything, but it is very healthy."
   geography   :
     id        : 1735161
     name      : Kuala Lumpur
@@ -141,7 +141,7 @@
 - src         : PB232863.JPG
   cover       : false
   date        : !!str 2014-11-23T14:40:55+08:00
-  description : null
+  description : "Laska - delicious tart and spicy noodle soup. On the right: stir-fried fruit and chicken sprinkled with peanuts."
   geography   :
     id        : 1880252
     name      : Singapore
@@ -151,7 +151,7 @@
 - src         : PB242971.JPG
   cover       : false
   date        : !!str 2014-11-24T19:14:54+08:00
-  description : null
+  description : Murtabak, a filling flaky dough stuffed with chicken and vegetables.
   geography   :
     id        : 1880252
     name      : Singapore
@@ -161,7 +161,7 @@
 - src         : PB262990.JPG
   cover       : false
   date        : !!str 2014-11-26T14:08:06+07:00
-  description : null
+  description : Green tea custard bun.
   geography   :
     id        : 1609350
     name      : Bangkok
@@ -171,7 +171,7 @@
 - src         : PB262991.JPG
   cover       : false
   date        : !!str 2014-11-26T14:20:23+07:00
-  description : null
+  description : Egg custard bun.
   geography   :
     id        : 1609350
     name      : Bangkok
@@ -181,7 +181,7 @@
 - src         : PB263008.JPG
   cover       : false
   date        : !!str 2014-11-26T16:20:57+07:00
-  description : null
+  description : "Delicious Pad Thai - go to the “Pad Thai Pratu Phi” restaurant. It is a bit more pricy, but definitely worth it. Order some of their freshly squeezed orange juice while you’re there as well."
   geography   :
     id        : 1609350
     name      : Bangkok
@@ -191,7 +191,7 @@
 - src         : PB293121.JPG
   cover       : false
   date        : !!str 2014-11-29T13:30:48+07:00
-  description : null
+  description : Caramel rice cookie. Typical Cambodian snack.
   geography   :
     id        : 1822213
     name      : Siem Reap
@@ -201,7 +201,7 @@
 - src         : PB293122.JPG
   cover       : false
   date        : !!str 2014-11-29T13:35:03+07:00
-  description : null
+  description : Oil drenched pancake with stir-fried noodles. Not much taste to it.
   geography   :
     id        : 1822213
     name      : Siem Reap
@@ -211,7 +211,7 @@
 - src         : PB293125.JPG
   cover       : false
   date        : !!str 2014-11-29T13:50:25+07:00
-  description : null
+  description : "Khmer deserts consist of diluted condensed milk mixed with ice and anything pumpkin to taro, but not too sweet."
   geography   :
     id        : 1822213
     name      : Siem Reap
@@ -221,7 +221,7 @@
 - src         : PB293128.JPG
   cover       : false
   date        : !!str 2014-11-29T13:53:17+07:00
-  description : null
+  description : Crabs.
   geography   :
     id        : 1822213
     name      : Siem Reap
@@ -231,7 +231,7 @@
 - src         : PB293133.JPG
   cover       : false
   date        : !!str 2014-11-29T13:56:20+07:00
-  description : null
+  description : Snails sauteed in a sweet chilly paste sauce.
   geography   :
     id        : 1822213
     name      : Siem Reap
@@ -241,7 +241,7 @@
 - src         : PB293140.JPG
   cover       : false
   date        : !!str 2014-11-29T14:16:37+07:00
-  description : null
+  description : Crickets. A delicacy in Cambodia.
   geography   :
     id        : 1822214
     name      : Siem Reap
@@ -251,7 +251,7 @@
 - src         : PB293148.JPG
   cover       : false
   date        : !!str 2014-11-29T14:29:17+07:00
-  description : null
+  description : "Longan fruit. Not the most sweet, tasty, or good looking fruit."
   geography   :
     id        : 1822214
     name      : Siem Reap
@@ -261,7 +261,7 @@
 - src         : PC043222.JPG
   cover       : false
   date        : !!str 2014-12-04T12:13:25+07:00
-  description : null
+  description : Vietnamese Pho with a well-balanced broth.
   geography   :
     id        : 1580578
     name      : Ho Chi Minh City
@@ -271,7 +271,7 @@
 - src         : PC043252.JPG
   cover       : false
   date        : !!str 2014-12-04T16:10:07+07:00
-  description : null
+  description : "Bami sandwich, contains anything from chicken to eggs. Found on any street corner, just look for long lines and avoid the coriander."
   geography   :
     id        : 1572747
     name      : Mũi Né
@@ -281,7 +281,7 @@
 - src         : PC053293.JPG
   cover       : false
   date        : !!str 2014-12-05T12:43:58+07:00
-  description : null
+  description : Coconut candy in the making.
   geography   :
     id        : 1574717
     name      : Mekong Delta
@@ -291,7 +291,7 @@
 - src         : PC093431.JPG
   cover       : false
   date        : !!str 2014-12-09T15:56:21+07:00
-  description : null
+  description : Tapioca sweet potato with a peanut sauce. Common food for the Vietnamese during the war.
   geography   :
     id        : 1584661
     name      : Củ Chi
@@ -301,7 +301,7 @@
 - src         : PC113437.JPG
   cover       : false
   date        : !!str 2014-12-11T12:27:47+07:00
-  description : null
+  description : "Bun Cha: grilled meat, noodles, topped with peanuts."
   geography   :
     id        : 1581130
     name      : Hanoi
@@ -311,7 +311,7 @@
 - src         : PC113442.JPG
   cover       : false
   date        : !!str 2014-12-11T13:23:03+07:00
-  description : null
+  description : "Creamy egg coffee is a Hanoi favorite, although strong Vietnamese black coffee with condensed milk is also common."
   geography   :
     id        : 1581130
     name      : Hanoi
@@ -321,7 +321,7 @@
 - src         : PC123553.JPG
   cover       : false
   date        : !!str 2014-12-12T18:28:16+07:00
-  description : null
+  description : "Attempting to create a fresh spring roll from its ingredients: lettuce, carrots, prawn, wrapped in rice paper."
   geography   :
     id        : 1581250
     name      : Vịnh Hạ Long
@@ -331,7 +331,7 @@
 - src         : PC133561.JPG
   cover       : false
   date        : !!str 2014-12-13T06:25:30+07:00
-  description : null
+  description : Traditional Vietnamese breakfast.
   geography   :
     id        : 1581250
     name      : Vịnh Hạ Long
@@ -341,7 +341,7 @@
 - src         : PC143604.JPG
   cover       : false
   date        : !!str 2014-12-14T19:00:42+07:00
-  description : null
+  description : The fruity Lao Cai beer.
   geography   :
     id        : 1568043
     name      : Sa Pá
@@ -351,7 +351,7 @@
 - src         : PC153671.JPG
   cover       : false
   date        : !!str 2014-12-15T17:05:47+07:00
-  description : null
+  description : "Sa Pá offered a vast variety of hot wines, combined with anything from cinnamon to chilis."
   geography   :
     id        : 1568043
     name      : Sa Pá
@@ -361,7 +361,7 @@
 - src         : PC273835.JPG
   cover       : false
   date        : !!str 2014-12-27T15:09:25+08:00
-  description : null
+  description : "Pringles on a stick, and boiled quail eggs."
   geography   :
     id        : 1798097
     name      : Qibao
@@ -371,7 +371,7 @@
 - src         : PC273840.JPG
   cover       : false
   date        : !!str 2014-12-27T15:22:50+08:00
-  description : null
+  description : "Tanghulu: strawberries with a sugar coating, a very popular Chinese treat."
   geography   :
     id        : 1798097
     name      : Qibao
@@ -381,7 +381,7 @@
 - src         : PC293859.JPG
   cover       : false
   date        : !!str 2014-12-29T18:47:59+08:00
-  description : null
+  description : Greasy yet delicious Chow Mein noodles.
   geography   :
     id        : 1796236
     name      : Shanghai
@@ -391,7 +391,7 @@
 - src         : P1023971.JPG
   cover       : false
   date        : !!str 2015-01-02T20:46:32+08:00
-  description : null
+  description : Steamed vegetable and pork dumplings with a garlic-vinegar soy sauce.
   geography   :
     id        : 1816670
     name      : Beijing
@@ -400,8 +400,8 @@
     country   : { code: CN, name: China }
 - src         : P1033989.JPG
   cover       : false
-  date        : !!str Invalid date
-  description : null
+  date        : !!str 2015-01-03T16:20:00+08:00
+  description : The butt (we think) of a duck (we think).
   geography   :
     id        : 1816670
     name      : Beijing
@@ -411,7 +411,7 @@
 - src         : P1033996.JPG
   cover       : false
   date        : !!str 2015-01-03T16:44:51+08:00
-  description : null
+  description : "Egg tart, popular in both Hong Kong and China. This desert has a creamy semi-sweet filling."
   geography   :
     id        : 1816670
     name      : Beijing
