@@ -5,7 +5,7 @@
   "assets"   : "http://www.markmyjourney.com",
   "contact"  : "hello@markmyjourney.com",
   "location" : {
-    "name"  : "Beijing, China",
+    "name"  : "São Paulo",
     "coord" : { "lat": 39.9139, "lng": 116.3917 }
   },
   "staticMap": "https://maps.googleapis.com/maps/api/staticmap?markers=size%%3Amid%%7C%d%%2C%d&size=455x200&style=feature%%3Alandscape%%7Celement%%3Ageometry.fill%%7Chue%%3A0x2E0854%%7Clightness%%3A-2%%7Cgamma%%3A0.25&style=feature%%3Awater%%7Celement%%3Ageometry.fill%%7Ccolor%%3A0xEBDAFC&style=feature%%3Aadministrative%%7Celement%%3Ageometry.fill%%7Cvisibility%%3Aoff&style=element%%3Ageometry.stroke%%7Cvisibility%%3Aoff&zoom=2"

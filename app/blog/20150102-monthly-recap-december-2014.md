@@ -96,7 +96,12 @@ A detailed list of expenses per country is listed below. The amounts per person 
 <span class="img-thumbnail">![Expenses Breakdown](/images/budget-hong-kong.png)</span>
 
 ## China
-*Note: this section will be added after leaving China on January 6.*
+* Days: **13**,
+* Budget: **$1,170** ($45 pppd),
+* Expenses: **$1,098** ($42 pppd),
+* Additional visa costs: **$170** ($30 Mark, $140 Herta).
+
+<span class="img-thumbnail">![Expenses Breakdown](/images/budget-china.png)</span>
 
 ## Next Month
 On January 6th we will leave Asia behind us. From Beijing, we’ll fly to São Paulo, Brazil. In two weeks time, we’ll make our way to Rio de Janeiro, before crossing into Argentina. After a short stay in Buenos Aires, Patagonia (Chile & Argentine) awaits us. We are excited to see this part of the planet, not in the last place because wearing five layers of clothing and still being cold is not ideal. Back to summer!
