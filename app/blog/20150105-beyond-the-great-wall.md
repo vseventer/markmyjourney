@@ -2,7 +2,7 @@
 pages      : all
 slug       : beyond-the-great-wall
 title      : Beyond the Great Wall
-date       : !!str 2015-01-06T12:30:00+08:00
+date       : !!str 2015-01-05T12:30:00+08:00
 categories : [ ]
 tags       : [ Forbidden City, Great Wall, History, Pandas, Sightseeing ]
 geography  :

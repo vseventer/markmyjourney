@@ -5,7 +5,7 @@
   geography   :
     id        : 1609350
     name      : Bangkok
-    coord     : [ ,  ]
+    coord     : [ 100.50144, 13.75398 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB032092.JPG
@@ -15,7 +15,7 @@
   geography   :
     id        : 6692483
     name      : Chiang Mai
-    coord     : [ ,  ]
+    coord     : [ 99, 18.75 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB042096.JPG
@@ -25,7 +25,7 @@
   geography   :
     id        : 6692483
     name      : Chiang Mai
-    coord     : [ ,  ]
+    coord     : [ 99, 18.75 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB042099.JPG
@@ -35,7 +35,7 @@
   geography   :
     id        : 6692483
     name      : Chiang Mai
-    coord     : [ ,  ]
+    coord     : [ 99, 18.75 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB042105.JPG
@@ -45,7 +45,7 @@
   geography   :
     id        : 6692483
     name      : Chiang Mai
-    coord     : [ ,  ]
+    coord     : [ 99, 18.75 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB082282.JPG
@@ -55,7 +55,7 @@
   geography   :
     id        : 1609350
     name      : Bangkok
-    coord     : [ ,  ]
+    coord     : [ 100.50144, 13.75398 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB082291.JPG
@@ -65,7 +65,7 @@
   geography   :
     id        : 1609350
     name      : Bangkok
-    coord     : [ ,  ]
+    coord     : [ 100.50144, 13.75398 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB112380.JPG
@@ -95,7 +95,7 @@
   geography   :
     id        : 1609350
     name      : Bangkok
-    coord     : [ ,  ]
+    coord     : [ 100.50144, 13.75398 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
 - src         : PB182659.JPG
@@ -135,7 +135,7 @@
   geography   :
     id        : 1735161
     name      : Kuala Lumpur
-    coord     : [ ,  ]
+    coord     : [ 101.68653, 3.1412 ]
     continent : { code: AS, name: Asia }
     country   : { code: MY, name: Malaysia }
 - src         : PB222801.JPG
@@ -145,7 +145,7 @@
   geography   :
     id        : 1735161
     name      : Kuala Lumpur
-    coord     : [ ,  ]
+    coord     : [ 101.68653, 3.1412 ]
     continent : { code: AS, name: Asia }
     country   : { code: MY, name: Malaysia }
 - src         : PB303153.JPG
@@ -205,7 +205,7 @@
   geography   :
     id        : 7304197
     name      : Mui Ne
-    coord     : [ ,  ]
+    coord     : [ 108.28846, 10.91675 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
 - src         : PC083400.JPG
@@ -215,7 +215,7 @@
   geography   :
     id        : 7304197
     name      : Mui Ne
-    coord     : [ ,  ]
+    coord     : [ 108.28846, 10.91675 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
 - src         : PC143600.JPG
@@ -268,3 +268,23 @@
     coord     : [ 113.54168, 22.197398333333332 ]
     continent : { code: AS, name: Asia }
     country   : { code: MO, name: Macao }
+- src         : PC303861.JPG
+  cover       : false
+  date        : !!str 2014-12-30T19:48:54+08:00
+  description : null
+  geography   :
+    id        : 1816670
+    name      : Beijing
+    coord     : [ 116.39723, 39.9075 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }
+- src         : PC303862.JPG
+  cover       : false
+  date        : !!str 2014-12-30T20:04:27+08:00
+  description : null
+  geography   :
+    id        : 1816670
+    name      : Beijing
+    coord     : [ 116.39723, 39.9075 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }

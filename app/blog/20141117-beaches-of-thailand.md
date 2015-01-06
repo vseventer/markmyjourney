@@ -5,7 +5,6 @@ title      : Beaches of Thailand
 date       : !!str 2014-11-17T15:00:00+07:00
 categories : [ ]
 tags       : [ Beach ]
-sticky     : 25
 geography  :
   - id        : 1152633
     name      : Krabi

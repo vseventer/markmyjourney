@@ -5,7 +5,7 @@ title      : Running the Amsterdam Marathon
 date       : !!str 2014-10-19T23:26:00+02:00
 categories : [ ]
 tags       : [ Sports ]
-sticky     : 100
+sticky     : 25
 geography  :
   - id        : 2759794
     name      : Amsterdam

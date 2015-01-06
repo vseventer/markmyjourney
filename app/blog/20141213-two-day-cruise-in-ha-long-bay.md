@@ -5,7 +5,6 @@ title      : Two-day Cruise in Ha Long Bay
 date       : !!str 2014-12-13T22:00:00+07:00
 categories : [ Day Trips ]
 tags       : [ ]
-sticky     : 50
 geography  :
   - id        : 1581250
     name      : Vịnh Hạ Long
