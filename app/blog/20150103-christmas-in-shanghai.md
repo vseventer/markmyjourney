@@ -4,7 +4,7 @@ slug       : christmas-in-shanghai
 title      : Christmas in Shanghai
 date       : !!str 2015-01-03T22:45:00+08:00
 categories : [ ]
-tags       : [ Sightseeing ]
+tags       : [ Sightseeing, The Bund ]
 geography  :
   - id        : 1796236
     name      : Shanghai
