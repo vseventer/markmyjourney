@@ -1,27 +1,27 @@
 - src         : PB032065.JPG
   cover       : false
   date        : !!str 2014-11-03T13:22:30+07:00
-  description : null
+  description : Bangkoks’ flag boats connecting the waterfront.
   geography   :
     id        : 1609350
     name      : Bangkok
     coord     : [ 100.50144, 13.75398 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
-- src         : PB032092.JPG
+- src         : PB042096.JPG
   cover       : false
-  date        : !!str 2014-11-03T20:03:56+07:00
-  description : null
+  date        : !!str 2014-11-04T00:18:03+07:00
+  description : Overnight bus from Bangkok to Chiang Mai.
   geography   :
     id        : 6692483
     name      : Chiang Mai
     coord     : [ 99, 18.75 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
-- src         : PB042096.JPG
+- src         : PB032092.JPG
   cover       : false
-  date        : !!str 2014-11-04T00:18:03+07:00
-  description : null
+  date        : !!str 2014-11-03T20:03:56+07:00
+  description : Dinner served in the Transport Co bus to Chiang Mai.
   geography   :
     id        : 6692483
     name      : Chiang Mai
@@ -31,7 +31,7 @@
 - src         : PB042099.JPG
   cover       : false
   date        : !!str 2014-11-04T04:55:02+07:00
-  description : null
+  description : Songthaew taxi.
   geography   :
     id        : 6692483
     name      : Chiang Mai
@@ -41,7 +41,7 @@
 - src         : PB042105.JPG
   cover       : false
   date        : !!str 2014-11-04T15:51:15+07:00
-  description : null
+  description : "Tuk-tuk, useful for very short distance trips only as it is not the safest."
   geography   :
     id        : 6692483
     name      : Chiang Mai
@@ -51,7 +51,7 @@
 - src         : PB082282.JPG
   cover       : false
   date        : !!str 2014-11-08T18:02:19+07:00
-  description : null
+  description : "Thai overnight train, heading to Krabi."
   geography   :
     id        : 1609350
     name      : Bangkok
@@ -61,27 +61,27 @@
 - src         : PB082291.JPG
   cover       : false
   date        : !!str 2014-11-08T18:11:26+07:00
-  description : null
+  description : "Sleeper compartments, lower bunkbeds are slightly bigger. Bumpy ride still"
   geography   :
     id        : 1609350
     name      : Bangkok
     coord     : [ 100.50144, 13.75398 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
-- src         : PB112380.JPG
+- src         : PB142536.JPG
   cover       : false
-  date        : !!str 2014-11-11T11:28:54+07:00
-  description : null
+  date        : !!str 2014-11-14T10:22:02+07:00
+  description : "Longtailboat, used for transporting tourists to the different beaches."
   geography   :
     id        : 1152633
     name      : Krabi
     coord     : [ 99.23197666666667, 7.406236666666667 ]
     continent : { code: AS, name: Asia }
     country   : { code: TH, name: Thailand }
-- src         : PB142536.JPG
+- src         : PB112380.JPG
   cover       : false
-  date        : !!str 2014-11-14T10:22:02+07:00
-  description : null
+  date        : !!str 2014-11-11T11:28:54+07:00
+  description : Several travel agencies also use longtailboats for conducting tours.
   geography   :
     id        : 1152633
     name      : Krabi
@@ -91,7 +91,7 @@
 - src         : PB273009.JPG
   cover       : false
   date        : !!str 2014-11-27T12:31:30+07:00
-  description : null
+  description : "Third-class Thai train without luxuries like A/C. We only used this for a short 40-minute transfer to the airport."
   geography   :
     id        : 1609350
     name      : Bangkok
@@ -101,7 +101,7 @@
 - src         : PB182659.JPG
   cover       : false
   date        : !!str 2014-11-18T18:59:59+08:00
-  description : null
+  description : "Malaysian ferry connecting Penang Island to the mainland. Simple and cheap (1$)."
   geography   :
     id        : 1735106
     name      : George Town
@@ -111,7 +111,7 @@
 - src         : PB182667.JPG
   cover       : false
   date        : !!str 2014-11-18T21:42:29+08:00
-  description : null
+  description : Malaysian sleeper train. More spacious than its Thai counterpart.
   geography   :
     id        : 1735076
     name      : Butterworth
@@ -121,7 +121,7 @@
 - src         : PB182671.JPG
   cover       : false
   date        : !!str 2014-11-18T21:43:09+08:00
-  description : null
+  description : Sleeper compartments.
   geography   :
     id        : 1735076
     name      : Butterworth
@@ -131,7 +131,7 @@
 - src         : PB192685.JPG
   cover       : false
   date        : !!str 2014-11-19T20:13:45+08:00
-  description : null
+  description : "Bangkok, Kuala Lumpur, and Singapore all have regular subways, but the monorail is unique to Kuala Lumpur."
   geography   :
     id        : 1735161
     name      : Kuala Lumpur
@@ -141,7 +141,7 @@
 - src         : PB222801.JPG
   cover       : false
   date        : !!str 2014-11-22T14:26:20+08:00
-  description : null
+  description : "Daytime train from Kuala Lumpur to Singapore: very spacious and comfortable seats."
   geography   :
     id        : 1735161
     name      : Kuala Lumpur
@@ -151,7 +151,7 @@
 - src         : PB303153.JPG
   cover       : false
   date        : !!str 2014-11-30T07:32:48+07:00
-  description : null
+  description : "The best bus in Cambodia: Giant Ibis. We used it twice, from Siem Reap to Phnom Penh and onwards to Ho Chi Minh City."
   geography   :
     id        : 1822213
     name      : Siem Reap
@@ -161,7 +161,7 @@
 - src         : PB303161.JPG
   cover       : false
   date        : !!str 2014-11-30T10:50:45+07:00
-  description : null
+  description : "The roads, on the other hand, were terrible."
   geography   :
     id        : 1822213
     name      : Siem Reap
@@ -171,7 +171,7 @@
 - src         : PC063328.JPG
   cover       : false
   date        : !!str 2014-12-06T07:01:33+07:00
-  description : null
+  description : Sleeper bus on our daytime (!) journey to Mũi Né.
   geography   :
     id        : 1580578
     name      : Ho Chi Minh City
@@ -181,7 +181,7 @@
 - src         : PC063333.JPG
   cover       : false
   date        : !!str 2014-12-06T07:03:19+07:00
-  description : null
+  description : "Very strange layout, but reasonable comfortable as long as you’re not too tall."
   geography   :
     id        : 1580578
     name      : Ho Chi Minh City
@@ -191,7 +191,7 @@
 - src         : PC063335.JPG
   cover       : false
   date        : !!str 2014-12-06T13:48:13+07:00
-  description : null
+  description : There’s nothing a bit of duck tape and cardboard can’t fix.
   geography   :
     id        : 1580578
     name      : Ho Chi Minh City
@@ -201,27 +201,27 @@
 - src         : PC073363.JPG
   cover       : true
   date        : !!str 2014-12-07T13:40:16+07:00
-  description : null
+  description : “American” jeep transporting us to the Sand Dunes.
   geography   :
-    id        : 7304197
-    name      : Mui Ne
+    id        : 1572747
+    name      : Mũi Né
     coord     : [ 108.28846, 10.91675 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
 - src         : PC083400.JPG
   cover       : false
   date        : !!str 2014-12-08T10:14:10+07:00
-  description : null
+  description : "Daytime bus back to Ho Chi Minh City. Very small seats, and the driver liked to take shortcuts. Not as good as it sounds."
   geography   :
-    id        : 7304197
-    name      : Mui Ne
+    id        : 1572747
+    name      : Mũi Né
     coord     : [ 108.28846, 10.91675 ]
     continent : { code: AS, name: Asia }
     country   : { code: VN, name: Vietnam }
 - src         : PC143600.JPG
   cover       : false
   date        : !!str 2014-12-14T08:04:31+07:00
-  description : null
+  description : "Sapa Express connecting Hanoi and Sa Pá. Very smooth journey due to the new highway."
   geography   :
     id        : 1568043
     name      : Sa Pá
@@ -231,7 +231,7 @@
 - src         : PC143602.JPG
   cover       : false
   date        : !!str 2014-12-14T09:50:00+07:00
-  description : null
+  description : Facilities are lacking though. This is the restroom stop.
   geography   :
     id        : 1568043
     name      : Sa Pá
@@ -241,7 +241,7 @@
 - src         : PC213677.JPG
   cover       : false
   date        : !!str 2014-12-21T11:03:11+08:00
-  description : null
+  description : "Star Ferry connecting Hong Kong with the Kowloon district. Great views from the water for only 0.40$."
   geography   :
     id        : 6951523
     name      : Star Ferry
@@ -251,7 +251,7 @@
 - src         : PC213710.JPG
   cover       : false
   date        : !!str 2014-12-21T15:33:56+08:00
-  description : null
+  description : "Double-decker bus (left) and tram (right). Tram is the cheapest (0.40$ flat rate), but also very slow."
   geography   :
     id        : 1819730
     name      : Hong Kong Special Administrative Region
@@ -261,27 +261,27 @@
 - src         : PC223757.JPG
   cover       : false
   date        : !!str 2014-12-22T16:35:14+08:00
-  description : null
+  description : "High-speed TurboJET ferry connecting Hong Kong to Macau. Not that pleasant, even during calm sees it can get bumpy."
   geography   :
     id        : 1821274
     name      : Macau
     coord     : [ 113.54168, 22.197398333333332 ]
     continent : { code: AS, name: Asia }
     country   : { code: MO, name: Macao }
-- src         : PC303861.JPG
+- src         : PC303862.JPG
   cover       : false
-  date        : !!str 2014-12-30T19:48:54+08:00
-  description : null
+  date        : !!str 2014-12-30T20:04:27+08:00
+  description : High-speed bullet train from Shanghai to Beijing.
   geography   :
     id        : 1816670
     name      : Beijing
     coord     : [ 116.39723, 39.9075 ]
     continent : { code: AS, name: Asia }
     country   : { code: CN, name: China }
-- src         : PC303862.JPG
+- src         : PC303861.JPG
   cover       : false
-  date        : !!str 2014-12-30T20:04:27+08:00
-  description : null
+  date        : !!str 2014-12-30T19:48:54+08:00
+  description : "Seats are comfortable and spacious, journey is very smooth."
   geography   :
     id        : 1816670
     name      : Beijing

@@ -63,3 +63,7 @@ All over Asia, street food is the way the locals eat. Prepared at every corner o
 Our first attempt on street food was in Bangkok, next to the Hualampong Train Station. We read a recommendation online about this street food place, and once arriving there we saw a mix of tourists and locals enjoying the food. We were at the right place.
 
 From there, we enjoyed the street food of Thailand, Cambodia, Malaysia, Singapore, Vietnam, and China. We, or better yet, our stomaches didn’t take Cambodias street food very well, but we still got to see what the countries delicasies are. This post depicts only a small selection of all the food available, but it gives a great impression of what’s out there, and how we experienced it.
+
+* The best: **Chang beer**,
+* The worst: we can’t choose between the **Cambodian deserts** or **snails**.
+* The healthiest: probably the **dragon fruit**, or **coconut juice**.
