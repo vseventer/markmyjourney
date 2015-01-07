@@ -12,18 +12,18 @@ geography  :
     continent : { code: AS, name: &continent1816670 Asia }
     country   : { code: CN, name: &country1816670 China }
     transport : flight
-  - id        : 3448433
+  - id        : 6324358
     name      : São Paulo
-    coord     : [ -49, -22 ]
-    continent : { code: SA, name: &continent3448433 South America }
-    country   : { code: BR, name: &country3448433 Brazil }
+    coord     : [ -46.63503, -23.62703 ]
+    continent : { code: SA, name: &continent6324358 South America }
+    country   : { code: BR, name: &country6324358 Brazil }
     transport : flight
 continents:
   - *continent1816670
-  - *continent3448433
+  - *continent6324358
 countries:
   - *country1816670
-  - *country3448433
+  - *country6324358
 archives:
   - !!str ''
   - !!str 2015
