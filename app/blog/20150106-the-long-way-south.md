@@ -30,20 +30,22 @@ archives:
   - !!str 2015-01
 ---
 
-After 70 days and eight countries our time in Asia is up. From Beijing Capital Airport, we flew to Abu Dhabi and then to São Paulo. A journey of 24 hours and almost 21,000km (13,000 miles), half of the earths’ circumfence.
+After 69 days and eight countries our time in Asia is up. From Beijing Capital Airport, we flew to Abu Dhabi and onwards to São Paulo. A journey of 24 hours and almost 21,000km (13,000 miles), half of the earths’ circumfence.
+
+To make matters worse, the second leg of our flight got delayed two hours. Then, one hour before landing in São Paulo the plane got into bad weather, ran out of fuel and got rerouted to Rio De Janeiro. After waiting for three more hours inside the plane, we were told we would not depart any time soon. We are currently staying in the Windsor hotel in downtown Rio de Janeiro, awaiting news from [Etihad Airways](http://www.etihad.com).
 
 ## Asia
 Our time in Asia was great. At the same time, we are happy to spend the next months in South America, as this will be a whole other experience. Maybe in a few years, we will visit Asia again: Indonesia, Japan, Philippines, South Korea, there is so much more to see.
 
 After accumulating the budgets of all the Asian countries we visited, the simple conclusion is we stayed on budget. Exactly on budget, as the difference between expected and actual expenses is only 10$.
 
-* Days: **70**,
-* Budget: **$5,110** ($36.50 pppd),
-* Expenses: **$5,100** ($36.50 pppd),
+* Days: **69**,
+* Budget: **$5,110** ($37 pppd),
+* Expenses: **$5,100** ($37 pppd),
 * Additional flight costs: **$1,993** ($996.50 pp),
 * Additional visa costs: **$430** ($160 Mark, $270 Herta).
 
-For the math enthusiasts among us, all the expenses above make for a total spending of **53.73$** a person a day. Not bad, we reckon, for what we’ve seen and done!
+For the math enthusiasts among us, all the expenses above make for a total spending of **54.50$** a person a day. Not bad, we reckon, for what we’ve seen and done!
 
 ## South America
 Over the next months, we will visit Brazil, Argentine, Chile, Bolivia, Peru, Ecuador, and Colombia. Our budget for South America is a little bit higher as Brazil, Argentina, and Chile are expensive and we’ll be spending quite some time there. Also, some remote islands, like the Galapagos Islands in Ecuador, are on our list, and those simply are costly. But in the end, we will have greater experiences than money can buy us.

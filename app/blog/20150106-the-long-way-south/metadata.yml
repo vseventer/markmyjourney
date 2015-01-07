@@ -1,0 +1,10 @@
+- src         : P1064010.JPG
+  cover       : true
+  date        : !!str 2015-01-06T10:53:36+08:00
+  description : "The plane for our first leg: Beijing to Abu Dhabi."
+  geography   :
+    id        : 6301354
+    name      : Beijing Capital International Airport
+    coord     : [ 116.58456, 40.08011 ]
+    continent : { code: AS, name: Asia }
+    country   : { code: CN, name: China }

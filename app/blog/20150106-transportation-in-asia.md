@@ -73,4 +73,12 @@ archives:
 map: http://maps.googleapis.com/maps/api/staticmap?markers=size%3Amid%7C15.5%2C101%7C2.5%2C112.5%7C1.36667%2C103.8%7C13%2C105%7C16.16667%2C107.83333%7C22.25%2C114.16667%7C22.15778%2C113.55972%7C35%2C105&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C15.5%2C101%7C2.5%2C112.5&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C2.5%2C112.5%7C1.36667%2C103.8&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C1.36667%2C103.8%7C13%2C105&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C13%2C105%7C16.16667%2C107.83333&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C16.16667%2C107.83333%7C22.25%2C114.16667&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C22.25%2C114.16667%7C22.15778%2C113.55972&path=color%3A0xFF0000FF%7Cweight%3A3%7Cgeodesic%3Atrue%7C22.15778%2C113.55972%7C35%2C105&size=480x270&style=feature%3Alandscape%7Celement%3Ageometry.fill%7Chue%3A0x2E0854%7Clightness%3A-2%7Cgamma%3A0.25&style=feature%3Awater%7Celement%3Ageometry.fill%7Ccolor%3A0xEBDAFC&style=feature%3Aadministrative%7Celement%3Ageometry.fill%7Cvisibility%3Aoff&style=element%3Ageometry.stroke%7Cvisibility%3Aoff&zoom=
 ---
 
-Lorem ipsum dolor sit amet.
+The easiest and cheapest way to travel around Southeast Asia is to rely on the local transportation means. We only took a couple of flights, other than that we relied on the local transportation methods, some better than others, to get to where we wanted to be.
+
+## Intracity
+Except for Cambodia and Vietnam, the cities in Asia we visited all have a cheap and fast subway system. In some cities, like Hong Kong, the local buslines provide an additional way to see the highlights of the city. We did not use any of the expensive Hop On Hop Off buses, simply because we didn’t need to. In Bangkok and Hong Kong we relied on water transport as well, making using public transportation interesting and fun.
+
+## Intercity
+Travel between different parts of Asia is a little bit more troublesome and expensive. In Bangkok, for example, the bus station was located in a sketchy part of the city, way outside of the center. And the overnight traines heading to the south of Thailand and Malaysia would often arrive in the early morning (even before 6), not ideal if the hotel allows check-in only after 2PM.
+
+The photos below this post gives you an impression of the luxury (or lack thereof) of the transportation methods available.
