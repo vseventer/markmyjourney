@@ -32,7 +32,7 @@ archives:
 
 After 69 days and eight countries our time in Asia is up. From Beijing Capital Airport, we flew to Abu Dhabi and onwards to São Paulo. A journey of 24 hours and almost 21,000km (13,000 miles), half of the earths’ circumfence.
 
-To make matters worse, the second leg of our flight got delayed two hours. Then, one hour before landing in São Paulo the plane got into bad weather, ran out of fuel and got rerouted to Rio De Janeiro. After waiting for three more hours inside the plane, we were told we would not depart any time soon. We are currently staying in the Windsor hotel in downtown Rio de Janeiro, awaiting news from [Etihad Airways](http://www.etihad.com).
+To make matters worse, the second leg of our flight got delayed two hours. Then, one hour before landing in São Paulo the plane got into bad weather, ran out of fuel and got rerouted to Rio De Janeiro. After waiting for three more hours inside the plane, we were told we would not depart any time soon. We stayed in the Windsor hotel in downtown Rio de Janeiro for two days, before [Etihad Airways](http://www.etihad.com) arranged a flight to São Paulo at 3AM. Exhausted we arrived, but no time to sleep as travel goes on!
 
 ## Asia
 Our time in Asia was great. At the same time, we are happy to spend the next months in South America, as this will be a whole other experience. Maybe in a few years, we will visit Asia again: Indonesia, Japan, Philippines, South Korea, there is so much more to see.
