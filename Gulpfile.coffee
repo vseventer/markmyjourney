@@ -172,6 +172,7 @@ gulp.task 'images', [ 'map' ], ->
       .pipe plugins.size title: 'images'
       .pipe gulp.dest paths.dist
 gulp.task 'map', (cb) ->
+  return cb()
   src    = util.format config.staticMap, config.location.coord.lat, config.location.coord.lng
   stream = request src # Request the image.
   stream.pipe fs.createWriteStream path.join path.dirname(paths.images), 'current-location.png'
