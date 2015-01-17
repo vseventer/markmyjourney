@@ -1,0 +1,150 @@
+- src         : P1104038.JPG
+  cover       : false
+  date        : !!str 2015-01-10T10:27:11-02:00
+  description : null
+  geography   :
+    id        : 3455036
+    name      : Paraty
+    coord     : [ -44.71306, -23.21778 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1104048.JPG
+  cover       : false
+  date        : !!str 2015-01-10T12:12:45-02:00
+  description : null
+  geography   :
+    id        : 3455036
+    name      : Paraty
+    coord     : [ -44.71306, -23.21778 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1104053.JPG
+  cover       : false
+  date        : !!str 2015-01-10T12:16:40-02:00
+  description : null
+  geography   :
+    id        : 3455036
+    name      : Paraty
+    coord     : [ -44.71306, -23.21778 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1124066.JPG
+  cover       : false
+  date        : !!str 2015-01-12T11:42:46-02:00
+  description : null
+  geography   :
+    id        : 3462217
+    name      : Ilha Grande
+    coord     : [ -44.19686833333333, -23.154856666666664 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1124070.JPG
+  cover       : false
+  date        : !!str 2015-01-12T12:22:20-02:00
+  description : null
+  geography   :
+    id        : 8986165
+    name      : Ensenada das Palmas
+    coord     : [ -44.139395, -23.145118333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1124073.JPG
+  cover       : false
+  date        : !!str 2015-01-12T12:36:13-02:00
+  description : null
+  geography   :
+    id        : 8986165
+    name      : Ensenada das Palmas
+    coord     : [ -44.139395, -23.145118333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1124093.JPG
+  cover       : false
+  date        : !!str 2015-01-12T13:56:47-02:00
+  description : null
+  geography   :
+    id        : 8986170
+    name      : Praia de Lopes Mendes
+    coord     : [ -44.14018, -23.167295000000003 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1124108.JPG
+  cover       : false
+  date        : !!str 2015-01-12T15:07:49-02:00
+  description : null
+  geography   :
+    id        : 8986170
+    name      : Praia de Lopes Mendes
+    coord     : [ -44.14018, -23.167295000000003 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1144171.JPG
+  cover       : false
+  date        : !!str 2015-01-14T05:42:45-04:00
+  description : null
+  geography   :
+    id        : 3665514
+    name      : Abraão
+    coord     : [ -63.26667, -9 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1134133.JPG
+  cover       : false
+  date        : !!str 2015-01-13T11:26:13-02:00
+  description : null
+  geography   :
+    id        : 3462217
+    name      : Ilha Grande
+    coord     : [ -44.19686833333333, -23.154856666666664 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1134141.JPG
+  cover       : true
+  date        : !!str 2015-01-13T12:14:04-02:00
+  description : null
+  geography   :
+    id        : 3462217
+    name      : Ilha Grande
+    coord     : [ -44.19686833333333, -23.154856666666664 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1134152.JPG
+  cover       : false
+  date        : !!str 2015-01-13T12:28:48-02:00
+  description : null
+  geography   :
+    id        : 3462217
+    name      : Ilha Grande
+    coord     : [ -44.19686833333333, -23.154856666666664 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1134162.JPG
+  cover       : false
+  date        : !!str 2015-01-13T12:37:44-02:00
+  description : null
+  geography   :
+    id        : 3462217
+    name      : Ilha Grande
+    coord     : [ -44.19686833333333, -23.154856666666664 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1124123.JPG
+  cover       : false
+  date        : !!str 2015-01-12T16:53:15-02:00
+  description : null
+  geography   :
+    id        : 3473240
+    name      : Abraão
+    coord     : [ -44.16917, -23.14028 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1144172.JPG
+  cover       : false
+  date        : !!str 2015-01-14T08:08:35-02:00
+  description : null
+  geography   :
+    id        : 3473240
+    name      : Abraão
+    coord     : [ -44.16917, -23.14028 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }

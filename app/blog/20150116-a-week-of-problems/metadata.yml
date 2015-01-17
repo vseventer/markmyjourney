@@ -1,0 +1,10 @@
+- src         : P1154230.JPG
+  cover       : true
+  date        : !!str 2015-01-15T15:54:29-02:00
+  description : The ever-present police force in Rio de Janeiro. Here next to the Carioca Aqueduct in Lapa.
+  geography   :
+    id        : 3473644
+    name      : Lapa
+    coord     : [ -43.17970333333333, -22.912685 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
