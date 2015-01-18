@@ -1,0 +1,130 @@
+- src         : P1074014.JPG
+  cover       : false
+  date        : !!str 2015-01-07T08:58:57-02:00
+  description : Guava paste and white cheese stacked on top. An acquired taste.
+  geography   :
+    id        : 6322060
+    name      : Rio de Janeiro
+    coord     : [ -43.33069, -22.92008 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1124128.JPG
+  cover       : false
+  date        : !!str 2015-01-12T19:33:09-02:00
+  description : Brazilian cream cheese.
+  geography   :
+    id        : 3462217
+    name      : Ilha Grande
+    coord     : [ -44.17352666666667, -23.133823333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1074016.JPG
+  cover       : false
+  date        : !!str 2015-01-07T13:18:15-02:00
+  description : "Assortment of deserts including coconut, lemon, apple-pecan, passion fruit, and chocolate sprinkle cake."
+  geography   :
+    id        : 6322060
+    name      : Rio de Janeiro
+    coord     : [ -43.33069, -22.92008 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1084035.JPG
+  cover       : false
+  date        : !!str 2015-01-08T18:29:14-03:00
+  description : "Chocolate truffle made with condensed milk, covered in chocolate sprinkles. Not as good as the Dutch ones."
+  geography   :
+    id        : 3388241
+    name      : São Paulo
+    coord     : [ -36.03333, -9.45 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1074018.JPG
+  cover       : false
+  date        : !!str 2015-01-07T13:28:48-02:00
+  description : "Mountain Dew for Brazilians, has a cherry flavour."
+  geography   :
+    id        : 6322060
+    name      : Rio de Janeiro
+    coord     : [ -43.33069, -22.92008 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1104047.JPG
+  cover       : false
+  date        : !!str 2015-01-10T11:20:11-02:00
+  description : "Selection of beers. Our favorite is Brahma, although Skol, Itaipava, Antarctica, and Bohemian are popular as well."
+  geography   :
+    id        : 3455036
+    name      : Paraty
+    coord     : [ -44.71306, -23.21778 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154262.JPG
+  cover       : false
+  date        : !!str 2015-01-15T19:15:17-02:00
+  description : Antarctica and Bohemia beer.
+  geography   :
+    id        : 6322060
+    name      : Rio de Janeiro
+    coord     : [ -43.33069, -22.92008 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1104055.JPG
+  cover       : true
+  date        : !!str 2015-01-10T13:02:23-02:00
+  description : "Açaí, a superfood berry topped with bananas and granola. Healthy and delicious."
+  geography   :
+    id        : 3455036
+    name      : Paraty
+    coord     : [ -44.71306, -23.21778 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1124126.JPG
+  cover       : false
+  date        : !!str 2015-01-12T18:05:07-02:00
+  description : "Caipirinha, Brazil’s national cocktail. Tastes like tequila with lime. If you dont like Cachaça, Vodka as a replacement works too. In front: fried yuca sticks, tasted like fries. Very filling and surprisingly good."
+  geography   :
+    id        : 3462217
+    name      : Ilha Grande
+    coord     : [ -44.17352666666667, -23.133823333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1074023.JPG
+  cover       : true
+  date        : !!str 2015-01-07T13:30:59-02:00
+  description : Fried snacks stuffed with chicken and creamy cheese.
+  geography   :
+    id        : 3388241
+    name      : São Paulo
+    coord     : [ -36.03333, -9.45 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1074020.JPG
+  cover       : false
+  date        : !!str 2015-01-07T13:29:44-02:00
+  description : "Fried cassava flour (top) and black bean stew with different kinds of beef and sausage."
+  geography   :
+    id        : 6322060
+    name      : Rio de Janeiro
+    coord     : [ -43.33069, -22.92008 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1074021.JPG
+  cover       : false
+  date        : !!str 2015-01-07T13:30:44-02:00
+  description : Dish made with tripe. Yikes.
+  geography   :
+    id        : 6322060
+    name      : Rio de Janeiro
+    coord     : [ -43.33069, -22.92008 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1074022.JPG
+  cover       : false
+  date        : !!str 2015-01-07T13:30:52-02:00
+  description : Delicious strogonoff sauce.
+  geography   :
+    id        : 6322060
+    name      : Rio de Janeiro
+    coord     : [ -43.33069, -22.92008 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }

@@ -98,7 +98,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 ## China
 * Days: **13**,
 * Budget: **$1,170** ($45 pppd),
-* Expenses: **$1,098** ($42 pppd),
+* Expenses: **$1,102** ($42 pppd),
 * Additional visa costs: **$170** ($30 Mark, $140 Herta).
 
 <span class="img-thumbnail">![Expenses Breakdown](/images/budget-china.png)</span>

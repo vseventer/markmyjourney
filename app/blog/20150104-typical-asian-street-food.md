@@ -5,7 +5,6 @@ title      : Typical Asian Street Food
 date       : !!str 2015-01-04T23:00:00+07:00
 categories : [ Food ]
 tags       : [ ]
-sticky     : 50
 geography  :
   - id        : 1605651
     name      : Kingdom of Thailand

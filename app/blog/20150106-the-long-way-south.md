@@ -41,7 +41,7 @@ After accumulating the budgets of all the Asian countries we visited, the simple
 
 * Days: **69**,
 * Budget: **$5,110** ($37 pppd),
-* Expenses: **$5,100** ($37 pppd),
+* Expenses: **$5,104** ($37 pppd),
 * Additional flight costs: **$1,993** ($996.50 pp),
 * Additional visa costs: **$430** ($160 Mark, $270 Herta).
 
