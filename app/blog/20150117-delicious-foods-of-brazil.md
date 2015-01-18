@@ -22,4 +22,4 @@ archives:
   - !!str 2015-01
 ---
 
-Lorem ipsum dolor sit amet.
+Getting stuck in Rio de Janeiro after our flight got diverted had one advantage: the hotel had an awesome buffet which gave us an impression of what the Brazilians like to have on the table. This post contains a selection of the typical Brazilian foods we found all over the place.
