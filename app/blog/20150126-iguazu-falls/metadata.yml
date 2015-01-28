@@ -1,0 +1,170 @@
+- src         : P1194276.JPG
+  cover       : false
+  date        : !!str 2015-01-19T10:37:30-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1194280.JPG
+  cover       : false
+  date        : !!str 2015-01-19T11:23:43-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1194282.JPG
+  cover       : false
+  date        : !!str 2015-01-19T11:24:19-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1194287.JPG
+  cover       : false
+  date        : !!str 2015-01-19T11:25:18-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1194302.JPG
+  cover       : false
+  date        : !!str 2015-01-19T11:41:30-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1194319.JPG
+  cover       : false
+  date        : !!str 2015-01-19T11:56:20-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1194328.JPG
+  cover       : true
+  date        : !!str 2015-01-19T12:07:13-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1194335.JPG
+  cover       : false
+  date        : !!str 2015-01-19T12:16:04-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1194345.JPG
+  cover       : false
+  date        : !!str 2015-01-19T12:19:42-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1194347.JPG
+  cover       : false
+  date        : !!str 2015-01-19T12:23:11-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1204352.JPG
+  cover       : false
+  date        : !!str 2015-01-20T11:46:48-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1204353.JPG
+  cover       : false
+  date        : !!str 2015-01-20T12:55:30-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1204360.JPG
+  cover       : false
+  date        : !!str 2015-01-20T12:56:30-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1204365.JPG
+  cover       : false
+  date        : !!str 2015-01-20T12:59:06-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1204368.JPG
+  cover       : false
+  date        : !!str 2015-01-20T13:49:29-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1204375.JPG
+  cover       : false
+  date        : !!str 2015-01-20T13:55:18-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1204376.JPG
+  cover       : false
+  date        : !!str 2015-01-20T13:55:33-03:00
+  description : null
+  geography   :
+    id        : 3433488
+    name      : Cataratas del Iguazú
+    coord     : [ -54.44608833333333, -25.685533333333332 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }

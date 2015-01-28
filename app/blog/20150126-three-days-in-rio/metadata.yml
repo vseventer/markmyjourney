@@ -1,0 +1,150 @@
+- src         : P1154211.JPG
+  cover       : false
+  date        : !!str 2015-01-15T14:50:38-02:00
+  description : null
+  geography   :
+    id        : 7521371
+    name      : Christ the Redeemer
+    coord     : [ -43.21005, -22.951881666666665 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154180.JPG
+  cover       : true
+  date        : !!str 2015-01-15T14:18:46-02:00
+  description : null
+  geography   :
+    id        : 7521371
+    name      : Christ the Redeemer
+    coord     : [ -43.21005, -22.951881666666665 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154195.JPG
+  cover       : false
+  date        : !!str 2015-01-15T14:38:52-02:00
+  description : null
+  geography   :
+    id        : 7521371
+    name      : Christ the Redeemer
+    coord     : [ -43.21005, -22.951881666666665 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154198.JPG
+  cover       : false
+  date        : !!str 2015-01-15T14:40:29-02:00
+  description : null
+  geography   :
+    id        : 7521371
+    name      : Christ the Redeemer
+    coord     : [ -43.21005, -22.951881666666665 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154212.JPG
+  cover       : false
+  date        : !!str 2015-01-15T15:40:21-02:00
+  description : null
+  geography   :
+    id        : 7521371
+    name      : Christ the Redeemer
+    coord     : [ -43.21005, -22.951881666666665 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154219.JPG
+  cover       : false
+  date        : !!str 2015-01-15T15:58:41-02:00
+  description : null
+  geography   :
+    id        : 3473644
+    name      : Lapa
+    coord     : [ -43.17970333333333, -22.912685 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154223.JPG
+  cover       : false
+  date        : !!str 2015-01-15T16:21:32-02:00
+  description : null
+  geography   :
+    id        : 3473644
+    name      : Lapa
+    coord     : [ -43.17970333333333, -22.912685 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154225.JPG
+  cover       : false
+  date        : !!str 2015-01-15T16:27:27-02:00
+  description : null
+  geography   :
+    id        : 3473644
+    name      : Lapa
+    coord     : [ -43.17970333333333, -22.912685 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154230.JPG
+  cover       : false
+  date        : !!str 2015-01-15T16:54:29-02:00
+  description : null
+  geography   :
+    id        : 3473644
+    name      : Lapa
+    coord     : [ -43.17970333333333, -22.912685 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154240.JPG
+  cover       : false
+  date        : !!str 2015-01-15T17:38:58-02:00
+  description : null
+  geography   :
+    id        : 3445725
+    name      : Morro da Urca
+    coord     : [ -43.165045, -22.951075 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154247.JPG
+  cover       : false
+  date        : !!str 2015-01-15T17:51:37-02:00
+  description : null
+  geography   :
+    id        : 3445725
+    name      : Morro da Urca
+    coord     : [ -43.165045, -22.951075 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154254.JPG
+  cover       : false
+  date        : !!str 2015-01-15T18:16:43-02:00
+  description : null
+  geography   :
+    id        : 3455217
+    name      : Pão de Açúcar
+    coord     : [ -43.15623, -22.949865 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154260.JPG
+  cover       : false
+  date        : !!str 2015-01-15T18:48:44-02:00
+  description : null
+  geography   :
+    id        : 3455217
+    name      : Pão de Açúcar
+    coord     : [ -43.15623, -22.949865 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1164268.JPG
+  cover       : false
+  date        : !!str 2015-01-16T14:25:34-02:00
+  description : null
+  geography   :
+    id        : 3461146
+    name      : Praia de Ipanema
+    coord     : [ -43.19990333333333, -22.986866666666668 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1164272.JPG
+  cover       : false
+  date        : !!str 2015-01-16T14:33:36-02:00
+  description : null
+  geography   :
+    id        : 3461146
+    name      : Praia de Ipanema
+    coord     : [ -43.19990333333333, -22.986866666666668 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
