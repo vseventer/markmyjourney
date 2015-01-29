@@ -1,7 +1,7 @@
 - src         : P1194276.JPG
   cover       : false
   date        : !!str 2015-01-19T10:37:30-03:00
-  description : null
+  description : The shuttle bus to the Brazilian side of the falls.
   geography   :
     id        : 3433488
     name      : Cataratas del Iguazú
@@ -31,7 +31,7 @@
 - src         : P1194287.JPG
   cover       : false
   date        : !!str 2015-01-19T11:25:18-03:00
-  description : null
+  description : Greedy coati going for another cookie.
   geography   :
     id        : 3433488
     name      : Cataratas del Iguazú
@@ -61,7 +61,7 @@
 - src         : P1194328.JPG
   cover       : true
   date        : !!str 2015-01-19T12:07:13-03:00
-  description : null
+  description : "The only close-up on the Brazilian side. Be prepared to get wet."
   geography   :
     id        : 3433488
     name      : Cataratas del Iguazú
@@ -101,7 +101,7 @@
 - src         : P1204352.JPG
   cover       : false
   date        : !!str 2015-01-20T11:46:48-03:00
-  description : null
+  description : The Argentinan train that brings all the tourists to the falls.
   geography   :
     id        : 3433488
     name      : Cataratas del Iguazú

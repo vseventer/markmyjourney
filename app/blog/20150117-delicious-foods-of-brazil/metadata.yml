@@ -31,7 +31,7 @@
 - src         : P1084035.JPG
   cover       : false
   date        : !!str 2015-01-08T18:29:14-03:00
-  description : "Chocolate truffle made with condensed milk, covered in chocolate sprinkles. Not as good as the Dutch ones."
+  description : "Brigadeiro: chocolate truffle made with condensed milk, covered in chocolate sprinkles. Not as good as the Dutch ones."
   geography   :
     id        : 3388241
     name      : São Paulo
@@ -126,5 +126,15 @@
     id        : 6322060
     name      : Rio de Janeiro
     coord     : [ -43.33069, -22.92008 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : IMG_3629.JPG
+  cover       : true
+  date        : !!str 2015-01-18T15:59:41-02:00
+  description : "Beijinho de Coco (top): coconut truffles, and Pão de Queijos (bottom): cheese bread."
+  geography   :
+    id        : 6324358
+    name      : São Paulo
+    coord     : [ -46.63503, -23.62703 ]
     continent : { code: SA, name: South America }
     country   : { code: BR, name: Brazil }

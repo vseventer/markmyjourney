@@ -21,7 +21,7 @@
 - src         : P1154195.JPG
   cover       : false
   date        : !!str 2015-01-15T14:38:52-02:00
-  description : null
+  description : Heart-shaped lake.
   geography   :
     id        : 7521371
     name      : Christ the Redeemer
@@ -32,16 +32,11 @@
   cover       : false
   date        : !!str 2015-01-15T14:40:29-02:00
   description : null
-  geography   :
-    id        : 7521371
-    name      : Christ the Redeemer
-    coord     : [ -43.21005, -22.951881666666665 ]
-    continent : { code: SA, name: South America }
-    country   : { code: BR, name: Brazil }
+  geography   : null
 - src         : P1154212.JPG
   cover       : false
   date        : !!str 2015-01-15T15:40:21-02:00
-  description : null
+  description : "The favela featured in the movie Fast & Furious."
   geography   :
     id        : 7521371
     name      : Christ the Redeemer
@@ -61,7 +56,7 @@
 - src         : P1154223.JPG
   cover       : false
   date        : !!str 2015-01-15T16:21:32-02:00
-  description : null
+  description : Cathedral.
   geography   :
     id        : 3473644
     name      : Lapa
@@ -71,7 +66,7 @@
 - src         : P1154225.JPG
   cover       : false
   date        : !!str 2015-01-15T16:27:27-02:00
-  description : null
+  description : Inside the cathedral.
   geography   :
     id        : 3473644
     name      : Lapa
@@ -81,7 +76,7 @@
 - src         : P1154230.JPG
   cover       : false
   date        : !!str 2015-01-15T16:54:29-02:00
-  description : null
+  description : Carioca Aqueduct.
   geography   :
     id        : 3473644
     name      : Lapa
@@ -111,7 +106,7 @@
 - src         : P1154254.JPG
   cover       : false
   date        : !!str 2015-01-15T18:16:43-02:00
-  description : null
+  description : View of Copacabana.
   geography   :
     id        : 3455217
     name      : Pão de Açúcar
@@ -141,7 +136,7 @@
 - src         : P1164272.JPG
   cover       : false
   date        : !!str 2015-01-16T14:33:36-02:00
-  description : null
+  description : "The best thing about Rio’s beaches: a cold coconut."
   geography   :
     id        : 3461146
     name      : Praia de Ipanema
