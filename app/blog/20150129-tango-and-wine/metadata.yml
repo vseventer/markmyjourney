@@ -1,0 +1,134 @@
+- src         : P1224393.JPG
+  cover       : false
+  date        : !!str 2015-01-22T10:06:10-03:00
+  description : School of Law.
+  geography   : null
+- src         : P1224395.JPG
+  cover       : false
+  date        : !!str 2015-01-22T11:59:28-03:00
+  description : null
+  geography   :
+    id        : 3436004
+    name      : Boca
+    coord     : [ -58.36071166666667, -34.63963 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1224398.JPG
+  cover       : false
+  date        : !!str 2015-01-22T12:04:05-03:00
+  description : Colorfol streets in the Boca neighborhood.
+  geography   :
+    id        : 3436004
+    name      : Boca
+    coord     : [ -58.36071166666667, -34.63963 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1224402.JPG
+  cover       : false
+  date        : !!str 2015-01-22T12:14:09-03:00
+  description : null
+  geography   :
+    id        : 3436004
+    name      : Boca
+    coord     : [ -58.36071166666667, -34.63963 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1224406.JPG
+  cover       : false
+  date        : !!str 2015-01-22T12:25:38-03:00
+  description : null
+  geography   :
+    id        : 3436004
+    name      : Boca
+    coord     : [ -58.36071166666667, -34.63963 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1224408.JPG
+  cover       : false
+  date        : !!str 2015-01-22T12:46:48-03:00
+  description : Stadium of Boca Juniors.
+  geography   :
+    id        : 3436004
+    name      : Boca
+    coord     : [ -58.36071166666667, -34.63963 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1224412.JPG
+  cover       : false
+  date        : !!str 2015-01-22T13:21:37-03:00
+  description : null
+  geography   : null
+- src         : P1224414.JPG
+  cover       : false
+  date        : !!str 2015-01-22T13:22:09-03:00
+  description : Riverfront.
+  geography   :
+    id        : 3429760
+    name      : Puerto Madero
+    coord     : [ -58.36071166666667, -34.63963 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1224415.JPG
+  cover       : false
+  date        : !!str 2015-01-22T13:48:53-03:00
+  description : Obelisco de Buenos Aires monument.
+  geography   :
+    id        : 6285783
+    name      : Obelisco
+    coord     : [ -58.366551666666666, -34.60863333333334 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1224419.JPG
+  cover       : false
+  date        : !!str 2015-01-22T19:37:22-03:00
+  description : Tango lessons.
+- src         : P1224421.JPG
+  cover       : false
+  date        : !!str 2015-01-22T19:39:01-03:00
+  description : null
+- src         : P1224434.JPG
+  cover       : false
+  date        : !!str 2015-01-22T20:01:58-03:00
+  description : null
+- src         : P1224441.JPG
+  cover       : false
+  date        : !!str 2015-01-22T20:25:48-03:00
+  description : null
+- src         : P1224467.JPG
+  cover       : false
+  date        : !!str 2015-01-22T21:52:54-03:00
+  description : Tango show.
+- src         : P1224481.JPG
+  cover       : true
+  date        : !!str 2015-01-22T22:38:35-03:00
+  description : null
+- src         : P1244518.JPG
+  cover       : false
+  date        : !!str 2015-01-24T16:20:13-03:00
+  description : Main square in Buenos Aires.
+  geography   :
+    id        : 6957104
+    name      : Plaza de Mayo
+    coord     : [ -58.372838333333334, -34.60841 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1244520.JPG
+  cover       : false
+  date        : !!str 2015-01-24T16:20:33-03:00
+  description : null
+  geography   :
+    id        : 6957104
+    name      : Plaza de Mayo
+    coord     : [ -58.372838333333334, -34.60841 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1244522.JPG
+  cover       : false
+  date        : !!str 2015-01-24T16:21:55-03:00
+  description : Cathedral.
+  geography   :
+    id        : 6957104
+    name      : Plaza de Mayo
+    coord     : [ -58.372838333333334, -34.60841 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
