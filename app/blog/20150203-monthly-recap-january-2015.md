@@ -2,7 +2,7 @@
 pages      : all
 slug       : monthly-recap-january-2015
 title      : "Monthly Recap: January 2015"
-date       : !!str 2015-02-03T22:00:00+08:00
+date       : !!str 2015-02-03T22:00:00-03:00
 categories : [ Budgeting ]
 tags       : [ Money, Statistics ]
 geography  :
@@ -89,7 +89,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 
 * Days: **12**,
 * Budget: **$1,440** ($60 pppd),
-* Expenses: **$1,422** ($59 pppd),
+* Expenses: **$1,442** ($60 pppd),
 * Additional visa costs: **$160** (Herta).
 
 <span class="img-thumbnail">![Expenses Breakdown](/images/budget-argentina.png)</span>

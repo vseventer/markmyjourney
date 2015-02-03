@@ -118,3 +118,63 @@
     coord     : [ -73.03315333333333, -50.46927166666667 ]
     continent : { code: SA, name: South America }
     country   : { code: AR, name: Argentina }
+- src         : P2035001.JPG
+  cover       : false
+  date        : !!str 2015-02-03T15:15:05-03:00
+  description : Southernmost city of the world.
+  geography   :
+    id        : 3833367
+    name      : Ushuaia
+    coord     : [ -68.29689833333333, -54.80888333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2034902.JPG
+  cover       : false
+  date        : !!str 2015-02-03T09:21:24-03:00
+  description : Bird Island filled with cormorands.
+  geography   :
+    id        : 3864445
+    name      : Beagle Channel
+    coord     : [ -68.08198999999999, -54.8714 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2034914.JPG
+  cover       : false
+  date        : !!str 2015-02-03T09:32:28-03:00
+  description : Sea lions.
+  geography   :
+    id        : 3864445
+    name      : Beagle Channel
+    coord     : [ -68.08198999999999, -54.8714 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2034940.JPG
+  cover       : true
+  date        : !!str 2015-02-03T10:01:17-03:00
+  description : Lighthouse at the end of the world.
+  geography   :
+    id        : 3864445
+    name      : Beagle Channel
+    coord     : [ -68.08198999999999, -54.8714 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2034961.JPG
+  cover       : false
+  date        : !!str 2015-02-03T12:06:01-03:00
+  description : Penguin colony.
+  geography   :
+    id        : 3844784
+    name      : Isla Martillo
+    coord     : [ -67.37389666666667, -54.904555 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2034979.JPG
+  cover       : false
+  date        : !!str 2015-02-03T12:13:01-03:00
+  description : null
+  geography   :
+    id        : 3844784
+    name      : Isla Martillo
+    coord     : [ -67.37389666666667, -54.904555 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }

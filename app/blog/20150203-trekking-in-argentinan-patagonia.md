@@ -2,7 +2,7 @@
 pages      : all
 slug       : trekking-in-argentinan-patagonia
 title      : Trekking in Argentinan Patagonia
-date       : !!str 2015-02-02T23:00:00-03:00
+date       : !!str 2015-02-03T21:00:00-03:00
 categories : [ ]
 tags       : [ Adventure, Glacier, Hiking, Mountains, Patagonia, Sightseeing, Trekking ]
 geography  :
@@ -32,7 +32,6 @@ archives:
   - !!str ''
   - !!str 2015
   - !!str 2015-02
-map: http://maps.googleapis.com/maps/api/staticmap?markers=size%3Amid%7C-49.3299%2C-72.88605%7C-50.34075%2C-72.27682%7C-54.8%2C-68.3&path=color%3A0xFF0000FF%7Cweight%3A3%7C-49.3299%2C-72.88605%7C-50.34075%2C-72.27682&path=color%3A0xFF0000FF%7Cweight%3A3%7C-50.34075%2C-72.27682%7C-54.8%2C-68.3&size=480x270&style=feature%3Alandscape%7Celement%3Ageometry.fill%7Chue%3A0x2E0854%7Clightness%3A-2%7Cgamma%3A0.25&style=feature%3Awater%7Celement%3Ageometry.fill%7Ccolor%3A0xEBDAFC&style=feature%3Aadministrative%7Celement%3Ageometry.fill%7Cvisibility%3Aoff&style=element%3Ageometry.stroke%7Cvisibility%3Aoff&zoom=
 ---
 
 Patagonia: a near uninhabited area in southern Argentina and Chile. A destination which had been on our list for quite a while, so needless to say we were very excited to leave Buenos Aires and head south. We flew into El Calafate and took a bus north to El Chaltén upon arrival.
@@ -46,6 +45,6 @@ Luckily, on the day of our hike the sun was shining and skies were clear. During
 Back in El Calafate, a slightly bigger town than El Chaltén, we visited the Perito Moreno Glacier. About two hours away, there are frequent buses bringing you to the glacier. The glacier is massive, and can be viewed from different angles thanks to the many walkways. The blue walktrail, however, did not loop around as we found ourselves walking on the road back to the park entrance. Therefore, it is recommended to spent most of your time at the balconies along the walkways in order to experience huge pieces of ice breaking and dropping into Lago Argentino. We spent about three hours, which was plenty of time, and two hours more waiting for the bus to bring us back to El Calafate. In hindsight, having a car would have given us a bit more flexibility, and costs would be about even (buses are good, but not that cheap) for 2+ people.
 
 ## Beagle Channel & Martillo Island
-After El Calafate we spent three days in Chilean Patagonia before crossing back into Argentina. This time, Ushuaia, the southernmost city in the world, was our destination.
+After El Calafate we spent three days in Chilean Patagonia before crossing back into Argentina. This time, Ushuaia, the southernmost city in the world, was our destination. Ushuaia is a common place to embark to the seventh continent of Antarctica. This time, we would stick to just browsing around for cruises, however we went on a one-day excursion of the Beagle Channel. This channel separates Argentina and Chile, and empties into the Atlantic Ocean.
 
-TODO
+The Beagle Channel is home to colonies of different animals; we were able to spot cormorands (penguin-looking birds), sea lions, and whales. The tour also brought us close to the end of the world lighthouse, but the highlight of the tour was seeing a huge colony of penguins on Martillo Island.
