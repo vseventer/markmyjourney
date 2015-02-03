@@ -5,6 +5,7 @@ title      : Tango & Wine
 date       : !!str 2015-01-29T22:30:00-03:00
 categories : [ Day Trips ]
 tags       : [ Sightseeing, Tango, Wine ]
+sticky     : 50
 geography  :
   - id        : 3435910
     name      : Buenos Aires

@@ -5,7 +5,6 @@ title      : Transportation in Asia
 date       : !!str 2015-01-06T21:00:00+08:00
 categories : [ ]
 tags       : [ Bus, Car, Ferry, Metro, Minivan, Subway, Taxi, Train, Tram ]
-sticky     : 50
 geography  :
   - id        : 1605651
     name      : Kingdom of Thailand

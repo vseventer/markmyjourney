@@ -1,0 +1,120 @@
+- src         : P1264551.JPG
+  cover       : false
+  date        : !!str 2015-01-26T10:24:33-03:00
+  description : Views over the valley.
+  geography   :
+    id        : 3855542
+    name      : Cerro Fitzroy
+    coord     : [ -72.92027666666667, -49.30027833333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1264557.JPG
+  cover       : false
+  date        : !!str 2015-01-26T10:38:22-03:00
+  description : The Fitz Roy peak starts to reveal itself.
+  geography   :
+    id        : 3855542
+    name      : Cerro Fitzroy
+    coord     : [ -72.92027666666667, -49.30027833333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1264558.JPG
+  cover       : false
+  date        : !!str 2015-01-26T10:40:51-03:00
+  description : Lush valley view. The winds were very fierce here.
+  geography   :
+    id        : 3855542
+    name      : Cerro Fitzroy
+    coord     : [ -72.92027666666667, -49.30027833333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1264562.JPG
+  cover       : false
+  date        : !!str 2015-01-26T11:08:47-03:00
+  description : null
+  geography   :
+    id        : 3855542
+    name      : Cerro Fitzroy
+    coord     : [ -72.92027666666667, -49.30027833333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1264567.JPG
+  cover       : false
+  date        : !!str 2015-01-26T11:35:30-03:00
+  description : Almost at the viewpoint.
+  geography   :
+    id        : 3855542
+    name      : Cerro Fitzroy
+    coord     : [ -72.92027666666667, -49.30027833333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1264573.JPG
+  cover       : true
+  date        : !!str 2015-01-26T11:44:35-03:00
+  description : "Laguna Capri, providing water safe to drink."
+  geography   :
+    id        : 3855542
+    name      : Cerro Fitzroy
+    coord     : [ -72.92027666666667, -49.30027833333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1264596.JPG
+  cover       : false
+  date        : !!str 2015-01-26T12:55:05-03:00
+  description : On the Fitz Roy Viewpoint.
+  geography   :
+    id        : 3855542
+    name      : Cerro Fitzroy
+    coord     : [ -72.92027666666667, -49.30027833333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1274615.JPG
+  cover       : false
+  date        : !!str 2015-01-27T17:15:53-03:00
+  description : "A typical town in Patagonia: small, and surrounded by nothingness."
+  geography   :
+    id        : 3858677
+    name      : El Calafate
+    coord     : [ -72.268285, -50.344965 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1284684.JPG
+  cover       : false
+  date        : !!str 2015-01-28T13:40:47-03:00
+  description : Entrance to the park.
+  geography   :
+    id        : 6942216
+    name      : Perito Moreno Glacier
+    coord     : [ -73.03315333333333, -50.46927166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1284628.JPG
+  cover       : false
+  date        : !!str 2015-01-28T10:14:34-03:00
+  description : null
+  geography   :
+    id        : 6942216
+    name      : Perito Moreno Glacier
+    coord     : [ -73.03315333333333, -50.46927166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1284648.JPG
+  cover       : false
+  date        : !!str 2015-01-28T11:15:36-03:00
+  description : Front view.
+  geography   :
+    id        : 6942216
+    name      : Perito Moreno Glacier
+    coord     : [ -73.03315333333333, -50.46927166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1284647.JPG
+  cover       : false
+  date        : !!str 2015-01-28T11:15:18-03:00
+  description : Side view of the glacier and Lago Argentino.
+  geography   :
+    id        : 6942216
+    name      : Perito Moreno Glacier
+    coord     : [ -73.03315333333333, -50.46927166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
