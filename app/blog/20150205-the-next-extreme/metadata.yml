@@ -1,0 +1,10 @@
+- src         : P2055014.JPG
+  cover       : true
+  date        : !!str 2015-02-05T19:33:04-03:00
+  description : Six days worth of shopping.
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }

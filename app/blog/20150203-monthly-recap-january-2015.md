@@ -77,7 +77,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 ## Brazil
 * Days: **14**,
 * Budget: **$1,960** ($70 pppd),
-* Expenses: **$1,316** ($47 pppd),
+* Expenses: **$1,322** ($47 pppd),
 * Additional visa costs: **$160** (Herta).
 
 <span class="img-thumbnail">![Expenses Breakdown](/images/budget-brazil.png)</span>
@@ -89,7 +89,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 
 * Days: **12**,
 * Budget: **$1,440** ($60 pppd),
-* Expenses: **$1,442** ($60 pppd),
+* Expenses: **$1,450** ($60.50 pppd),
 * Additional visa costs: **$160** (Herta).
 
 <span class="img-thumbnail">![Expenses Breakdown](/images/budget-argentina.png)</span>

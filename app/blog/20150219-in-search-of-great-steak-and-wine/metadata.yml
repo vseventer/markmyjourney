@@ -1,0 +1,220 @@
+- src         : IMG_3649.JPG
+  cover       : false
+  date        : !!str 2015-01-20T21:11:59-03:00
+  description : "Choripán sandwich, meat empanada, and the underwhelming Quilmes beer."
+  geography   :
+    id        : 3429777
+    name      : Puerto Iguazú
+    coord     : [ -54.57355, -25.59912 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : IMG_3651.JPG
+  cover       : false
+  date        : !!str 2015-01-20T21:34:54-03:00
+  description : Flank steak with a potato and vegetable lasagna.
+  geography   :
+    id        : 3429777
+    name      : Puerto Iguazú
+    coord     : [ -54.57355, -25.59912 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : IMG_3654.JPG
+  cover       : false
+  date        : !!str 2015-01-20T22:09:05-03:00
+  description :  Dulce de leche (boiled condensed milk) chocolate cake.
+  geography   :
+    id        : 3429777
+    name      : Puerto Iguazú
+    coord     : [ -54.57355, -25.59912 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : IMG_3656.JPG
+  cover       : false
+  date        : !!str 2015-01-21T07:55:33-03:00
+  description : Sticky crossaints and dulce the leche spreading.
+  geography   :
+    id        : 3429777
+    name      : Puerto Iguazú
+    coord     : [ -54.57355, -25.59912 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1214391.JPG
+  cover       : false
+  date        : !!str 2015-01-21T20:41:22-03:00
+  description : Argentinan blue cheese.
+  geography   :
+    id        : 3435910
+    name      : Buenos Aires
+    coord     : [ -58.361983333333335, -34.638785 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1224404.JPG
+  cover       : false
+  date        : !!str 2015-01-22T12:16:54-03:00
+  description : "Alfajor: a dulce de leche filled cookie."
+  geography   :
+    id        : 3435910
+    name      : Buenos Aires
+    coord     : [ -58.361983333333335, -34.638785 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1224457.JPG
+  cover       : false
+  date        : !!str 2015-01-22T18:56:23-05:00
+  description : Another meat-filled empanada.
+  geography   :
+    id        : 3435910
+    name      : Buenos Aires
+    coord     : [ -58.361983333333335, -34.638785 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1224461.JPG
+  cover       : true
+  date        : !!str 2015-01-22T21:22:22-03:00
+  description : "Delicious wine, served at the tango show."
+  geography   :
+    id        : 3435910
+    name      : Buenos Aires
+    coord     : [ -58.361983333333335, -34.638785 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1224462.JPG
+  cover       : false
+  date        : !!str 2015-01-22T21:24:45-03:00
+  description : Steak and assorted vegetables.
+  geography   :
+    id        : 3435910
+    name      : Buenos Aires
+    coord     : [ -58.361983333333335, -34.638785 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1224477.JPG
+  cover       : false
+  date        : !!str 2015-01-22T22:12:39-03:00
+  description : Dulce de leche flan.
+  geography   :
+    id        : 3435910
+    name      : Buenos Aires
+    coord     : [ -58.361983333333335, -34.638785 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1234501.JPG
+  cover       : false
+  date        : !!str 2015-01-23T14:51:50-02:00
+  description : Lomito sandwich.
+  geography   :
+    id        : 3443013
+    name      : Colonia del Sacramento
+    coord     : [ -57.83976, -34.46262 ]
+    continent : { code: SA, name: South America }
+    country   : { code: UY, name: Uruguay }
+- src         : P1234509.JPG
+  cover       : false
+  date        : !!str 2015-01-23T20:28:10-03:00
+  description : Yerba mate.
+  geography   :
+    id        : 3443013
+    name      : Colonia del Sacramento
+    coord     : [ -57.83976, -34.46262 ]
+    continent : { code: SA, name: South America }
+    country   : { code: UY, name: Uruguay }
+- src         : P1244515.JPG
+  cover       : false
+  date        : !!str 2015-01-24T15:37:03-03:00
+  description : Cheripan with delicious chimichurri sauce.
+  geography   :
+    id        : 3435910
+    name      : Buenos Aires
+    coord     : [ -58.361983333333335, -34.638785 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1244516.JPG
+  cover       : false
+  date        : !!str 2015-01-24T15:38:37-03:00
+  description : Chimichurri.
+  geography   :
+    id        : 3435910
+    name      : Buenos Aires
+    coord     : [ -58.361983333333335, -34.638785 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1244524.JPG
+  cover       : false
+  date        : !!str 2015-01-24T16:33:16-03:00
+  description : "Submarino: a chocolate bar dipped in hot milk."
+  geography   :
+    id        : 3435910
+    name      : Buenos Aires
+    coord     : [ -58.361983333333335, -34.638785 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1264608.JPG
+  cover       : false
+  date        : !!str 2015-01-26T19:59:08-03:00
+  description : Chicago-style pizza. Very typical in Patagonia.
+  geography   :
+    id        : 6690180
+    name      : El Chaltén
+    coord     : [ -72.89351, -49.324328333333334 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : IMG_3687.JPG
+  cover       : false
+  date        : !!str 2015-01-25T09:41:11-03:00
+  description : "Chocolate-covered alfajore, and dulce rellena."
+  geography   :
+    id        : 3858677
+    name      : El Calafate
+    coord     : [ -72.27682, -50.34075 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : IMG_3693.JPG
+  cover       : false
+  date        : !!str 2015-01-25T14:11:48-03:00
+  description : Steak and fries.
+  geography   :
+    id        : 3858677
+    name      : El Calafate
+    coord     : [ -72.27682, -50.34075 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1274620.JPG
+  cover       : false
+  date        : !!str 2015-01-27T19:54:48-03:00
+  description : The fruity local beer in El Calafate.
+  geography   :
+    id        : 3858677
+    name      : El Calafate
+    coord     : [ -72.27682, -50.34075 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2014881.JPG
+  cover       : false
+  date        : !!str 2015-02-01T22:22:58-03:00
+  description : Local beer in Ushuaia with very nice honey taste.
+  geography   :
+    id        : 3833367
+    name      : Ushuaia
+    coord     : [ -68.3, -54.8 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2035002.JPG
+  cover       : false
+  date        : !!str 2015-02-03T15:57:16-03:00
+  description : Gigantic spider crab. We did not try this one.
+  geography   :
+    id        : 3833367
+    name      : Ushuaia
+    coord     : [ -68.3, -54.8 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : IMG_3780.JPG
+  cover       : false
+  date        : !!str 2015-02-03T18:41:23-03:00
+  description : "Helado: the Argentinan variant of frozen yoghurt. Simply delicous: we highly recommend the “El Calafate” (blueberry) flavour."
+  geography   :
+    id        : 3833367
+    name      : Ushuaia
+    coord     : [ -68.3, -54.8 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
