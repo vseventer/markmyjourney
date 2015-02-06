@@ -26,4 +26,4 @@ It is very easy do go on a day-trip to Colonia del Sacramento from Buenos Aires:
 
 One thing we noticed is that almost everyone drinks *Yerba mate* (a tea-like drink) religiously, even carrying a separate matera bag for it. The area around the old city wall offered an artisian local ice cream: helado, which was delicious. Apart from the church built on remainders of the city wall, the many old-timer cars were another highlight of the town.
 
-It is a popular weekend-destination for foreigners and Argentinans as well. Moreover, because the town is located in Uruguay, its ATMs are very popular as they dispurse U.S. Dollars. We will write more about why this is great for foreigners in a later post.
+It is a popular weekend-destination for foreigners and Argentinans as well. Moreover, because the town is located in Uruguay, its ATMs are very popular as they dispurse U.S. Dollars. More about why this is great for foreigners in [this post](/blog/money-exchange-in-argentina.html).

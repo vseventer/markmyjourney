@@ -1,0 +1,10 @@
+- src         : P1244521.JPG
+  cover       : true
+  date        : !!str 2015-01-24T16:21:48-03:00
+  description : "Florida St. is centrally located, between Obelisco de Buenos Aires and Plaza de Mayo."
+  geography   :
+    id        : 8335167
+    name      : Florida Street
+    coord     : [ -58.372838333333334, -34.60841 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
