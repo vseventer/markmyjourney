@@ -1,0 +1,170 @@
+- src         : P1304689.JPG
+  cover       : false
+  date        : !!str 2015-01-30T09:24:09-03:00
+  description : On our way to Torres del Paine.
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.61863333333332, -51.56840166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1304696.JPG
+  cover       : false
+  date        : !!str 2015-01-30T10:17:26-03:00
+  description : null
+  geography   :
+    id        : 3871228
+    name      : Lago Sarmiento
+    coord     : [ -72.59099499999999, -51.00920333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1304708.JPG
+  cover       : false
+  date        : !!str 2015-01-30T10:30:59-03:00
+  description : null
+  geography   :
+    id        : 3899835
+    name      : Laguna Amarga
+    coord     : [ -72.74280166666667, -50.97849666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1304714.JPG
+  cover       : false
+  date        : !!str 2015-01-30T10:37:53-03:00
+  description : Rhea.
+  geography   :
+    id        : 3899835
+    name      : Laguna Amarga
+    coord     : [ -72.74280166666667, -50.97849666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1304722.JPG
+  cover       : false
+  date        : !!str 2015-01-30T10:51:39-03:00
+  description : null
+  geography   :
+    id        : 3899835
+    name      : Laguna Amarga
+    coord     : [ -72.74280166666667, -50.97849666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1304724.JPG
+  cover       : false
+  date        : !!str 2015-01-30T10:56:26-03:00
+  description : "Wild blueberries, not too sweet."
+  geography   :
+    id        : 3899835
+    name      : Laguna Amarga
+    coord     : [ -72.74280166666667, -50.97849666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1304737.JPG
+  cover       : false
+  date        : !!str 2015-01-30T11:39:38-03:00
+  description : null
+  geography   :
+    id        : 3878556
+    name      : Lago Nordenskjöld
+    coord     : [ -72.91005000000001, -51.04112833333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1304758.JPG
+  cover       : false
+  date        : !!str 2015-01-30T12:14:02-03:00
+  description : null
+  geography   :
+    id        : 3876881
+    name      : Lago Pehoe
+    coord     : [ -73.00651833333333, -51.06684666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1304794.JPG
+  cover       : false
+  date        : !!str 2015-01-30T15:35:42-03:00
+  description : "Glacier Lake, with small floating icebergs."
+  geography   :
+    id        : 3888699
+    name      : Lago de Grey
+    coord     : [ -73.12973666666666, -51.11857166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1304804.JPG
+  cover       : false
+  date        : !!str 2015-01-30T18:31:50-03:00
+  description : Charming downtown park in Puerto Natales.
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.61863333333332, -51.56840166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314819.JPG
+  cover       : false
+  date        : !!str 2015-01-31T10:31:36-03:00
+  description : null
+  geography   :
+    id        : 3870748
+    name      : Lago Sofía
+    coord     : [ -72.55999, -51.53527333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314830.JPG
+  cover       : false
+  date        : !!str 2015-01-31T11:01:30-03:00
+  description : null
+  geography   :
+    id        : 3870748
+    name      : Lago Sofía
+    coord     : [ -72.55999, -51.53527333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314848.JPG
+  cover       : false
+  date        : !!str 2015-01-31T11:48:18-03:00
+  description : null
+  geography   :
+    id        : 3870748
+    name      : Lago Sofía
+    coord     : [ -72.55999, -51.53527333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : IMG_3755.JPG
+  cover       : false
+  date        : !!str 2015-01-31T11:32:45-03:00
+  description : null
+  geography   :
+    id        : 3870748
+    name      : Lago Sofía
+    coord     : [ -72.55999, -51.53527333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314853.JPG
+  cover       : true
+  date        : !!str 2015-01-31T12:05:37-03:00
+  description : null
+  geography   :
+    id        : 3870748
+    name      : Lago Sofía
+    coord     : [ -72.55999, -51.53527333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314856.JPG
+  cover       : false
+  date        : !!str 2015-01-31T12:18:20-03:00
+  description : null
+  geography   :
+    id        : 3870748
+    name      : Lago Sofía
+    coord     : [ -72.55999, -51.53527333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2055011.JPG
+  cover       : false
+  date        : !!str 2015-02-05T14:38:50-03:00
+  description : "Punta Arenas downtown - quite a nice area."
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
