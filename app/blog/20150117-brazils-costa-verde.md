@@ -5,7 +5,6 @@ title      : Brazil’s Costa Verde
 date       : !!str 2015-01-17T23:00:00-02:00
 categories : [ ]
 tags       : [ Beach, Hiking, Sightseeing ]
-sticky     : 75
 geography  :
   - id        : 3455036
     name      : Paraty

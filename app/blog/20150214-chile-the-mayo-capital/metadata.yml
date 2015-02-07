@@ -1,0 +1,130 @@
+- src         : P1314861.JPG
+  cover       : false
+  date        : !!str 2015-01-31T18:28:02-03:00
+  description : null
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.50011, -51.727430000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314865.JPG
+  cover       : true
+  date        : !!str 2015-01-31T18:38:03-03:00
+  description : null
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.50011, -51.727430000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314866.JPG
+  cover       : false
+  date        : !!str 2015-01-31T18:40:18-03:00
+  description : null
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.50011, -51.727430000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314868.JPG
+  cover       : false
+  date        : !!str 2015-01-31T19:07:56-03:00
+  description : null
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.50011, -51.727430000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314870.JPG
+  cover       : false
+  date        : !!str 2015-01-31T19:08:27-03:00
+  description : null
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.50011, -51.727430000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314872.JPG
+  cover       : false
+  date        : !!str 2015-01-31T19:10:09-03:00
+  description : null
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.50011, -51.727430000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1304724.JPG
+  cover       : false
+  date        : !!str 2015-01-30T10:56:26-03:00
+  description : null
+  geography   :
+    id        : 7732121
+    name      : Parque Nacional Torres del Paine
+    coord     : [ -72.74280166666667, -50.97849666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : IMG_3788.JPG
+  cover       : false
+  date        : !!str 2015-02-04T21:16:46-03:00
+  description : null
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : IMG_3803.JPG
+  cover       : false
+  date        : !!str 2015-02-05T21:08:00-03:00
+  description : null
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : IMG_3804.JPG
+  cover       : false
+  date        : !!str 2015-02-05T21:08:18-03:00
+  description : null
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : IMG_3810.JPG
+  cover       : false
+  date        : !!str 2015-02-05T21:49:51-03:00
+  description : null
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2055004.JPG
+  cover       : false
+  date        : !!str 2015-02-05T13:46:51-03:00
+  description : null
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2055009.JPG
+  cover       : false
+  date        : !!str 2015-02-05T13:52:03-03:00
+  description : null
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
