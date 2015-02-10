@@ -77,7 +77,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 ## Brazil
 * Days: **14**,
 * Budget: **$1,960** ($70 pppd),
-* Expenses: **$1,322** ($47 pppd),
+* Expenses: **$1,347** ($48 pppd),
 * Additional visa costs: **$160** (Herta).
 
 <span class="img-thumbnail">![Expenses Breakdown](/images/budget-brazil.png)</span>
@@ -85,7 +85,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 ## Argentina & Uruguay
 *Note (1): Uruguay accepts the Argentinan Peso and U.S. Dollar, therefore we decided to add the money spent during our one-day trip to Uruguay to the Argentina budget.*
 
-*Note (2): the miscellaneous expenses yield a large, negative number. This is due to the black market exchange rate of U.S. Dollars in Argentina. More on this later.*
+*Note (2): the miscellaneous expenses yield a large, negative number. This is due to the black market exchange rate of U.S. Dollars in Argentina. More on this [here](/blog/money-exchange-in-argentina.html).*
 
 * Days: **12**,
 * Budget: **$1,440** ($60 pppd),

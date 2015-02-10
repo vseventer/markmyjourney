@@ -23,7 +23,7 @@ geography  :
     coord     : [ -72.03848, -53.64148 ]
     continent : { code: SA, name: &continent8261182 South America }
     country   : { code: CL, name: &country8261182 Chile }
-    transport : overland
+    transport : flight
 continents:
   - *continent3874958
 countries:
