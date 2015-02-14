@@ -35,7 +35,7 @@ We often heard the black market operates in the “legal grey area,” whatever 
 ## Getting Prepared
 We learned from the situation in Argentina while researching our itinerary. At the time, we were in Hong Kong, and decided to exchange Hong Kong dollars for U.S. dollars, as we did not want to do this in Brazil for safety reasons. We exchanged an initial amount of 600$, hid it in our bags, and never touched it until we were in Argentina.
 
-Also, because the black market doesn’t give receipts, we read online false notes are often given out. Our advice: look for some articles **TODO links** regarding recognizing fake notes, as they are not that hard to spot. This will give you a sense of security when exchanging.
+Also, because the black market doesn’t give receipts, we read online false notes are often given out. Our advice: look for some [articles](http://www.anuvawines.com/tasting-argentina/how-to-spot-fake-currency-in-buenos-aires-and-argentina/) [regarding](http://theargentineexperience.com/blog/how-to-identify-fake-money/) [recognizing](http://santelmoloft.com/2011/07/22/fake-money-in-argentina/) [fake](http://landingpadba.com/ba-basics-counterfeit-money/) [notes](http://thingstodoinba.com.ar/2013/04/16/fake-bills-in-argentina-exchange-rates/), as they are not that hard to spot. This will give you a sense of security when exchanging.
 
 ## First Attempts
 In Foz do Iguaçu in Brazil, right at the border with Argentina, our hostel offered to exchange for 1/12.2. Given that we had little time to wander around looking for the black market in Puerto Iguazú as we wanted to see the Iguazú Falls, we accepted the offer and exchanged 150$. Later on, we learned our hostel in Puerto Iguazú would only give 1/11, so we felt accomplished.
