@@ -1,0 +1,280 @@
+- src         : P1314861.JPG
+  cover       : false
+  date        : !!str 2015-01-31T18:28:02-03:00
+  description : "Completo: a hotdog with avocado, chopped tomaties, and a ridiculous amount of mayo."
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.50011, -51.727430000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314865.JPG
+  cover       : true
+  date        : !!str 2015-01-31T18:38:03-03:00
+  description : "The Chileans like to put mayo on everything - hence the supermarkets offer a huge selection."
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.50011, -51.727430000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314866.JPG
+  cover       : false
+  date        : !!str 2015-01-31T18:40:18-03:00
+  description : Juice box wine.
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.50011, -51.727430000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314868.JPG
+  cover       : false
+  date        : !!str 2015-01-31T19:07:56-03:00
+  description : "Manjar, the Chilean desert version of dulce de leche."
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.50011, -51.727430000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314870.JPG
+  cover       : false
+  date        : !!str 2015-01-31T19:08:27-03:00
+  description : "Austral beer; not much taste to it. Try the Argentinan Patagonia beer instead."
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.50011, -51.727430000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1314872.JPG
+  cover       : false
+  date        : !!str 2015-01-31T19:10:09-03:00
+  description : "Cocada: crunchy cookie with soft coconut inside."
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.50011, -51.727430000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P1304724.JPG
+  cover       : false
+  date        : !!str 2015-01-30T10:56:26-03:00
+  description : Wild blueberries from Torres del Paine.
+  geography   :
+    id        : 7732121
+    name      : Parque Nacional Torres del Paine
+    coord     : [ -72.74280166666667, -50.97849666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : IMG_3788.JPG
+  cover       : false
+  date        : !!str 2015-02-04T21:16:46-03:00
+  description : Giant avocado.
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : IMG_3803.JPG
+  cover       : false
+  date        : !!str 2015-02-05T21:08:00-03:00
+  description : "Pastel de Choco: a pie with beef, chicken, egg, olives, and raisins, topped off with a corn puree. Surprisingly delicious."
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : IMG_3804.JPG
+  cover       : false
+  date        : !!str 2015-02-05T21:08:18-03:00
+  description : "Corn Humitas: contains a corn paste which we did not particularly like."
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : IMG_3810.JPG
+  cover       : false
+  date        : !!str 2015-02-05T21:49:51-03:00
+  description : "Egg baked in avocado, not good when eaten hot."
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2055004.JPG
+  cover       : false
+  date        : !!str 2015-02-05T13:46:51-03:00
+  description : "Aji sauce, a garlic-based sauce good on bread and meat."
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2055009.JPG
+  cover       : false
+  date        : !!str 2015-02-05T13:52:03-03:00
+  description : "Patagonian lamb; this particular one was not very well prepared as it wasn’t tender enough. Try to look for a restaurant that displays the lamb as it is slowly cooked and may offer a more tender meat."
+  geography   :
+    id        : 8261182
+    name      : Punta Arenas
+    coord     : [ -72.03848, -53.64148 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : IMG_3818.JPG
+  cover       : true
+  date        : !!str 2015-02-06T15:16:27-03:00
+  description : Coconut cake topped with marenger.
+  geography   :
+    id        : 3871336
+    name      : Santiago
+    coord     : [ -70.64827, -33.45694 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : IMG_3819.JPG
+  cover       : false
+  date        : !!str 2015-02-06T18:30:50-03:00
+  description : "Capel Sour; similar to the ingredient used to make pisco sours."
+  geography   :
+    id        : 3871336
+    name      : Santiago
+    coord     : [ -70.64827, -33.45694 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2075024.JPG
+  cover       : false
+  date        : !!str 2015-02-07T16:07:09-05:00
+  description : "Chocolate-puff filled with Portuguese cream. Sweet, but good."
+  geography   :
+    id        : 4030726
+    name      : Easter Island
+    coord     : [ -109.42538833333334, -27.155818333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2115205.JPG
+  cover       : false
+  date        : !!str 2015-02-11T14:41:09-05:00
+  description : Fried plantans with tartar sauce.
+  geography   :
+    id        : 4030726
+    name      : Easter Island
+    coord     : [ -109.42538833333334, -27.155818333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2115210.JPG
+  cover       : false
+  date        : !!str 2015-02-11T14:56:47-05:00
+  description : "Delicious local fresh fish."
+  geography   :
+    id        : 4030726
+    name      : Easter Island
+    coord     : [ -109.42538833333334, -27.155818333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2115211.JPG
+  cover       : false
+  date        : !!str 2015-02-11T14:58:20-05:00
+  description : Pineapple juice.
+  geography   :
+    id        : 4030726
+    name      : Easter Island
+    coord     : [ -109.42538833333334, -27.155818333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2115214.JPG
+  cover       : false
+  date        : !!str 2015-02-11T15:38:34-05:00
+  description : Baby pineapples.
+  geography   :
+    id        : 4030726
+    name      : Easter Island
+    coord     : [ -109.42538833333334, -27.155818333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2125220.JPG
+  cover       : false
+  date        : !!str 2015-02-12T14:33:57-03:00
+  description : "Mahina pale ale; refreshing and flavorful."
+  geography   :
+    id        : 4030726
+    name      : Easter Island
+    coord     : [ -109.42538833333334, -27.155818333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2125223.JPG
+  cover       : false
+  date        : !!str 2015-02-12T14:15:40-05:00
+  description : "Porter version of the Mahina beer, heavy and very bitter."
+  geography   :
+    id        : 4030726
+    name      : Easter Island
+    coord     : [ -109.42538833333334, -27.155818333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2125250.JPG
+  cover       : false
+  date        : !!str 2015-02-12T17:28:21-05:00
+  description : Tropical juice popular among the islanders.
+  geography   :
+    id        : 4030726
+    name      : Easter Island
+    coord     : [ -109.42538833333334, -27.155818333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2125255.JPG
+  cover       : false
+  date        : !!str 2015-02-12T18:22:48-05:00
+  description : "2010 Valdivieso Merlot with a very strong tabacco aftertaste."
+  geography   :
+    id        : 4030726
+    name      : Easter Island
+    coord     : [ -109.42538833333334, -27.155818333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2145271.JPG
+  cover       : false
+  date        : !!str 2015-02-14T15:43:52-03:00
+  description : "Terremoto (earthquake): wine, fernet, and pineapple ice cream. Gets you drunk quickly, hence the name."
+  geography   :
+    id        : 3871336
+    name      : Santiago
+    coord     : [ -70.64827, -33.45694 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2145275.JPG
+  cover       : false
+  date        : !!str 2015-02-14T16:08:48-03:00
+  description : Seafood empanada with spicy aji sauce.
+  geography   :
+    id        : 3871336
+    name      : Santiago
+    coord     : [ -70.64827, -33.45694 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2145278.JPG
+  cover       : false
+  date        : !!str 2015-02-14T17:34:41-03:00
+  description : "Chacarero Chileno: avocado sandwich with a thinly-sliced steak."
+  geography   :
+    id        : 3871336
+    name      : Santiago
+    coord     : [ -70.64827, -33.45694 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2145280.JPG
+  cover       : false
+  date        : !!str 2015-02-14T18:13:15-03:00
+  description : "Mote con Huesillos; a sweet sugary drink with peach flavor and corn at the bottom. Not our favorite."
+  geography   :
+    id        : 3871336
+    name      : Santiago
+    coord     : [ -70.64827, -33.45694 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
