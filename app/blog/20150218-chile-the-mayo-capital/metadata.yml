@@ -81,7 +81,7 @@
 - src         : IMG_3803.JPG
   cover       : false
   date        : !!str 2015-02-05T21:08:00-03:00
-  description : "Pastel de Choco: a pie with beef, chicken, egg, olives, and raisins, topped off with a corn puree. Surprisingly delicious."
+  description : "Pastel de Choclo: a pie with beef, chicken, egg, olives, and raisins, topped off with a corn puree. Surprisingly delicious."
   geography   :
     id        : 8261182
     name      : Punta Arenas
@@ -131,7 +131,7 @@
 - src         : IMG_3818.JPG
   cover       : true
   date        : !!str 2015-02-06T15:16:27-03:00
-  description : Coconut cake topped with marenger.
+  description : Coconut cake topped with meringue.
   geography   :
     id        : 3871336
     name      : Santiago
@@ -161,7 +161,7 @@
 - src         : P2115205.JPG
   cover       : false
   date        : !!str 2015-02-11T14:41:09-05:00
-  description : Fried plantans with tartar sauce.
+  description : Fried plantains with tartar sauce.
   geography   :
     id        : 4030726
     name      : Easter Island
