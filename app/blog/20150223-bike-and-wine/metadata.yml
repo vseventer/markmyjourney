@@ -1,0 +1,160 @@
+- src         : P2175356.JPG
+  cover       : false
+  date        : !!str 2015-02-17T17:39:18-03:00
+  description : null
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175313.JPG
+  cover       : false
+  date        : !!str 2015-02-17T12:51:07-03:00
+  description : The first winery of the day at Familia di Tommaso.
+  geography   :
+    id        : 3430946
+    name      : Maipú
+    coord     : [ -57.88094, -36.86274 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175317.JPG
+  cover       : false
+  date        : !!str 2015-02-17T12:54:11-03:00
+  description : null
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175319.JPG
+  cover       : false
+  date        : !!str 2015-02-17T13:13:08-03:00
+  description : Wine storage.
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175320.JPG
+  cover       : false
+  date        : !!str 2015-02-17T13:18:03-03:00
+  description : Underground barrel storage, as temperatures here are much cooler.
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175323.JPG
+  cover       : false
+  date        : !!str 2015-02-17T14:00:04-03:00
+  description : Second wine-tasting at Mevi.
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175328.JPG
+  cover       : false
+  date        : !!str 2015-02-17T14:44:04-03:00
+  description : null
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175330.JPG
+  cover       : false
+  date        : !!str 2015-02-17T14:45:35-03:00
+  description : Wine fields.
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175334.JPG
+  cover       : false
+  date        : !!str 2015-02-17T14:47:19-03:00
+  description : Exploring the area by bike is by far the most flexible and enjoyable.
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175338.JPG
+  cover       : true
+  date        : !!str 2015-02-17T14:48:21-03:00
+  description : Grapes, winefields, and the Andes mountains.
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175342.JPG
+  cover       : false
+  date        : !!str 2015-02-17T15:00:04-03:00
+  description : Third wine tasting at Viña El Cérno.
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175346.JPG
+  cover       : false
+  date        : !!str 2015-02-17T15:03:08-03:00
+  description : null
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175349.JPG
+  cover       : false
+  date        : !!str 2015-02-17T16:18:34-03:00
+  description : Olive oil tasting.
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175350.JPG
+  cover       : false
+  date        : !!str 2015-02-17T16:18:44-03:00
+  description : Jam tasting.
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175352.JPG
+  cover       : false
+  date        : !!str 2015-02-17T16:27:58-03:00
+  description : Liquor and chocolate tasting.
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2175354.JPG
+  cover       : false
+  date        : !!str 2015-02-17T16:57:05-03:00
+  description : Selection of four local wines at La Botella.
+  geography   :
+    id        : 3845247
+    name      : Maipú
+    coord     : [ -68.742015, -32.956700000000005 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
