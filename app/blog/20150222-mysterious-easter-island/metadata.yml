@@ -1,0 +1,154 @@
+- src         : P2115219.JPG
+  cover       : false
+  date        : !!str 2015-02-11T15:59:01-05:00
+  description : Town of Hanga Roa.
+  geography   :
+    id        : 4030754
+    name      : Hanga Roa
+    coord     : [ -109.43152166666667, -27.152328333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2095138.JPG
+  cover       : false
+  date        : !!str 2015-02-09T18:22:32-05:00
+  description : Ahu Tahai.
+- src         : P2095063.JPG
+  cover       : false
+  date        : !!str 2015-02-09T13:11:45-05:00
+  description : Rental car for the day.
+- src         : P2095033.JPG
+  cover       : false
+  date        : !!str 2015-02-09T11:35:11-03:00
+  description : Anakena Beach.
+- src         : P2125224.JPG
+  cover       : false
+  date        : !!str 2015-02-12T14:37:04-05:00
+  description : Cold and clear waters, very refreshing.
+- src         : P2095035.JPG
+  cover       : false
+  date        : !!str 2015-02-09T09:36:48-05:00
+  description : Statues in front of the beach.
+- src         : P2095057.JPG
+  cover       : false
+  date        : !!str 2015-02-09T12:39:24-05:00
+  description : Ovahe Beach.
+- src         : P2095061.JPG
+  cover       : false
+  date        : !!str 2015-02-09T13:03:55-05:00
+  description : Fallen statue at Ahu Te Pito Kura.
+- src         : P2095071.JPG
+  cover       : false
+  date        : !!str 2015-02-09T14:20:04-05:00
+  description : Crater Lake of Rano Kau, littered with statues.
+  geography   :
+    id        : 8030076
+    name      : Rano Kau
+    coord     : [ -109.27732, -27.12559166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2095087.JPG
+  cover       : false
+  date        : !!str 2015-02-09T14:40:23-05:00
+  description : Rano Kau is the place where most of the statues were created.
+  geography   :
+    id        : 8030076
+    name      : Rano Kau
+    coord     : [ -109.27732, -27.12559166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2095089.JPG
+  cover       : false
+  date        : !!str 2015-02-09T14:41:51-05:00
+  description : null
+  geography   :
+    id        : 8030076
+    name      : Rano Kau
+    coord     : [ -109.27732, -27.12559166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2095093.JPG
+  cover       : false
+  date        : !!str 2015-02-09T14:44:24-05:00
+  description : null
+  geography   :
+    id        : 8030076
+    name      : Rano Kau
+    coord     : [ -109.27732, -27.12559166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2095097.JPG
+  cover       : false
+  date        : !!str 2015-02-09T14:56:41-05:00
+  description : Never finished statue still in rock.
+  geography   :
+    id        : 8030076
+    name      : Rano Kau
+    coord     : [ -109.27732, -27.12559166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2095106.JPG
+  cover       : true
+  date        : !!str 2015-02-09T15:57:52-05:00
+  description : Fifteen in a row at Ahu Tongariki.
+- src         : P2095125.JPG
+  cover       : false
+  date        : !!str 2015-02-09T17:26:56-05:00
+  description : Ahu Akivi
+- src         : P2095131.JPG
+  cover       : false
+  date        : !!str 2015-02-09T17:42:06-05:00
+  description : Watch out for wild horses and cows.
+- src         : P2105173.JPG
+  cover       : false
+  date        : !!str 2015-02-10T07:11:26-05:00
+  description : Another surreal crater lake.
+  geography   :
+    id        : 8224616
+    name      : Rano Raraku
+    coord     : [ -109.44276666666667, -27.18952 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2105174.JPG
+  cover       : false
+  date        : !!str 2015-02-10T07:16:05-05:00
+  description : Ancient settlement of Orongo.
+  geography   :
+    id        : 8224616
+    name      : Rano Raraku
+    coord     : [ -109.44276666666667, -27.18952 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2125226.JPG
+  cover       : false
+  date        : !!str 2015-02-12T15:21:13-05:00
+  description : null
+  geography   :
+    id        : 4030754
+    name      : Hanga Roa
+    coord     : [ -109.43152166666667, -27.152328333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2105196.JPG
+  cover       : false
+  date        : !!str 2015-02-10T21:20:31-05:00
+  description : One of many performances during the Tapati Festival.
+- src         : P2125246.JPG
+  cover       : false
+  date        : !!str 2015-02-12T17:20:55-05:00
+  description : Traditional parade through town to close the festivities.
+  geography   :
+    id        : 4030754
+    name      : Hanga Roa
+    coord     : [ -109.43152166666667, -27.152328333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2125251.JPG
+  cover       : false
+  date        : !!str 2015-02-12T17:57:44-05:00
+  description : Our home for a week. Basic, and very hot, but quite the experience.
+  geography   :
+    id        : 4030754
+    name      : Hanga Roa
+    coord     : [ -109.43152166666667, -27.152328333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
