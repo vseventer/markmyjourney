@@ -5,7 +5,6 @@ title      : Trekking in Argentinan Patagonia
 date       : !!str 2015-02-03T21:00:00-03:00
 categories : [ ]
 tags       : [ Adventure, Glacier, Hiking, Mountains, Patagonia, Sightseeing, Trekking ]
-sticky     : 40
 geography  :
   - id        : 6690180
     name      : El Chaltén

@@ -5,6 +5,7 @@ title      : Mysterious Easter Island
 date       : !!str 2015-02-22T21:00:00-05:00
 categories : [ ]
 tags       : [ Beach, Sightseeing ]
+sticky     : 10
 geography  :
   - id        : 4030726
     name      : Easter Island
@@ -34,4 +35,4 @@ We found that the best way to get around the island was by car. We rented a car 
 
 Apart from the amazing Moai statues scattered throughout the island, another highlight of our stay was the Tapati Festival during which we were able to see dance, cooking, and fishing competitions as well as an entertaining parade at the end, where locals and foreigners danced and sang along each other in nothing but a thong, while holding on to their ice cold beers in the summer heat.
 
-Because we brought most of the food ourselves, we only ate out once to try the local fish. Delicious! We did also treat ourselves to numerous( maybe too many?) ice creams as they were the only decently priced items. All in all, we found that three days was plenty of time to explore the island and keep you busy until around 8, when it starts to cool off. After six days we were happy to return to the city of Santiago, but it was an amazing experience we wouldn’t trade for anything.
+Because we brought most of the food ourselves, we only ate out once to try the local fish. Delicious! We did also treat ourselves to numerous (maybe too many?) ice creams as they were the only decently priced items. All in all, we found that three days was plenty of time to explore the island and keep you busy until around 8, when it starts to cool off. After six days we were happy to return to the city of Santiago, but it was an amazing experience we wouldn’t trade for anything.

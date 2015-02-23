@@ -5,6 +5,7 @@ title      : Money Exchange in Argentina
 date       : !!str 2015-02-06T23:30:00-03:00
 categories : [ How To ]
 tags       : [ Cambio, Currency Exchange, Money, Buenos Aires ]
+sticky     : 5
 geography  :
   - id        : 3865483
     name      : Argentine Republic
