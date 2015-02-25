@@ -278,3 +278,23 @@
     coord     : [ -70.64827, -33.45694 ]
     continent : { code: SA, name: South America }
     country   : { code: CL, name: Chile }
+- src         : P2245470.JPG
+  cover       : false
+  date        : !!str 2015-02-24T10:37:03-03:00
+  description : A stick of delicious llama meat.
+  geography   :
+    id        : 3881085
+    name      : Machuca
+    coord     : [ -68.06458333333333, -22.598456666666664 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2245472.JPG
+  cover       : false
+  date        : !!str 2015-02-24T10:40:18-03:00
+  description : Goat-cheese filled empanada.
+  geography   :
+    id        : 3881085
+    name      : Machuca
+    coord     : [ -68.06458333333333, -22.598456666666664 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }

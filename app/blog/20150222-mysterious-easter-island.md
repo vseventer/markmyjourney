@@ -5,7 +5,6 @@ title      : Mysterious Easter Island
 date       : !!str 2015-02-22T21:00:00-05:00
 categories : [ ]
 tags       : [ Beach, Sightseeing ]
-sticky     : 10
 geography  :
   - id        : 4030726
     name      : Easter Island

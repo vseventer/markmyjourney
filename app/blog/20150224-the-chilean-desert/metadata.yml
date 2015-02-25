@@ -1,0 +1,160 @@
+- src         : P2215361.JPG
+  cover       : false
+  date        : !!str 2015-02-21T15:09:42-03:00
+  description : Charming town of San Pedro de Atacama.
+  geography   :
+    id        : 3871781
+    name      : San Pedro de Atacama
+    coord     : [ -68.20113, -22.9111 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2225375.JPG
+  cover       : false
+  date        : !!str 2015-02-22T16:54:28-03:00
+  description : Cavernas de Sal - salt caves.
+  geography   :
+    id        : 7535965
+    name      : Valle de la Luna
+    coord     : [ -68.24334666666667, -22.903658333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2225383.JPG
+  cover       : false
+  date        : !!str 2015-02-22T17:41:28-03:00
+  description : Roads of Valle de la Luna.
+  geography   :
+    id        : 7535965
+    name      : Valle de la Luna
+    coord     : [ -68.24334666666667, -22.903658333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2225384.JPG
+  cover       : false
+  date        : !!str 2015-02-22T17:41:39-03:00
+  description : Tres Marías rocks, and the unearthly landscape.
+  geography   :
+    id        : 7535965
+    name      : Valle de la Luna
+    coord     : [ -68.24334666666667, -22.903658333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2225390.JPG
+  cover       : true
+  date        : !!str 2015-02-22T17:58:14-03:00
+  description : Sand dunes.
+  geography   :
+    id        : 7535965
+    name      : Valle de la Luna
+    coord     : [ -68.24334666666667, -22.903658333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2225394.JPG
+  cover       : false
+  date        : !!str 2015-02-22T18:10:43-03:00
+  description : View over the Moon Valley, used by NASA to test their Mars Landers.
+  geography   :
+    id        : 7535965
+    name      : Valle de la Luna
+    coord     : [ -68.24334666666667, -22.903658333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2225401.JPG
+  cover       : false
+  date        : !!str 2015-02-22T19:00:33-03:00
+  description : On the Piedra del Coyote lookout point.
+  geography   :
+    id        : 7535965
+    name      : Valle de la Luna
+    coord     : [ -68.24334666666667, -22.903658333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2225404.JPG
+  cover       : false
+  date        : !!str 2015-02-22T19:02:09-03:00
+  description : View over the Small Canyon.
+  geography   :
+    id        : 7535965
+    name      : Valle de la Luna
+    coord     : [ -68.24334666666667, -22.903658333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2225413.JPG
+  cover       : false
+  date        : !!str 2015-02-22T19:58:36-03:00
+  description : The moment our jeep decided to get stuck.
+  geography   :
+    id        : 7535965
+    name      : Valle de la Luna
+    coord     : [ -68.24334666666667, -22.903658333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2225415.JPG
+  cover       : false
+  date        : !!str 2015-02-22T20:00:29-03:00
+  description : Sunset over Valle de la Muerte.
+  geography   :
+    id        : 7535965
+    name      : Valle de la Luna
+    coord     : [ -68.24334666666667, -22.903658333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2245442.JPG
+  cover       : false
+  date        : !!str 2015-02-24T08:00:21-03:00
+  description : The site has about 80 geysers.
+  geography   :
+    id        : 3870089
+    name      : Géiser del Tatio
+    coord     : [ -68.01562, -22.35060166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2245435.JPG
+  cover       : false
+  date        : !!str 2015-02-24T07:24:33-03:00
+  description : null
+  geography   :
+    id        : 3870089
+    name      : Géiser del Tatio
+    coord     : [ -68.01562, -22.35060166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2245445.JPG
+  cover       : false
+  date        : !!str 2015-02-24T08:19:39-03:00
+  description : Geyser pool - we went in, but it wasn’t as warm or nice (very rocky) as we thought.
+  geography   :
+    id        : 3870089
+    name      : Géiser del Tatio
+    coord     : [ -68.01562, -22.35060166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2245457.JPG
+  cover       : false
+  date        : !!str 2015-02-24T09:28:09-03:00
+  description : View over the geysers.
+  geography   :
+    id        : 3870089
+    name      : Géiser del Tatio
+    coord     : [ -68.01562, -22.35060166666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2245459.JPG
+  cover       : false
+  date        : !!str 2015-02-24T10:08:32-03:00
+  description : View over the Andes Mountains.
+  geography   :
+    id        : 3874563
+    name      : Río Putana
+    coord     : [ -68.04044166666667, -22.531885 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2245477.JPG
+  cover       : false
+  date        : !!str 2015-02-24T11:14:52-03:00
+  description : Flamingos.
+  geography   :
+    id        : 3881085
+    name      : Machuca
+    coord     : [ -68.06077666666667, -22.609338333333334 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
