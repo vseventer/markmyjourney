@@ -1,0 +1,310 @@
+- src         : P2255485.JPG
+  cover       : false
+  date        : !!str 2015-02-25T10:01:07-04:00
+  description : "Loading up our jeep at the Chilean-Bolivian border."
+  geography   : null
+- src         : P2255493.JPG
+  cover       : false
+  date        : !!str 2015-02-25T09:47:24-04:00
+  description : null
+  geography   :
+    id        : 3901765
+    name      : Laguna Verde
+    coord     : [ -67.78629, -22.821328333333334 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2255506.JPG
+  cover       : false
+  date        : !!str 2015-02-25T10:56:09-04:00
+  description : Salvador Dalí Desert.
+  geography   : null
+- src         : P2255508.JPG
+  cover       : false
+  date        : !!str 2015-02-25T11:14:25-04:00
+  description : null
+  geography   : null
+- src         : P2255518.JPG
+  cover       : false
+  date        : !!str 2015-02-25T12:35:06-04:00
+  description : null
+  geography   :
+    id        : 7287767
+    name      : Sol de Mañana
+    coord     : [ -67.75691166666667, -22.43539 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2255530.JPG
+  cover       : false
+  date        : !!str 2015-02-25T15:56:50-04:00
+  description : null
+  geography   :
+    id        : 3919774
+    name      : Laguna Colorada
+    coord     : [ -67.80468833333333, -22.17048 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2255546.JPG
+  cover       : false
+  date        : !!str 2015-02-25T16:14:10-04:00
+  description : null
+  geography   :
+    id        : 3919774
+    name      : Laguna Colorada
+    coord     : [ -67.80468833333333, -22.17048 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2255558.JPG
+  cover       : false
+  date        : !!str 2015-02-25T17:49:44-04:00
+  description : Our hostel in Huayliajara.
+  geography   : null
+- src         : P2255556.JPG
+  cover       : false
+  date        : !!str 2015-02-25T17:37:11-04:00
+  description : The basic dorm.
+  geography   : null
+- src         : P2265576.JPG
+  cover       : false
+  date        : !!str 2015-02-26T08:31:30-04:00
+  description : null
+  geography   :
+    id        : 3919774
+    name      : Laguna Colorada
+    coord     : [ -67.80468833333333, -22.17048 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2265590.JPG
+  cover       : false
+  date        : !!str 2015-02-26T09:21:02-04:00
+  description : null
+  geography   :
+    id        : 6940555
+    name      : Árbol de Piedra
+    coord     : [ -67.88315333333333, -22.051841666666668 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2265593.JPG
+  cover       : false
+  date        : !!str 2015-02-26T09:26:34-04:00
+  description : null
+  geography   :
+    id        : 6940555
+    name      : Árbol de Piedra
+    coord     : [ -67.88315333333333, -22.051841666666668 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2265602.JPG
+  cover       : false
+  date        : !!str 2015-02-26T10:07:11-04:00
+  description : Colorful rock formations around the vulcano.
+  geography   :
+    id        : 3923268
+    name      : Cerro Bayo
+    coord     : [ -67.99650666666666, -21.83701 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2265614.JPG
+  cover       : false
+  date        : !!str 2015-02-26T10:33:18-04:00
+  description : Driving through the desert valley.
+  geography   :
+    id        : 3914249
+    name      : Cerros del Inca
+    coord     : [ -68.00332333333333, -21.788950000000003 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2265612.JPG
+  cover       : false
+  date        : !!str 2015-02-26T10:32:21-04:00
+  description : A vizcacha.
+  geography   :
+    id        : 3914249
+    name      : Cerros del Inca
+    coord     : [ -68.00332333333333, -21.788950000000003 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2265618.JPG
+  cover       : false
+  date        : !!str 2015-02-26T11:05:23-04:00
+  description : Pale-yellow lake.
+  geography   :
+    id        : 3915167
+    name      : Laguna Honda
+    coord     : [ -68.059995, -21.622783333333334 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2265629.JPG
+  cover       : false
+  date        : !!str 2015-02-26T11:16:18-04:00
+  description : null
+  geography   :
+    id        : 3915167
+    name      : Laguna Honda
+    coord     : [ -68.059995, -21.622783333333334 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2265630.JPG
+  cover       : false
+  date        : !!str 2015-02-26T11:21:13-04:00
+  description : A fox.
+  geography   :
+    id        : 3920956
+    name      : Laguna Chiar Kkota
+    coord     : [ -68.04006166666666, -21.574393333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2265632.JPG
+  cover       : false
+  date        : !!str 2015-02-26T11:43:26-04:00
+  description : null
+  geography   :
+    id        : 3920956
+    name      : Laguna Chiar Kkota
+    coord     : [ -68.04006166666666, -21.574393333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2265647.JPG
+  cover       : false
+  date        : !!str 2015-02-26T14:14:48-04:00
+  description : The near-black lake of Turquiri.
+  geography   :
+    id        : 3902188
+    name      : Laguna Turquiri
+    coord     : [ -67.85722666666666, -21.435321666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2265650.JPG
+  cover       : false
+  date        : !!str 2015-02-26T14:16:46-04:00
+  description : Faces in the rock.
+  geography   :
+    id        : 3902188
+    name      : Laguna Turquiri
+    coord     : [ -67.85722666666666, -21.435321666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2265665.JPG
+  cover       : false
+  date        : !!str 2015-02-26T14:46:34-04:00
+  description : "Condor-shaped rock in Vallede las Rocas."
+  geography   : null
+- src         : P2265667.JPG
+  cover       : false
+  date        : !!str 2015-02-26T14:50:56-04:00
+  description : Vallede las Rocas.
+  geography   : null
+- src         : P2265677.JPG
+  cover       : false
+  date        : !!str 2015-02-26T15:34:16-04:00
+  description : "Quinoa-fields on our way to Alota."
+  geography   : null
+- src         : P2275700.JPG
+  cover       : false
+  date        : !!str 2015-02-27T07:16:32-04:00
+  description : The hostel in Alota.
+  geography   :
+    id        : 3901596
+    name      : Villa Alota
+    coord     : [ -67.59622, -21.40409 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2265684.JPG
+  cover       : false
+  date        : !!str 2015-02-26T18:58:51-04:00
+  description : Private room.
+  geography   :
+    id        : 3901596
+    name      : Villa Alota
+    coord     : [ -67.59622, -21.40409 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2275712.JPG
+  cover       : false
+  date        : !!str 2015-02-27T08:55:16-04:00
+  description : null
+  geography   :
+    id        : 6940557
+    name      : Cementerio de Trenes
+    coord     : [ -66.838245, -20.482055 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2275718.JPG
+  cover       : false
+  date        : !!str 2015-02-27T08:59:47-04:00
+  description : null
+  geography   :
+    id        : 6940557
+    name      : Cementerio de Trenes
+    coord     : [ -66.838245, -20.482055 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2275727.JPG
+  cover       : false
+  date        : !!str 2015-02-27T10:20:55-04:00
+  description : On our way to the wet section of Salar de Uyuni.
+  geography   :
+    id        : 3901900
+    name      : Salar de Uyuni
+    coord     : [ -66.981385, -20.31709 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2275735.JPG
+  cover       : false
+  date        : !!str 2015-02-27T10:32:41-04:00
+  description : The perfect mirror.
+  geography   :
+    id        : 3901900
+    name      : Salar de Uyuni
+    coord     : [ -67.02385833333334, -20.372565 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2275740.JPG
+  cover       : false
+  date        : !!str 2015-02-27T10:37:11-04:00
+  description : null
+  geography   :
+    id        : 3901900
+    name      : Salar de Uyuni
+    coord     : [ -67.02385833333334, -20.372565 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2275743.JPG
+  cover       : false
+  date        : !!str 2015-02-27T10:39:45-04:00
+  description : "Surreal, and almost impossible to see where the horizon ends."
+  geography   :
+    id        : 3901900
+    name      : Salar de Uyuni
+    coord     : [ -67.02385833333334, -20.372565 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2275748.JPG
+  cover       : false
+  date        : !!str 2015-02-27T10:43:54-04:00
+  description : The three jeeps of Cordillera Traveller on the salt flats.
+  geography   :
+    id        : 3901900
+    name      : Salar de Uyuni
+    coord     : [ -67.02385833333334, -20.372565 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2275775.JPG
+  cover       : true
+  date        : !!str 2015-02-27T11:39:16-04:00
+  description : Dry flats.
+  geography   :
+    id        : 3901900
+    name      : Salar de Uyuni
+    coord     : [ -67.02385833333334, -20.372565 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2275781.JPG
+  cover       : false
+  date        : !!str 2015-02-27T11:42:06-04:00
+  description : null
+  geography   :
+    id        : 3901900
+    name      : Salar de Uyuni
+    coord     : [ -67.02385833333334, -20.372565 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
