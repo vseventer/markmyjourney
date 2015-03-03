@@ -1,7 +1,7 @@
 ---
 pages      : all
-slug       : unreal-salar-de-uyuni
-title      : Unreal Salar de Uyuni
+slug       : surreal-salar-de-uyuni
+title      : Surreal Salar de Uyuni
 date       : !!str 2015-02-28T20:00:00-04:00
 categories : [ ]
 tags       : [ ]
@@ -45,8 +45,8 @@ During our drive we passed through a beautiful Cerro del Inca canyon, where we s
 After passing through the rock-littered Vallede las Rocas, we arrived at our hostel in Alota. This time, we were able to take a shower, although warm water was not ample. It had double rooms, however, making it overall a bit more comfortable compared to the night before. But, due to the wind, all electricity went off and we were forced to use candles for the rest of the night.
 
 ## Day 3
-From Alota we drove straight to our final destination: Uyuni. Here, we made three stops: one at the train cemetery, and one and a stand to buy a souvenir. The major highlight of the tour followed shortly after: a visit to Salar de Uyuni, world’s largest salt flat of over 10,000 square meters.
+From Alota we drove straight to our final destination: Uyuni. Here, we made three stops: one at the train cemetery, and one and a stand to buy a souvenir. The major highlight of the tour followed shortly after: a visit to Salar de Uyuni, the world’s largest salt flat of over 10,000 square meters.
 
-During the rainy season from December to March the salt flats are often wet, which causes a perfect surreal reflection because of the large white flats. We stayed here for over an hour, enjoying this unearthy place. After, Felix drove us to a section of the salt flats which were not wet, and here it was clear to see what the salt flats actually look like.
+During the rainy season from December to March the salt flats are often wet, which causes a perfect surreal reflection because of the large white flats. We stayed here for over an hour, enjoying this surreal place. After, Felix drove us to a section of the salt flats which were not wet, and here it was clear to see what the salt flats actually look like.
 
-Our tour finished in the town of Uyuni, located next to the salt flats. Here, we said goodbye to our driver and travel companions, and traveled further north to La Paz. The bus journey was very bumpy and unpleasant, but it time the to leave the desert and unearthly landscape behind.
+Our tour finished in the town of Uyuni, located next to the salt flats. Here, we said goodbye to our driver and travel companions, and traveled further north to La Paz. The bus journey was very bumpy and unpleasant, but it was time to leave the desert and surreal landscape behind.
