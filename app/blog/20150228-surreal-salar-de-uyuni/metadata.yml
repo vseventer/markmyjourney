@@ -3,6 +3,10 @@
   date        : !!str 2015-02-25T10:01:07-04:00
   description : "Loading up our jeep at the Chilean-Bolivian border."
   geography   : null
+- src         : 11035285_10206320496275512_264797419_o.jpg
+  cover       : false
+  date        : !!str 2015-02-25
+  description : Our jeep.
 - src         : P2255493.JPG
   cover       : false
   date        : !!str 2015-02-25T09:47:24-04:00
@@ -53,6 +57,16 @@
     coord     : [ -67.80468833333333, -22.17048 ]
     continent : { code: SA, name: South America }
     country   : { code: BO, name: Bolivia }
+- src         : 11024914_10205318655341874_913324348_o.jpg
+  cover       : false
+  date        : !!str 2015-02-25
+  description : null
+  geography   :
+    id        : 3919774
+    name      : Laguna Colorada
+    coord     : [ -67.80468833333333, -22.17048 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
 - src         : P2255558.JPG
   cover       : false
   date        : !!str 2015-02-25T17:49:44-04:00
@@ -91,6 +105,16 @@
     id        : 6940555
     name      : Árbol de Piedra
     coord     : [ -67.88315333333333, -22.051841666666668 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : 11003195_10205318651621781_1336621446_o.jpg
+  cover       : false
+  date        : !!str 2015-02-26
+  description : null
+  geography   :
+    id        : 6940555
+    name      : Árbol de Piedra
+    coord     : [ -67.88314, -22.05187 ]
     continent : { code: SA, name: South America }
     country   : { code: BO, name: Bolivia }
 - src         : P2265602.JPG
@@ -141,6 +165,16 @@
     id        : 3915167
     name      : Laguna Honda
     coord     : [ -68.059995, -21.622783333333334 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : 11000465_10206320504035706_477955072_o.jpg
+  cover       : true
+  date        : !!str 2015-02-26
+  description : Lunch at the lake.
+  geography   :
+    id        : 3920956
+    name      : Laguna Chiar Kkota
+    coord     : [ -68.04006166666666, -21.574393333333333 ]
     continent : { code: SA, name: South America }
     country   : { code: BO, name: Bolivia }
 - src         : P2265630.JPG
@@ -302,6 +336,46 @@
   cover       : false
   date        : !!str 2015-02-27T11:42:06-04:00
   description : null
+  geography   :
+    id        : 3901900
+    name      : Salar de Uyuni
+    coord     : [ -67.02385833333334, -20.372565 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : 11009522_10205318711703283_645913098_o.jpg
+  cover       : false
+  date        : !!str 2015-02-27
+  description : null
+  geography   :
+    id        : 3901900
+    name      : Salar de Uyuni
+    coord     : [ -67.02385833333334, -20.372565 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : 11025496_10205318662662057_764688514_o.jpg
+  cover       : false
+  date        : !!str 2015-02-27
+  description : null
+  geography   :
+    id        : 3901900
+    name      : Salar de Uyuni
+    coord     : [ -67.02385833333334, -20.372565 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : 11028840_10206320508995830_882802606_o.jpg
+  cover       : false
+  date        : !!str 2015-02-27
+  description : null
+  geography   :
+    id        : 3901900
+    name      : Salar de Uyuni
+    coord     : [ -67.02385833333334, -20.372565 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : 11045731_10206320506435766_1864716859_o.jpg
+  cover       : false
+  date        : !!str 2015-02-27
+  description : All Cordillera-travelers.
   geography   :
     id        : 3901900
     name      : Salar de Uyuni
