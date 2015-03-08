@@ -1,0 +1,126 @@
+- src         : P3035906.JPG
+  cover       : false
+  date        : !!str 2015-03-03T09:17:02-04:00
+  description : Arrival by tiny plane.
+  geography   :
+    id        : 3906209
+    name      : Rurrenabaque
+    coord     : [ -67.52781, -14.44125 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3035925.JPG
+  cover       : false
+  date        : !!str 2015-03-03T12:49:37-04:00
+  description : Outside Rurrenabaque, the only way to get around is by boat.
+  geography   :
+    id        : 3924157
+    name      : Río Alto Beni
+    coord     : [ -67.66445166666668, -14.574265 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3035932.JPG
+  cover       : false
+  date        : !!str 2015-03-03T13:54:53-04:00
+  description : After three hours on the Beni river, we arrived at our lodge.
+  geography   :
+    id        : 3924157
+    name      : Río Alto Beni
+    coord     : [ -67.66445166666668, -14.574265 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3035933.JPG
+  cover       : false
+  date        : !!str 2015-03-03T14:06:59-04:00
+  description : Map of trails in the national park.
+- src         : P3035934.JPG
+  cover       : false
+  date        : !!str 2015-03-03T14:07:42-04:00
+  description : The lodge.
+- src         : P3035943.JPG
+  cover       : false
+  date        : !!str 2015-03-03T15:51:27-04:00
+  description : Walking trail surrounded by trees, insects, and unknown sounds.
+- src         : P3035959.JPG
+  cover       : false
+  date        : !!str 2015-03-03T15:46:31-05:00
+  description : Print of a guinea pig.
+- src         : P3035964.JPG
+  cover       : true
+  date        : !!str 2015-03-03T16:56:52-04:00
+  description : Lookout point.
+- src         : P3035982.JPG
+  cover       : false
+  date        : !!str 2015-03-03T17:54:22-04:00
+  description : Another lookout point.
+- src         : P3036002.JPG
+  cover       : false
+  date        : !!str 2015-03-03T21:51:01-04:00
+  description : Nightwalk in the Amazon.
+- src         : P3036006.JPG
+  cover       : false
+  date        : !!str 2015-03-03T21:56:58-04:00
+  description : null
+- src         : P3036009.JPG
+  cover       : false
+  date        : !!str 2015-03-03T22:11:01-04:00
+  description : null
+- src         : P3036012.JPG
+  cover       : false
+  date        : !!str 2015-03-03T22:15:12-04:00
+  description : "The nicest (but probably also poisonous) thing we saw: a yellow frog."
+- src         : P3046017.JPG
+  cover       : false
+  date        : !!str 2015-03-04T08:16:21-05:00
+  description : Walking path to our lodge.
+- src         : P3046074.JPG
+  cover       : false
+  date        : !!str 2015-03-04T11:34:48-04:00
+  description : null
+- src         : P3046031.JPG
+  cover       : false
+  date        : !!str 2015-03-04T09:39:22-04:00
+  description : Inside the lodge, away from the mosquitos.
+- src         : P3046037.JPG
+  cover       : false
+  date        : !!str 2015-03-04T09:55:20-04:00
+  description : Leafs of the Galipea Longiflora tree have antiparasitic properties.
+- src         : P3046039.JPG
+  cover       : false
+  date        : !!str 2015-03-04T09:59:40-04:00
+  description : Piperaceae leafs, useful to treat kidney problems, fever, and coughing.
+- src         : P3046044.JPG
+  cover       : false
+  date        : !!str 2015-03-04T10:09:29-04:00
+  description : Seed containing oil used to prevent hair loss.
+- src         : P3046048.JPG
+  cover       : false
+  date        : !!str 2015-03-04T10:14:22-04:00
+  description : Wild papaya tree.
+- src         : P3046053.JPG
+  cover       : false
+  date        : !!str 2015-03-04T10:24:08-04:00
+  description : "Copaibo tree. The oil is extracted by making a hole in the tree, and is used to heal wounds."
+- src         : P3046055.JPG
+  cover       : false
+  date        : !!str 2015-03-04T10:38:10-04:00
+  description : Chuchuhuasi tree from which the bark is used as pain reliever.
+- src         : P3046057.JPG
+  cover       : false
+  date        : !!str 2015-03-04T10:39:13-04:00
+  description : The vines of these trees contain small amounts of water in case of emergency.
+- src         : P3046072.JPG
+  cover       : false
+  date        : !!str 2015-03-04T11:26:34-04:00
+  description : Nature’s cotton swabs.
+- src         : P3046077.JPG
+  cover       : false
+  date        : !!str 2015-03-04T11:45:06-04:00
+  description : Green spider.
+- src         : P3046085.JPG
+  cover       : false
+  date        : !!str 2015-03-04T12:14:39-04:00
+  description : Muddy river full of piranhas.
+- src         : P3046096.JPG
+  cover       : false
+  date        : !!str 2015-03-04T12:19:06-04:00
+  description : Piranha fishing. We caught one, unfortunately it was able to escape the line before pulled ashore.
