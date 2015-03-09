@@ -40,6 +40,10 @@
   cover       : false
   date        : !!str 2015-03-03T15:51:27-04:00
   description : Walking trail surrounded by trees, insects, and unknown sounds.
+- src         : P3035953.JPG
+  cover       : false
+  date        : !!str 2015-03-03T15:25:26-05:00
+  description : Açaí tree.
 - src         : P3035959.JPG
   cover       : false
   date        : !!str 2015-03-03T15:46:31-05:00
