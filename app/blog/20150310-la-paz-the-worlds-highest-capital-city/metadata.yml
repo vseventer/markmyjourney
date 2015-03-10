@@ -1,0 +1,38 @@
+- src         : IMG_3908.JPG
+  cover       : false
+  date        : !!str 2015-03-02T14:28:44-05:00
+  description : City center.
+- src         : P2285800.JPG
+  cover       : false
+  date        : !!str 2015-02-28T14:35:14-05:00
+  description : The hilly streets in the historic center.
+- src         : P2285802.JPG
+  cover       : false
+  date        : !!str 2015-02-28T14:41:49-05:00
+  description : Local market.
+- src         : P2285804.JPG
+  cover       : false
+  date        : !!str 2015-02-28T15:42:30-05:00
+  description : View of the historic center, the Saint Francisco Church, and many houses on the hill.
+- src         : P2285805.JPG
+  cover       : false
+  date        : !!str 2015-02-28T15:45:55-05:00
+  description : "Plaza Mayor, and many houses up the hill."
+- src         : P2285807.JPG
+  cover       : false
+  date        : !!str 2015-02-28T16:46:42-04:00
+  description : null
+  geography   :
+    id        : 8349540
+    name      : Saint Francisco Church
+    coord     : [ -68.13735, -16.49624 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2285810.JPG
+  cover       : false
+  date        : !!str 2015-02-28T15:53:10-05:00
+  description : Mercado Lanza.
+- src         : P2285811.JPG
+  cover       : true
+  date        : !!str 2015-02-28T15:53:22-05:00
+  description : "Av. Montes, the main street leading into the city."
