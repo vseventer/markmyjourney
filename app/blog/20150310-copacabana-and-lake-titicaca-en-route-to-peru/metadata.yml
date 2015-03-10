@@ -1,0 +1,94 @@
+- src         : IMG_3926.JPG
+  cover       : false
+  date        : !!str 2015-03-06T06:25:26-05:00
+  description : Dodging the roadblocks on the way to Copacabana.
+- src         : P3066144.JPG
+  cover       : false
+  date        : !!str 2015-03-06T09:29:26-04:00
+  description : Crossing the canal.
+  geography   :
+    id        : 3902914
+    name      : Estrecho de Tiquina
+    coord     : [ -68.84904833333333, -16.215361666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3066150.JPG
+  cover       : false
+  date        : !!str 2015-03-06T11:19:31-04:00
+  description : Main street of Copacabana, a typical tourist town.
+  geography   :
+    id        : 3919189
+    name      : Copacabana
+    coord     : [ -69.08919333333333, -16.165485 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3066158.JPG
+  cover       : true
+  date        : !!str 2015-03-06T15:30:49-04:00
+  description : Lake Titicaca.
+  geography   :
+    id        : 3904119
+    name      : Isla del Sol
+    coord     : [ -69.14557333333335, -16.04104666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3066161.JPG
+  cover       : false
+  date        : !!str 2015-03-06T15:40:17-04:00
+  description : null
+  geography   :
+    id        : 3904119
+    name      : Isla del Sol
+    coord     : [ -69.14557333333335, -16.04104666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3066166.JPG
+  cover       : false
+  date        : !!str 2015-03-06T15:49:21-04:00
+  description : null
+  geography   :
+    id        : 3904119
+    name      : Isla del Sol
+    coord     : [ -69.14557333333335, -16.04104666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3066183.JPG
+  cover       : false
+  date        : !!str 2015-03-06T16:00:44-04:00
+  description : View of Isla de la Luna (Moon Island) from Isla del Sol (Sun Island).
+  geography   :
+    id        : 3911037
+    name      : Isla de la Luna
+    coord     : [ -69.14547, -16.041033333333335 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3066186.JPG
+  cover       : false
+  date        : !!str 2015-03-06T16:01:00-04:00
+  description : Colorful houses of Yumani town.
+  geography   :
+    id        : 3904119
+    name      : Isla del Sol
+    coord     : [ -69.14557333333335, -16.04104666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3066195.JPG
+  cover       : false
+  date        : !!str 2015-03-06T16:25:00-04:00
+  description : Entrance to Yumani.
+  geography   :
+    id        : 3913985
+    name      : Yumani
+    coord     : [ -69.14443666666668, -16.039333333333335 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3066197.JPG
+  cover       : false
+  date        : !!str 2015-03-06T16:30:11-04:00
+  description : The harbor of Yumani.
+  geography   :
+    id        : 3913985
+    name      : Yumani
+    coord     : [ -69.14443666666668, -16.039333333333335 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
