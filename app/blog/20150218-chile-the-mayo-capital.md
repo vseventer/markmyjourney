@@ -5,7 +5,6 @@ title      : "Chile: the Mayo Capital"
 date       : !!str 2015-02-18T20:00:00-03:00
 categories : [ Food ]
 tags       : [ ]
-sticky     : 10
 geography  :
   - id        : 3895114
     name      : Republic of Chile

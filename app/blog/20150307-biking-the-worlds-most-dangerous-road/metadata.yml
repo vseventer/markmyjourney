@@ -42,6 +42,10 @@
   cover       : false
   date        : !!str 2015-03-01T14:36:42-04:00
   description : Valley near the town of Coroico.
+- src         : P1120676.JPG
+  cover       : true
+  date        : !!str 2015-03-01T14:28:36-05:00
+  description : At the finish line of the Death Road.
 - src         : P3015903.JPG
   cover       : false
   date        : !!str 2015-03-01T17:44:54-05:00
