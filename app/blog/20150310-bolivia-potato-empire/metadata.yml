@@ -1,0 +1,150 @@
+- src         : P2265685.JPG
+  cover       : false
+  date        : !!str 2015-02-26T20:44:58-04:00
+  description : Potato soup.
+  geography   :
+    id        : 3901596
+    name      : Villa Alota
+    coord     : [ -67.59622, -21.40409 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : IMG_3899.JPG
+  cover       : false
+  date        : !!str 2015-02-28T16:14:57-05:00
+  description : Selection of Bolivian desserts - we recommend getting them fresh from the bakery though.
+  geography   :
+    id        : 3911925
+    name      : La Paz
+    coord     : [ -68.15, -16.5 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3015900.JPG
+  cover       : false
+  date        : !!str 2015-03-01T16:36:23-04:00
+  description : "Llajua: Bolivian spicy sauce made from peppers and tomatoes."
+  geography   :
+    id        : 3919085
+    name      : Coroico
+    coord     : [ -67.74746, -16.225021666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3035935.JPG
+  cover       : false
+  date        : !!str 2015-03-03T14:13:04-04:00
+  description : Green papaya salad.
+  geography   :
+    id        : 9179604
+    name      : Madidi National Park
+    coord     : [ -67.69713666666667, -14.553741666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3035936.JPG
+  cover       : true
+  date        : !!str 2015-03-03T14:21:25-04:00
+  description : Chicken with fries, a very common combination in Bolivia.
+  geography   :
+    id        : 9179604
+    name      : Madidi National Park
+    coord     : [ -67.69713666666667, -14.553741666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3035937.JPG
+  cover       : false
+  date        : !!str 2015-03-03T14:21:33-04:00
+  description : Papaya juice.
+  geography   :
+    id        : 9179604
+    name      : Madidi National Park
+    coord     : [ -67.69713666666667, -14.553741666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3035939.JPG
+  cover       : false
+  date        : !!str 2015-03-03T14:36:39-04:00
+  description : A delicious dessert of banana with chocolate sauce.
+  geography   :
+    id        : 9179604
+    name      : Madidi National Park
+    coord     : [ -67.69713666666667, -14.553741666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3035991.JPG
+  cover       : false
+  date        : !!str 2015-03-03T20:33:45-04:00
+  description : Soup with fries, surprisingly good.
+  geography   :
+    id        : 9179604
+    name      : Madidi National Park
+    coord     : [ -67.69713666666667, -14.553741666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3035992.JPG
+  cover       : false
+  date        : !!str 2015-03-03T20:40:48-04:00
+  description : Quinoa with grilled catfish.
+  geography   :
+    id        : 9179604
+    name      : Madidi National Park
+    coord     : [ -67.69713666666667, -14.553741666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3035993.JPG
+  cover       : false
+  date        : !!str 2015-03-03T21:00:10-04:00
+  description : Banana-flour desert - not that sweet.
+  geography   :
+    id        : 9179604
+    name      : Madidi National Park
+    coord     : [ -67.69713666666667, -14.553741666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3046109.JPG
+  cover       : false
+  date        : !!str 2015-03-04T14:24:01-04:00
+  description : Buckwheat with fried meat and a Russian-style beet salad.
+  geography   :
+    id        : 9179604
+    name      : Madidi National Park
+    coord     : [ -67.69713666666667, -14.553741666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3056129.JPG
+  cover       : false
+  date        : !!str 2015-03-05T13:42:37-05:00
+  description : Bolivian chocolates.
+  geography   :
+    id        : 3911925
+    name      : La Paz
+    coord     : [ -68.15, -16.5 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3056131.JPG
+  cover       : false
+  date        : !!str 2015-03-05T13:56:05-05:00
+  description : A delicious lemon pie.
+  geography   :
+    id        : 3911925
+    name      : La Paz
+    coord     : [ -68.15, -16.5 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3066151.JPG
+  cover       : false
+  date        : !!str 2015-03-06T11:21:18-04:00
+  description : "We didn’t try this one: fries covered with hot dogs, egg, caramelized onions, ketchup, mayonnaise, and mustard."
+  geography   :
+    id        : 3919189
+    name      : Copacabana
+    coord     : [ -69.09074, -16.165656666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3066154.JPG
+  cover       : false
+  date        : !!str 2015-03-06T14:23:02-04:00
+  description : The flavorful Paceña beer.
+  geography   :
+    id        : 3919189
+    name      : Copacabana
+    coord     : [ -69.09074, -16.165656666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
