@@ -1,0 +1,150 @@
+- src         : P3076219.JPG
+  cover       : false
+  date        : !!str 2015-03-07T17:02:23-05:00
+  description : Plaza de Armas.
+  geography   :
+    id        : 3941584
+    name      : Cusco
+    coord     : [ -71.97781, -13.516421666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3086230.JPG
+  cover       : false
+  date        : !!str 2015-03-08T13:11:32-05:00
+  description : The old city gate.
+  geography   :
+    id        : 3941584
+    name      : Cusco
+    coord     : [ -71.97781, -13.516421666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3106240.JPG
+  cover       : false
+  date        : !!str 2015-03-10T13:37:01-05:00
+  description : Church.
+  geography   :
+    id        : 3941584
+    name      : Cusco
+    coord     : [ -71.97781, -13.516421666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116253.JPG
+  cover       : false
+  date        : !!str 2015-03-11T11:13:27-05:00
+  description : The town of Machu Picchu.
+  geography   :
+    id        : 3935636
+    name      : Machu Picchu
+    coord     : [ -72.54446833333333, -13.1644 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116254.JPG
+  cover       : false
+  date        : !!str 2015-03-11T11:46:24-05:00
+  description : Surroundings while ascending to Machu Picchu.
+  geography   :
+    id        : 3935636
+    name      : Machu Picchu
+    coord     : [ -72.54446833333333, -13.1644 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116257.JPG
+  cover       : true
+  date        : !!str 2015-03-11T11:55:21-05:00
+  description : The first view.
+  geography   :
+    id        : 3935636
+    name      : Machu Picchu
+    coord     : [ -72.54446833333333, -13.1644 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116267.JPG
+  cover       : false
+  date        : !!str 2015-03-11T12:16:24-05:00
+  description : null
+  geography   :
+    id        : 3935636
+    name      : Machu Picchu
+    coord     : [ -72.54446833333333, -13.1644 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116280.JPG
+  cover       : false
+  date        : !!str 2015-03-11T12:32:16-05:00
+  description : null
+  geography   :
+    id        : 3935636
+    name      : Machu Picchu
+    coord     : [ -72.54446833333333, -13.1644 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116281.JPG
+  cover       : false
+  date        : !!str 2015-03-11T12:44:21-05:00
+  description : On the Inca Bridge trail.
+  geography   :
+    id        : 3935636
+    name      : Machu Picchu
+    coord     : [ -72.54446833333333, -13.1644 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116285.JPG
+  cover       : false
+  date        : !!str 2015-03-11T12:55:25-05:00
+  description : The Inca Bridge, a secret entrance into the city.
+  geography   :
+    id        : 3935636
+    name      : Machu Picchu
+    coord     : [ -72.54446833333333, -13.1644 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116291.JPG
+  cover       : false
+  date        : !!str 2015-03-11T13:02:59-05:00
+  description : The trail.
+  geography   :
+    id        : 3935636
+    name      : Machu Picchu
+    coord     : [ -72.54446833333333, -13.1644 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116295.JPG
+  cover       : false
+  date        : !!str 2015-03-11T13:27:46-05:00
+  description : Ruins of Machu Picchu.
+  geography   :
+    id        : 3935636
+    name      : Machu Picchu
+    coord     : [ -72.54446833333333, -13.1644 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116296.JPG
+  cover       : false
+  date        : !!str 2015-03-11T13:32:49-05:00
+  description : null
+  geography   :
+    id        : 3935636
+    name      : Machu Picchu
+    coord     : [ -72.54446833333333, -13.1644 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116297.JPG
+  cover       : false
+  date        : !!str 2015-03-11T13:32:56-05:00
+  description : Stair-like hill.
+  geography   :
+    id        : 3935636
+    name      : Machu Picchu
+    coord     : [ -72.54446833333333, -13.1644 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116304.JPG
+  cover       : false
+  date        : !!str 2015-03-11T14:09:47-05:00
+  description : null
+  geography   :
+    id        : 3935636
+    name      : Machu Picchu
+    coord     : [ -72.54446833333333, -13.1644 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
