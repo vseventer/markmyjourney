@@ -1,0 +1,180 @@
+- src         : P3066207.JPG
+  cover       : false
+  date        : !!str 2015-03-06T22:20:02-05:00
+  description : null
+  geography   :
+    id        : 3931276
+    name      : Puno
+    coord     : [ -70.0199, -15.8422 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3066208.JPG
+  cover       : false
+  date        : !!str 2015-03-06T22:20:08-05:00
+  description : null
+  geography   :
+    id        : 3931276
+    name      : Puno
+    coord     : [ -70.0199, -15.8422 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3066210.JPG
+  cover       : false
+  date        : !!str 2015-03-06T22:37:58-05:00
+  description : null
+  geography   :
+    id        : 3931276
+    name      : Puno
+    coord     : [ -70.0199, -15.8422 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3076222.JPG
+  cover       : true
+  date        : !!str 2015-03-07T18:21:57-05:00
+  description : null
+  geography   :
+    id        : 3941584
+    name      : Cusco
+    coord     : [ -71.97781, -13.516421666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : IMG_0167.JPG
+  cover       : false
+  date        : !!str 2013-08-18T09:12:38-05:00
+  description : null
+  geography   :
+    id        : 3941584
+    name      : Cusco
+    coord     : [ -71.97781, -13.516421666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : IMG_3939.JPG
+  cover       : false
+  date        : !!str 2015-03-08T20:58:09-05:00
+  description : null
+  geography   :
+    id        : 3941584
+    name      : Cusco
+    coord     : [ -71.97781, -13.516421666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3076224.JPG
+  cover       : false
+  date        : !!str 2015-03-07T18:22:27-05:00
+  description : null
+  geography   :
+    id        : 3941584
+    name      : Cusco
+    coord     : [ -71.97781, -13.516421666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3076225.JPG
+  cover       : false
+  date        : !!str 2015-03-07T18:29:45-05:00
+  description : null
+  geography   :
+    id        : 3941584
+    name      : Cusco
+    coord     : [ -71.97781, -13.516421666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3086233.JPG
+  cover       : false
+  date        : !!str 2015-03-08T15:52:45-05:00
+  description : null
+  geography   :
+    id        : 3941584
+    name      : Cusco
+    coord     : [ -71.97781, -13.516421666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3096234.JPG
+  cover       : false
+  date        : !!str 2015-03-09T19:30:44-05:00
+  description : null
+  geography   :
+    id        : 3941584
+    name      : Cusco
+    coord     : [ -71.97781, -13.516421666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3096235.JPG
+  cover       : false
+  date        : !!str 2015-03-09T20:10:03-05:00
+  description : null
+  geography   :
+    id        : 3941584
+    name      : Cusco
+    coord     : [ -71.97781, -13.516421666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3106242.JPG
+  cover       : false
+  date        : !!str 2015-03-10T15:00:50-05:00
+  description : null
+  geography   :
+    id        : 3941584
+    name      : Cusco
+    coord     : [ -71.97781, -13.516421666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3106246.JPG
+  cover       : false
+  date        : !!str 2015-03-10T16:25:57-05:00
+  description : null
+  geography   :
+    id        : 3941584
+    name      : Cusco
+    coord     : [ -71.97781, -13.516421666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116252.JPG
+  cover       : false
+  date        : !!str 2015-03-11T10:53:11-05:00
+  description : null
+  geography   :
+    id        : 3935636
+    name      : Machu Picchu
+    coord     : [ -72.22019333333334, -13.272833333333335 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3156336.JPG
+  cover       : false
+  date        : !!str 2015-03-15T20:57:05-05:00
+  description : null
+  geography   :
+    id        : 3936452
+    name      : Lima
+    coord     : [ -77.02824, -12.04318 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3166338.JPG
+  cover       : false
+  date        : !!str 2015-03-16T13:45:30-05:00
+  description : null
+  geography   :
+    id        : 3936452
+    name      : Lima
+    coord     : [ -77.02824, -12.04318 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3166360.JPG
+  cover       : false
+  date        : !!str 2015-03-16T19:53:05-05:00
+  description : null
+  geography   :
+    id        : 8351059
+    name      : Lima
+    coord     : [ -77.02824, -12.04318 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3166362.JPG
+  cover       : false
+  date        : !!str 2015-03-16T19:58:05-05:00
+  description : null
+  geography   :
+    id        : 8351059
+    name      : Lima
+    coord     : [ -77.02824, -12.04318 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
