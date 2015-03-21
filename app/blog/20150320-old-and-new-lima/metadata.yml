@@ -1,0 +1,80 @@
+- src         : P3156330.JPG
+  cover       : false
+  date        : !!str 2015-03-15T18:45:45-05:00
+  description : The main square in downtown Lima.
+  geography   :
+    id        : 8335029
+    name      : Plaza Mayor
+    coord     : [ -77.03046666666667, -12.046146666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3156331.JPG
+  cover       : false
+  date        : !!str 2015-03-15T18:45:59-05:00
+  description : Government Palace.
+  geography   :
+    id        : 8335029
+    name      : Plaza Mayor
+    coord     : [ -77.03046666666667, -12.046146666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3156332.JPG
+  cover       : true
+  date        : !!str 2015-03-15T18:48:29-05:00
+  description : Lima cathedral.
+  geography   :
+    id        : 8335029
+    name      : Plaza Mayor
+    coord     : [ -77.03046666666667, -12.046146666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3156327.JPG
+  cover       : false
+  date        : !!str 2015-03-15T18:33:25-05:00
+  description : Shopping street just outside of Plaza Mayor.
+  geography   :
+    id        : 7648074
+    name      : Centro histórico de Lima
+    coord     : [ -77.04306, -12.05139 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3156323.JPG
+  cover       : false
+  date        : !!str 2015-03-15T18:11:55-05:00
+  description : "Just outside Plaza Mayor: a large police presence, and Lima suburbs on the hill."
+  geography   :
+    id        : 7648074
+    name      : Centro histórico de Lima
+    coord     : [ -77.04306, -12.05139 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3166341.JPG
+  cover       : false
+  date        : !!str 2015-03-16T14:21:22-05:00
+  description : The fancy buildings of the Miraflores neighborhood.
+  geography   :
+    id        : 8350132
+    name      : Miraflores
+    coord     : [ -75.88922, -12.23464 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3166347.JPG
+  cover       : false
+  date        : !!str 2015-03-16T17:33:09-05:00
+  description : Seaside shopping mall.
+  geography   :
+    id        : 7669305
+    name      : Larcomar
+    coord     : [ -77.03075333333334, -12.13195 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3166356.JPG
+  cover       : false
+  date        : !!str 2015-03-16T18:01:53-05:00
+  description : "Coastline of Lima, unfortunately not swimmable due to the rocks."
+  geography   :
+    id        : 7669305
+    name      : Larcomar
+    coord     : [ -77.03075333333334, -12.13195 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
