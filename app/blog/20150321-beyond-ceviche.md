@@ -1,9 +1,8 @@
 ---
 pages      : all
-draft      : true
 slug       : beyond-ceviche
 title      : Beyond Ceviche
-date       : !!str 2015-03-21T10:00:00-05:00
+date       : !!str 2015-03-21T17:00:00-05:00
 categories : [ Food ]
 tags       : [ ]
 geography  :
@@ -23,8 +22,8 @@ archives:
   - !!str 2015-03
 ---
 
-Lorem ipsum dolor sit amet.
+The first dish that comes to mind when visiting Peru is ceviche. Due to its location near the water, Lima seemed like the best place to try it and it certainly delivered. However, the Peruvian cuisine had so much more gastronomic choices to offer; anything from the decadent Alpaca Medallion in Rosemary Sauce to the less exotic Pollo A La Brasa and Lomo Saltado, not only tasted delicious, but also were presented well.
 
-* The best: **X**,
-* The worst: **Y**,
-* The healthiest: **Z**.
+* The best: **Pisco Sour**,
+* The worst: **Inca Kola**,
+* The healthiest: **Ceviche**.

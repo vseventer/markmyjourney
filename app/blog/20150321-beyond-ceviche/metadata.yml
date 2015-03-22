@@ -1,7 +1,7 @@
 - src         : P3066207.JPG
   cover       : false
   date        : !!str 2015-03-06T22:20:02-05:00
-  description : null
+  description : "Yuca Croquettes: yucca tuber with zucchini, pepper, cheese, and chili sauce with avocado makes for a filling appetizer."
   geography   :
     id        : 3931276
     name      : Puno
@@ -11,7 +11,7 @@
 - src         : P3066208.JPG
   cover       : false
   date        : !!str 2015-03-06T22:20:08-05:00
-  description : null
+  description : "Guacamole Tequenos, a wantan dough with cheese and avocado, lemon, and chili sauce dip was a delicious appetizer."
   geography   :
     id        : 3931276
     name      : Puno
@@ -21,7 +21,7 @@
 - src         : P3066210.JPG
   cover       : false
   date        : !!str 2015-03-06T22:37:58-05:00
-  description : null
+  description : "Alpaca Medallion in a Rosemary Sauce with mashed potatoes - the flavorful lean meat was delicious, however the rather sweet mashed potatoes made for a strange accompanying dish."
   geography   :
     id        : 3931276
     name      : Puno
@@ -31,7 +31,7 @@
 - src         : P3076222.JPG
   cover       : true
   date        : !!str 2015-03-07T18:21:57-05:00
-  description : null
+  description : "Pisco sour, the national drink made with traditional sour pisco and egg whites did not disappoint."
   geography   :
     id        : 3941584
     name      : Cusco
@@ -41,7 +41,7 @@
 - src         : IMG_0167.JPG
   cover       : false
   date        : !!str 2013-08-18T09:12:38-05:00
-  description : null
+  description : "Typical breakfast with homemade jam, guacamole, pineapple, ham, and local cheese accompanied with a cup of coca tea."
   geography   :
     id        : 3941584
     name      : Cusco
@@ -51,7 +51,7 @@
 - src         : IMG_3939.JPG
   cover       : false
   date        : !!str 2015-03-08T20:58:09-05:00
-  description : null
+  description : "Cusqueña beer - our favorite Peruvian beer."
   geography   :
     id        : 3941584
     name      : Cusco
@@ -61,7 +61,7 @@
 - src         : P3076224.JPG
   cover       : false
   date        : !!str 2015-03-07T18:22:27-05:00
-  description : null
+  description : "Peru offers a great variety of fresh juices, like this pineapple juice."
   geography   :
     id        : 3941584
     name      : Cusco
@@ -71,7 +71,7 @@
 - src         : P3076225.JPG
   cover       : false
   date        : !!str 2015-03-07T18:29:45-05:00
-  description : null
+  description : Pollo A La Brasa sandwich and Lomo Saltado (thinly sliced beef saluted with vegetables) with creamy quinoa risotto."
   geography   :
     id        : 3941584
     name      : Cusco
@@ -81,7 +81,7 @@
 - src         : P3086233.JPG
   cover       : false
   date        : !!str 2015-03-08T15:52:45-05:00
-  description : null
+  description : "Inca Kola, a super sweet candy tasting soda which was not our favorite although very popular among locals and other tourists."
   geography   :
     id        : 3941584
     name      : Cusco
@@ -91,7 +91,7 @@
 - src         : P3096234.JPG
   cover       : false
   date        : !!str 2015-03-09T19:30:44-05:00
-  description : null
+  description : Hearty potato soup with gigantic corn and cheese appetizer.
   geography   :
     id        : 3941584
     name      : Cusco
@@ -101,7 +101,7 @@
 - src         : P3096235.JPG
   cover       : false
   date        : !!str 2015-03-09T20:10:03-05:00
-  description : null
+  description : "Lucuma ice cream: not too sweet with a pumpkin texture did not compete with Argentinas cheap and yummy helados."
   geography   :
     id        : 3941584
     name      : Cusco
@@ -111,7 +111,7 @@
 - src         : P3106242.JPG
   cover       : false
   date        : !!str 2015-03-10T15:00:50-05:00
-  description : null
+  description : "Quinoa pound cake - quite delicious and filling."
   geography   :
     id        : 3941584
     name      : Cusco
@@ -121,7 +121,7 @@
 - src         : P3106246.JPG
   cover       : false
   date        : !!str 2015-03-10T16:25:57-05:00
-  description : null
+  description : "Cheap and delicious vegetarian place for lunch offering anything from veggie burgers to pizzas."
   geography   :
     id        : 3941584
     name      : Cusco
@@ -131,7 +131,7 @@
 - src         : P3116252.JPG
   cover       : false
   date        : !!str 2015-03-11T10:53:11-05:00
-  description : null
+  description : Traditional Peruvian butter cookie.
   geography   :
     id        : 3935636
     name      : Machu Picchu
@@ -141,7 +141,7 @@
 - src         : P3156336.JPG
   cover       : false
   date        : !!str 2015-03-15T20:57:05-05:00
-  description : null
+  description : "Pilsen, a local beer in Lima, yet not as good as cusqueña."
   geography   :
     id        : 3936452
     name      : Lima
@@ -151,7 +151,7 @@
 - src         : P3166338.JPG
   cover       : false
   date        : !!str 2015-03-16T13:45:30-05:00
-  description : null
+  description : "Rocoto relleno: spicy hot pepper filled with minced meat and topped with cheese. We did not particularly dislike this dish, but we also did not like it as it was loaded with meat. The potato-cheese lasagna on the other hand was quite delicious."
   geography   :
     id        : 3936452
     name      : Lima
@@ -161,7 +161,7 @@
 - src         : P3166360.JPG
   cover       : false
   date        : !!str 2015-03-16T19:53:05-05:00
-  description : null
+  description : "Baked gigantic corn made for a delicious alternative snack, as long as it is served warm."
   geography   :
     id        : 8351059
     name      : Lima
@@ -171,7 +171,7 @@
 - src         : P3166362.JPG
   cover       : false
   date        : !!str 2015-03-16T19:58:05-05:00
-  description : null
+  description : "Ceviche - bite size pieces of fresh fish perfectly “cooked” in lime sauce."
   geography   :
     id        : 8351059
     name      : Lima
