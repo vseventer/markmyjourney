@@ -1,0 +1,60 @@
+- src         : P3276549.JPG
+  cover       : false
+  date        : !!str 2015-03-27T16:36:02-05:00
+  description : Palomino Flores, the central park in Baños.
+  geography   :
+    id        : 7870285
+    name      : Baños de Agua Santa
+    coord     : [ -78.42472, -1.39639 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3276560.JPG
+  cover       : false
+  date        : !!str 2015-03-27T16:58:15-05:00
+  description : Basílica Virgen de Agua Santa.
+  geography   :
+    id        : 7870285
+    name      : Baños de Agua Santa
+    coord     : [ -78.42472, -1.39639 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3276562.JPG
+  cover       : false
+  date        : !!str 2015-03-27T18:14:51-05:00
+  description : Mountains around the town.
+  geography   :
+    id        : 7870285
+    name      : Baños de Agua Santa
+    coord     : [ -78.42472, -1.39639 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3286595.JPG
+  cover       : false
+  date        : !!str 2015-03-28T11:57:25-05:00
+  description : "Casa del Arbol: the swing at the end of the world."
+  geography   : null
+- src         : P3286578.JPG
+  cover       : true
+  date        : !!str 2015-03-28T11:53:23-05:00
+  description : On the swing (1).
+  geography   : null
+- src         : P3286585.JPG
+  cover       : false
+  date        : !!str 2015-03-28T11:54:46-05:00
+  description : On the swing (2).
+  geography   : null
+- src         : P3286592.JPG
+  cover       : false
+  date        : !!str 2015-03-28T11:55:27-05:00
+  description : Twisting and turning on the swing.
+  geography   : null
+- src         : P3286596.JPG
+  cover       : false
+  date        : !!str 2015-03-28T11:59:59-05:00
+  description : The “view” from the swing.
+  geography   : null
+- src         : P3286605.JPG
+  cover       : false
+  date        : !!str 2015-03-28T12:34:49-05:00
+  description : Surroundings of Casa del Arbol. The greenhouses on the hillsides are for tomato harvesting.
+  geography   : null
