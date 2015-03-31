@@ -1,0 +1,110 @@
+- src         : P3266512.JPG
+  cover       : false
+  date        : !!str 2015-03-26T10:20:44-05:00
+  description : Plaza Grande.
+  geography   :
+    id        : 8478205
+    name      : Centro Histórico
+    coord     : [ -78.51508166666666, -0.22372 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3266514.JPG
+  cover       : false
+  date        : !!str 2015-03-26T10:31:10-05:00
+  description : Palacio de Carondelet.
+  geography   :
+    id        : 8478205
+    name      : Centro Histórico
+    coord     : [ -78.51508166666666, -0.22372 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3266527.JPG
+  cover       : false
+  date        : !!str 2015-03-26T11:26:34-05:00
+  description : La Virgen de Quito.
+  geography   :
+    id        : 8478205
+    name      : Centro Histórico
+    coord     : [ -78.51508166666666, -0.22372 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3266532.JPG
+  cover       : false
+  date        : !!str 2015-03-26T11:59:32-05:00
+  description : Square in the La Ronda neighborhood.
+  geography   :
+    id        : 8478205
+    name      : Centro Histórico
+    coord     : [ -78.51508166666666, -0.22372 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3266533.JPG
+  cover       : true
+  date        : !!str 2015-03-26T12:01:54-05:00
+  description : Colorful streets in La Ronda, most alive at night.
+  geography   :
+    id        : 8478205
+    name      : Centro Histórico
+    coord     : [ -78.51508166666666, -0.22372 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3266510.JPG
+  cover       : false
+  date        : !!str 2015-03-26T10:13:02-05:00
+  description : Venezuela Street, with a great view of the basilica.
+  geography   :
+    id        : 8478205
+    name      : Centro Histórico
+    coord     : [ -78.51508166666666, -0.22372 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3266547.JPG
+  cover       : false
+  date        : !!str 2015-03-26T13:21:42-05:00
+  description : Basilica del Voto Nacional.
+  geography   :
+    id        : 8478205
+    name      : Centro Histórico
+    coord     : [ -78.51508166666666, -0.22372 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3316618.JPG
+  cover       : false
+  date        : !!str 2015-03-31T11:40:02-05:00
+  description : La Mitad del Mundo monument.
+  geography   :
+    id        : 3652031
+    name      : San Antonio
+    coord     : [ -78.45578333333333, -0.00219 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3316622.JPG
+  cover       : false
+  date        : !!str 2015-03-31T11:43:58-05:00
+  description : At the monument.
+  geography   :
+    id        : 3652031
+    name      : San Antonio
+    coord     : [ -78.45545166666668, -0.002181666666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3316624.JPG
+  cover       : false
+  date        : !!str 2015-03-31T11:46:37-05:00
+  description : 0°0′0″ degrees.
+  geography   :
+    id        : 3652031
+    name      : San Antonio
+    coord     : [ -78.45578333333333, -0.00219 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3316626.JPG
+  cover       : false
+  date        : !!str 2015-03-31T12:05:58-05:00
+  description : North and south, as seen from the monument.
+  geography   :
+    id        : 3652031
+    name      : San Antonio
+    coord     : [ -78.45578333333333, -0.00219 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
