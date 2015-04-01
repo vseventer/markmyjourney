@@ -1,0 +1,170 @@
+- src         : IMG_4026.JPG
+  cover       : false
+  date        : !!str 2015-03-18T11:16:32-05:00
+  description : "Fioravanti: fruity carbonated softdrink with strawberry flavour, accompanied with plantain chips."
+  geography   :
+    id        : 3657509
+    name      : Guayaquil
+    coord     : [ -79.90795, -2.20584 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : IMG_4021.JPG
+  cover       : false
+  date        : !!str 2015-03-17T21:53:33-05:00
+  description : "The main beer of Ecuador, allright tasting but nothing special."
+  geography   :
+    id        : 3657509
+    name      : Guayaquil
+    coord     : [ -79.90795, -2.20584 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : IMG_4027.JPG
+  cover       : false
+  date        : !!str 2015-03-18T17:00:55-06:00
+  description : "Club beer, tries to compete with Pilseners’ popularity but unsuccessfully so."
+  geography   :
+    id        : 3658931
+    name      : Galapagos Islands
+    coord     : [ -90.31699166666667, -0.44516500000000003 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3236482.JPG
+  cover       : false
+  date        : !!str 2015-03-23T10:34:56-06:00
+  description : Corn empanadas with meat filling.
+  geography   :
+    id        : 3658931
+    name      : Galapagos Islands
+    coord     : [ -90.31699166666667, -0.44516500000000003 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3236487.JPG
+  cover       : false
+  date        : !!str 2015-03-23T11:57:34-06:00
+  description : "Rice with fish, a variant on the popular Arroz con Camarones."
+  geography   :
+    id        : 3658931
+    name      : Galapagos Islands
+    coord     : [ -90.31699166666667, -0.44516500000000003 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3236492.JPG
+  cover       : false
+  date        : !!str 2015-03-23T12:23:58-06:00
+  description : Sweet naranjilla juice.
+  geography   :
+    id        : 3658931
+    name      : Galapagos Islands
+    coord     : [ -90.31699166666667, -0.44516500000000003 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3266507.JPG
+  cover       : false
+  date        : !!str 2015-03-26T09:48:02-05:00
+  description : "Mora juice, a red berry which taste like a mixture of raspberries and blackberries."
+  geography   :
+    id        : 3652462
+    name      : Quito
+    coord     : [ -78.51508166666666, -0.22372 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3266524.JPG
+  cover       : false
+  date        : !!str 2015-03-26T11:13:46-05:00
+  description : "Ecuadorian candy, deepfried with extra sugar. Not our favorite."
+  geography   :
+    id        : 3652462
+    name      : Quito
+    coord     : [ -78.51508166666666, -0.22372 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3266538.JPG
+  cover       : true
+  date        : !!str 2015-03-26T12:40:36-05:00
+  description : "Espumilla: an whipped-like dessert with a distinctive guava flavour."
+  geography   :
+    id        : 3652462
+    name      : Quito
+    coord     : [ -78.51508166666666, -0.22372 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3266542.JPG
+  cover       : false
+  date        : !!str 2015-03-26T12:51:59-05:00
+  description : "Llapingachos: potato patties mixed with cheese, served with a fried egg on top and avocado and meat on the side."
+  geography   :
+    id        : 3652462
+    name      : Quito
+    coord     : [ -78.51508166666666, -0.22372 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3266543.JPG
+  cover       : false
+  date        : !!str 2015-03-26T12:58:44-05:00
+  description : "Fanesca: a heavy soup served only around Easter."
+  geography   :
+    id        : 3652462
+    name      : Quito
+    coord     : [ -78.51508166666666, -0.22372 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : IMG_4062.JPG
+  cover       : false
+  date        : !!str 2015-03-28T19:57:01-05:00
+  description : "Sour mango with salt, a common snack but we felt salt was not needed."
+  geography   :
+    id        : 7870285
+    name      : Baños de Agua Santa
+    coord     : [ -78.42472, -1.39639 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3276553.JPG
+  cover       : false
+  date        : !!str 2015-03-27T16:49:19-05:00
+  description : "Cuy: guinea pig. Taste like chicken, but does not have a lot of meat."
+  geography   :
+    id        : 7870285
+    name      : Baños de Agua Santa
+    coord     : [ -78.42472, -1.39639 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3276554.JPG
+  cover       : false
+  date        : !!str 2015-03-27T16:53:56-05:00
+  description : "The process of making melcocha, a very sweet local toffee, dangerous for your teeth."
+  geography   :
+    id        : 7870285
+    name      : Baños de Agua Santa
+    coord     : [ -78.42472, -1.39639 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3276556.JPG
+  cover       : false
+  date        : !!str 2015-03-27T16:55:10-05:00
+  description : "The end product."
+  geography   :
+    id        : 7870285
+    name      : Baños de Agua Santa
+    coord     : [ -78.42472, -1.39639 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3286610.JPG
+  cover       : false
+  date        : !!str 2015-03-28T17:36:03-05:00
+  description : "Salchipapas: fries topped with a special sauce made from tomato purée, homemade mayo, aji, and onions. Very yummy but a bit spicy."
+  geography   :
+    id        : 7870285
+    name      : Baños de Agua Santa
+    coord     : [ -78.42472, -1.39639 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3286612.JPG
+  cover       : false
+  date        : !!str 2015-03-28T19:00:45-05:00
+  description : "Pollo a la Parrilla: tender and delicious grilled chicken from the Dulche Carbón restaurant."
+  geography   :
+    id        : 7870285
+    name      : Baños de Agua Santa
+    coord     : [ -78.42472, -1.39639 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
