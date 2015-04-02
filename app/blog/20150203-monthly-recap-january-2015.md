@@ -71,8 +71,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 ## Flights
 * Beijing to São Paulo: **$1,283** ($641.50 pp) on [Etihad Airways](http://etihad.com/),
 * Rio de Janeiro to Foz do Iguaçu: **$171** ($85.50 pp) on [GOL](http://voegol.com.br/),
-* Puerto Iguazú to Buenos Aires *(part of flight below)*,
-* Buenos Aires to El Calafate: **$734** ($367 pp) on [LAN Airlines](http://www.lan.com/).
+* Puerto Iguazú to Buenos Aires & Buenos Aires to El Calafate: **$734** ($367 pp) on [LAN Airlines](http://www.lan.com/).
 
 ## Brazil
 * Days: **14**,

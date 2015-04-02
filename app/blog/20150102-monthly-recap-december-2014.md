@@ -66,8 +66,7 @@ In Vietnam we overspent (deliberately, as we had some money to spare from Novemb
 A detailed list of expenses per country is listed below. The amounts per person are based on our two-person journey. Flights are listed separately (and are not included in the countries’ budget) as we booked these in advance.
 
 ## Flights
-* Ho Chi Minh City to Hanoi *(part of flight below)*,
-* Hanoi to Hong Kong: **$613** ($306.50 pp) on [Vietnam Airlines](http://www.vietnamairlines.com/),
+* Ho Chi Minh City to Hanoi & Hanoi to Hong Kong: **$613** ($306.50 pp) on [Vietnam Airlines](http://www.vietnamairlines.com/),
 * Hong Kong to Shanghai: **$300** ($150 pp) on [Juneyao Airlines](http://www.juneyaoair.com/).
 
 ## Cambodia
