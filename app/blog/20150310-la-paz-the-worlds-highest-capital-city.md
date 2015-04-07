@@ -5,7 +5,6 @@ title      : "La Paz: the World’s Highest Capital City"
 date       : !!str 2015-03-10T18:30:00-04:00
 categories : [ Day Trips ]
 tags       : [ ]
-sticky     : 10
 geography  :
   - id        : 3911925
     name      : La Paz

@@ -48,7 +48,7 @@ In Ecuador, our budget originally yielded $60 pppd, yet we shifted $5 of these f
 
 **The Good**
 * Machu Picchu and Galápagos Islands are expensive, yet in our overall budget we (almost) made up for it by limited daily expenses and taking local buses over taxis and tours.
-* Our accommodations where cheap, even on Galápagos we spent less than the islands’ average.
+* Our accommodations were cheap, even on Galápagos we spent less than the islands’ average.
 
 **The Bad**
 * In order to obtain some Bolivian currency, we were forced to spent 30$ on changing Chilean currency at a Money Exchange office.

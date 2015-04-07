@@ -1,0 +1,130 @@
+- src         : P4026644.JPG
+  cover       : false
+  date        : !!str 2015-04-02T14:35:32-05:00
+  description : Plaza del Chorro de Quevedo.
+  geography   :
+    id        : 6941779
+    name      : La Candelaria
+    coord     : [ -74.07578166666666, 4.598498333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026648.JPG
+  cover       : false
+  date        : !!str 2015-04-02T14:40:49-05:00
+  description : Colorful streets of La Candelaria.
+  geography   :
+    id        : 6941779
+    name      : La Candelaria
+    coord     : [ -74.07578166666666, 4.598498333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026654.JPG
+  cover       : true
+  date        : !!str 2015-04-02T14:55:01-05:00
+  description : Street art.
+  geography   :
+    id        : 6941779
+    name      : La Candelaria
+    coord     : [ -74.07578166666666, 4.598498333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026656.JPG
+  cover       : false
+  date        : !!str 2015-04-02T14:56:40-05:00
+  description : Street leading to Plaza de Bolivar.
+  geography   :
+    id        : 6941779
+    name      : La Candelaria
+    coord     : [ -74.07578166666666, 4.598498333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026659.JPG
+  cover       : false
+  date        : !!str 2015-04-02T15:15:26-05:00
+  description : Iglesia de Candelaria (church), and Museo de Botero on the right.
+  geography   :
+    id        : 6941779
+    name      : La Candelaria
+    coord     : [ -74.07578166666666, 4.598498333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026660.JPG
+  cover       : false
+  date        : !!str 2015-04-02T15:16:46-05:00
+  description : (Fat) Mona Lisa by Fernando Botero.
+  geography   :
+    id        : 8051088
+    name      : Museo Botero
+    coord     : [ -74.07323, 4.59665 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026661.JPG
+  cover       : false
+  date        : !!str 2015-04-02T15:26:13-05:00
+  description : Mapa de Colombia by Fernand Léger.
+  geography   :
+    id        : 8051088
+    name      : Museo Botero
+    coord     : [ -74.07323, 4.59665 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026671.JPG
+  cover       : false
+  date        : !!str 2015-04-02T16:20:53-05:00
+  description : Capitolio Nacional on the main plaza.
+  geography   :
+    id        : 8063764
+    name      : Plaza de Bolivar
+    coord     : [ -74.07579333333332, 4.59849 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026672.JPG
+  cover       : false
+  date        : !!str 2015-04-02T16:47:27-05:00
+  description : Catedral Primada de Colombia.
+  geography   :
+    id        : 8063764
+    name      : Plaza de Bolivar
+    coord     : [ -74.07578166666666, 4.598498333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4036675.JPG
+  cover       : false
+  date        : !!str 2015-04-03T12:40:54-05:00
+  description : High-end fashion street in Zona T.
+  geography   :
+    id        : 6941778
+    name      : Zona T
+    coord     : [ -74.0539, 4.66747 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4036677.JPG
+  cover       : false
+  date        : !!str 2015-04-03T12:42:31-05:00
+  description : Empty streets due to Easter festivities elsewhere.
+  geography   :
+    id        : 6941778
+    name      : Zona T
+    coord     : [ -74.0539, 4.66747 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4036683.JPG
+  cover       : false
+  date        : !!str 2015-04-03T13:51:56-05:00
+  description : Foodtrucks.
+  geography   :
+    id        : 6941778
+    name      : Zona T
+    coord     : [ -74.0539, 4.66747 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4036686.JPG
+  cover       : false
+  date        : !!str 2015-04-03T14:01:38-05:00
+  description : Monumento los Heroés.
+  geography   :
+    id        : 7033306
+    name      : Chapinero
+    coord     : [ -74.06025666666666, 4.667698333333334 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }

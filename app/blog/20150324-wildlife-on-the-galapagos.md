@@ -5,6 +5,7 @@ title      : Wildlife on the Galápagos
 date       : !!str 2015-03-24T12:00:00-06:00
 categories : [ ]
 tags       : [ Animal, Island, Wildlife ]
+sticky     : 10
 geography  :
   - id        : 3658931
     name      : Galapagos Islands
