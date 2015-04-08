@@ -1,0 +1,170 @@
+- src         : P4056694.JPG
+  cover       : false
+  date        : !!str 2015-04-05T09:05:16-05:00
+  description : Lush green Cocora Valley.
+  geography   :
+    id        : 7870994
+    name      : Valle del Cocora
+    coord     : [ -75.48601833333333, 4.638478333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4056697.JPG
+  cover       : false
+  date        : !!str 2015-04-05T09:09:44-05:00
+  description : Wax palms, the symbol of Colombia.
+  geography   :
+    id        : 7870994
+    name      : Valle del Cocora
+    coord     : [ -75.48601833333333, 4.638478333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4056699.JPG
+  cover       : false
+  date        : !!str 2015-04-05T09:12:33-05:00
+  description : Hiking trail.
+  geography   :
+    id        : 7870994
+    name      : Valle del Cocora
+    coord     : [ -75.48601833333333, 4.638478333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4056704.JPG
+  cover       : false
+  date        : !!str 2015-04-05T09:16:28-05:00
+  description : Hill littered with wax palms.
+  geography   :
+    id        : 7870994
+    name      : Valle del Cocora
+    coord     : [ -75.48601833333333, 4.638478333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4056726.JPG
+  cover       : false
+  date        : !!str 2015-04-05T09:35:17-05:00
+  description : The valley covered in clouds.
+  geography   :
+    id        : 7870994
+    name      : Valle del Cocora
+    coord     : [ -75.48601833333333, 4.638478333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4056733.JPG
+  cover       : false
+  date        : !!str 2015-04-05T11:27:47-05:00
+  description : Center of Salento.
+  geography   :
+    id        : 3670352
+    name      : Salento
+    coord     : [ -75.56904333333333, 4.6381283333333325 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4056738.JPG
+  cover       : false
+  date        : !!str 2015-04-05T11:42:06-05:00
+  description : Mirador Alto de la Cruz.
+  geography   :
+    id        : 3670353
+    name      : Salento
+    coord     : [ -75.56693666666666, 4.6408016666666665 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4066758.JPG
+  cover       : false
+  date        : !!str 2015-04-06T09:59:15-05:00
+  description : Coffee beans.
+  geography   :
+    id        : 3672486
+    name      : Pereira
+    coord     : [ -75.69449, 4.814515 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4066759.JPG
+  cover       : false
+  date        : !!str 2015-04-06T10:08:22-05:00
+  description : Coffee fields of Don Manolo.
+  geography   :
+    id        : 3672486
+    name      : Pereira
+    coord     : [ -75.69449, 4.814515 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : IMG_4226.JPG
+  cover       : false
+  date        : !!str 2015-04-06T10:04:51-05:00
+  description : Between the coffee plants.
+  geography   :
+    id        : 3672486
+    name      : Pereira
+    coord     : [ -75.69449, 4.814515 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4066764.JPG
+  cover       : false
+  date        : !!str 2015-04-06T10:25:46-05:00
+  description : Drying beans.
+  geography   :
+    id        : 3672486
+    name      : Pereira
+    coord     : [ -75.69449, 4.814515 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4066771.JPG
+  cover       : false
+  date        : !!str 2015-04-06T10:43:18-05:00
+  description : Ice cream made with the peel of the coffee bean.
+  geography   :
+    id        : 3672486
+    name      : Pereira
+    coord     : [ -75.69449, 4.814515 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4066779.JPG
+  cover       : false
+  date        : !!str 2015-04-06T11:14:41-05:00
+  description : 5kg of coffee beans.
+  geography   :
+    id        : 3672486
+    name      : Pereira
+    coord     : [ -75.69449, 4.814515 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : IMG_4242.JPG
+  cover       : true
+  date        : !!str 2015-04-06T11:21:33-05:00
+  description : The delicious end product.
+  geography   :
+    id        : 3672486
+    name      : Pereira
+    coord     : [ -75.69449, 4.814515 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4066787.JPG
+  cover       : false
+  date        : !!str 2015-04-06T11:37:21-05:00
+  description : Traditional coffee pickers.
+  geography   :
+    id        : 3672486
+    name      : Pereira
+    coord     : [ -75.69449, 4.814515 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4076793.JPG
+  cover       : false
+  date        : !!str 2015-04-07T13:32:21-05:00
+  description : Plaza de Bolívar.
+  geography   :
+    id        : 3672486
+    name      : Pereira
+    coord     : [ -75.69449, 4.814515 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4076798.JPG
+  cover       : false
+  date        : !!str 2015-04-07T13:48:44-05:00
+  description : One of many market streets.
+  geography   :
+    id        : 3672486
+    name      : Pereira
+    coord     : [ -75.69449, 4.814515 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
