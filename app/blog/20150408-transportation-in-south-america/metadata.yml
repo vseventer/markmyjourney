@@ -1,0 +1,370 @@
+- src         : P1104057.JPG
+  cover       : false
+  date        : !!str 2015-01-10T19:02:00-02:00
+  description : The bus that brought us from Paraty to the ferry to Ilha Grande.
+  geography   :
+    id        : 3455036
+    name      : Paraty
+    coord     : [ -44.71306, -23.21778 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : IMG_3610.JPG
+  cover       : false
+  date        : !!str 2015-01-11T15:25:44-02:00
+  description : The ferry to Ilha Grande.
+  geography   :
+    id        : 3455036
+    name      : Paraty
+    coord     : [ -44.71306, -23.21778 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1124114.JPG
+  cover       : false
+  date        : !!str 2015-01-12T19:13:27-02:00
+  description : Water taxi to transport people between beaches.
+  geography   :
+    id        : 3473240
+    name      : Abraão
+    coord     : [ -44.16749333333333, -23.140511666666665 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1154260.JPG
+  cover       : false
+  date        : !!str 2015-01-15T20:48:44-02:00
+  description : Cable car transporting people up Sugarloaf Mountain.
+  geography   :
+    id        : 3451190
+    name      : Rio de Janeiro
+    coord     : [ -43.15623, -22.949865 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BR, name: Brazil }
+- src         : P1204351.JPG
+  cover       : false
+  date        : !!str 2015-01-20T13:26:54-03:00
+  description : Bus connecting the Puerto Iguazú with the Argentinan side of the Iguazú Falls.
+  geography   :
+    id        : 3429777
+    name      : Puerto Iguazú
+    coord     : [ -54.455090000000006, -25.682778333333335 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1204352.JPG
+  cover       : false
+  date        : !!str 2015-01-20T13:46:48-03:00
+  description : Train for transportation within the Iguazú Falls park.
+  geography   :
+    id        : 3429777
+    name      : Puerto Iguazú
+    coord     : [ -54.455090000000006, -25.682778333333335 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1234504.JPG
+  cover       : false
+  date        : !!str 2015-01-23T19:49:58-02:00
+  description : Ferry from Buenos Aires to Colonia, Uruguay.
+  geography   :
+    id        : 3443013
+    name      : Colonia del Sacramento
+    coord     : [ -57.83976, -34.46262 ]
+    continent : { code: SA, name: South America }
+    country   : { code: UY, name: Uruguay }
+- src         : P1254530.JPG
+  cover       : false
+  date        : !!str 2015-01-25T20:09:16-03:00
+  description : Bus to El Chaltén.
+  geography   :
+    id        : 3858677
+    name      : El Calafate
+    coord     : [ -72.27682, -50.34075 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1294687.JPG
+  cover       : false
+  date        : !!str 2015-01-29T10:07:34-03:00
+  description : Bus to the Perito Moreno Glacier, also departing from El Calafate.
+  geography   :
+    id        : 3858677
+    name      : El Calafate
+    coord     : [ -72.27682, -50.34075 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P1304691.JPG
+  cover       : false
+  date        : !!str 2015-01-30T11:26:41-03:00
+  description : Tour bus in Torres del Paine, not recommended as the unsealed windows let a lot of dust in due to the gravel roads.
+  geography   :
+    id        : 7536052
+    name      : Torres del Paine
+    coord     : [ -72.34471166666667, -51.259033333333335 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2014874.JPG
+  cover       : false
+  date        : !!str 2015-02-01T09:17:20-03:00
+  description : Bus from Puerto Natales to Ushuaia (and back).
+  geography   :
+    id        : 3874958
+    name      : Puerto Natales
+    coord     : [ -72.48745, -51.72363 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2024889.JPG
+  cover       : false
+  date        : !!str 2015-02-02T18:50:00-03:00
+  description : Boat showing us around the Beagle Channel.
+  geography   :
+    id        : 3833367
+    name      : Ushuaia
+    coord     : [ -68.30215, -54.807539999999996 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2095063.JPG
+  cover       : false
+  date        : !!str 2015-02-09T15:11:45-05:00
+  description : Rental car on Easter Island.
+  geography   :
+    id        : 4030726
+    name      : Easter Island
+    coord     : [ -109.42969166666667, -27.15004833333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2125226.JPG
+  cover       : false
+  date        : !!str 2015-02-12T17:21:13-05:00
+  description : Scooter rental on Easter Island. Uncommonly, we found renting a simple scooter required a motorbike license in addition to car license.
+  geography   :
+    id        : 4030726
+    name      : Easter Island
+    coord     : [ -109.42969166666667, -27.15004833333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2155285.JPG
+  cover       : false
+  date        : !!str 2015-02-15T19:07:39-03:00
+  description : Cable car in Santiago.
+  geography   :
+    id        : 3871336
+    name      : Santiago
+    coord     : [ -70.64827, -33.45694 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2165310.JPG
+  cover       : false
+  date        : !!str 2015-02-16T15:29:42-03:00
+  description : Bus from Santiago to Mendoza.
+  geography   :
+    id        : 3844421
+    name      : Mendoza
+    coord     : [ -68.82717, -32.89084 ]
+    continent : { code: SA, name: South America }
+    country   : { code: AR, name: Argentina }
+- src         : P2225370.JPG
+  cover       : false
+  date        : !!str 2015-02-22T16:19:15-03:00
+  description : Excellent, yet expensive, taxi service found in major cities in Chile.
+  geography   :
+    id        : 3871781
+    name      : San Pedro de Atacama
+    coord     : [ -68.24396, -22.903914999999998 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2225413.JPG
+  cover       : true
+  date        : !!str 2015-02-22T21:58:36-03:00
+  description : Our jeep in San Pedro got stuck on a sandy ridge. We continued on foot.
+  geography   :
+    id        : 3871781
+    name      : San Pedro de Atacama
+    coord     : [ -68.24396, -22.903914999999998 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2245437.JPG
+  cover       : false
+  date        : !!str 2015-02-24T09:50:25-03:00
+  description : Tour bus bringing us to Geyser del Tatio.
+  geography   :
+    id        : 3871781
+    name      : San Pedro de Atacama
+    coord     : [ -68.24396, -22.903914999999998 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CL, name: Chile }
+- src         : P2255498.JPG
+  cover       : false
+  date        : !!str 2015-02-25T10:53:46-04:00
+  description : Our home for three days during the Salar de Uyuni tour.
+  geography   :
+    id        : 3901900
+    name      : Salar de Uyuni
+    coord     : [ -66.82590833333333, -20.461199999999998 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P2275798.JPG
+  cover       : false
+  date        : !!str 2015-02-27T19:29:56-04:00
+  description : Terrible bus from Uyuni to La Paz. Not a smooth ride, and on top the bus let in local people who slept under the seats.
+  geography   :
+    id        : 3901900
+    name      : Salar de Uyuni
+    coord     : [ -66.82590833333333, -20.461199999999998 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3015846.JPG
+  cover       : false
+  date        : !!str 2015-03-01T12:25:12-04:00
+  description : Bus carrying all the bikes on the Death Road.
+  geography   :
+    id        : 3911925
+    name      : La Paz
+    coord     : [ -67.81698833333333, -16.29653666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3035907.JPG
+  cover       : false
+  date        : !!str 2015-03-03T10:13:02-04:00
+  description : Tiniest plane ever made for a bumpy ride from La Paz to Rurrenabaque.
+  geography   :
+    id        : 6300783
+    name      : Rurrenabaque
+    coord     : [ -67.50190166666667, -14.423818333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3046078.JPG
+  cover       : false
+  date        : !!str 2015-03-04T11:48:51-04:00
+  description : Local transport in Rurrenabaque and the Amazon.
+  geography   :
+    id        : 3906209
+    name      : Rurrenabaque
+    coord     : [ -67.69754666666667, -14.5524 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3066143.JPG
+  cover       : false
+  date        : !!str 2015-03-06T09:15:51-04:00
+  description : Bus from La Paz to Copacabana. At the border with Peru, we had to switch to a different bus.
+  geography   :
+    id        : 3919189
+    name      : Copacabana
+    coord     : [ -68.83181833333333, -16.20836333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: BO, name: Bolivia }
+- src         : P3066200.JPG
+  cover       : false
+  date        : !!str 2015-03-06T18:05:41-05:00
+  description : The bus from the Peruvian border to Cusco. Way more comfortable than its Bolivian counterpart.
+  geography   :
+    id        : 3931275
+    name      : Puno
+    coord     : [ -69.09446166666666, -16.226866666666666 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116248.JPG
+  cover       : false
+  date        : !!str 2015-03-11T08:08:42-05:00
+  description : Bus from Cusco to the train to Machu Picchu.
+  geography   :
+    id        : 3941583
+    name      : Cusco
+    coord     : [ -72.22019333333334, -13.272833333333335 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : P3116251.JPG
+  cover       : false
+  date        : !!str 2015-03-11T08:25:50-05:00
+  description : The train to Machu Picchu - slow, but very scenic. Comes with a hefty price tag of $150 pp.
+  geography   :
+    id        : 3941583
+    name      : Cusco
+    coord     : [ -72.22019333333334, -13.272833333333335 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : IMG_3967.JPG
+  cover       : false
+  date        : !!str 2015-03-14T16:15:35-05:00
+  description : A taxi we never should have taken in Lima. Picture says it all.
+  geography   :
+    id        : 3936452
+    name      : Lima
+    coord     : [ -76.45, -11.85 ]
+    continent : { code: SA, name: South America }
+    country   : { code: PE, name: Peru }
+- src         : IMG_4019.JPG
+  cover       : false
+  date        : !!str 2015-03-17T10:10:13-05:00
+  description : The near-empty plane from Lima to Guayaquil. Due to the flight being international, tickets ran very expensive (think $500+) for this one hour flight. We managed to get a good deal, avoiding a 24hr bus ride.
+  geography   :
+    id        : 3681259
+    name      : Guayaquil
+    coord     : [ -73.11667, 7.28333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P3226418.JPG
+  cover       : false
+  date        : !!str 2015-03-22T11:54:54-06:00
+  description : Water taxi on the Galápagos.
+  geography   :
+    id        : 3652764
+    name      : Puerto Ayora
+    coord     : [ -90.30987166666667, -0.7509866666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3236441.JPG
+  cover       : false
+  date        : !!str 2015-03-23T08:04:33-06:00
+  description : Boat for discovering North Seymour.
+  geography   :
+    id        : 3658931
+    name      : Galapagos Islands
+    coord     : [ -90.5, 0 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3286609.JPG
+  cover       : false
+  date        : !!str 2015-03-28T17:28:59-05:00
+  description : Bus from Quito to Baños - for $3.50 this was a bargain, and on top they showed a (Spanish) movie too!
+  geography   :
+    id        : 7870285
+    name      : Baños de Agua Santa
+    coord     : [ -78.42566500000001, -1.419265 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P3286608.JPG
+  cover       : false
+  date        : !!str 2015-03-28T12:37:54-05:00
+  description : Bus bringing us to the swing in Baños. Very plain, but also only 1$.
+  geography   :
+    id        : 7870285
+    name      : Baños de Agua Santa
+    coord     : [ -78.42566500000001, -1.419265 ]
+    continent : { code: SA, name: South America }
+    country   : { code: EC, name: Ecuador }
+- src         : P4036686.JPG
+  cover       : false
+  date        : !!str 2015-04-03T14:01:38-05:00
+  description : "Metro buses in Bogotá, although Lima and Quito had the same set-up: separate lanes and double buses driving like crazy."
+  geography   :
+    id        : 3688689
+    name      : Bogotá
+    coord     : [ -74.06025666666666, 4.667698333333334 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4056753.JPG
+  cover       : false
+  date        : !!str 2015-04-05T13:46:12-05:00
+  description : Bus from Pereira to Salento, plain and cheap (2.50$).
+  geography   :
+    id        : 3672486
+    name      : Pereira
+    coord     : [ -75.56994, 4.63735 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4056693.JPG
+  cover       : false
+  date        : !!str 2015-04-05T09:03:16-05:00
+  description : Jeep dropping people off at the Cocora Valley. The jeep is tiny yet carrying 10+ people was no exception.
+  geography   :
+    id        : 3670352
+    name      : Salento
+    coord     : [ -75.48574666666667, 4.638628333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
