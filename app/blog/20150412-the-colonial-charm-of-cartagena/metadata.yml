@@ -1,0 +1,95 @@
+- src         : P4106807.JPG
+  cover       : false
+  date        : !!str 2015-04-10T14:11:50-05:00
+  description : The Clock Tower is the main entrance gate into the city.
+  geography   :
+    id        : 8199158
+    name      : Torre del Reloj
+    coord     : [ -75.54886, 10.42267 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4106809.JPG
+  cover       : false
+  date        : !!str 2015-04-10T14:14:34-05:00
+  description : Square full of restaurants right next to the Clock Tower.
+  geography   :
+    id        : 8199159
+    name      : Plaza de la Aduana
+    coord     : [ -75.55028, 10.4222 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4106811.JPG
+  cover       : false
+  date        : !!str 2015-04-10T14:26:10-05:00
+  description : Church.
+  geography   :
+    id        : 3734415
+    name      : San Pedro Claver
+    coord     : [ -77.30111, 3.28917 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4106814.JPG
+  cover       : true
+  date        : !!str 2015-04-10T14:34:02-05:00
+  description : Plaza de Santa Teresa.
+  geography   : null
+- src         : P4126848.JPG
+  cover       : false
+  date        : !!str 2015-04-12T14:37:01-05:00
+  description : Balcony-lined streets of the historic center.
+  geography   : null
+- src         : P4106821.JPG
+  cover       : false
+  date        : !!str 2015-04-10T14:42:55-05:00
+  description : One of many small squares in the city.
+  geography   :
+    id        : 8199155
+    name      : Plaza Santo Domingo
+    coord     : [ -75.55228166666666, 10.4225 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4106824.JPG
+  cover       : false
+  date        : !!str 2015-04-10T14:47:44-05:00
+  description : Parque de Bolívar.
+  geography   : null
+- src         : P4106826.JPG
+  cover       : false
+  date        : !!str 2015-04-10T16:32:07-05:00
+  description : High-rise buildings of Bocagrande.
+  geography   : null
+- src         : P4106827.JPG
+  cover       : false
+  date        : !!str 2015-04-10T16:36:48-05:00
+  description : Castle of Cartagena.
+  geography   :
+    id        : 7871011
+    name      : Castillo San Felipe de Barajas
+    coord     : [ -75.54020166666666, 10.421801666666665 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4106830.JPG
+  cover       : false
+  date        : !!str 2015-04-10T17:46:42-05:00
+  description : Statue of India Catalina, an important figure in the Spanish conquest of Colombia.
+  geography   : null
+- src         : P4116839.JPG
+  cover       : false
+  date        : !!str 2015-04-11T14:26:07-05:00
+  description : The best beach of Cartagena, which is actually located about one hour south.
+  geography   :
+    id        : 3830544
+    name      : Playa Blanca
+    coord     : [ -75.608795, 10.222888333333334 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4116842.JPG
+  cover       : false
+  date        : !!str 2015-04-11T14:39:57-05:00
+  description : Local vendors took over the waterfront, but still the beach was enjoyable.
+  geography   :
+    id        : 3830544
+    name      : Playa Blanca
+    coord     : [ -75.608795, 10.222888333333334 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
