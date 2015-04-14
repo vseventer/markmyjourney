@@ -1,0 +1,250 @@
+- src         : IMG_4172.JPG
+  cover       : false
+  date        : !!str 2015-04-02T18:49:25-05:00
+  description : Poker beer - popular in Bogotá (our favorite).
+  geography   :
+    id        : 3688689
+    name      : Bogotá
+    coord     : [ -74.08175, 4.60971 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : IMG_4230.JPG
+  cover       : false
+  date        : !!str 2015-04-06T10:43:15-05:00
+  description : Araza fruit ice cream (very similar to passion fruit in taste) with casquitos; a jelly made from the outer part of the coffee cherry fruit (very nice sweet and sour taste).
+  geography   :
+    id        : 3672487
+    name      : Pereira
+    coord     : [ -75.69611, 4.81333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : IMG_4242.JPG
+  cover       : false
+  date        : !!str 2015-04-06T11:21:33-05:00
+  description : Amazing Arabica coffee.
+  geography   :
+    id        : 3672487
+    name      : Pereira
+    coord     : [ -75.69611, 4.81333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : IMG_4257.JPG
+  cover       : false
+  date        : !!str 2015-04-08T20:04:06-05:00
+  description : "Choclomelos: chocolate covered marshmallows, not as good as the German version."
+  geography   :
+    id        : 3672487
+    name      : Pereira
+    coord     : [ -75.69611, 4.81333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : IMG_4286.JPG
+  cover       : false
+  date        : !!str 2015-04-13T18:57:12-05:00
+  description : Colombian rum - spicy flavors and quite smooth.
+  geography   :
+    id        : 3688689
+    name      : Bogotá
+    coord     : [ -74.08175, 4.60971 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026637.JPG
+  cover       : false
+  date        : !!str 2015-04-02T12:46:41-05:00
+  description : "Ajiaco: a potato-based soup with corn and capers, topped with sour cream."
+  geography   :
+    id        : 3688689
+    name      : Bogotá
+    coord     : [ -74.08175, 4.60971 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026638.JPG
+  cover       : false
+  date        : !!str 2015-04-02T12:47:29-05:00
+  description : "Bandeja Paisa: a heavy plate consisting of chorizo sausages, grilled steak, fried pork rind, rice, and beans. Topped with a fried egg, avocado, and sweet banana chips. It’s considered the national dish of Colombia. We found one was plenty for two people to share, however it was a bit too heavy for us."
+  geography   :
+    id        : 3688689
+    name      : Bogotá
+    coord     : [ -74.08175, 4.60971 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026640.JPG
+  cover       : false
+  date        : !!str 2015-04-02T12:49:07-05:00
+  description : "Hot chocolate (non-sweetened) with cheese - the cheese did not alter the taste of the hot chocolate drastically, however it was an interesting taste."
+  geography   :
+    id        : 3688687
+    name      : Bogotá
+    coord     : [ -81.35, 13.33333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026642.JPG
+  cover       : false
+  date        : !!str 2015-04-02T13:14:40-05:00
+  description : "Maracuya coconut cocada: super sweet but the sour passion fruit taste balanced the sugar and coconut very well."
+  geography   :
+    id        : 3688689
+    name      : Bogotá
+    coord     : [ -74.08175, 4.60971 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026643.JPG
+  cover       : false
+  date        : !!str 2015-04-02T13:43:41-05:00
+  description : "Aguardiente: anise liquor that is super cheap and popular in Colombia (we didn’t like it because of the strong anise taste as it resembled the green fairy quite a bit)."
+  geography   :
+    id        : 3688689
+    name      : Bogotá
+    coord     : [ -74.08175, 4.60971 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4026664.JPG
+  cover       : false
+  date        : !!str 2015-04-02T16:15:28-05:00
+  description : "Obleas: thin wafer with condensed milk in the middle."
+  geography   :
+    id        : 3688689
+    name      : Bogotá
+    coord     : [ -74.08175, 4.60971 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4036673.JPG
+  cover       : false
+  date        : !!str 2015-04-03T11:32:16-05:00
+  description : "Arepa cornmeal pancake with gooey cheese in the middle (yummy, the corn version not so yummy)."
+  geography   :
+    id        : 3688689
+    name      : Bogotá
+    coord     : [ -74.08175, 4.60971 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4056747.JPG
+  cover       : false
+  date        : !!str 2015-04-05T12:02:40-05:00
+  description : Corn Arepa with cheese.
+  geography   :
+    id        : 3670353
+    name      : Salento
+    coord     : [ -75.56985999999999, 4.637393333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4036680.JPG
+  cover       : false
+  date        : !!str 2015-04-03T13:03:57-05:00
+  description : Aguilar beer - we preferred the regular one instead of the light version.
+  geography   :
+    id        : 3688689
+    name      : Bogotá
+    coord     : [ -74.08175, 4.60971 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4036681.JPG
+  cover       : false
+  date        : !!str 2015-04-03T13:10:00-05:00
+  description : French fries sprinkled with paprika, delicious.
+  geography   :
+    id        : 3688689
+    name      : Bogotá
+    coord     : [ -74.08175, 4.60971 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4036682.JPG
+  cover       : false
+  date        : !!str 2015-04-03T13:33:58-05:00
+  description : "Delicious ice cream from Crepes & Waffles, close in quality and price to Argentinan ice cream."
+  geography   :
+    id        : 3688689
+    name      : Bogotá
+    coord     : [ -74.08175, 4.60971 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4046688.JPG
+  cover       : false
+  date        : !!str 2015-04-04T20:22:26-05:00
+  description : Costena - a beer we found in Pereira - not good.
+  geography   :
+    id        : 3672487
+    name      : Pereira
+    coord     : [ -75.69611, 4.81333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4056749.JPG
+  cover       : false
+  date        : !!str 2015-04-05T12:19:03-05:00
+  description : "Canelazo, a hot cinnamon drink with rum - yum!"
+  geography   :
+    id        : 3670353
+    name      : Salento
+    coord     : [ -75.56985999999999, 4.637393333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4056751.JPG
+  cover       : false
+  date        : !!str 2015-04-05T12:31:08-05:00
+  description : "Fried trout with plantain chip - tasteless and not good for you, we would recommend spending a little extra for the grilled version."
+  geography   :
+    id        : 3670353
+    name      : Salento
+    coord     : [ -75.56985999999999, 4.637393333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4076803.JPG
+  cover       : false
+  date        : !!str 2015-04-07T14:29:38-05:00
+  description : Cordilleras Artisan beer - quite tasteful compared to most Colombian beers.
+  geography   :
+    id        : 3672486
+    name      : Pereira
+    coord     : [ -75.68985666666667, 4.813706666666667 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4116831.JPG
+  cover       : true
+  date        : !!str 2015-04-11T13:25:32-05:00
+  description : "Club Colombia, the most popular beer in Colombia, but not our favorite."
+  geography   :
+    id        : 3830544
+    name      : Playa Blanca
+    coord     : [ -75.60656833333333, 10.228955000000001 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4126846.JPG
+  cover       : false
+  date        : !!str 2015-04-12T14:02:11-05:00
+  description : "Grilled bass with patroness (green plantains made into thick pancakes) with Arroz con Coco (rice cooked in coconut milk, sugar, and raisins). We were quite disappointed with the rice the raisins overpowered the dish. The fish, on the other hand, was very well prepared."
+  geography   :
+    id        : 3687247
+    name      : Cartagena
+    coord     : [ -75.547645, 10.421478333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4126850.JPG
+  cover       : false
+  date        : !!str 2015-04-12T14:47:32-05:00
+  description : Coconut and lime limonade - we did not like the mix of the two flavors.
+  geography   :
+    id        : 3687247
+    name      : Cartagena
+    coord     : [ -75.547645, 10.421478333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4126853.JPG
+  cover       : false
+  date        : !!str 2015-04-12T15:14:58-05:00
+  description : Water in a bag? How does that work?
+  geography   :
+    id        : 3687247
+    name      : Cartagena
+    coord     : [ -75.547645, 10.421478333333333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4136873.JPG
+  cover       : false
+  date        : !!str 2015-04-13T19:33:58-05:00
+  description : Ron Viejo de Caldas - local spicy Colombian rum.
+  geography   :
+    id        : 3688689
+    name      : Bogotá
+    coord     : [ -74.08175, 4.60971 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
