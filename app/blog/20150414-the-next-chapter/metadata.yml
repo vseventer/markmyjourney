@@ -1,0 +1,40 @@
+- src         : P4136858.JPG
+  cover       : false
+  date        : !!str 2015-04-13T15:52:31-05:00
+  description : Taking a break from backpacking.
+  geography   :
+    id        : 6510489
+    name      : Casa Dann Carlton
+    coord     : [ -74.05406, 4.68089 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4136855.JPG
+  cover       : false
+  date        : !!str 2015-04-13T11:40:26-05:00
+  description : The pool part of the hotel spa, which turned out to be quite enjoyable.
+  geography   :
+    id        : 6510489
+    name      : Casa Dann Carlton
+    coord     : [ -74.05406, 4.68089 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : IMG_4305.JPG
+  cover       : false
+  date        : !!str 2015-04-13T19:24:44-05:00
+  description : Happy hour in the bar means free fancy drinks.
+  geography   :
+    id        : 6510489
+    name      : Casa Dann Carlton
+    coord     : [ -74.05406, 4.68089 ]
+    continent : { code: SA, name: South America }
+    country   : { code: CO, name: Colombia }
+- src         : P4146877.JPG
+  cover       : true
+  date        : !!str 2015-04-14T14:34:39-04:30
+  description : Our plane from Bogotá to Fort Lauderdale.
+  geography   :
+    id        : 7730179
+    name      : El Dorado Airport
+    coord     : [ -61.58333, 6.73333 ]
+    continent : { code: SA, name: South America }
+    country   : { code: VE, name: Venezuela }

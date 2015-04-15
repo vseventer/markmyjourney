@@ -211,7 +211,7 @@
 - src         : P4126846.JPG
   cover       : false
   date        : !!str 2015-04-12T14:02:11-05:00
-  description : "Grilled bass with patroness (green plantains made into thick pancakes) with Arroz con Coco (rice cooked in coconut milk, sugar, and raisins). We were quite disappointed with the rice the raisins overpowered the dish. The fish, on the other hand, was very well prepared."
+  description : "Grilled bass with patroness (green plantains made into thick pancakes) with Arroz con Coco (rice cooked in coconut milk, sugar, and raisins). We were quite disappointed with the rice as the raisins overpowered the dish. The fish, on the other hand, was very well prepared."
   geography   :
     id        : 3687247
     name      : Cartagena
@@ -221,7 +221,7 @@
 - src         : P4126850.JPG
   cover       : false
   date        : !!str 2015-04-12T14:47:32-05:00
-  description : Coconut and lime limonade - we did not like the mix of the two flavors.
+  description : Coconut and lime lemonade - we did not like the mix of the two flavors.
   geography   :
     id        : 3687247
     name      : Cartagena
