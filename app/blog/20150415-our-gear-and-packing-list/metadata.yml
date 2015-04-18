@@ -1,0 +1,60 @@
+- src         : PA281879.JPG
+  cover       : false
+  date        : !!str 2014-10-28T23:19:16+01:00
+  description : "Herta’s clothing items."
+  geography   : null
+- src         : PA281882.JPG
+  cover       : true
+  date        : !!str 2014-10-28T23:30:42+01:00
+  description : "Mark’s clothing items."
+  geography   : null
+- src         : PA281875.JPG
+  cover       : false
+  date        : !!str 2014-10-28T22:48:10+01:00
+  description : Special travel underwear.
+  geography   : null
+- src         : PA281874.JPG
+  cover       : false
+  date        : !!str 2014-10-28T22:46:39+01:00
+  description : Bathing suit.
+  geography   : null
+- src         : IMG_3156.JPG
+  cover       : false
+  date        : !!str 2014-10-23T06:25:10+02:00
+  description : Electronics.
+  geography   : null
+- src         : PA221741.JPG
+  cover       : false
+  date        : !!str 2014-10-23T04:36:19+02:00
+  description : Toiletries.
+  geography   : null
+- src         : PA221750.JPG
+  cover       : false
+  date        : !!str 2014-10-23T04:15:08+02:00
+  description : Make-up and some other toiletries.
+  geography   : null
+- src         : PA221735.JPG
+  cover       : false
+  date        : !!str 2014-10-23T04:15:08+02:00
+  description : "Wipes, refreshing towels, and other hygiene products."
+  geography   : null
+- src         : PA221752.JPG
+  cover       : false
+  date        : !!str 2014-10-23T04:15:08+02:00
+  description : "Small medical kit, medication, and musquito repellent."
+  geography   : null
+- src         : PA221754.JPG
+  cover       : false
+  date        : !!str 2014-10-23T05:00:10+02:00
+  description : Miscellaneous items.
+  geography   : null
+- src         : PA221760.JPG
+  cover       : false
+  date        : !!str 2014-10-23T05:22:11+02:00
+  description : "Passports, immunization records, and visas."
+  geography   : null
+- src         : PA281884.JPG
+  cover       : false
+  date        : !!str 2014-10-28T23:55:20+01:00
+  description : All packed in extremely handy packing cubes.
+  geography   : null

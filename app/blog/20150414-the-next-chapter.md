@@ -62,7 +62,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 ## Colombia
 * Days: **13**,
 * Budget: **$1040** ($40 pppd),
-* Expenses: **$950** ($36.50 pppd).
+* Expenses: **$949** ($36.50 pppd).
 
 <span class="img-thumbnail">![Expenses Breakdown](/images/budget-colombia.png)</span>
 
@@ -71,7 +71,7 @@ We visited eight countries in South America over the past three months. After ac
 
 * Days: **98**,
 * Budget: **$10,905** ($55.50 pppd),
-* Expenses: **$10,575** ($54 pppd),
+* Expenses: **$10,574** ($54 pppd),
 * Additional flight costs: **$6,806** ($3,403 pp),
 * Additional visa costs: **$480** (Herta).
 
@@ -80,7 +80,7 @@ Below are the numbers for your reference - we are extremely happy with what we s
 
 * Days: **167**,
 * Budget: **$16,015** ($48 pppd),
-* Expenses: **$15,679** ($47 pppd),
+* Expenses: **$15,678** ($47 pppd),
 * Additional flight costs: **$8,799** ($4,440 pp),
 * Additional visa costs: **$910** ($160 Mark, $750 Herta).
 
