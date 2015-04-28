@@ -1,0 +1,233 @@
+- src         : P4166881.JPG
+  cover       : false
+  date        : !!str 2015-04-16T14:11:08-07:00
+  description : Scenic view of the Multnomah Falls.
+  geography   :
+    id        : 5742142
+    name      : Multnomah Falls
+    coord     : [ -122.07917777777777, 45.58857777777778 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : IMG_0689.JPG
+  cover       : false
+  date        : !!str 2015-04-16T12:09:15-07:00
+  description : null
+  geography   :
+    id        : 5742142
+    name      : Multnomah Falls
+    coord     : [ -122.07917777777777, 45.58857777777778 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : P4166908.JPG
+  cover       : false
+  date        : !!str 2015-04-16T16:21:43-07:00
+  description : Views from Portland ’s Mount Hood.
+  geography   :
+    id        : 5741677
+    name      : Mount Hood National Forest
+    coord     : [ -121.709835, 45.32995833333334 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : P4176915.JPG
+  cover       : false
+  date        : !!str 2015-04-17T13:41:33-07:00
+  description : Food trucks.
+  geography   :
+    id        : 5746545
+    name      : Portland, OR
+    coord     : [ -122.67749833333333, 45.51903333333333 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : P4176922.JPG
+  cover       : false
+  date        : !!str 2015-04-17T15:36:04-07:00
+  description : Waterfront.
+  geography   :
+    id        : 6348498
+    name      : Governor Tom McCall Waterfront Park
+    coord     : [ -122.67290666666668, 45.515075 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : P4186935.JPG
+  cover       : false
+  date        : !!str 2015-04-18T12:22:37-07:00
+  description : It was way too cold, but an hour outside Portland this is a popular weekend destination (in the summer, we guess).
+  geography   :
+    id        : 5750984
+    name      : Seaside, OR
+    coord     : [ -123.92954166666667, 45.995515 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : P4186961.JPG
+  cover       : false
+  date        : !!str 2015-04-18T14:22:52-07:00
+  description : Crossing from Oregon into Washington state.
+  geography   :
+    id        : 5793644
+    name      : Point Ellice
+    coord     : [ -123.85982666666666, 46.24930333333334 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : P4196964.JPG
+  cover       : false
+  date        : !!str 2015-04-19T11:26:11-07:00
+  description : False Creek leading into Vancouver.
+  geography   :
+    id        : 8030175
+    name      : Granville bridge
+    coord     : [ -123.13544166666668, 49.276095 ]
+    continent : { code: NA, name: North America }
+    country   : { code: CA, name: Canada }
+- src         : P4196967.JPG
+  cover       : false
+  date        : !!str 2015-04-19T11:56:27-07:00
+  description : Harbors around Granville Island.
+  geography   :
+    id        : 7910963
+    name      : Granville Island
+    coord     : [ -123.13951333333334, 49.27176 ]
+    continent : { code: NA, name: North America }
+    country   : { code: CA, name: Canada }
+- src         : P4196973.JPG
+  cover       : false
+  date        : !!str 2015-04-19T13:01:27-07:00
+  description : Popular waterfront for a walk, run, or bike-ride.
+  geography   :
+    id        : 5951372
+    name      : False Creek
+    coord     : [ -123.12568833333333, 49.26807 ]
+    continent : { code: NA, name: North America }
+    country   : { code: CA, name: Canada }
+- src         : IMG_0003.JPG
+  cover       : false
+  date        : !!str 2015-04-20T20:58:40-07:00
+  description : Old steam clock striking nine o ’clock.
+  geography   :
+    id        : 7521579
+    name      : Gastown
+    coord     : [ -123.10897777777777, 49.28423333333333 ]
+    continent : { code: NA, name: North America }
+    country   : { code: CA, name: Canada }
+- src         : P4196987.JPG
+  cover       : false
+  date        : !!str 2015-04-19T19:57:24-07:00
+  description : Sunset from the Vancouver Tower.
+  geography   : null
+- src         : P4207000.JPG
+  cover       : false
+  date        : !!str 2015-04-20T12:12:46-07:00
+  description : Bridge from beautiful and large Stanley Park.
+  geography   :
+    id        : 6155243
+    name      : Stanley Park National Historic Site of Canada
+    coord     : [ -123.12093166666666, 49.2988 ]
+    continent : { code: NA, name: North America }
+    country   : { code: CA, name: Canada }
+- src         : P4207017.JPG
+  cover       : false
+  date        : !!str 2015-04-20T14:01:52-07:00
+  description : Suspension bridge turned into a tourist attraction.
+  geography   :
+    id        : 7645853
+    name      : Capilano Suspension Bridge
+    coord     : [ -123.11386166666666, 49.34351166666667 ]
+    continent : { code: NA, name: North America }
+    country   : { code: CA, name: Canada }
+- src         : P4207019.JPG
+  cover       : false
+  date        : !!str 2015-04-20T16:28:16-07:00
+  description : Vancouver has a Dutch Shopping Center filled with delicious Dutch treats.
+  geography   :
+    id        : 7798683
+    name      : New Westminster
+    coord     : [ -122.89327166666668, 49.222335 ]
+    continent : { code: NA, name: North America }
+    country   : { code: CA, name: Canada }
+- src         : IMG_0014.JPG
+  cover       : false
+  date        : !!str 2015-04-21T16:31:01-07:00
+  description : The first Starbucks, dated 1912.
+  geography   :
+    id        : 5806796
+    name      : Pike Place Market
+    coord     : [ -122.34201944444445, 47.609566666666666 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : IMG_0017.JPG
+  cover       : false
+  date        : !!str 2015-04-21T16:34:13-07:00
+  description : Public market selling mostly fish.
+  geography   :
+    id        : 5806796
+    name      : Pike Place Market
+    coord     : [ -122.34201944444445, 47.609566666666666 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : IMG_0023.JPG
+  cover       : false
+  date        : !!str 2015-04-21T18:45:05-07:00
+  description : View from Seattle ’s Space Needle.
+  geography   :
+    id        : 5811572
+    name      : Space Needle
+    coord     : [ -122.34835833333332, 47.6199 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : IMG_0036.JPG
+  cover       : true
+  date        : !!str 2015-04-22T12:34:38-07:00
+  description : Seattle waterfront.
+  geography   :
+    id        : 5793653
+    name      : Elliott Bay
+    coord     : [ -122.35291388888888, 47.597858333333335 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : IMG_0040.JPG
+  cover       : false
+  date        : !!str 2015-04-22T12:36:25-07:00
+  description : On the watertaxi.
+  geography   :
+    id        : 5793653
+    name      : Elliott Bay
+    coord     : [ -122.35291388888888, 47.597858333333335 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : IMG_0048.JPG
+  cover       : false
+  date        : !!str 2015-04-22T13:24:11-07:00
+  description : Small square in the historic center of Seattle.
+  geography   :
+    id        : 5806964
+    name      : Pioneer Square
+    coord     : [ -122.33459444444443, 47.60175 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : IMG_0082.JPG
+  cover       : false
+  date        : !!str 2015-04-23T16:05:01-07:00
+  description : Seattle ’s underground resulted from a city-wide fire in 1889.
+  geography   :
+    id        : 7534787
+    name      : Seattle Underground
+    coord     : [ -122.37910555555555, 47.66784722222222 ]
+    continent : { code: NA, name: North America }
+    country   : { code: US, name: United States }
+- src         : IMG_0056.JPG
+  cover       : false
+  date        : !!str 2015-04-22T15:14:04-07:00
+  description : Old timers at the car museum.
+- src         : IMG_0068.JPG
+  cover       : false
+  date        : !!str 2015-04-22T15:59:56-07:00
+  description : One of our favorites.
+- src         : IMG_0097.JPG
+  cover       : false
+  date        : !!str 2015-04-24T14:13:14-07:00
+  description : Tulip exposition in the Roozengaarde in the Skagit Valley.
+  geography   : null
+- src         : IMG_0119.JPG
+  cover       : false
+  date        : !!str 2015-04-25T12:19:34-07:00
+  description : View of Mt. Rainier on the way to Los Angeles.
+  geography   : null
