@@ -206,7 +206,7 @@
 - src         : IMG_0082.JPG
   cover       : false
   date        : !!str 2015-04-23T16:05:01-07:00
-  description : Seattle ’s underground resulted from a city-wide fire in 1889.
+  description : Seattle’s underground resulted from a city-wide fire in 1889.
   geography   :
     id        : 7534787
     name      : Seattle Underground
@@ -216,7 +216,7 @@
 - src         : IMG_0056.JPG
   cover       : false
   date        : !!str 2015-04-22T15:14:04-07:00
-  description : Old timers at the car museum.
+  description : Old timers at The LeMay - America’s Car Museum.
 - src         : IMG_0068.JPG
   cover       : false
   date        : !!str 2015-04-22T15:59:56-07:00
