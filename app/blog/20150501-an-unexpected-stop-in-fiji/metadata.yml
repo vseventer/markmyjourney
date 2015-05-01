@@ -1,0 +1,110 @@
+- src         : IMG_0128.JPG
+  cover       : false
+  date        : !!str 2015-04-28T08:20:23+12:00
+  description : The view from our room.
+  geography   :
+    id        : 6495339
+    name      : Fiji Beach Resort and Spa Managed by Hilton
+    coord     : [ 177.3766, -17.7726 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: FJ, name: Fiji }
+- src         : IMG_4420.JPG
+  cover       : false
+  date        : !!str 2015-04-27T13:58:18+12:00
+  description : Pool.
+  geography   :
+    id        : 6495339
+    name      : Fiji Beach Resort and Spa Managed by Hilton
+    coord     : [ 177.3766, -17.7726 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: FJ, name: Fiji }
+- src         : IMG_4427.JPG
+  cover       : false
+  date        : !!str 2015-04-27T14:21:24+12:00
+  description : Our private boat for the day.
+  geography   :
+    id        : 6495339
+    name      : Fiji Beach Resort and Spa Managed by Hilton
+    coord     : [ 177.3766, -17.7726 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: FJ, name: Fiji }
+- src         : IMG_4435.JPG
+  cover       : false
+  date        : !!str 2015-04-27T14:56:57+12:00
+  description : One of many resorts on our way to Castaway Island.
+  geography   :
+    id        : 2204119
+    name      : Malolo Island
+    coord     : [ 177.16667, -17.75 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: FJ, name: Fiji }
+- src         : IMG_4440.JPG
+  cover       : false
+  date        : !!str 2015-04-27T15:01:41+12:00
+  description : Resort on Castaway Island.
+  geography   :
+    id        : 6491320
+    name      : Castaway Island Fiji
+    coord     : [ 177.13068, -17.73483 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: FJ, name: Fiji }
+- src         : IMG_4442.JPG
+  cover       : false
+  date        : !!str 2015-04-27T15:06:27+12:00
+  description : Beautiful looking beach, yet not that good for swimming.
+  geography   :
+    id        : 6491320
+    name      : Castaway Island Fiji
+    coord     : [ 177.13068, -17.73483 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: FJ, name: Fiji }
+- src         : IMG_4450.JPG
+  cover       : true
+  date        : !!str 2015-04-27T15:13:22+12:00
+  description : Colorful catamaran on the beach.
+  geography   :
+    id        : 6491320
+    name      : Castaway Island Fiji
+    coord     : [ 177.13068, -17.73483 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: FJ, name: Fiji }
+- src         : IMG_4458.JPG
+  cover       : false
+  date        : !!str 2015-04-27T15:49:01+12:00
+  description : Enjoying a luke warm beer on the beach.
+  geography   :
+    id        : 6491320
+    name      : Castaway Island Fiji
+    coord     : [ 177.13068, -17.73483 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: FJ, name: Fiji }
+- src         : IMG_4469.JPG
+  cover       : false
+  date        : !!str 2015-04-27T16:29:28+12:00
+  description : Uninhabited island of Malamala.
+  geography   :
+    id        : 2204152
+    name      : Malamala Island
+    coord     : [ 177.28333, -17.73333 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: FJ, name: Fiji }
+- src         : IMG_4471.JPG
+  cover       : false
+  date        : !!str 2015-04-27T16:29:59+12:00
+  description : Extremely clear waters, yet when snorkeling we didn’t see that much sealife.
+  geography   :
+    id        : 2204152
+    name      : Malamala Island
+    coord     : [ 177.28333, -17.73333 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: FJ, name: Fiji }
+- src         : IMG_0134.JPG
+  cover       : false
+  date        : !!str 2015-04-28T10:41:10+12:00
+  description : Getting settled in business class on our way to Sydney.
+  geography   :
+    id        : 6299945
+    name      : Nadi International Airport
+    coord     : [ 177.45073055555554, -17.752188888888888 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: FJ, name: Fiji }
