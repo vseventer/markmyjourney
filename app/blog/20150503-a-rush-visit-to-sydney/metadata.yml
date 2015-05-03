@@ -1,0 +1,125 @@
+- src         : IMG_0172.JPG
+  cover       : false
+  date        : !!str 2015-04-28T14:09:55+10:00
+  description : At the Koala Park.
+  geography   : null
+- src         : IMG_0182.JPG
+  cover       : false
+  date        : !!str 2015-04-28T14:22:13+10:00
+  description : Koala’s sleep up to 20 hours a day, and when they’re awake they eat all the time.
+  geography   : null
+- src         : IMG_0179.JPG
+  cover       : false
+  date        : !!str 2015-04-28T14:17:01+10:00
+  description : Kangaroos.
+  geography   : null
+- src         : IMG_0196.JPG
+  cover       : false
+  date        : !!str 2015-04-28T15:46:23+10:00
+  description : Popular surf spot around 30 minutes outside of Sydney.
+  geography   :
+    id        : 2174949
+    name      : Bondi Beach
+    coord     : [ 151.27836666666667, -33.890325 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0201.JPG
+  cover       : false
+  date        : !!str 2015-04-28T17:01:25+10:00
+  description : Sydney Opera House.
+  geography   :
+    id        : 8648707
+    name      : Dawes Point Park
+    coord     : [ 151.21021944444442, -33.855644444444444 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0205.JPG
+  cover       : false
+  date        : !!str 2015-04-28T17:02:03+10:00
+  description : Harbor Bridge.
+  geography   :
+    id        : 8648707
+    name      : Dawes Point Park
+    coord     : [ 151.21021944444442, -33.855644444444444 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0230.JPG
+  cover       : false
+  date        : !!str 2015-04-28T17:20:38+10:00
+  description : Circular Quay, the harbor of Sydney.
+  geography   :
+    id        : 8648707
+    name      : Dawes Point Park
+    coord     : [ 151.21021944444442, -33.855644444444444 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0242.JPG
+  cover       : true
+  date        : !!str 2015-04-28T17:25:40+10:00
+  description : Sunset over the Opera House.
+  geography   :
+    id        : 8648707
+    name      : Dawes Point Park
+    coord     : [ 151.21021944444442, -33.855644444444444 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0264.JPG
+  cover       : false
+  date        : !!str 2015-04-29T13:26:43+10:00
+  description : Magnificent views of the Blue Mountains.
+  geography   :
+    id        : 2175227
+    name      : Blue Mountains National Park
+    coord     : [ 150.31201111111113, -33.732930555555555 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0275.JPG
+  cover       : false
+  date        : !!str 2015-04-29T13:45:17+10:00
+  description : Very similar to the Grand Canyon, except with trees.
+  geography   :
+    id        : 2175227
+    name      : Blue Mountains National Park
+    coord     : [ 150.31201111111113, -33.732930555555555 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0279.JPG
+  cover       : false
+  date        : !!str 2015-04-29T13:55:56+10:00
+  description : Wentworth Falls.
+  geography   :
+    id        : 2175227
+    name      : Blue Mountains National Park
+    coord     : [ 150.31201111111113, -33.732930555555555 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0284.JPG
+  cover       : false
+  date        : !!str 2015-04-29T14:51:17+10:00
+  description : The Three Sisters.
+  geography   :
+    id        : 2175227
+    name      : Blue Mountains National Park
+    coord     : [ 150.31201111111113, -33.732930555555555 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0292.JPG
+  cover       : false
+  date        : !!str 2015-04-30T09:13:20+10:00
+  description : Windy beaches of Kiama.
+  geography   :
+    id        : 2161515
+    name      : Kiama
+    coord     : [ 150.86303611111111, -34.67189444444444 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0297.JPG
+  cover       : false
+  date        : !!str 2015-04-30T09:19:52+10:00
+  description : The Kiama blowhole, a major tourist attraction.
+  geography   :
+    id        : 2161515
+    name      : Kiama
+    coord     : [ 150.86303611111111, -34.67189444444444 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }

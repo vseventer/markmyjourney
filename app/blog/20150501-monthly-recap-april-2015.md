@@ -70,13 +70,13 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Sydney to Melbourne: **$166** ($83 pp) on [Tigerair](http://www.tigerair.com/).
 
 ## United States & Canada
-*As we were traveling with Hertas’ parents, we do not have a detailed breakdown of all our expenses.*
+*As we were traveling with Herta’s parents, we do not have a detailed breakdown of all our expenses.*
 
 ## Fiji
 *As we received spending money from the airline, we actually made money on Fiji.*
 * Days: **1**,
 * Budget: **$0**,
-* Expenses: **-$32** (-$16 pppd),
+* Expenses: **-$12** (-$6 pppd),
 
 <span class="img-thumbnail">![Expenses Breakdown](/images/budget-fiji.png)</span>
 
