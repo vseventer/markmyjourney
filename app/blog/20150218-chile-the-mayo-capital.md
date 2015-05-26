@@ -26,7 +26,7 @@ The four most popular items found in Chilean cuisine are avocado, mayo, corn, an
 
 Even though we initially found the ingredient list of Pasta del Choclo quite unappealing, the national dish of Chile was surprisingly tasty and one of our favorites during our time in Chile. Another favorite was the Terremoto drink, although we wouldn’t recommend drinking more than one.
 
-We prefer the Argentinan wines over the Chileans ones, as the ones we tried had quite an intense aftertaste. The same holds for the beers, as in our opinion the Argentina beers are more flavorful.
+We prefer the Argentinian wines over the Chileans ones, as the ones we tried had quite an intense aftertaste. The same holds for the beers, as in our opinion the Argentina beers are more flavorful.
 
 * The best: **llama** and **Pastel de Choclo**,
 * The worst: **Mote con Huesillos**,

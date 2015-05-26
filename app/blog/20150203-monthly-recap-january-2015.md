@@ -59,7 +59,7 @@ The overview below lists the expenses in Brazil, Argentina, and Uruguay. For Arg
 **The Good**
 * We didn’t spent much the first two days in Brazil, as we got stuck in Rio de Janeiro. The hotel the airline put us in provided and excellent look into typical Brazilian foods, however, which was a welcome surprise.
 * As our card got cloned, we had to strictly limit our spending to avoid running out of money for things we really wanted to do. In the end, this lead to a lot of extra savings.
-* Due to the poor state of the Argentinan economy, we were able to get around 50% more Argentinan pesos on the black market than the official exchange rate indicates. More on this [here](/blog/money-exchange-in-argentina.html).
+* Due to the poor state of the Argentinian economy, we were able to get around 50% more Argentinian pesos on the black market than the official exchange rate indicates. More on this [here](/blog/money-exchange-in-argentina.html).
 
 **The Bad**
 * We were stuck with two weeks of laundry when arriving in Ilha Grande. Unfortunately, it was not cheap to do laundry on the island: it cost us a whopping 25$.
@@ -82,7 +82,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 <span class="img-thumbnail">![Expenses Breakdown](/images/budget-brazil.png)</span>
 
 ## Argentina & Uruguay
-*Note (1): Uruguay accepts the Argentinan Peso and U.S. Dollar, therefore we decided to add the money spent during our one-day trip to Uruguay to the Argentina budget.*
+*Note (1): Uruguay accepts the Argentinian Peso and U.S. Dollar, therefore we decided to add the money spent during our one-day trip to Uruguay to the Argentina budget.*
 
 *Note (2): the miscellaneous expenses yield a large, negative number. This is due to the black market exchange rate of U.S. Dollars in Argentina. More on this [here](/blog/money-exchange-in-argentina.html).*
 

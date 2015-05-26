@@ -1,7 +1,7 @@
 ---
 pages      : all
-slug       : trekking-in-argentinan-patagonia
-title      : Trekking in Argentinan Patagonia
+slug       : trekking-in-argentinian-patagonia
+title      : Trekking in Argentinian Patagonia
 date       : !!str 2015-02-03T21:00:00-03:00
 categories : [ ]
 tags       : [ Adventure, Glacier, Hiking, Mountains, Patagonia, Sightseeing, Trekking ]

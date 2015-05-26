@@ -30,7 +30,7 @@ archives:
   - !!str 2015-03
 ---
 
-In February 2015, we visited only one new country: Chile, but we went back to Argentina for a few days. From [Patagonia](/blog/the-wilderness-of-chilean-patagonia.html), we traveled to [Easter Island](/blog/mysterious-easter-island.html), after returning to the mainland. We traveled by bus to Mendoza, to try out [Argentinan wines](/blog/bike-and-wine.html) in addition to the [food](/blog/in-search-of-great-steak-and-wine.html) we already tried. After returning to Santiago, and trying out lots of [Chilean food](/blog/chile-the-mayo-capital.html), we flew north to [San Pedro](/blog/the-chilean-desert.html). From there, we crossed into Bolivia.
+In February 2015, we visited only one new country: Chile, but we went back to Argentina for a few days. From [Patagonia](/blog/the-wilderness-of-chilean-patagonia.html), we traveled to [Easter Island](/blog/mysterious-easter-island.html), after returning to the mainland. We traveled by bus to Mendoza, to try out [Argentinian wines](/blog/bike-and-wine.html) in addition to the [food](/blog/in-search-of-great-steak-and-wine.html) we already tried. After returning to Santiago, and trying out lots of [Chilean food](/blog/chile-the-mayo-capital.html), we flew north to [San Pedro](/blog/the-chilean-desert.html). From there, we crossed into Bolivia.
 
 The overview below lists the expenses in Chile and Argentina. For Argentina, the expenses during our three day stay this month are added to last months’ overview, as this gives the full picture of the expenses. For Bolivia, where we spent the last three days in February, we will cover all expenses in next months’ recap.
 

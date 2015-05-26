@@ -41,7 +41,7 @@
 - src         : P1214391.JPG
   cover       : false
   date        : !!str 2015-01-21T20:41:22-03:00
-  description : Argentinan blue cheese.
+  description : Argentinian blue cheese.
   geography   :
     id        : 3435910
     name      : Buenos Aires
@@ -211,7 +211,7 @@
 - src         : IMG_3780.JPG
   cover       : false
   date        : !!str 2015-02-03T18:41:23-03:00
-  description : "Helado: the Argentinan variant of frozen yoghurt. Simply delicous: we highly recommend the “El Calafate” (blueberry) flavour."
+  description : "Helado: the Argentinian variant of frozen yoghurt. Simply delicous: we highly recommend the “El Calafate” (blueberry) flavour."
   geography   :
     id        : 3833367
     name      : Ushuaia
