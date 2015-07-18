@@ -139,7 +139,7 @@ gulp.task 'views', [ 'assemble', 'coffee', 'less', ], ->
       .pipe cssFilter # Start CSS processing.
       .pipe plugins.autoprefixer 'last 1 version'
       .pipe plugins.uncss ignore: [ /\.in/, /\.mmjy/, /\.open/ ], html: glob paths.html, sync: true
-      .pipe plugins.csso()
+      .pipe plugins.moreCss()
       .pipe cssFilter.restore() # End CSS processing.
       .pipe plugins.if '**/*.js', plugins.uglify preserveComments: 'some' # JS processing.
       .pipe plugins.rev()
@@ -171,13 +171,11 @@ gulp.task 'images', [ 'map' ], ->
       .pipe plugins.if STAGING or PRODUCTION, plugins.cache plugins.imagemin opts
       .pipe plugins.size title: 'images'
       .pipe gulp.dest paths.dist
-gulp.task 'map', (cb) ->
+gulp.task 'map', ->
   src    = util.format config.staticMap, config.location.coord.lat, config.location.coord.lng
   console.log src
   stream = request src # Request the image.
   stream.pipe fs.createWriteStream path.join path.dirname(paths.images), 'current-location.png'
-  stream.on 'error', (err) -> cb() # Ignore errors to avoid breaking the buildchain.
-  stream.on 'end', cb
 
 # The watch tasks.
 gulp.task 'webserver', [ 'default' ], ->
