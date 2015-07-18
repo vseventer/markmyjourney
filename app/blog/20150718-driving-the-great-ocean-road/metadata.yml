@@ -1,0 +1,135 @@
+- src         : IMG_0470.JPG
+  cover       : false
+  date        : !!str 2015-05-23T12:19:48+10:00
+  description : Torquay beach.
+  geography   :
+    id        : 2146218
+    name      : Torquay
+    coord     : [ 144.32719444444444, -38.339594444444444 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0489.JPG
+  cover       : false
+  date        : !!str 2015-05-23T13:45:47+10:00
+  description : Start of the Great Ocean Road.
+  geography   : null
+- src         : IMG_0479.JPG
+  cover       : false
+  date        : !!str 2015-05-23T13:08:43+10:00
+  description : Split Point Lighthouse.
+  geography   :
+    id        : 2178224
+    name      : Aireys Inlet
+    coord     : [ 144.1046611111111, -38.468947222222226 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0476.JPG
+  cover       : false
+  date        : !!str 2015-05-23T13:05:52+10:00
+  description : Rocks near the lighthouse.
+  geography   :
+    id        : 2178224
+    name      : Aireys Inlet
+    coord     : [ 144.1046611111111, -38.468947222222226 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0481.JPG
+  cover       : false
+  date        : !!str 2015-05-23T13:10:02+10:00
+  description : View from the lighthouse.
+  geography   :
+    id        : 2178224
+    name      : Aireys Inlet
+    coord     : [ 144.1046611111111, -38.468947222222226 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0490.JPG
+  cover       : false
+  date        : !!str 2015-05-23T14:12:58+10:00
+  description : Lookout near the town of Lorne.
+  geography   :
+    id        : 8855089
+    name      : Teddy Lookout
+    coord     : [ 143.97961388888888, -38.55365 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0503.JPG
+  cover       : false
+  date        : !!str 2015-05-23T15:46:07+10:00
+  description : View over Apollo Bay.
+  geography   :
+    id        : 8854752
+    name      : Mariners Lookout
+    coord     : [ 143.66761666666665, -38.73681388888889 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0507.JPG
+  cover       : false
+  date        : !!str 2015-05-23T16:29:29+10:00
+  description : Rainforest.
+  geography   :
+    id        : 8160381
+    name      : Otway National Park
+    coord     : [ 143.5549611111111, -38.754925 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0512.JPG
+  cover       : false
+  date        : !!str 2015-05-24T11:38:07+10:00
+  description : At the Twelve Apostles.
+  geography   :
+    id        : 8577682
+    name      : The Twelve Apostles
+    coord     : [ 143.10447777777776, -38.665863888888886 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0520.JPG
+  cover       : true
+  date        : !!str 2015-05-24T11:48:23+10:00
+  description : Some of the Apostles.
+  geography   :
+    id        : 8577682
+    name      : The Twelve Apostles
+    coord     : [ 143.10447777777776, -38.665863888888886 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0530.JPG
+  cover       : false
+  date        : !!str 2015-05-24T12:23:58+10:00
+  description : Loch and Gorge inset.
+  geography   :
+    id        : 8179189
+    name      : Island Arch
+    coord     : [ 143.07116666666667, -38.64698333333333 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0532.JPG
+  cover       : false
+  date        : !!str 2015-05-24T12:29:30+10:00
+  description : Hidden beach.
+  geography   :
+    id        : 8179189
+    name      : Island Arch
+    coord     : [ 143.07116666666667, -38.64698333333333 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0535.JPG
+  cover       : false
+  date        : !!str 2015-05-24T13:13:19+10:00
+  description : London Bridge.
+  geography   :
+    id        : 2163523
+    name      : Point Hesse
+    coord     : [ 142.9316722222222, -38.622169444444445 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0541.JPG
+  cover       : false
+  date        : !!str 2015-05-24T14:57:15+10:00
+  description : Bay of Islands.
+  geography   :
+    id        : 2153380
+    name      : Peterborough
+    coord     : [ 142.85957222222223, -38.59948055555556 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }

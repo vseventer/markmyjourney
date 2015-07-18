@@ -3,7 +3,7 @@ pages      : all
 slug       : a-rush-visit-to-sydney
 title      : A Rush Visit to Sydney
 date       : !!str 2015-05-03T21:00:00+10:00
-categories : [ Day Trips]
+categories : [ Day Trips ]
 tags       : [ Beach, Mountains, National Park, Waterfall ]
 geography  :
   - id        : 2147714
