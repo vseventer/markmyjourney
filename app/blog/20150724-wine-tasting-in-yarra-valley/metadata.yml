@@ -1,0 +1,25 @@
+- src         : IMG_0549.JPG
+  cover       : false
+  date        : !!str 2015-05-25T10:57:02+10:00
+  description : Sticks Winery.
+  geography   : null
+- src         : IMG_0565.JPG
+  cover       : false
+  date        : !!str 2015-05-25T11:35:49+10:00
+  description : Winefields.
+  geography   : null
+- src         : IMG_0566.JPG
+  cover       : false
+  date        : !!str 2015-05-25T11:57:49+10:00
+  description : Chocolate delight at the Yarra Valley Chocolaterie.
+  geography   : null
+- src         : IMG_0576.JPG
+  cover       : true
+  date        : !!str 2015-05-25T13:01:09+10:00
+  description : Winefields of the Soumah Winery.
+  geography   : null
+- src         : IMG_0582.JPG
+  cover       : false
+  date        : !!str 2015-05-25T13:24:25+10:00
+  description : Food platter to go with delicous wine.
+  geography   : null
