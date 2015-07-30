@@ -22,7 +22,7 @@ archives:
   - !!str 2015-07
 ---
 
-The latest stop in our never-ending quest to find the perfect wine was Yarra Valley, situated one hour east of Melbourne. After our weekend trip to the [Great Ocean Road](/blog/driving-the-great-ocean-road.html), we decided to visit Yarra Valley on the next Monday to see what it’s all about.
+The latest stop in our never-ending journey to find the perfect wine was Yarra Valley, situated one hour east of Melbourne. After our weekend trip to the [Great Ocean Road](/blog/driving-the-great-ocean-road.html), we decided to visit Yarra Valley on the following Monday to see what it’s all about.
 
 On our trip we visited six wineries: Sticks, Steels Creek, Domaine Chandon, Soumah, Maddens Rise, and Wild Cattle Creek. Much to our surprise, most wineries did not charge anything for trying their wines. Of course, we fully took advantage of this, and tried all the wines they had on taste.
 
