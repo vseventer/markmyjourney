@@ -1,0 +1,45 @@
+- src         : IMG_1025.JPG
+  cover       : false
+  date        : !!str 2015-10-18T07:45:48+11:00
+  description : At the start.
+  geography   :
+    id        : 8857089
+    name      : Yarra Park
+    coord     : [ 144.98101944444446, -37.81990833333334 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_1031.JPG
+  cover       : false
+  date        : !!str 2015-10-18T08:20:18+11:00
+  description : Final kilometer leads into the Melbourne Cricket Ground.
+  geography   :
+    id        : 8857089
+    name      : Yarra Park
+    coord     : [ 144.98101944444446, -37.81990833333334 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_1036.JPG
+  cover       : false
+  date        : !!str 2015-10-18T09:29:29+11:00
+  description : Sprint to the finish line.
+  geography   :
+    id        : 6615561
+    name      : Melbourne Cricket Ground
+    coord     : [ 144.98368888888888, -37.81950277777778 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_1041.JPG
+  cover       : false
+  date        : !!str 2015-10-18T09:29:40+11:00
+  description : "Official time: 1h29′16″, gun time: 1h28′59″."
+  geography   :
+    id        : 6615561
+    name      : Melbourne Cricket Ground
+    coord     : [ 144.98368888888888, -37.81950277777778 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_1042.JPG
+  cover       : true
+  date        : !!str 2015-10-18T11:05:03+11:00
+  description : null
+  geography   : null
