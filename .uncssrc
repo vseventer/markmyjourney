@@ -1,0 +1,6 @@
+{
+  "ignore": [
+    ".leaflet-tile",
+    ".leaflet-tile-loaded"
+  ]
+}

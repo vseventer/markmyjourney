@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-mmjy"]
+	path = themes/hugo-theme-mmjy
+	url  = https://github.com/vseventer/hugo-theme-mmjy

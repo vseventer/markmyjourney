@@ -1,0 +1,10 @@
+baseurl      = "http://www.markmyjourney.com/"
+languageCode = "en-us"
+title        = "MarkMyJourney"
+
+disableRSS     = true
+disableSitemap = true
+theme          = "hugo-theme-mmjy"
+
+[taxonomies]
+  destination = "destinations"
