@@ -1,0 +1,50 @@
+[
+  {
+    "code"   : "AF",
+    "slug"   : "africa",
+    "name"   : "Africa",
+    "coords" : [ 7.19, 21.09 ]
+  },
+  {
+    "code"   : "AN",
+    "slug"   : "antarctica",
+    "name"   : "Antarctica",
+    "coords" : [ -90, 0 ]
+  },
+  {
+    "code"   : "AS",
+    "slug"   : "asia",
+    "name"   : "Asia",
+    "coords" : [ 46.28, 86.67 ]
+  },
+  {
+    "code"   : "EU",
+    "slug"   : "europe",
+    "name"   : "Europe",
+    "coords" : [ 54.90, 25.32 ]
+  },
+  {
+    "code"   : "ME",
+    "slug"   : "middle-east",
+    "name"   : "Middle East",
+    "coords" : [ 29, 41 ]
+  },
+  {
+    "code"   : "NA",
+    "slug"   : "north-america",
+    "name"   : "North America",
+    "coords" : [ 48.17, -100.17 ]
+  },
+  {
+    "code"   : "SA",
+    "slug"   : "south-america",
+    "name"   : "South America",
+    "coords" : [ -13, -59.4 ]
+  },
+  {
+    "code"   : "OC",
+    "slug"   : "oceania",
+    "name"   : "Oceania",
+    "coords" : [ -30, 140 ]
+  }
+]

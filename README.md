@@ -2,10 +2,10 @@
 > My personal website [http://www.markmyjourney.com](http://www.markmyjourney.com).
 
 ## Installation
-`npm install`
+`$ npm install`
 
 ## Usage
-`npm start`
+`$ npm start`
 
 ## Changelog
 See the [Changelog](./CHANGELOG.md) for a list of changes.

@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+
+<div class="jumbotron jumbotron-fluid m-b-0 text-center">
+  <div class="container">
+    <h1 class="display-1">{{ .Title }}</h1>
+    <time class="lead text-muted" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+  </div>
+</div>
+
+{{ range first 1 .Params.photos }}
+  <div class="m-b mmjy-cover" style="background-image: url('{{ $.Site.BaseURL }}uploads/{{ . }}');"></div>
+{{ end }}
+
+<div class="container">
+  {{ .Summary }}
+
+  {{ partial "banner.html" . }}
+
+  {{ replace .Content .Summary "" | safeHTML }}
+</div >
+
+{{ partial "footer.html" . }}

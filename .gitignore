@@ -1,5 +1,8 @@
 node_modules/
 public/
+static/
 tmp/
 .DS_Store
 npm_debug.log
+
+!static/js/main.js
