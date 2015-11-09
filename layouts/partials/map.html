@@ -1,0 +1,7 @@
+<div class="jumbotron jumbotron-fluid mmjy-map" style="height: 50vh">
+  {{ range $country, $taxanomy := .Site.Taxonomies.destinations }}
+    {{ range where $.Site.Data.countries "slug" $country }}
+      <div data-l-coord="[{{ delimit .coords "," }}]" data-l-href="{{ $.Site.BaseURL }}destinations/{{ $country }}" data-l-icon="{{ .code | lower }}" data-l-label="{{ .name }}" hidden></div>
+    {{ end }}
+  {{ end }}
+</div>

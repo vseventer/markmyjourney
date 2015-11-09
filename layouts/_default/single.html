@@ -14,7 +14,7 @@
 <div class="container">
   {{ .Summary }}
 
-  {{ partial "banner.html" . }}
+  {{ partial "map.html" . }}
 
   {{ replace .Content .Summary "" | safeHTML }}
 </div >

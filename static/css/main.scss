@@ -16,5 +16,14 @@ $jumbotron-bg           : #FFFFFF;
 
 // Custom.
 .icon-flags {
-  display: inline-block;
+  display        : inline-block;
+  margin-left    : 0.25rem;
+  vertical-align : middle;
+  border-radius: 50%;
+}
+
+.mmjy-cover {
+  background : center center no-repeat;
+  background-size: cover;
+  min-height : 75vh;
 }

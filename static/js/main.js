@@ -29,26 +29,62 @@
 
   // Add ready listeners.
   document.addEventListener('ready', function() {
-    // Configure.
-    L.Icon.Default.imagePath = '/img/';
+    L.Icon.Default.imagePath = '/img/'; // Configure.
 
     // Initialize maps.
     var elements = document.querySelectorAll('.mmjy-map');
     arraySlice.call(elements).forEach(function(element) {
+      var markers = element.querySelectorAll('div');
+      arraySlice.call(markers).forEach(function(marker) {
+        marker.parentNode.removeChild(marker);
+      });
+
       // Configure.
       var map = L.map(element, {
         center : [ 0, 0 ],
+        scrollWheelZoom: false,
         zoom   : 2
       });
 
       // Add tile layer.
-      var MapQuestOpenOSM = new L.tileLayer('https://otile{s}-s.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.jpg', {
-        attribution: '© <a href="http://www.mapquest.com/">MapQuest</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-        maxZoom    : 4,
-        minZoom    : 2,
-        subdomains : '1234'
+      var EsriWorldTopoMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community',
+        maxZoom : 4,
+        minZoom : 2,
       });
-      MapQuestOpenOSM.addTo(map);
+      EsriWorldTopoMap.addTo(map);
+
+      // Fallback: use MapQuest.
+      // var MapQuestOpenOSM = new L.tileLayer('https://otile{s}-s.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.jpg', {
+      //   attribution: '© <a href="http://www.mapquest.com/">MapQuest</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      //   maxZoom    : 4,
+      //   minZoom    : 2,
+      //   subdomains : '1234'
+      // });
+      // MapQuestOpenOSM.addTo(map); // Show.
+
+      // Add markers.
+      arraySlice.call(markers).forEach(function(marker) {
+        var coord  = JSON.parse(marker.getAttribute('data-l-coord')),
+            href   = marker.getAttribute('data-l-href'),
+            icon   = marker.getAttribute('data-l-icon'),
+            label  = marker.getAttribute('data-l-label'),
+            myIcon = L.divIcon({
+              className  : 'icon-flags icon-flags-' + icon,
+              iconSize   : 24,
+              iconAnchor : [ 12, 12 ]
+            })
+            marker = L.marker(coord, { icon: myIcon, title: label });
+
+        // Add event listener.
+        marker.on('click', function() {
+          console.log(arguments);
+          debugger;
+          return
+          document.location.href = href;
+        });
+        marker.addTo(map); // Show.
+      });
     });
   }, false);
 

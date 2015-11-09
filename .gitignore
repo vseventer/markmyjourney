@@ -1,3 +1,4 @@
+data/uploads.json
 node_modules/
 public/
 static/**/*

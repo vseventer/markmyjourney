@@ -1,6 +1,0 @@
-<div class="jumbotron jumbotron-fluid mmjy-map" style="height: 50vh">
-  {{ range $country, $taxanomy := .Site.Taxonomies.destinations }}
-    {{ range where $.Site.Data.countries "code" (upper $country) }}
-    {{ end }}
-  {{ end }}
-</div>
