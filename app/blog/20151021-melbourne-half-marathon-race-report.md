@@ -44,7 +44,7 @@ According to my plan, after seven kilometers I would have to speed up a little. 
 
 This part of the race consisted of the loop around Albert Park Lake, where it was a little windy. I tried to take cover behind fellow runners, which worked out quite well. My next 5k split turned out to be exactly the same as the first five: 21′28″. Needless to say, I was happy with my consistency, and on top the 42′56″ 10k split was a 10k PR for me.
 
-### KMs 14-21.1
+### KMs 14–21.1
 The last seven kilometers consist of making way from Albert Park Lake back to Melbourne. At this point, I had the 90-minute pacer in sight, but he kept about 200m ahead of me. I was getting tired, but somehow pushed myself to keep the pace. Soon, I felt great, and I noticed I was closing the gap with the pacer.
 
 When running on the bridge over the Yarra River, about two kilometers from the finish, I overtook the pacer and never saw him back. I was able to speed up, and I knew I would make my goal. As I entered the Melbourne Cricket Ground stadium, with about 200m to go, I knew I would reach my goal, and gave it one last sprint to finish in 1h28′59″.

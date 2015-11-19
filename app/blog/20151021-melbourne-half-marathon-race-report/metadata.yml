@@ -31,7 +31,7 @@
 - src         : IMG_1041.JPG
   cover       : false
   date        : !!str 2015-10-18T09:29:40+11:00
-  description : "Official time: 1h29′16″, gun time: 1h28′59″."
+  description : "Gun time: 1h29′16″, net time: 1h28′59″."
   geography   :
     id        : 6615561
     name      : Melbourne Cricket Ground

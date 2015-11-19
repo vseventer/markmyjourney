@@ -1,0 +1,100 @@
+- src         : IMG_0688.JPG
+  cover       : false
+  date        : !!str 2015-07-03T11:05:03+10:00
+  description : "Brisbane River, with the cliffs of Kangaroo Point on the other side."
+  geography   : null
+- src         : IMG_0689.JPG
+  cover       : false
+  date        : !!str 2015-07-03T11:05:40+10:00
+  description : City Boardwalk.
+  geography   : null
+- src         : IMG_0695.JPG
+  cover       : false
+  date        : !!str 2015-07-04T13:15:52+10:00
+  description : Surfers Paradise.
+  geography   :
+    id        : 8214659
+    name      : Surfers Paradise Beach
+    coord     : [ 153.43139722222222, -28.003916666666665 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0698.JPG
+  cover       : false
+  date        : !!str 2015-07-04T13:45:19+10:00
+  description : Surfers Paradise boulevard.
+  geography   :
+    id        : 2147849
+    name      : Surfers Paradise
+    coord     : [ 153.42756666666665, -28.00283611111111 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0705.JPG
+  cover       : false
+  date        : !!str 2015-07-04T15:15:37+10:00
+  description : Miami-like houses of Surfers Paradise.
+  geography   :
+    id        : 8179994
+    name      : Girung Island
+    coord     : [ 153.4267583333333, -28.009627777777776 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0707.JPG
+  cover       : false
+  date        : !!str 2015-07-04T16:47:41+10:00
+  description : Sunset over Brisbane.
+  geography   :
+    id        : 2170428
+    name      : Mount Coot-Tha
+    coord     : [ 152.95916666666665, -27.484969444444445 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0721.JPG
+  cover       : false
+  date        : !!str 2015-07-05T10:53:08+10:00
+  description : The free red water taxi.
+  geography   :
+    id        : 2174003
+    name      : Brisbane
+    coord     : [ 153.027725, -27.468866666666663 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0723.JPG
+  cover       : false
+  date        : !!str 2015-07-05T11:15:37+10:00
+  description : South Bank walk.
+  geography   :
+    id        : 8827698
+    name      : South Bank
+    coord     : [ 153.02453611111113, -27.479802777777778 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0730.JPG
+  cover       : true
+  date        : !!str 2015-07-05T11:25:27+10:00
+  description : Public pool.
+  geography   :
+    id        : 6943565
+    name      : South Bank
+    coord     : [ 153.02131666666668, -27.475027777777775 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0738.JPG
+  cover       : false
+  date        : !!str 2015-07-05T12:32:30+10:00
+  description : Brisbane CBD.
+  geography   :
+    id        : 6943565
+    name      : South Bank
+    coord     : [ 153.02131666666668, -27.475027777777775 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0742.JPG
+  cover       : false
+  date        : !!str 2015-07-05T12:54:33+10:00
+  description : Main shopping street.
+  geography   :
+    id        : 2174003
+    name      : Brisbane
+    coord     : [ 153.027725, -27.468866666666663 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }

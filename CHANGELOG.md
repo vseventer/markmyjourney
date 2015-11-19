@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.2 (November 19, 2015)
+* Added *Weekend Escape to Brisbane* post.
+
 ## 0.1.1 (October 21, 2015)
 * Added *Melbourne Half Marathon Race Report* post.
 
