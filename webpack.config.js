@@ -30,14 +30,16 @@
 module.exports = {
   entry: [
     'jquery/src/jquery',
-    'tether',
-    'bootstrap/dist/js/umd/tooltip', // Depends on jQuery and Tether.
-    'leaflet'
+    'bootstrap/dist/js/umd/dropdown',
+
+    'leaflet',
+    'leaflet-fullscreen',
+    // @see https://github.com/Leaflet/Leaflet.markercluster/issues/528
+    'leaflet.markercluster/dist/leaflet.markercluster-src'
   ],
   module: {
     loaders: [
-      { test: /jquery\/src\/selector\.js/, loader: 'amd-define-factory-patcher-loader' },
-      { test: require.resolve('tether'),   loader: 'expose?Tether' }
+      { test: /jquery\/src\/selector\.js/, loader: 'amd-define-factory-patcher-loader' }
     ]
   },
   resolve: {

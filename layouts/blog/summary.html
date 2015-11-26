@@ -11,7 +11,7 @@
       {{ $slug := . | urlize }}
       {{ range where $.Site.Data.countries "slug" $slug }}
         <a href="{{ $.Site.BaseURL }}destinations/{{ $slug }}">
-          {{ .name }}<span class="icon-flags icon-flags-{{ .code | lower }}"></span>
+          {{ .name }} <span class="mmjy-icon icon-flags icon-flags-{{ .code | lower }}"></span>
         </a>
       {{ end }}
     {{ end }}

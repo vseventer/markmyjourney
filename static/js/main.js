@@ -24,6 +24,11 @@
   // Strict mode.
   'use strict';
 
+  // Constants.
+  var MIN_ZOOM    = 2,
+      MAX_ZOOM    = 6,
+      POPUP_DELAY = 500; // ms.
+
   // Variables.
   var arraySlice = Array.prototype.slice;
 
@@ -34,57 +39,78 @@
     // Initialize maps.
     var elements = document.querySelectorAll('.mmjy-map');
     arraySlice.call(elements).forEach(function(element) {
-      var markers = element.querySelectorAll('div');
-      arraySlice.call(markers).forEach(function(marker) {
-        marker.parentNode.removeChild(marker);
-      });
-
       // Configure.
       var map = L.map(element, {
-        center : [ 0, 0 ],
-        scrollWheelZoom: false,
-        zoom   : 2
+        fullscreenControl : true,
+        scrollWheelZoom   : false
       });
 
       // Add tile layer.
       var EsriWorldTopoMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
         attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community',
-        maxZoom : 4,
-        minZoom : 2,
+        maxZoom : MAX_ZOOM,
+        minZoom : MIN_ZOOM
       });
       EsriWorldTopoMap.addTo(map);
 
       // Fallback: use MapQuest.
       // var MapQuestOpenOSM = new L.tileLayer('https://otile{s}-s.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.jpg', {
       //   attribution: '© <a href="http://www.mapquest.com/">MapQuest</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-      //   maxZoom    : 4,
-      //   minZoom    : 2,
+      //   maxZoom    : MAX_ZOOM,
+      //   minZoom    : MIN_ZOOM,
       //   subdomains : '1234'
       // });
       // MapQuestOpenOSM.addTo(map); // Show.
 
-      // Add markers.
-      arraySlice.call(markers).forEach(function(marker) {
-        var coord  = JSON.parse(marker.getAttribute('data-l-coord')),
-            href   = marker.getAttribute('data-l-href'),
-            icon   = marker.getAttribute('data-l-icon'),
-            label  = marker.getAttribute('data-l-label'),
-            myIcon = L.divIcon({
-              className  : 'icon-flags icon-flags-' + icon,
-              iconSize   : 24,
-              iconAnchor : [ 12, 12 ]
-            })
-            marker = L.marker(coord, { icon: myIcon, title: label });
+      // Apply GeoJSON.
+      var layer = L.geoJson(window.geojson, {
+        coordsToLatLng: function(coords) {
+          return coords; // Required to format as [ lat, lng ].
+        },
+        onEachFeature: function(feature, layer) {
+          // Create popup.
+          if(feature.properties.hasOwnProperty('title')) {
+            layer.bindPopup(feature.properties.title, { closeButton: false, minWidth: 0 });
 
-        // Add event listener.
-        marker.on('click', function() {
-          console.log(arguments);
-          debugger;
-          return
-          document.location.href = href;
-        });
-        marker.addTo(map); // Show.
+            // Add event listeners.
+            var timeout;
+            layer.on('mouseover', function() {
+              clearTimeout(timeout); // Reset.
+              layer.openPopup();
+            });
+            layer.on('mouseout', function() {
+              timeout = setTimeout(function() {
+                layer.closePopup();
+              }, POPUP_DELAY);
+            });
+          }
+          return feature;
+        },
+        pointToLayer: function(feature, latLng) {
+          // Create icon and marker.
+          var icon = new L.divIcon({
+            className : null,
+            html      : feature.properties.html,
+            iconSize  : null, // @see https://github.com/Leaflet/Leaflet/issues/1390
+          });
+          return L.marker(latLng, { icon: icon });
+        }
       });
+
+      // Display.
+      if(layer.getLayers().length) {
+        var cluster = L.markerClusterGroup({
+          disableClusteringAtZoom : MAX_ZOOM,
+          maxClusterRadius        : 24,
+          showCoverageOnHover     : false,
+          spiderfyOnMaxZoom       : false
+        }).addLayer(layer);
+        map.fitBounds(cluster.getBounds()); // Focus map.
+        cluster.addTo(map); // Show.
+      }
+      else { // Show empty map.
+        map.setView([ 0, 0 ], MIN_ZOOM);
+      }
     });
   }, false);
 

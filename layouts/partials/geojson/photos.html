@@ -1,0 +1,18 @@
+<script async>
+var geojson = [
+{{ range .Params.photos }}
+  {{ range where $.Site.Data.uploads "src" . }}
+    {
+      type: 'Feature',
+      properties: {
+        html: '<img class="mmjy-map-icon" src="{{ $.Site.BaseURL }}uploads/thumbs/{{ .src }}" />'
+      },
+      geometry: {
+        type: 'Point',
+        coordinates: {{ .coords }}
+      }
+    },
+  {{ end }}
+{{ end }}
+];
+</script>

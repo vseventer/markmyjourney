@@ -14,9 +14,12 @@
 <div class="container">
   {{ .Summary }}
 
-  {{ partial "map.html" . }}
+  {{ partial "map.html" }}
 
   {{ replace .Content .Summary "" | safeHTML }}
 </div >
+
+{{/* Insert map GeoJSON just before </body> */}}
+{{ $.Scratch.Add "scripts" (partial "geojson/photos.html" .) }}
 
 {{ partial "footer.html" . }}

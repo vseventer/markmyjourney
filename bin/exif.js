@@ -63,10 +63,12 @@ var res = images.map(function(image) {
 
 // Extract fields from EXIF.
 res = res.map(function(data, index) {
+  var d = moment.parseZone(data.exif.DateTimeOriginal);
   return {
-    src    : path.basename(images[index]),
-    date   : moment.parseZone(data.exif.DateTimeOriginal).format(),
-    coords : [
+    src       : path.basename(images[index]),
+    date      : d.format(),
+    humanDate : d.format('MMMM D, YYYY'),
+    coords    : [
       dmsToDd(data.gps.GPSLatitude,  data.gps.GPSLatitudeRef),
       dmsToDd(data.gps.GPSLongitude, data.gps.GPSLongitudeRef)
     ]
