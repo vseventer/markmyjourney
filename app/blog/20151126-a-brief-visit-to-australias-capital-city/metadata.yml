@@ -1,0 +1,10 @@
+- src         : IMG_0984.JPG
+  cover       : true
+  date        : !!str 2015-09-13T16:52:06+10:00
+  description : "Lake Burley Griffin, with the National Carillon bell tower on Aspen Island."
+  geography   :
+    id        : 8154498
+    name      : Commonwealth Park
+    coord     : [ 149.14099166666665, -35.29306666666667 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
