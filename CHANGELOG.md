@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.4 (December 4, 2015)
+* Added *A Long Weekend in Western Australia* post.
+
 ## 0.1.3 (November 26, 2015)
 * Added *A Brief Visit to Australia’s Capital City* post.
 

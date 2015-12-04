@@ -1,0 +1,110 @@
+- src         : IMG_0847.JPG
+  cover       : false
+  date        : !!str 2015-09-05T09:18:20+08:00
+  description : Forrest Place.
+  geography   :
+    id        : 2063523
+    name      : Perth
+    coord     : [ 115.86080277777778, -31.949530555555555 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0848.JPG
+  cover       : false
+  date        : !!str 2015-09-05T11:10:15+08:00
+  description : "Northbridge district; the main nightlife area, lined with bars and restaurants."
+  geography   :
+    id        : 8288551
+    name      : Northbridge
+    coord     : [ 115.85670555555555, -31.948058333333332 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0849.JPG
+  cover       : false
+  date        : !!str 2015-09-05T11:33:15+08:00
+  description : An outdoor movie showing at the Institute of Contemporary Arts.
+  geography   :
+    id        : 2063523
+    name      : Perth
+    coord     : [ 115.86080277777778, -31.949530555555555 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0855.JPG
+  cover       : false
+  date        : !!str 2015-09-05T13:39:13+08:00
+  description : View over the CBD from Kings Park.
+  geography   :
+    id        : 2068423
+    name      : Kings Park
+    coord     : [ 115.84493333333333, -31.960897222222222 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0861.JPG
+  cover       : false
+  date        : !!str 2015-09-06T10:41:24+08:00
+  description : Vasse Felix Winery.
+  geography   :
+    id        : 2066981
+    name      : Margaret River
+    coord     : [ 115.03186111111111, -33.85339444444445 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0873.JPG
+  cover       : false
+  date        : !!str 2015-09-06T11:35:21+08:00
+  description : Wines of the Cape Mentelle Winery.
+  geography   :
+    id        : 2066981
+    name      : Margaret River
+    coord     : [ 115.03186111111111, -33.85339444444445 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0890.JPG
+  cover       : false
+  date        : !!str 2015-09-06T12:04:53+08:00
+  description : Xanadu Wines in the Margaret Valley.
+  geography   :
+    id        : 2066981
+    name      : Margaret River
+    coord     : [ 115.03186111111111, -33.85339444444445 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0919.JPG
+  cover       : false
+  date        : !!str 2015-09-06T14:36:14+08:00
+  description : Chocolate tasting in Margaret Valley.
+  geography   :
+    id        : 2066981
+    name      : Margaret River
+    coord     : [ 115.03186111111111, -33.85339444444445 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0935.JPG
+  cover       : false
+  date        : !!str 2015-09-07T08:39:38+08:00
+  description : "Winefields in the Swan Valley, located about 30 minutes northeast of Perth."
+  geography   :
+    id        : 8349113
+    name      : West Swan
+    coord     : [ 115.98747222222222, -31.85188888888889 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0958.JPG
+  cover       : true
+  date        : !!str 2015-09-07T12:43:39+08:00
+  description : Hundreds of limestone formations at The Pinnacles.
+  geography   :
+    id        : 7626883
+    name      : The Pinnacles
+    coord     : [ 115.15694444444445, -30.60360277777778 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
+- src         : IMG_0947.JPG
+  cover       : false
+  date        : !!str 2015-09-07T12:28:37+08:00
+  description : null
+  geography   :
+    id        : 7626883
+    name      : The Pinnacles
+    coord     : [ 115.15694444444445, -30.60360277777778 ]
+    continent : { code: OC, name: Oceania }
+    country   : { code: AU, name: Australia }
