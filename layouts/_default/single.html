@@ -14,12 +14,12 @@
 <div class="container">
   {{ .Summary }}
 
-  {{ partial "map.html" }}
+  {{/* Display map, and append GeoJSON to script scratch */}}
+  {{ $source := "photos" }}
+  <div class="mmjy-map mmjy-map-lg" data-l-fullscreen-control="true" data-source="{{ $source }}"></div>
+  {{ $.Scratch.SetInMap "script" $source (partial "geojson/photos.html" .) }}
 
   {{ replace .Content .Summary "" | safeHTML }}
 </div >
-
-{{/* Insert map GeoJSON just before </body> */}}
-{{ $.Scratch.Add "scripts" (partial "geojson/photos.html" .) }}
 
 {{ partial "footer.html" . }}

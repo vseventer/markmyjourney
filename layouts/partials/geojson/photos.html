@@ -1,5 +1,4 @@
-<script async>
-var geojson = [
+[
 {{ range .Params.photos }}
   {{ range where $.Site.Data.uploads "src" . }}
     {
@@ -9,10 +8,9 @@ var geojson = [
       },
       geometry: {
         type: 'Point',
-        coordinates: {{ .coords }}
+        coordinates: [ {{ delimit .coords ", " }} ]
       }
     },
   {{ end }}
 {{ end }}
-];
-</script>
+]

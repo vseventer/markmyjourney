@@ -1,50 +1,758 @@
-[
-  {
-    "code"   : "AF",
-    "slug"   : "africa",
-    "name"   : "Africa",
-    "coords" : [ 7.19, 21.09 ]
-  },
-  {
-    "code"   : "AN",
-    "slug"   : "antarctica",
-    "name"   : "Antarctica",
-    "coords" : [ -90, 0 ]
-  },
-  {
-    "code"   : "AS",
-    "slug"   : "asia",
-    "name"   : "Asia",
-    "coords" : [ 46.28, 86.67 ]
-  },
-  {
-    "code"   : "EU",
-    "slug"   : "europe",
-    "name"   : "Europe",
-    "coords" : [ 54.90, 25.32 ]
-  },
-  {
-    "code"   : "ME",
-    "slug"   : "middle-east",
-    "name"   : "Middle East",
-    "coords" : [ 29, 41 ]
-  },
-  {
-    "code"   : "NA",
-    "slug"   : "north-america",
-    "name"   : "North America",
-    "coords" : [ 48.17, -100.17 ]
-  },
-  {
-    "code"   : "SA",
-    "slug"   : "south-america",
-    "name"   : "South America",
-    "coords" : [ -13, -59.4 ]
-  },
-  {
-    "code"   : "OC",
-    "slug"   : "oceania",
-    "name"   : "Oceania",
-    "coords" : [ -30, 140 ]
-  }
-]
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6255146,
+        "code": "AF",
+        "name": "Africa",
+        "slug": "africa",
+        "countries": [
+          "DZ",
+          "AO",
+          "BJ",
+          "BW",
+          "BF",
+          "BI",
+          "CM",
+          "CV",
+          "CF",
+          "TD",
+          "KM",
+          "CG",
+          "CD",
+          "DJ",
+          "GQ",
+          "ER",
+          "ET",
+          "GA",
+          "GM",
+          "GH",
+          "GN",
+          "GW",
+          "CI",
+          "KE",
+          "LS",
+          "LR",
+          "LY",
+          "MG",
+          "MW",
+          "ML",
+          "MR",
+          "MU",
+          "YT",
+          "MA",
+          "MZ",
+          "NA",
+          "NE",
+          "NG",
+          "RW",
+          "RE",
+          "SH",
+          "SN",
+          "SC",
+          "SL",
+          "SO",
+          "ZA",
+          "SS",
+          "SD",
+          "SZ",
+          "ST",
+          "TZ",
+          "TG",
+          "TN",
+          "UG",
+          "EH",
+          "ZM",
+          "ZW"
+        ]
+      },
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              21.09,
+              7.19
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  51.41,
+                  37.54
+                ],
+                [
+                  51.41,
+                  -46.97
+                ],
+                [
+                  -18.16,
+                  -46.97
+                ],
+                [
+                  -18.16,
+                  37.54
+                ],
+                [
+                  51.41,
+                  37.54
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6255152,
+        "code": "AN",
+        "name": "Antarctica",
+        "slug": "antarctica",
+        "countries": [
+          "AQ",
+          "BV",
+          "TF",
+          "HM",
+          "GS"
+        ]
+      },
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              16.41,
+              -78.16
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  180,
+                  -63.21
+                ],
+                [
+                  180,
+                  -90
+                ],
+                [
+                  -180,
+                  -90
+                ],
+                [
+                  -180,
+                  -63.21
+                ],
+                [
+                  180,
+                  -63.21
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6255147,
+        "code": "AS",
+        "name": "Asia",
+        "slug": "asia",
+        "countries": [
+          "AF",
+          "AM",
+          "AZ",
+          "BD",
+          "BT",
+          "IO",
+          "BN",
+          "KH",
+          "CN",
+          "CX",
+          "CC",
+          "GE",
+          "HK",
+          "IN",
+          "ID",
+          "JP",
+          "KZ",
+          "KG",
+          "LA",
+          "MO",
+          "MY",
+          "MV",
+          "MN",
+          "MM",
+          "NP",
+          "KP",
+          "PK",
+          "PH",
+          "SG",
+          "KR",
+          "LK",
+          "TW",
+          "TJ",
+          "TH",
+          "TR",
+          "TM",
+          "UZ",
+          "VN"
+        ]
+      },
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              89.3,
+              29.84
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -168.99,
+                  81.85
+                ],
+                [
+                  -168.99,
+                  -10.93
+                ],
+                [
+                  25.67,
+                  -10.93
+                ],
+                [
+                  25.67,
+                  81.85
+                ],
+                [
+                  -168.99,
+                  81.85
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7729891,
+        "code": "CR",
+        "name": "Caribbean",
+        "slug": "caribbean",
+        "countries": [
+          "AI",
+          "AG",
+          "AW",
+          "BS",
+          "BB",
+          "BQ",
+          "VG",
+          "KY",
+          "CU",
+          "CW",
+          "DM",
+          "DO",
+          "GD",
+          "GP",
+          "HT",
+          "JM",
+          "MQ",
+          "MS",
+          "PR",
+          "BL",
+          "KN",
+          "LC",
+          "MF",
+          "VC",
+          "SX",
+          "TT",
+          "TC",
+          "VI"
+        ]
+      },
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              -72.33,
+              20.39
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -59.42,
+                  27.23
+                ],
+                [
+                  -59.42,
+                  10.04
+                ],
+                [
+                  -84.96,
+                  10.04
+                ],
+                [
+                  -84.96,
+                  27.23
+                ],
+                [
+                  -59.42,
+                  27.23
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7729892,
+        "code": "CA",
+        "name": "Central America",
+        "slug": "central-america",
+        "countries": [
+          "BZ",
+          "CR",
+          "SV",
+          "GT",
+          "HN",
+          "MX",
+          "NI",
+          "PA"
+        ]
+      },
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              -99.67,
+              25.32
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -77.17,
+                  32.72
+                ],
+                [
+                  -77.17,
+                  5.5
+                ],
+                [
+                  -118.45,
+                  5.5
+                ],
+                [
+                  -118.45,
+                  32.72
+                ],
+                [
+                  -77.17,
+                  32.72
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6255148,
+        "code": "EU",
+        "name": "Europe",
+        "slug": "europe",
+        "countries": [
+          "AL",
+          "AD",
+          "AT",
+          "BY",
+          "BE",
+          "BA",
+          "BG",
+          "HR",
+          "CY",
+          "CZ",
+          "DK",
+          "EE",
+          "FO",
+          "FI",
+          "FR",
+          "DE",
+          "GI",
+          "GR",
+          "GG",
+          "HU",
+          "IS",
+          "IE",
+          "IM",
+          "IT",
+          "JE",
+          "XK",
+          "LV",
+          "LI",
+          "LT",
+          "LU",
+          "MK",
+          "MT",
+          "MD",
+          "MC",
+          "ME",
+          "NL",
+          "NO",
+          "PL",
+          "PT",
+          "RO",
+          "RU",
+          "SM",
+          "RS",
+          "SK",
+          "SI",
+          "ES",
+          "SJ",
+          "SE",
+          "CH",
+          "UA",
+          "GB",
+          "VA",
+          "AX"
+        ]
+      },
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              9.14,
+              48.69
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  41.73,
+                  80.76
+                ],
+                [
+                  41.73,
+                  27.64
+                ],
+                [
+                  -24.54,
+                  27.64
+                ],
+                [
+                  -24.54,
+                  80.76
+                ],
+                [
+                  41.73,
+                  80.76
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6269133,
+        "code": "ME",
+        "name": "Middle East",
+        "slug": "middle-east",
+        "countries": [
+          "BH",
+          "EG",
+          "IR",
+          "IQ",
+          "IL",
+          "JO",
+          "KW",
+          "LB",
+          "OM",
+          "PS",
+          "QA",
+          "SA",
+          "SY",
+          "AE",
+          "YE"
+        ]
+      },
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              35.86,
+              33.14
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  63.32,
+                  39.78
+                ],
+                [
+                  63.32,
+                  12.11
+                ],
+                [
+                  24.7,
+                  12.11
+                ],
+                [
+                  24.7,
+                  39.78
+                ],
+                [
+                  63.32,
+                  39.78
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6255149,
+        "code": "NA",
+        "name": "North America",
+        "slug": "north-america",
+        "countries": [
+          "BM",
+          "CA",
+          "GL",
+          "PM",
+          "US"
+        ]
+      },
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              -100.55,
+              46.07
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -25.01,
+                  83.15
+                ],
+                [
+                  -25.01,
+                  7.21
+                ],
+                [
+                  172.35,
+                  7.21
+                ],
+                [
+                  172.35,
+                  83.15
+                ],
+                [
+                  -25.01,
+                  83.15
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6255151,
+        "code": "OC",
+        "name": "Oceania",
+        "slug": "oceania",
+        "countries": [
+          "AS",
+          "AU",
+          "CK",
+          "_AU",
+          "TL",
+          "FJ",
+          "PF",
+          "GU",
+          "_AU",
+          "KI",
+          "MH",
+          "FM",
+          "NR",
+          "NC",
+          "NZ",
+          "NU",
+          "NF",
+          "MP",
+          "PW",
+          "PG",
+          "PN",
+          "WS",
+          "SB",
+          "_AU",
+          "TK",
+          "TO",
+          "TV",
+          "UM",
+          "VU",
+          "WF"
+        ]
+      },
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              138.52,
+              -18.31
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  112.92,
+                  28.52
+                ],
+                [
+                  112.92,
+                  -47.29
+                ],
+                [
+                  -154.76,
+                  -47.29
+                ],
+                [
+                  -154.76,
+                  28.52
+                ],
+                [
+                  112.92,
+                  28.52
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6255150,
+        "code": "SA",
+        "name": "South America",
+        "slug": "south-america",
+        "countries": [
+          "AR",
+          "BO",
+          "BR",
+          "CL",
+          "CO",
+          "EC",
+          "FK",
+          "GF",
+          "GY",
+          "PY",
+          "PE",
+          "SR",
+          "UY",
+          "VE"
+        ]
+      },
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              -57.66,
+              -14.6
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -28.84,
+                  13.39
+                ],
+                [
+                  -28.84,
+                  -55.99
+                ],
+                [
+                  -91.66,
+                  -55.99
+                ],
+                [
+                  -91.66,
+                  13.39
+                ],
+                [
+                  -28.84,
+                  13.39
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

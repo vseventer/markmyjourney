@@ -7,4 +7,5 @@ tmp/
 npm_debug.log
 
 !static/css/main.scss
+!static/img/about.jpg
 !static/js/main.js

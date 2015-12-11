@@ -1,19 +1,19 @@
-<script async>
-var geojson = [
+[
 {{ range $country, $taxanomy := $.Site.Taxonomies.destinations }}
-  {{ range where $.Site.Data.countries "slug" $country }}
+  {{ range where $.Site.Data.countries.features "properties.slug" $country }}
     {
       type: 'Feature',
       properties: {
-        html  : '<a class="mmjy-map-icon icon-flags icon-flags-{{ .code | lower }}" href="{{ $.Site.BaseURL }}destinations/{{ $country | urlize }}"></a>',
-        title : '{{ .name }}'
+        html  : '<a class="mmjy-map-icon icon-flags icon-flags-{{ .properties.code | lower }}" href="{{ $.Site.BaseURL }}destinations/{{ $country | urlize }}"></a>',
+        title : '{{ .properties.name }}'
       },
       geometry: {
-        type: 'Point',
-        coordinates: {{ .coords }}
+        {{ with index .geometry.geometries 0 }}
+          type: '{{ .type }}',
+          coordinates: [ {{ delimit .coordinates ", " }} ]
+        {{ end }}
       }
     },
   {{ end }}
 {{ end }}
-];
-</script>
+]

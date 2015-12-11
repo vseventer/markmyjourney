@@ -33,9 +33,11 @@ module.exports = {
     'bootstrap/dist/js/umd/dropdown',
 
     'leaflet',
+    'leaflet-dataoptions',
     'leaflet-fullscreen',
     // @see https://github.com/Leaflet/Leaflet.markercluster/issues/528
-    'leaflet.markercluster/dist/leaflet.markercluster-src'
+    'leaflet.markercluster/dist/leaflet.markercluster-src',
+    'leaflet-minimap/src/Control.MiniMap.js'
   ],
   module: {
     loaders: [

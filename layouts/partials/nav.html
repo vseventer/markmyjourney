@@ -1,12 +1,9 @@
-<nav class="navbar navbar-light bg-faded">
+<nav class="navbar navbar-light navbar-static-top bg-faded mmjy-border-bottom">
   <div class="container">
     <a class="navbar-brand" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
     <ul class="nav navbar-nav">
       <li class="nav-item">
         <a class="nav-link" href="#">Start Here</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{ .Site.BaseURL }}blog">Blog</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="{{ .Site.BaseURL }}about">About Mark &amp; Herta</a>
@@ -15,8 +12,8 @@
         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">Destinations</a>
         <div class="dropdown-menu">
           {{ range $continent, $taxanomy := $.Site.Taxonomies.destinations }}
-            {{ range where $.Site.Data.continents "slug" $continent }}
-              <a class="dropdown-item" href="{{ $.Site.BaseURL }}destinations/{{ $continent | urlize }}">{{ .name }}</a>
+            {{ range where $.Site.Data.continents.features "properties.slug" $continent }}
+              <a class="dropdown-item" href="{{ $.Site.BaseURL }}destinations/{{ $continent | urlize }}">{{ .properties.name }}</a>
             {{ end }}
           {{ end }}
         </div>

@@ -1,3 +1,23 @@
 {{ partial "header.html" . }}
 
+{{ if eq 1 .Paginator.PageNumber }}
+  {{/* Display map, and append GeoJSON to script scratch */}}
+  {{ $source := "geojson" }}
+  <div class="jumbotron jumbotron-fluid mmjy-map mmjy-map-lg" data-l-fullscreen-control="true" data-source="{{ $source }}"></div>
+  {{ $.Scratch.SetInMap "script" $source (partial "geojson/overview" .) }}
+{{ end }}
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      {{ range .Paginator.Pages }}
+        {{ .Render "summary" }}
+        <hr class="m-y-md" />
+      {{ end }}
+      {{ partial "pagination.html" . }}
+    </div><!-- /col -->
+    <div class="col-md-4">Sidebar</div>
+  </div><!-- /row -->
+</div><!-- /container -->
+
 {{ partial "footer.html" . }}

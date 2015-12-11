@@ -1,5 +1,10 @@
 {
   "ignore": [
+    ".leaflet-popup",
+    ".leaflet-popup-content",
+    ".leaflet-popup-content-wrapper",
+    ".leaflet-popup-tip",
+    ".leaflet-popup-tip-container",
     ".leaflet-tile",
     ".leaflet-tile-loaded"
   ]

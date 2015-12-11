@@ -69,8 +69,8 @@ res = res.map(function(data, index) {
     date      : d.format(),
     humanDate : d.format('MMMM D, YYYY'),
     coords    : [
-      dmsToDd(data.gps.GPSLatitude,  data.gps.GPSLatitudeRef),
-      dmsToDd(data.gps.GPSLongitude, data.gps.GPSLongitudeRef)
+      dmsToDd(data.gps.GPSLongitude, data.gps.GPSLongitudeRef),
+      dmsToDd(data.gps.GPSLatitude,  data.gps.GPSLatitudeRef)
     ]
   };
 });

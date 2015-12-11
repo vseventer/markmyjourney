@@ -31,7 +31,7 @@
     "build"     : "parallelshell 'npm run build:css' 'npm run build:html' 'npm run build:img' 'npm run build:js' 'npm run build:thumbs' 'npm run build:uploads'",
     "postbuild" : "rimraf public/css/main.scss public/css/sprite.css",
 
-    "build:css"     : "hugo server -d ./tmp & TASK_PID=$! && npm run css && kill $TASK_PID",
+    "build:css"     : "hugo server -d ./tmp -w=false & TASK_PID=$! && npm run css && kill $TASK_PID",
     "build:html"    : "find ./public -iname '*.html' -exec html-minifier -c ./.htmlrc {} -o {} \\;",
     "prebuild:hugo" : "npm run make",
     "build:hugo"    : "hugo -v",
@@ -40,7 +40,7 @@
     "build:thumbs"  : "imagemin -P mozjpeg --quality 100 'public/uploads/thumbs/*' ./public/uploads/thumbs",
     "build:uploads" : "imagemin -P mozjpeg --quality 50 'public/uploads/*' ./public/uploads",
 
-    "clean"       : "rimraf data/uploads.json public/* static/css/*.css ./static/img ./static/uploads ./tmp",
+    "clean"       : "rimraf data/uploads.json public/* static/css/*.css ./static/img/*.png ./static/uploads ./tmp",
     "deploy"      : "npm run build",
     "postinstall" : "npm run webpack",
     "prestart"    : "npm run make",
@@ -54,12 +54,14 @@
     "clean-css"     : "3.4.x",
     "exif-reader"   : "1.0.x",
     "html-minifier" : "1.0.x",
-    "jquery"        : "2.1.x",
     "imagemin-cli"  : "2.0.x",
     "imagemin-mozjpeg"  : "5.1.x",
     "imagemin-pngquant" : "4.2.x",
+    "jquery"        : "2.1.x",
     "leaflet"       : "1.0.0-beta.2",
+    "leaflet-dataoptions"   : "vseventer/Leaflet.dataoptions",
     "leaflet-fullscreen"    : "0.0.x",
+    "leaflet-minimap"       : "3.0.x",
     "leaflet.markercluster" : "Leaflet/Leaflet.markercluster#leaflet-master",
     "moment"        : "2.10.x",
     "node-sass"     : "3.4.x",
@@ -71,6 +73,9 @@
     "uncss"         : "0.12.x",
     "webpack"       : "1.12.x"
   },
-  "engines" : { "node": ">=4.x" },
-  "private" : true
+  "engines": {
+    "hugo" : "0.15",
+    "node" : "4.x"
+  },
+  "private": true
 }
