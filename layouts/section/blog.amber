@@ -1,4 +1,4 @@
-extends ../_default/list.amber
+extends ../blog/list.amber
 
 block prepend content
   ol.breadcrumb
