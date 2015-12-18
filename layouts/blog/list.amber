@@ -1,9 +1,9 @@
-extends baseof.amber
+extends ../_default/baseof.amber
 
 block content
   hr.m-t-0
   each $page in Paginator.Pages
-    #{ Title }
+    import ../blog/summary
     hr
 
   import ../partials/pager
