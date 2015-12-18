@@ -26,7 +26,7 @@
 
   // Constants.
   var MIN_ZOOM    = 2,
-      MAX_ZOOM    = 6,
+      MAX_ZOOM    = 8,
       POPUP_DELAY = 500; // ms.
 
   // Variables.
@@ -59,9 +59,9 @@
     arraySlice.call(elements).forEach(function(element) {
       // Configure.
       var map = L.map(element, {
-        layers: tileLayer(),
-        maxZoom: MAX_ZOOM,
-        minZoom:MIN_ZOOM,
+        layers  : tileLayer(),
+        maxZoom : MAX_ZOOM,
+        minZoom : MIN_ZOOM,
         scrollWheelZoom: false
       });
 
@@ -71,8 +71,8 @@
       });
 
       // Apply GeoJSON from specified source.
-      var source = window.geojson ? window.geojson[element.getAttribute('data-source') || 'geojson'] : [ ];
-      var layer  = L.geoJson(source, {
+      var source = element.getAttribute('data-source');
+      var layer  = L.geoJson(window[source], {
         // Wrap longitude around antemeridian.
         // NOTE: `L.latLng.prototype.wrap` currently seems broken.
         coordsToLatLng: function(coords) {
@@ -85,7 +85,7 @@
         },
         onEachFeature: function(feature, layer) {
           // Create popup.
-          if(feature.properties.hasOwnProperty('title')) {
+          if(null != feature.properties.title) {
             layer.bindPopup(feature.properties.title, { closeButton: false, minWidth: 0 });
 
             // Add event listeners.
@@ -103,25 +103,34 @@
           return feature;
         },
         pointToLayer: function(feature, latLng) {
-          // Create icon and marker.
-          var icon = new L.divIcon({
-            className : null,
-            html      : feature.properties.html,
-            iconSize  : null, // @see https://github.com/Leaflet/Leaflet/issues/1390
-          });
-          return L.marker(latLng, { icon: icon });
+          var marker = L.marker(latLng); // Create marker.
+          if(null != feature.properties.html) { // Set marker icon.
+            var icon = new L.divIcon({
+              className : null,
+              html      : feature.properties.html,
+              iconSize  : null, // @see https://github.com/Leaflet/Leaflet/issues/1390
+            });
+            marker.setIcon(icon);
+          }
+          return marker;
         },
         style: function() {
           return { color: '#006400', weight: 1 };
         }
       });
 
+      // Validate layers.
+      var bounds = layer.getBounds();
+      if(!bounds.isValid()) { // No or invalid bounds.
+        return map.setView([ 0, 0 ], MIN_ZOOM);
+        return element.remove();
+      }
+
       // Prepare cluster.
       var cluster = L.markerClusterGroup({
-        disableClusteringAtZoom : MAX_ZOOM,
-        maxClusterRadius        : 24,
-        showCoverageOnHover     : false,
-        spiderfyOnMaxZoom       : false
+        maxClusterRadius    : 24,
+        showCoverageOnHover : false,
+        spiderfyDistanceMultiplier: 4
       }).addTo(map);
 
       // Append layers.
@@ -132,7 +141,6 @@
       });
 
       // Focus map.
-      var bounds = layer.getBounds();
       if(map.getZoom()) { // Use predefined zoom.
         map.setView(bounds.getCenter());
         bounds = map.getBounds(); // Update for minimap.

@@ -1,0 +1,33 @@
+mixin open
+  | #{ unescaped("<script defer>") }
+
+mixin openCollection($name)
+  +open
+  | var #{ $name } = {
+  |   type: 'FeatureCollection',
+  |   features: [
+
+mixin openFeature($name)
+  +open
+  | var #{ $name } =
+
+mixin close
+  | #{ unescaped("</script>") }
+
+mixin closeCollection
+  | ]};
+  +close
+
+mixin closeFeature
+  | ;
+  +close
+
+mixin toGeoJSON($title, $html, $geometry)
+  | {
+  |   type: 'Feature',
+  |   properties: #{ unescaped("{") }
+  |     html  : #{ unescaped(json($html)) },
+  |     title : #{ unescaped(json($title)) }
+  |   },
+  |   geometry: #{ unescaped(json($geometry)) }
+  | }

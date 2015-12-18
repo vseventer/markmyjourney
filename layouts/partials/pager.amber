@@ -1,0 +1,9 @@
+if 1 < Paginator.TotalPages
+  nav
+    ul.pager
+      if Paginator.HasNext
+        li.pager-prev
+          a[href=Paginator.Next.URL] ← Older
+      if Paginator.HasPrev
+        li.pager-next
+          a[href=Paginator.Prev.URL] Newer →

@@ -1,0 +1,56 @@
+doctype 5
+html[lang=Site.LanguageCode]
+  head
+    title
+      block title
+        | #{ Title }
+
+    meta[name="viewport"][content="width=device-width, initial-scale=1"]
+    meta[http-equiv="x-ua-compatible"][content="ie-edge"]
+
+    link[rel="canonical"][href=Permalink]
+    meta[name="robots"][content="noindex, follow"]
+
+    #{ Hugo.Generator }
+
+    block css
+      link[rel="stylesheet"][href=absURL("css/main.css")]
+
+  body
+    block nav
+      import ../partials/nav.amber
+
+    block header
+      import ../partials/header.amber
+
+    block main
+      div.container
+        div.row
+          div.col-md-8
+            block content
+          div.col-md-4
+            block sidebar
+              import ../partials/sidebar.amber
+
+    block footer
+      import ../partials/footer.amber
+
+    block js
+      script[data-src=absURL("js/components.js")]
+      script[async][src=absURL("js/main.js")]
+
+    block currentLocation
+      import ../mixins/geojson.amber
+        +openCollection("current")
+
+        $features = last(1, Site.Data.location.features)
+        each $feature in $features
+          +toGeoJSON(nil, nil, $feature.geometry)
+          | ,
+
+          $countries = where($Site.Data.countries.features, "properties.code", upper($feature.properties.code))
+          each $country in $countries
+            $geometry = index($country.geometry.geometries, 2)
+            +toGeoJSON(nil, nil, $geometry)
+
+        +closeCollection

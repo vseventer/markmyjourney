@@ -1,4 +1,4 @@
 +++
-type = blog
 destinations = [ ]
+photos       = [ ]
 +++

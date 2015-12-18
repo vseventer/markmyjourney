@@ -1,0 +1,9 @@
+extends baseof.amber
+
+block content
+  hr.m-t-0
+  each $page in Paginator.Pages
+    import ../blog/summary
+    hr
+
+  import ../partials/pager

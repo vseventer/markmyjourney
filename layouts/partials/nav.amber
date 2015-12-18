@@ -1,0 +1,22 @@
+nav.navbar.navbar-light.navbar-static-top.bg-faded.mmjy-border-bottom
+  div.container
+    a.navbar-brand[href=absURL("/")] #{ Site.Title }
+    ul.nav.navbar-nav
+      li.nav-item
+        a.nav-link[href=absURL("#")] Start Here
+      li.nav-item
+        a.nav-link[href=absURL("blog")] Blog
+      li.nav-item
+        a.nav-link[href=ref($, "about.md")] About Mark & Herta
+      li.nav-item.dropdown
+        a.nav-link.dropdown-toggle[data-toggle="dropdown"][href=absURL("#")][role="button"] Destinations
+        div.dropdown-menu
+          $Site = Site
+          each $continent in Site.Data.continents.features
+            if isset($Site.Taxonomies.destinations, $continent.properties.slug)
+              a.dropdown-item[href=absURL("destinations/" + $continent.properties.slug)] #{ $continent.properties.name }
+
+      li.nav-item
+        a.nav-link[href=absURL("#")] Resources
+      li.nav-item
+        a.nav-link[href=absURL("#")] Contact

@@ -1,0 +1,3 @@
+div.jumbotron.jumbotron-fluid.bg-inverse.m-b-1.text-md-center.mmjy-border-bottom
+  div.container
+    h1.display-4 #{ Title }

@@ -1,0 +1,12 @@
+extends ../_default/list.amber
+
+block prepend content
+  ol.breadcrumb
+    li
+      a[href=absURL("/")] Home
+    if 1 != Paginator.PageNumber
+      li
+        a[href=Paginator.First.URL] #{ Title }
+      li.active Page #{ Paginator.PageNumber }
+    else
+      li.active #{ Title }

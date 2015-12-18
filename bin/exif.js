@@ -63,17 +63,22 @@ var res = images.map(function(image) {
 
 // Extract fields from EXIF.
 res = res.map(function(data, index) {
-  var d = moment.parseZone(data.exif.DateTimeOriginal);
+  var d = moment.parseZone(data.exif.DateTimeOriginal); // Retain timezone.
   return {
-    src       : path.basename(images[index]),
-    date      : d.format(),
-    humanDate : d.format('MMMM D, YYYY'),
-    coords    : [
-      dmsToDd(data.gps.GPSLongitude, data.gps.GPSLongitudeRef),
-      dmsToDd(data.gps.GPSLatitude,  data.gps.GPSLatitudeRef)
-    ]
+    type: 'Feature',
+    properties: {
+      src  : path.basename(images[index]),
+      date : d.format()
+    },
+    geometry: {
+      type: 'Point',
+      coordinates: [
+        dmsToDd(data.gps.GPSLongitude, data.gps.GPSLongitudeRef),
+        dmsToDd(data.gps.GPSLatitude,  data.gps.GPSLatitudeRef)
+      ]
+    }
   };
 });
 
-// Print the resulting object.
+// Print the resulting GeoJSON object.
 console.log(JSON.stringify(res, null, 2));

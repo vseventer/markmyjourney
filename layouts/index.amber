@@ -1,0 +1,25 @@
+extends _default/baseof.amber
+
+block header
+  div.jumbotron.jumbotron-fluid.m-b-1.mmjy-border-bottom.mmjy-map[data-l-fullscreen-control="true"][data-source="cover"]
+
+block content
+  p.breadcrumb
+    strong Latest Posts
+
+  hr.m-t-0
+  $pages = where(Data.Pages, "Type", "blog")
+  each $page in first(5, $pages)
+    import blog/summary
+    hr
+
+block append js
+  import mixins/geojson.amber
+    +openCollection("cover")
+    each $country in Site.Data.countries.features
+      if isset($Site.Taxonomies.destinations, $country.properties.slug)
+        $html     = "<a class=\"mmjy-map-icon icon-flags icon-flags-" + lower($country.properties.code) + "\" href=\"" + absURL("destinations/" + $country.properties.slug) + "\"></a>"
+        $geometry = index($country.geometry.geometries, 0)
+        +toGeoJSON($country.properties.name, $html, $geometry)
+        | ,
+    +closeCollection

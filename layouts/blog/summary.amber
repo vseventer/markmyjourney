@@ -1,0 +1,24 @@
+div.card.mmjy-summary
+  h2.card-title
+    a[href=Permalink] #{ Title }
+  p.card-text
+    strong
+      import ../mixins/datetime.amber
+        +toTime(Date)
+
+    each $destination in sort(Params.destinations)
+      $countries = where($Site.Data.countries.features, "properties.slug", urlize($destination))
+      each $country in $countries
+        | •
+        a[href=absURL("destinations/" + $country.properties.slug)] #{ $country.properties.name }
+          span[class="mmjy-icon icon-flags icon-flags-" + lower($country.properties.code)]
+
+  $photos = first(5, Params.photos)
+  ul.list-inline
+    each $photo in $photos
+      li.list-inline-item
+        img.mmjy-photo.mmjy-photo-inset[src=absURL("uploads/thumbs/" + $photo)]
+
+  #{ Summary }
+  p.card-text
+    a[href=Permalink] Continue reading #{ Title }

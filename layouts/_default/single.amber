@@ -1,0 +1,21 @@
+extends baseof.amber
+
+block header
+  div.jumbotron.jumbotron-fluid.m-b-0.text-md-center
+    div.container
+      h1.display-4 #{ Title }
+      span.lead.text-muted
+        import ../mixins/datetime.amber
+          +toTime(Date)
+
+  $covers = first(1, Params.photos)
+  each $cover in $covers
+    $url   = absURL("uploads/" + $cover)
+    $style = "background-image: url('" + $url + "')"
+    div.mmjy-cover.m-b-1[style=safeCSS($style)]
+
+block main
+  div.container
+    div.row
+      div.col-sm-12.col-md-8.col-md-offset-2
+        | #{ Content }

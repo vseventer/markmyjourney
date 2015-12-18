@@ -1,0 +1,26 @@
+extends ../_default/taxonomy.amber
+
+block prepend content
+  ol.breadcrumb
+    li
+      a[href=absURL("/")] Home
+    li Destinations
+    if 1 != Paginator.PageNumber
+      li
+        a[href=Paginator.First.URL] #{ Title }
+      li.active Page #{ Paginator.PageNumber }
+    else
+      li.active #{ Title }
+
+block prepend sidebar
+  div.m-b-1.mmjy-border.mmjy-inset
+    div.mmjy-map[data-l-box-zoom="false"][data-l-dragging="false"][data-l-double-click-zoom="false"][data-l-zoom-control="false"][data-source="dest"]
+
+block append js
+  import ../mixins/geojson.amber
+    $countries = where(Site.Data.countries.features, "properties.name", Title)
+    each $country in $countries
+      $geometry = index($country.geometry.geometries, 2)
+      +openFeature("dest")
+        +toGeoJSON(nil, nil, $geometry)
+      +closeFeature
