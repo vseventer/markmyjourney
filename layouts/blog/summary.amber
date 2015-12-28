@@ -7,7 +7,7 @@ div.card.mmjy-summary
         +toTime(Date)
 
     each $destination in sort(Params.destinations)
-      $countries = where($Site.Data.countries.features, "properties.slug", urlize($destination))
+      $countries = where($Site.Data.countries.features, "properties.slug", $destination)
       each $country in $countries
         | •
         a[href=absURL("destinations/" + $country.properties.slug)] #{ $country.properties.name }

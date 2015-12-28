@@ -30,6 +30,7 @@
 module.exports = {
   entry: [
     'jquery/src/jquery',
+    'bootstrap/dist/js/umd/carousel',
     'bootstrap/dist/js/umd/dropdown',
 
     'leaflet',

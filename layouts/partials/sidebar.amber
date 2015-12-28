@@ -1,6 +1,7 @@
-form.m-b-1[action="https://encrypted.google.com/search"][role="search"]
-  input[name="sitesearch"][type="hidden"][value=Site.BaseURL]
-  div.input-group
-    input.form-control[name="q"][type="search"][placeholder="Search"]
-    span.input-group-btn
-      button.btn.btn-secondary[type="button"] Go
+div.card
+  h4.card-header.m-b-0.text-center.mmjy-border-bottom-0 Popular Posts
+  ul.list-group.list-group-flush
+    $popular = first(5, where(Site.Pages.ByDate.Reverse, "Type", "blog"))
+    each $page in $popular
+      li.list-group-item
+        a[href=Permalink] #{ Title }

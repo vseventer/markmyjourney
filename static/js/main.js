@@ -26,8 +26,14 @@
 
   // Constants.
   var MIN_ZOOM    = 2,
+      MINIMAP_THRESHOLD_ZOOM = 4,
       MAX_ZOOM    = 8,
       POPUP_DELAY = 500; // ms.
+
+  // Helper.
+  var basename = function(path) {
+    return path.split('/').pop();
+  };
 
   // Variables.
   var arraySlice = Array.prototype.slice;
@@ -41,7 +47,7 @@
         minZoom : 1
     });
     // Fallback: use MapQuest.
-    // return MapQuestOpenOSM = new L.tileLayer('https://otile{s}-s.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.jpg', {
+    // return L.tileLayer('https://otile{s}-s.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.jpg', {
     //   attribution: '© <a href="http://www.mapquest.com/">MapQuest</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     //   detectRetina : true,
     //   maxZoom      : MAX_ZOOM,
@@ -51,7 +57,7 @@
   };
 
   // Add ready listeners.
-  document.addEventListener('ready', function() {
+  document.addEventListener('ready:components', function() {
     L.Icon.Default.imagePath = '/img/'; // Configure.
 
     // Initialize maps.
@@ -149,23 +155,24 @@
         map.fitBounds(bounds);
       }
 
-      // Show minimap for maps focused within a 20x20 degree polygon.
-      var latDiff = Math.abs(bounds.getNorth() - bounds.getSouth()),
-          lngDiff = Math.abs(bounds.getWest()  - bounds.getEast());
-      if(20 > latDiff || 20 > lngDiff) {
-        // Configure.
-        var minimap = new L.Control.MiniMap(tileLayer(), {
-          width  : 100,
-          height : 100,
-          zoomLevelFixed: 1
-        }).addTo(map);
+      // Show minimap for zoomed maps focused within a 20x20 degree polygon.
+      if(MINIMAP_THRESHOLD_ZOOM <= map.getZoom())
+        var latDiff = Math.abs(bounds.getNorth() - bounds.getSouth()),
+            lngDiff = Math.abs(bounds.getWest()  - bounds.getEast());
+        if(20 > latDiff || 20 > lngDiff) {
+          // Configure.
+          var minimap = new L.Control.MiniMap(tileLayer(), {
+            width  : 100,
+            height : 100,
+            zoomLevelFixed: 1
+          }).addTo(map);
 
-        // Staticize.
-        minimap._miniMap.dragging.disable();
-        minimap._miniMap.touchZoom.disable();
-        minimap._miniMap.doubleClickZoom.disable();
-        minimap._miniMap.scrollWheelZoom.disable();
-      }
+          // Staticize.
+          minimap._miniMap.dragging.disable();
+          minimap._miniMap.touchZoom.disable();
+          minimap._miniMap.doubleClickZoom.disable();
+          minimap._miniMap.scrollWheelZoom.disable();
+        }
     });
   }, false);
 
@@ -174,14 +181,17 @@
     var scripts = document.querySelectorAll('script[data-src]');
     var length  = scripts.length;
     arraySlice.call(scripts).forEach(function(script) {
-      script.onload = function() {
-        length -= 1; // Update counter.
-        if(0 === length) {
+      // Extract target event (if any).
+      var evtName = script.getAttribute('data-event');
+      if(null !== evtName) { // Dispatch event.
+        script.onload = function() {
           var evt = document.createEvent('CustomEvent');
-          evt.initCustomEvent('ready', false, false, undefined);
+          evt.initCustomEvent(evtName, false, false, undefined);
           document.dispatchEvent(evt);
-        }
-      };
+        };
+      }
+
+      // Set `src` attribute to load script.
       script.setAttribute('src', script.getAttribute('data-src'));
       script.removeAttribute('data-src');
     });

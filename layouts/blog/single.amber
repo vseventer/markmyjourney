@@ -6,19 +6,20 @@ block main
       div.col-sm-12.col-md-8.col-md-offset-2
         #{ Summary }
 
-        div.m-b-1.mmjy-border.mmjy-inset
-          div.mmjy-map[data-source="gallery"]
+        if 0 < len(Params.cities)
+          div.m-b-1.mmjy-border.mmjy-inset
+            div.mmjy-map[data-source="gallery"]
 
         $content = replace(Content, Summary, "")
         | #{ safeHTML($content) }
 
 block append js
-  import ../mixins/geojson.amber
-    +openCollection("gallery")
-    each $photo in Params.photos
-      $uploads = where($Site.Data.uploads, "properties.src", $photo)
-      each $upload in $uploads
-        $html = "<img class=\"mmjy-photo mmjy-photo-inset\" src=\"" + absURL("uploads/thumbs/" + $upload.properties.src) + "\" />"
-        +toGeoJSON(nil, $html, $upload.geometry)
-        | ,
-    +closeCollection()
+  if 0 < len(Params.cities)
+    import ../mixins/geojson.amber
+      +openCollection("gallery")
+      each $slug in Params.cities
+        $cities = where($Site.Data.cities.features, "properties.slug", $slug)
+        each $city in $cities
+          +toGeoJSON($city.properties.name, nil, $city.geometry)
+          | ,
+      +closeCollection()

@@ -6,67 +6,301 @@
       "properties": {
         "id": 6255146,
         "code": "AF",
-        "name": "Africa",
         "slug": "africa",
+        "name": "Africa",
         "countries": [
-          "DZ",
-          "AO",
-          "BJ",
-          "BW",
-          "BF",
-          "BI",
-          "CM",
-          "CV",
-          "CF",
-          "TD",
-          "KM",
-          "CD",
-          "CG",
-          "DJ",
-          "GQ",
-          "ER",
-          "ET",
-          "GA",
-          "GM",
-          "GH",
-          "GN",
-          "GW",
-          "CI",
-          "KE",
-          "LS",
-          "LR",
-          "LY",
-          "MG",
-          "MW",
-          "ML",
-          "MR",
-          "MU",
-          "YT",
-          "MA",
-          "MZ",
-          "NA",
-          "NE",
-          "NG",
-          "RW",
-          "RE",
-          "SH",
-          "SN",
-          "SC",
-          "SL",
-          "SO",
-          "ZA",
-          "SS",
-          "SD",
-          "SZ",
-          "ST",
-          "TZ",
-          "TG",
-          "TN",
-          "UG",
-          "EH",
-          "ZM",
-          "ZW"
-        ]
+          {
+            "code": "DZ",
+            "slug": "algeria",
+            "name": "Algeria"
+          },
+          {
+            "code": "AO",
+            "slug": "angola",
+            "name": "Angola"
+          },
+          {
+            "code": "BJ",
+            "slug": "benin",
+            "name": "Benin"
+          },
+          {
+            "code": "BW",
+            "slug": "botswana",
+            "name": "Botswana"
+          },
+          {
+            "code": "BF",
+            "slug": "burkina-faso",
+            "name": "Burkina Faso"
+          },
+          {
+            "code": "BI",
+            "slug": "burundi",
+            "name": "Burundi"
+          },
+          {
+            "code": "CM",
+            "slug": "cameroon",
+            "name": "Cameroon"
+          },
+          {
+            "code": "CV",
+            "slug": "cape-verde",
+            "name": "Cape Verde"
+          },
+          {
+            "code": "CF",
+            "slug": "central-african-republic",
+            "name": "Central African Republic"
+          },
+          {
+            "code": "TD",
+            "slug": "chad",
+            "name": "Chad"
+          },
+          {
+            "code": "KM",
+            "slug": "comoros",
+            "name": "Comoros"
+          },
+          {
+            "code": "CD",
+            "slug": "democratic-republic-of-the-congo",
+            "name": "Democratic Republic of the Congo"
+          },
+          {
+            "code": "DJ",
+            "slug": "djibouti",
+            "name": "Djibouti"
+          },
+          {
+            "code": "GQ",
+            "slug": "equatorial-guinea",
+            "name": "Equatorial Guinea"
+          },
+          {
+            "code": "ER",
+            "slug": "eritrea",
+            "name": "Eritrea"
+          },
+          {
+            "code": "ET",
+            "slug": "ethiopia",
+            "name": "Ethiopia"
+          },
+          {
+            "code": "GA",
+            "slug": "gabon",
+            "name": "Gabon"
+          },
+          {
+            "code": "GM",
+            "slug": "gambia",
+            "name": "Gambia"
+          },
+          {
+            "code": "GH",
+            "slug": "ghana",
+            "name": "Ghana"
+          },
+          {
+            "code": "GN",
+            "slug": "guinea",
+            "name": "Guinea"
+          },
+          {
+            "code": "GW",
+            "slug": "guinea-bissau",
+            "name": "Guinea-Bissau"
+          },
+          {
+            "code": "CI",
+            "slug": "ivory-coast",
+            "name": "Ivory Coast"
+          },
+          {
+            "code": "KE",
+            "slug": "kenya",
+            "name": "Kenya"
+          },
+          {
+            "code": "LS",
+            "slug": "lesotho",
+            "name": "Lesotho"
+          },
+          {
+            "code": "LR",
+            "slug": "liberia",
+            "name": "Liberia"
+          },
+          {
+            "code": "LY",
+            "slug": "libya",
+            "name": "Libya"
+          },
+          {
+            "code": "MG",
+            "slug": "madagascar",
+            "name": "Madagascar"
+          },
+          {
+            "code": "MW",
+            "slug": "malawi",
+            "name": "Malawi"
+          },
+          {
+            "code": "ML",
+            "slug": "mali",
+            "name": "Mali"
+          },
+          {
+            "code": "MR",
+            "slug": "mauritania",
+            "name": "Mauritania"
+          },
+          {
+            "code": "MU",
+            "slug": "mauritius",
+            "name": "Mauritius"
+          },
+          {
+            "code": "YT",
+            "slug": "mayotte",
+            "name": "Mayotte"
+          },
+          {
+            "code": "MA",
+            "slug": "morocco",
+            "name": "Morocco"
+          },
+          {
+            "code": "MZ",
+            "slug": "mozambique",
+            "name": "Mozambique"
+          },
+          {
+            "code": "NA",
+            "slug": "namibia",
+            "name": "Namibia"
+          },
+          {
+            "code": "NE",
+            "slug": "niger",
+            "name": "Niger"
+          },
+          {
+            "code": "NG",
+            "slug": "nigeria",
+            "name": "Nigeria"
+          },
+          {
+            "code": "CG",
+            "slug": "republic-of-the-congo",
+            "name": "Republic of the Congo"
+          },
+          {
+            "code": "RE",
+            "slug": "reunion",
+            "name": "Reunion"
+          },
+          {
+            "code": "RW",
+            "slug": "rwanda",
+            "name": "Rwanda"
+          },
+          {
+            "code": "SH",
+            "slug": "saint-helena",
+            "name": "Saint Helena"
+          },
+          {
+            "code": "ST",
+            "slug": "sao-tome-and-principe",
+            "name": "Sao Tome and Principe"
+          },
+          {
+            "code": "SN",
+            "slug": "senegal",
+            "name": "Senegal"
+          },
+          {
+            "code": "SC",
+            "slug": "seychelles",
+            "name": "Seychelles"
+          },
+          {
+            "code": "SL",
+            "slug": "sierra-leone",
+            "name": "Sierra Leone"
+          },
+          {
+            "code": "SO",
+            "slug": "somalia",
+            "name": "Somalia"
+          },
+          {
+            "code": "ZA",
+            "slug": "south-africa",
+            "name": "South Africa"
+          },
+          {
+            "code": "SS",
+            "slug": "south-sudan",
+            "name": "South Sudan"
+          },
+          {
+            "code": "SD",
+            "slug": "sudan",
+            "name": "Sudan"
+          },
+          {
+            "code": "SZ",
+            "slug": "swaziland",
+            "name": "Swaziland"
+          },
+          {
+            "code": "TZ",
+            "slug": "tanzania",
+            "name": "Tanzania"
+          },
+          {
+            "code": "TG",
+            "slug": "togo",
+            "name": "Togo"
+          },
+          {
+            "code": "TN",
+            "slug": "tunisia",
+            "name": "Tunisia"
+          },
+          {
+            "code": "UG",
+            "slug": "uganda",
+            "name": "Uganda"
+          },
+          {
+            "code": "EH",
+            "slug": "western-sahara",
+            "name": "Western Sahara"
+          },
+          {
+            "code": "ZM",
+            "slug": "zambia",
+            "name": "Zambia"
+          },
+          {
+            "code": "ZW",
+            "slug": "zimbabwe",
+            "name": "Zimbabwe"
+          }
+        ],
+        "population": "1.0b",
+        "timezone": {
+          "name": "Africa/Bangui",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -113,15 +347,41 @@
       "properties": {
         "id": 6255152,
         "code": "AN",
-        "name": "Antarctica",
         "slug": "antarctica",
+        "name": "Antarctica",
         "countries": [
-          "AQ",
-          "BV",
-          "TF",
-          "HM",
-          "GS"
-        ]
+          {
+            "code": "AQ",
+            "slug": "antarctica",
+            "name": "Antarctica"
+          },
+          {
+            "code": "BV",
+            "slug": "bouvet-island",
+            "name": "Bouvet Island"
+          },
+          {
+            "code": "TF",
+            "slug": "french-southern-territories",
+            "name": "French Southern Territories"
+          },
+          {
+            "code": "HM",
+            "slug": "heard-island-and-mcdonald-islands",
+            "name": "Heard Island and McDonald Islands"
+          },
+          {
+            "code": "GS",
+            "slug": "south-georgia-and-the-south-sandwich-islands",
+            "name": "South Georgia and the South Sandwich Islands"
+          }
+        ],
+        "population": "0",
+        "timezone": {
+          "name": "Antarctica/Syowa",
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
+        }
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -168,48 +428,206 @@
       "properties": {
         "id": 6255147,
         "code": "AS",
-        "name": "Asia",
         "slug": "asia",
+        "name": "Asia",
         "countries": [
-          "AF",
-          "AM",
-          "AZ",
-          "BD",
-          "BT",
-          "IO",
-          "BN",
-          "KH",
-          "CN",
-          "CX",
-          "CC",
-          "GE",
-          "HK",
-          "IN",
-          "ID",
-          "JP",
-          "KZ",
-          "KG",
-          "LA",
-          "MO",
-          "MY",
-          "MV",
-          "MN",
-          "MM",
-          "NP",
-          "KP",
-          "PK",
-          "PH",
-          "SG",
-          "KR",
-          "LK",
-          "TW",
-          "TJ",
-          "TH",
-          "TR",
-          "TM",
-          "UZ",
-          "VN"
-        ]
+          {
+            "code": "AF",
+            "slug": "afghanistan",
+            "name": "Afghanistan"
+          },
+          {
+            "code": "AM",
+            "slug": "armenia",
+            "name": "Armenia"
+          },
+          {
+            "code": "AZ",
+            "slug": "azerbaijan",
+            "name": "Azerbaijan"
+          },
+          {
+            "code": "BD",
+            "slug": "bangladesh",
+            "name": "Bangladesh"
+          },
+          {
+            "code": "BT",
+            "slug": "bhutan",
+            "name": "Bhutan"
+          },
+          {
+            "code": "IO",
+            "slug": "british-indian-ocean-territory",
+            "name": "British Indian Ocean Territory"
+          },
+          {
+            "code": "BN",
+            "slug": "brunei",
+            "name": "Brunei"
+          },
+          {
+            "code": "KH",
+            "slug": "cambodia",
+            "name": "Cambodia"
+          },
+          {
+            "code": "CN",
+            "slug": "china",
+            "name": "China"
+          },
+          {
+            "code": "CX",
+            "slug": "christmas-island",
+            "name": "Christmas Island"
+          },
+          {
+            "code": "CC",
+            "slug": "cocos-islands",
+            "name": "Cocos Islands"
+          },
+          {
+            "code": "GE",
+            "slug": "georgia",
+            "name": "Georgia"
+          },
+          {
+            "code": "HK",
+            "slug": "hong-kong",
+            "name": "Hong Kong"
+          },
+          {
+            "code": "IN",
+            "slug": "india",
+            "name": "India"
+          },
+          {
+            "code": "ID",
+            "slug": "indonesia",
+            "name": "Indonesia"
+          },
+          {
+            "code": "JP",
+            "slug": "japan",
+            "name": "Japan"
+          },
+          {
+            "code": "KZ",
+            "slug": "kazakhstan",
+            "name": "Kazakhstan"
+          },
+          {
+            "code": "KG",
+            "slug": "kyrgyzstan",
+            "name": "Kyrgyzstan"
+          },
+          {
+            "code": "LA",
+            "slug": "laos",
+            "name": "Laos"
+          },
+          {
+            "code": "MO",
+            "slug": "macao",
+            "name": "Macao"
+          },
+          {
+            "code": "MY",
+            "slug": "malaysia",
+            "name": "Malaysia"
+          },
+          {
+            "code": "MV",
+            "slug": "maldives",
+            "name": "Maldives"
+          },
+          {
+            "code": "MN",
+            "slug": "mongolia",
+            "name": "Mongolia"
+          },
+          {
+            "code": "MM",
+            "slug": "myanmar",
+            "name": "Myanmar"
+          },
+          {
+            "code": "NP",
+            "slug": "nepal",
+            "name": "Nepal"
+          },
+          {
+            "code": "KP",
+            "slug": "north-korea",
+            "name": "North Korea"
+          },
+          {
+            "code": "PK",
+            "slug": "pakistan",
+            "name": "Pakistan"
+          },
+          {
+            "code": "PH",
+            "slug": "philippines",
+            "name": "Philippines"
+          },
+          {
+            "code": "SG",
+            "slug": "singapore",
+            "name": "Singapore"
+          },
+          {
+            "code": "KR",
+            "slug": "south-korea",
+            "name": "South Korea"
+          },
+          {
+            "code": "LK",
+            "slug": "sri-lanka",
+            "name": "Sri Lanka"
+          },
+          {
+            "code": "TW",
+            "slug": "taiwan",
+            "name": "Taiwan"
+          },
+          {
+            "code": "TJ",
+            "slug": "tajikistan",
+            "name": "Tajikistan"
+          },
+          {
+            "code": "TH",
+            "slug": "thailand",
+            "name": "Thailand"
+          },
+          {
+            "code": "TR",
+            "slug": "turkey",
+            "name": "Turkey"
+          },
+          {
+            "code": "TM",
+            "slug": "turkmenistan",
+            "name": "Turkmenistan"
+          },
+          {
+            "code": "UZ",
+            "slug": "uzbekistan",
+            "name": "Uzbekistan"
+          },
+          {
+            "code": "VN",
+            "slug": "vietnam",
+            "name": "Vietnam"
+          }
+        ],
+        "population": "3.8b",
+        "timezone": {
+          "name": "Australia/Perth",
+          "dstOffset": "UTC+08:00",
+          "gmtOffset": "UTC+08:00"
+        }
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -256,38 +674,152 @@
       "properties": {
         "id": 7729891,
         "code": "CR",
-        "name": "Caribbean",
         "slug": "caribbean",
+        "name": "Caribbean",
         "countries": [
-          "AI",
-          "AG",
-          "AW",
-          "BS",
-          "BB",
-          "BQ",
-          "VG",
-          "KY",
-          "CU",
-          "CW",
-          "DM",
-          "DO",
-          "GD",
-          "GP",
-          "HT",
-          "JM",
-          "MQ",
-          "MS",
-          "PR",
-          "BL",
-          "KN",
-          "LC",
-          "MF",
-          "VC",
-          "SX",
-          "TT",
-          "TC",
-          "VI"
-        ]
+          {
+            "code": "AI",
+            "slug": "anguilla",
+            "name": "Anguilla"
+          },
+          {
+            "code": "AG",
+            "slug": "antigua-and-barbuda",
+            "name": "Antigua and Barbuda"
+          },
+          {
+            "code": "AW",
+            "slug": "aruba",
+            "name": "Aruba"
+          },
+          {
+            "code": "BS",
+            "slug": "bahamas",
+            "name": "Bahamas"
+          },
+          {
+            "code": "BB",
+            "slug": "barbados",
+            "name": "Barbados"
+          },
+          {
+            "code": "BQ",
+            "slug": "bonaire-saint-eustatius-and-saba",
+            "name": "Bonaire, Saint Eustatius and Saba "
+          },
+          {
+            "code": "VG",
+            "slug": "british-virgin-islands",
+            "name": "British Virgin Islands"
+          },
+          {
+            "code": "KY",
+            "slug": "cayman-islands",
+            "name": "Cayman Islands"
+          },
+          {
+            "code": "CU",
+            "slug": "cuba",
+            "name": "Cuba"
+          },
+          {
+            "code": "CW",
+            "slug": "curacao",
+            "name": "Curacao"
+          },
+          {
+            "code": "DM",
+            "slug": "dominica",
+            "name": "Dominica"
+          },
+          {
+            "code": "DO",
+            "slug": "dominican-republic",
+            "name": "Dominican Republic"
+          },
+          {
+            "code": "GD",
+            "slug": "grenada",
+            "name": "Grenada"
+          },
+          {
+            "code": "GP",
+            "slug": "guadeloupe",
+            "name": "Guadeloupe"
+          },
+          {
+            "code": "HT",
+            "slug": "haiti",
+            "name": "Haiti"
+          },
+          {
+            "code": "JM",
+            "slug": "jamaica",
+            "name": "Jamaica"
+          },
+          {
+            "code": "MQ",
+            "slug": "martinique",
+            "name": "Martinique"
+          },
+          {
+            "code": "MS",
+            "slug": "montserrat",
+            "name": "Montserrat"
+          },
+          {
+            "code": "PR",
+            "slug": "puerto-rico",
+            "name": "Puerto Rico"
+          },
+          {
+            "code": "BL",
+            "slug": "saint-barthelemy",
+            "name": "Saint Barthelemy"
+          },
+          {
+            "code": "KN",
+            "slug": "saint-kitts-and-nevis",
+            "name": "Saint Kitts and Nevis"
+          },
+          {
+            "code": "LC",
+            "slug": "saint-lucia",
+            "name": "Saint Lucia"
+          },
+          {
+            "code": "MF",
+            "slug": "saint-martin",
+            "name": "Saint Martin"
+          },
+          {
+            "code": "VC",
+            "slug": "saint-vincent-and-the-grenadines",
+            "name": "Saint Vincent and the Grenadines"
+          },
+          {
+            "code": "SX",
+            "slug": "sint-maarten",
+            "name": "Sint Maarten"
+          },
+          {
+            "code": "TT",
+            "slug": "trinidad-and-tobago",
+            "name": "Trinidad and Tobago"
+          },
+          {
+            "code": "TC",
+            "slug": "turks-and-caicos-islands",
+            "name": "Turks and Caicos Islands"
+          },
+          {
+            "code": "VI",
+            "slug": "us-virgin-islands",
+            "name": "U.S. Virgin Islands"
+          }
+        ],
+        "population": "39.2m",
+        "timezone": null
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -334,18 +866,52 @@
       "properties": {
         "id": 7729892,
         "code": "CA",
-        "name": "Central America",
         "slug": "central-america",
+        "name": "Central America",
         "countries": [
-          "BZ",
-          "CR",
-          "SV",
-          "GT",
-          "HN",
-          "MX",
-          "NI",
-          "PA"
-        ]
+          {
+            "code": "BZ",
+            "slug": "belize",
+            "name": "Belize"
+          },
+          {
+            "code": "CR",
+            "slug": "costa-rica",
+            "name": "Costa Rica"
+          },
+          {
+            "code": "SV",
+            "slug": "el-salvador",
+            "name": "El Salvador"
+          },
+          {
+            "code": "GT",
+            "slug": "guatemala",
+            "name": "Guatemala"
+          },
+          {
+            "code": "HN",
+            "slug": "honduras",
+            "name": "Honduras"
+          },
+          {
+            "code": "MX",
+            "slug": "mexico",
+            "name": "Mexico"
+          },
+          {
+            "code": "NI",
+            "slug": "nicaragua",
+            "name": "Nicaragua"
+          },
+          {
+            "code": "PA",
+            "slug": "panama",
+            "name": "Panama"
+          }
+        ],
+        "population": "154.3m",
+        "timezone": null
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -392,63 +958,286 @@
       "properties": {
         "id": 6255148,
         "code": "EU",
-        "name": "Europe",
         "slug": "europe",
+        "name": "Europe",
         "countries": [
-          "AL",
-          "AD",
-          "AT",
-          "BY",
-          "BE",
-          "BA",
-          "BG",
-          "HR",
-          "CY",
-          "CZ",
-          "DK",
-          "EE",
-          "FO",
-          "FI",
-          "FR",
-          "DE",
-          "GI",
-          "GR",
-          "GG",
-          "HU",
-          "IS",
-          "IE",
-          "IM",
-          "IT",
-          "JE",
-          "XK",
-          "LV",
-          "LI",
-          "LT",
-          "LU",
-          "MK",
-          "MT",
-          "MD",
-          "MC",
-          "ME",
-          "NL",
-          "NO",
-          "PL",
-          "PT",
-          "RO",
-          "RU",
-          "SM",
-          "RS",
-          "SK",
-          "SI",
-          "ES",
-          "SJ",
-          "SE",
-          "CH",
-          "UA",
-          "GB",
-          "VA",
-          "AX"
-        ]
+          {
+            "code": "AX",
+            "slug": "aland-islands",
+            "name": "Aland Islands"
+          },
+          {
+            "code": "AL",
+            "slug": "albania",
+            "name": "Albania"
+          },
+          {
+            "code": "AD",
+            "slug": "andorra",
+            "name": "Andorra"
+          },
+          {
+            "code": "AT",
+            "slug": "austria",
+            "name": "Austria"
+          },
+          {
+            "code": "BY",
+            "slug": "belarus",
+            "name": "Belarus"
+          },
+          {
+            "code": "BE",
+            "slug": "belgium",
+            "name": "Belgium"
+          },
+          {
+            "code": "BA",
+            "slug": "bosnia-and-herzegovina",
+            "name": "Bosnia and Herzegovina"
+          },
+          {
+            "code": "BG",
+            "slug": "bulgaria",
+            "name": "Bulgaria"
+          },
+          {
+            "code": "HR",
+            "slug": "croatia",
+            "name": "Croatia"
+          },
+          {
+            "code": "CY",
+            "slug": "cyprus",
+            "name": "Cyprus"
+          },
+          {
+            "code": "CZ",
+            "slug": "czech-republic",
+            "name": "Czech Republic"
+          },
+          {
+            "code": "DK",
+            "slug": "denmark",
+            "name": "Denmark"
+          },
+          {
+            "code": "EE",
+            "slug": "estonia",
+            "name": "Estonia"
+          },
+          {
+            "code": "FO",
+            "slug": "faroe-islands",
+            "name": "Faroe Islands"
+          },
+          {
+            "code": "FI",
+            "slug": "finland",
+            "name": "Finland"
+          },
+          {
+            "code": "FR",
+            "slug": "france",
+            "name": "France"
+          },
+          {
+            "code": "DE",
+            "slug": "germany",
+            "name": "Germany"
+          },
+          {
+            "code": "GI",
+            "slug": "gibraltar",
+            "name": "Gibraltar"
+          },
+          {
+            "code": "GR",
+            "slug": "greece",
+            "name": "Greece"
+          },
+          {
+            "code": "GG",
+            "slug": "guernsey",
+            "name": "Guernsey"
+          },
+          {
+            "code": "HU",
+            "slug": "hungary",
+            "name": "Hungary"
+          },
+          {
+            "code": "IS",
+            "slug": "iceland",
+            "name": "Iceland"
+          },
+          {
+            "code": "IE",
+            "slug": "ireland",
+            "name": "Ireland"
+          },
+          {
+            "code": "IM",
+            "slug": "isle-of-man",
+            "name": "Isle of Man"
+          },
+          {
+            "code": "IT",
+            "slug": "italy",
+            "name": "Italy"
+          },
+          {
+            "code": "JE",
+            "slug": "jersey",
+            "name": "Jersey"
+          },
+          {
+            "code": "XK",
+            "slug": "kosovo",
+            "name": "Kosovo"
+          },
+          {
+            "code": "LV",
+            "slug": "latvia",
+            "name": "Latvia"
+          },
+          {
+            "code": "LI",
+            "slug": "liechtenstein",
+            "name": "Liechtenstein"
+          },
+          {
+            "code": "LT",
+            "slug": "lithuania",
+            "name": "Lithuania"
+          },
+          {
+            "code": "LU",
+            "slug": "luxembourg",
+            "name": "Luxembourg"
+          },
+          {
+            "code": "MK",
+            "slug": "macedonia",
+            "name": "Macedonia"
+          },
+          {
+            "code": "MT",
+            "slug": "malta",
+            "name": "Malta"
+          },
+          {
+            "code": "MD",
+            "slug": "moldova",
+            "name": "Moldova"
+          },
+          {
+            "code": "MC",
+            "slug": "monaco",
+            "name": "Monaco"
+          },
+          {
+            "code": "ME",
+            "slug": "montenegro",
+            "name": "Montenegro"
+          },
+          {
+            "code": "NL",
+            "slug": "netherlands",
+            "name": "Netherlands"
+          },
+          {
+            "code": "NO",
+            "slug": "norway",
+            "name": "Norway"
+          },
+          {
+            "code": "PL",
+            "slug": "poland",
+            "name": "Poland"
+          },
+          {
+            "code": "PT",
+            "slug": "portugal",
+            "name": "Portugal"
+          },
+          {
+            "code": "RO",
+            "slug": "romania",
+            "name": "Romania"
+          },
+          {
+            "code": "RU",
+            "slug": "russia",
+            "name": "Russia"
+          },
+          {
+            "code": "SM",
+            "slug": "san-marino",
+            "name": "San Marino"
+          },
+          {
+            "code": "RS",
+            "slug": "serbia",
+            "name": "Serbia"
+          },
+          {
+            "code": "CS",
+            "slug": "serbia-and-montenegro",
+            "name": "Serbia and Montenegro"
+          },
+          {
+            "code": "SK",
+            "slug": "slovakia",
+            "name": "Slovakia"
+          },
+          {
+            "code": "SI",
+            "slug": "slovenia",
+            "name": "Slovenia"
+          },
+          {
+            "code": "ES",
+            "slug": "spain",
+            "name": "Spain"
+          },
+          {
+            "code": "SJ",
+            "slug": "svalbard-and-jan-mayen",
+            "name": "Svalbard and Jan Mayen"
+          },
+          {
+            "code": "SE",
+            "slug": "sweden",
+            "name": "Sweden"
+          },
+          {
+            "code": "CH",
+            "slug": "switzerland",
+            "name": "Switzerland"
+          },
+          {
+            "code": "UA",
+            "slug": "ukraine",
+            "name": "Ukraine"
+          },
+          {
+            "code": "GB",
+            "slug": "united-kingdom",
+            "name": "United Kingdom"
+          },
+          {
+            "code": "VA",
+            "slug": "vatican",
+            "name": "Vatican"
+          }
+        ],
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Vaduz",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+01:00"
+        }
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -495,25 +1284,91 @@
       "properties": {
         "id": 6269133,
         "code": "ME",
-        "name": "Middle East",
         "slug": "middle-east",
+        "name": "Middle East",
         "countries": [
-          "BH",
-          "EG",
-          "IR",
-          "IQ",
-          "IL",
-          "JO",
-          "KW",
-          "LB",
-          "OM",
-          "PS",
-          "QA",
-          "SA",
-          "SY",
-          "AE",
-          "YE"
-        ]
+          {
+            "code": "BH",
+            "slug": "bahrain",
+            "name": "Bahrain"
+          },
+          {
+            "code": "EG",
+            "slug": "egypt",
+            "name": "Egypt"
+          },
+          {
+            "code": "IR",
+            "slug": "iran",
+            "name": "Iran"
+          },
+          {
+            "code": "IQ",
+            "slug": "iraq",
+            "name": "Iraq"
+          },
+          {
+            "code": "IL",
+            "slug": "israel",
+            "name": "Israel"
+          },
+          {
+            "code": "JO",
+            "slug": "jordan",
+            "name": "Jordan"
+          },
+          {
+            "code": "KW",
+            "slug": "kuwait",
+            "name": "Kuwait"
+          },
+          {
+            "code": "LB",
+            "slug": "lebanon",
+            "name": "Lebanon"
+          },
+          {
+            "code": "OM",
+            "slug": "oman",
+            "name": "Oman"
+          },
+          {
+            "code": "PS",
+            "slug": "palestinian-territory",
+            "name": "Palestinian Territory"
+          },
+          {
+            "code": "QA",
+            "slug": "qatar",
+            "name": "Qatar"
+          },
+          {
+            "code": "SA",
+            "slug": "saudi-arabia",
+            "name": "Saudi Arabia"
+          },
+          {
+            "code": "SY",
+            "slug": "syria",
+            "name": "Syria"
+          },
+          {
+            "code": "AE",
+            "slug": "united-arab-emirates",
+            "name": "United Arab Emirates"
+          },
+          {
+            "code": "YE",
+            "slug": "yemen",
+            "name": "Yemen"
+          }
+        ],
+        "population": "0",
+        "timezone": {
+          "name": "Asia/Damascus",
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+02:00"
+        }
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -560,15 +1415,46 @@
       "properties": {
         "id": 6255149,
         "code": "NA",
-        "name": "North America",
         "slug": "north-america",
+        "name": "North America",
         "countries": [
-          "BM",
-          "CA",
-          "GL",
-          "PM",
-          "US"
-        ]
+          {
+            "code": "BM",
+            "slug": "bermuda",
+            "name": "Bermuda"
+          },
+          {
+            "code": "CA",
+            "slug": "canada",
+            "name": "Canada"
+          },
+          {
+            "code": "GL",
+            "slug": "greenland",
+            "name": "Greenland"
+          },
+          {
+            "code": "AN",
+            "slug": "netherlands-antilles",
+            "name": "Netherlands Antilles"
+          },
+          {
+            "code": "PM",
+            "slug": "saint-pierre-and-miquelon",
+            "name": "Saint Pierre and Miquelon"
+          },
+          {
+            "code": "US",
+            "slug": "united-states",
+            "name": "United States"
+          }
+        ],
+        "population": "0",
+        "timezone": {
+          "name": "America/Cambridge_Bay",
+          "dstOffset": "UTC-06:00",
+          "gmtOffset": "UTC-07:00"
+        }
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -615,40 +1501,151 @@
       "properties": {
         "id": 6255151,
         "code": "OC",
-        "name": "Oceania",
         "slug": "oceania",
+        "name": "Oceania",
         "countries": [
-          "AS",
-          "AU",
-          "CK",
-          "_AU",
-          "TL",
-          "FJ",
-          "PF",
-          "GU",
-          "_AU",
-          "KI",
-          "MH",
-          "FM",
-          "NR",
-          "NC",
-          "NZ",
-          "NU",
-          "NF",
-          "MP",
-          "PW",
-          "PG",
-          "PN",
-          "WS",
-          "SB",
-          "_AU",
-          "TK",
-          "TO",
-          "TV",
-          "UM",
-          "VU",
-          "WF"
-        ]
+          {
+            "code": "AS",
+            "slug": "american-samoa",
+            "name": "American Samoa"
+          },
+          {
+            "code": "AU",
+            "slug": "australia",
+            "name": "Australia"
+          },
+          {
+            "code": "CK",
+            "slug": "cook-islands",
+            "name": "Cook Islands"
+          },
+          {
+            "code": "TL",
+            "slug": "east-timor",
+            "name": "East Timor"
+          },
+          {
+            "code": "FJ",
+            "slug": "fiji",
+            "name": "Fiji"
+          },
+          {
+            "code": "PF",
+            "slug": "french-polynesia",
+            "name": "French Polynesia"
+          },
+          {
+            "code": "GU",
+            "slug": "guam",
+            "name": "Guam"
+          },
+          {
+            "code": "KI",
+            "slug": "kiribati",
+            "name": "Kiribati"
+          },
+          {
+            "code": "MH",
+            "slug": "marshall-islands",
+            "name": "Marshall Islands"
+          },
+          {
+            "code": "FM",
+            "slug": "micronesia",
+            "name": "Micronesia"
+          },
+          {
+            "code": "NR",
+            "slug": "nauru",
+            "name": "Nauru"
+          },
+          {
+            "code": "NC",
+            "slug": "new-caledonia",
+            "name": "New Caledonia"
+          },
+          {
+            "code": "NZ",
+            "slug": "new-zealand",
+            "name": "New Zealand"
+          },
+          {
+            "code": "NU",
+            "slug": "niue",
+            "name": "Niue"
+          },
+          {
+            "code": "NF",
+            "slug": "norfolk-island",
+            "name": "Norfolk Island"
+          },
+          {
+            "code": "MP",
+            "slug": "northern-mariana-islands",
+            "name": "Northern Mariana Islands"
+          },
+          {
+            "code": "PW",
+            "slug": "palau",
+            "name": "Palau"
+          },
+          {
+            "code": "PG",
+            "slug": "papua-new-guinea",
+            "name": "Papua New Guinea"
+          },
+          {
+            "code": "PN",
+            "slug": "pitcairn",
+            "name": "Pitcairn"
+          },
+          {
+            "code": "WS",
+            "slug": "samoa",
+            "name": "Samoa"
+          },
+          {
+            "code": "SB",
+            "slug": "solomon-islands",
+            "name": "Solomon Islands"
+          },
+          {
+            "code": "TK",
+            "slug": "tokelau",
+            "name": "Tokelau"
+          },
+          {
+            "code": "TO",
+            "slug": "tonga",
+            "name": "Tonga"
+          },
+          {
+            "code": "TV",
+            "slug": "tuvalu",
+            "name": "Tuvalu"
+          },
+          {
+            "code": "UM",
+            "slug": "united-states-minor-outlying-islands",
+            "name": "United States Minor Outlying Islands"
+          },
+          {
+            "code": "VU",
+            "slug": "vanuatu",
+            "name": "Vanuatu"
+          },
+          {
+            "code": "WF",
+            "slug": "wallis-and-futuna",
+            "name": "Wallis and Futuna"
+          }
+        ],
+        "population": "0",
+        "timezone": {
+          "name": "Pacific/Pohnpei",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -695,24 +1692,86 @@
       "properties": {
         "id": 6255150,
         "code": "SA",
-        "name": "South America",
         "slug": "south-america",
+        "name": "South America",
         "countries": [
-          "AR",
-          "BO",
-          "BR",
-          "CL",
-          "CO",
-          "EC",
-          "FK",
-          "GF",
-          "GY",
-          "PY",
-          "PE",
-          "SR",
-          "UY",
-          "VE"
-        ]
+          {
+            "code": "AR",
+            "slug": "argentina",
+            "name": "Argentina"
+          },
+          {
+            "code": "BO",
+            "slug": "bolivia",
+            "name": "Bolivia"
+          },
+          {
+            "code": "BR",
+            "slug": "brazil",
+            "name": "Brazil"
+          },
+          {
+            "code": "CL",
+            "slug": "chile",
+            "name": "Chile"
+          },
+          {
+            "code": "CO",
+            "slug": "colombia",
+            "name": "Colombia"
+          },
+          {
+            "code": "EC",
+            "slug": "ecuador",
+            "name": "Ecuador"
+          },
+          {
+            "code": "FK",
+            "slug": "falkland-islands",
+            "name": "Falkland Islands"
+          },
+          {
+            "code": "GF",
+            "slug": "french-guiana",
+            "name": "French Guiana"
+          },
+          {
+            "code": "GY",
+            "slug": "guyana",
+            "name": "Guyana"
+          },
+          {
+            "code": "PY",
+            "slug": "paraguay",
+            "name": "Paraguay"
+          },
+          {
+            "code": "PE",
+            "slug": "peru",
+            "name": "Peru"
+          },
+          {
+            "code": "SR",
+            "slug": "suriname",
+            "name": "Suriname"
+          },
+          {
+            "code": "UY",
+            "slug": "uruguay",
+            "name": "Uruguay"
+          },
+          {
+            "code": "VE",
+            "slug": "venezuela",
+            "name": "Venezuela"
+          }
+        ],
+        "population": "385.7m",
+        "timezone": {
+          "name": "America/Recife",
+          "dstOffset": "UTC-03:00",
+          "gmtOffset": "UTC-03:00"
+        }
       },
       "geometry": {
         "type": "GeometryCollection",

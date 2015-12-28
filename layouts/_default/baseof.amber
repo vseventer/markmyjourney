@@ -4,6 +4,8 @@ html[lang=Site.LanguageCode]
     title
       block title
         | #{ Title }
+        if Title != Site.Title
+          |  • #{ Site.Title }
 
     meta[name="viewport"][content="width=device-width, initial-scale=1"]
     meta[http-equiv="x-ua-compatible"][content="ie-edge"]
@@ -26,9 +28,11 @@ html[lang=Site.LanguageCode]
     block main
       div.container
         div.row
-          div.col-md-8
+          div.col-xs-12.col-md-8
             block content
-          div.col-md-4
+          div.col-xs-12.col-md-4
+            block search
+              import ../partials/search.amber
             block sidebar
               import ../partials/sidebar.amber
 
@@ -36,21 +40,23 @@ html[lang=Site.LanguageCode]
       import ../partials/footer.amber
 
     block js
-      script[data-src=absURL("js/components.js")]
+      script[data-src=absURL("js/components.js")][data-event="ready:components"]
       script[async][src=absURL("js/main.js")]
 
     block currentLocation
       import ../mixins/geojson.amber
         +openCollection("current")
 
-        $features = last(1, Site.Data.location.features)
-        each $feature in $features
-          +toGeoJSON(nil, nil, $feature.geometry)
-          | ,
+        $locations = last(1, Site.Data.locations)
+        each $location in $locations
+          $cities = where($Site.Data.cities.features, "properties.slug", $location)
+          each $city in $cities
+            +toGeoJSON(nil, nil, $city.geometry)
+            | ,
 
-          $countries = where($Site.Data.countries.features, "properties.code", upper($feature.properties.code))
-          each $country in $countries
-            $geometry = index($country.geometry.geometries, 2)
-            +toGeoJSON(nil, nil, $geometry)
+            $countries = where($Site.Data.countries.features, "properties.slug", $city.properties.country.slug)
+            each $country in $countries
+              $geometry = index($country.geometry.geometries, 2)
+              +toGeoJSON(nil, nil, $geometry)
 
         +closeCollection

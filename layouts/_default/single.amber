@@ -8,11 +8,24 @@ block header
         import ../mixins/datetime.amber
           +toTime(Date)
 
-  $covers = first(1, Params.photos)
-  each $cover in $covers
-    $url   = absURL("uploads/" + $cover)
-    $style = "background-image: url('" + $url + "')"
-    div.mmjy-cover.m-b-1[style=safeCSS($style)]
+  div.carousel.slide.m-b-1[data-ride="carousel"][id="gallery"]
+    ol.carousel-indicators
+      each $i, $photo in Params.photos
+        li[data-target="#gallery"][data-slide-to=$i]
+          .active ? 0 == $i
+    div.carousel-inner[role="listbox"]
+      each $i, $photo in Params.photos
+        div.carousel-item
+          .active ? 0 == $i
+          $url   = absURL("uploads/" + $photo)
+          $style = "background-image: url('" + $url + "')"
+          div.mmjy-cover[style=safeCSS($style)]
+    a.left.carousel-control[href="#gallery"][role="button"][data-slide="prev"]
+      span.icon-prev[aria-hidden]
+      span.sr-only Previous
+    a.right.carousel-control[href="#gallery"][role="button"][data-slide="next"]
+      span.icon-next[aria-hidden]
+      span.sr-only Next
 
 block main
   div.container

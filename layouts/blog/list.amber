@@ -2,7 +2,7 @@ extends ../_default/baseof.amber
 
 block content
   hr.m-t-0
-  each $page in Paginator.Pages
+  each $page in Paginator.Pages.ByDate.Reverse
     import ../blog/summary
     hr
 

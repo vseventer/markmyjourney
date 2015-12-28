@@ -1,6 +1,6 @@
 // Bootstrap options.
 $enable-flex            : true;
-$enable-rounded         : false;
+$enable-rounded         : true;
 $enable-transitions     : false;
 
 // Bootstrap variables.
@@ -65,12 +65,24 @@ $jumbotron-bg           : #FFFFFF;
 .mmjy-border-bottom {
   border-bottom: $card-border-width solid $card-border-color;
 }
+.mmjy-border-bottom-0 {
+  border-bottom: none;
+}
 .mmjy-border-top {
   border-top: $card-border-width solid $card-border-color;
 }
 .mmjy-inset {
   background : #FFFFFF;
   padding    : $card-border-width;
+}
+
+.mmjy-dl-horizontal dt {
+  clear: left;
+  float: left;
+  width: 100px;
+}
+.mmjy-dl-horizontal dd {
+  margin-left: 120px;
 }
 
 .mmjy-cover {

@@ -8,12 +8,17 @@ block content
     strong Latest Posts
 
   hr.m-t-0
-  $pages = where(Data.Pages, "Type", "blog")
+  $pages = where(Site.Pages.ByDate.Reverse, "Type", "blog")
   each $page in first(5, $pages)
     import blog/summary
     hr
 
+block sidebar
+  div.twitter-timeline[href="https://twitter.com/vseventer"][data-border-color="#DDDDDD"][data-tweet-limit="3"][data-widget-id="512390021861498880"]
+
 block append js
+  script[data-src="https://platform.twitter.com/widgets.js"]
+
   import mixins/geojson.amber
     +openCollection("cover")
     each $country in Site.Data.countries.features
