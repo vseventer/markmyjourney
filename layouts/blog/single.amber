@@ -1,5 +1,32 @@
 extends ../_default/single.amber
 
+block header
+  div.jumbotron.jumbotron-fluid.m-b-0.text-md-center
+    div.container
+      h1.display-4 #{ Title }
+      span.lead.text-muted
+        import ../mixins/datetime.amber
+          +toTime(Date)
+
+  div.carousel.slide.m-b-1[data-ride="carousel"][id="gallery"]
+    ol.carousel-indicators
+      each $i, $photo in Params.photos
+        li[data-target="#gallery"][data-slide-to=$i]
+          .active ? 0 == $i
+    div.carousel-inner[role="listbox"]
+      each $i, $photo in Params.photos
+        div.carousel-item
+          .active ? 0 == $i
+          $url   = absURL("uploads/" + $photo)
+          $style = "background-image: url('" + $url + "')"
+          div.mmjy-cover[style=safeCSS($style)]
+    a.left.carousel-control[href="#gallery"][role="button"][data-slide="prev"]
+      span.icon-prev[aria-hidden]
+      span.sr-only Previous
+    a.right.carousel-control[href="#gallery"][role="button"][data-slide="next"]
+      span.icon-next[aria-hidden]
+      span.sr-only Next
+
 block main
   div.container
     div.row
@@ -13,13 +40,42 @@ block main
         $content = replace(Content, Summary, "")
         | #{ safeHTML($content) }
 
+    div.row
+      div.col-sm-12.col-md-8.col-md-offset-2
+        import ../mixins/social.amber
+          +disqus
+
+    div.row
+      div.col-sm-12.col-md-4.col-md-offset-2
+        if PrevInSection
+          div.card
+            div.card-header Previous Post
+            div.card-block
+              h4.card-title
+                a[href=PrevInSection.Permalink] #{ PrevInSection.Title }
+              small.card-text.text-muted
+                import ../mixins/datetime
+                  +toTime(PrevInSection.Date)
+      div.col-sm-12.col-md-4
+        if NextInSection
+          div.card
+            div.card-header Next Post
+            div.card-block
+              h4.card-title
+                a[href=NextInSection.Permalink] #{ NextInSection.Title }
+              small.card-text.text-muted
+                import ../mixins/datetime
+                  +toTime(NextInSection.Date)
+
 block append js
+  import ../mixins/social.amber
+    +jsDisqus
+
   if 0 < len(Params.cities)
     import ../mixins/geojson.amber
       +openCollection("gallery")
-      each $slug in Params.cities
-        $cities = where($Site.Data.cities.features, "properties.slug", $slug)
-        each $city in $cities
-          +toGeoJSON($city.properties.name, nil, $city.geometry)
-          | ,
+      $cities = where($Site.Data.cities.features, "properties.slug", "in", Params.cities)
+      each $city in $cities
+        +toGeoJSON($city.properties.name, nil, $city.geometry)
+        | ,
       +closeCollection()

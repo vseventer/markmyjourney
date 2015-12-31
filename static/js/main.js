@@ -85,7 +85,7 @@
           var lng = coords[0],
               lat = coords[1];
           if(lng < 0) {
-            lng = 360 + lng;
+            // lng = 360 + lng;
           }
           return L.latLng(lat, lng);
         },
@@ -186,7 +186,7 @@
       if(null !== evtName) { // Dispatch event.
         script.onload = function() {
           var evt = document.createEvent('CustomEvent');
-          evt.initCustomEvent(evtName, false, false, undefined);
+          evt.initCustomEvent('ready:' + evtName, false, false, undefined);
           document.dispatchEvent(evt);
         };
       }

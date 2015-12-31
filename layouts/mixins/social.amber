@@ -1,0 +1,13 @@
+mixin disqus
+  p.h3 Leave a Reply
+  div#disqus_thread
+  hr
+
+mixin jsDisqus
+  script[data-src="https://markmyjourney.disqus.com/embed.js"]
+
+mixin twitter
+  div.twitter-timeline[data-border-color="#DDDDDD"][data-tweet-limit="3"][data-widget-id="512390021861498880"]
+
+mixin jsTwitter
+  script[data-src="https://platform.twitter.com/widgets.js"]

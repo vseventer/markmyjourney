@@ -3831,7 +3831,7 @@
           }
         ],
         "neighbours": [],
-        "population": "0",
+        "population": null,
         "timezone": null
       },
       "geometry": {
@@ -15229,7 +15229,7 @@
           }
         ],
         "neighbours": [],
-        "population": "0",
+        "population": null,
         "timezone": {
           "name": "Europe/Oslo",
           "dstOffset": "UTC+02:00",
@@ -19905,10 +19905,6 @@
               ],
               [
                 [
-                  [
-                    9.64,
-                    3.63
-                  ],
                   [
                     9.64,
                     3.63
@@ -36632,7 +36628,7 @@
         "population": "80.5m",
         "timezone": {
           "name": "Africa/Cairo",
-          "dstOffset": "UTC+03:00",
+          "dstOffset": "UTC+02:00",
           "gmtOffset": "UTC+02:00"
         }
       },
@@ -53870,7 +53866,7 @@
           }
         ],
         "neighbours": [],
-        "population": "0",
+        "population": null,
         "timezone": {
           "name": "Indian/Kerguelen",
           "dstOffset": "UTC+05:00",
@@ -63493,10 +63489,6 @@
                   [
                     -6.07,
                     4.96
-                  ],
-                  [
-                    -6.07,
-                    4.97
                   ],
                   [
                     -6.07,
@@ -86536,8 +86528,12 @@
                     -20.09
                   ],
                   [
-                    164.31,
-                    -20.33
+                    164.17,
+                    -20.25
+                  ],
+                  [
+                    164.29,
+                    -20.29
                   ],
                   [
                     164.5,
@@ -121386,7 +121382,7 @@
         "code": "CH",
         "slug": "switzerland",
         "name": "Switzerland",
-        "toponym": "Swiss Confederation",
+        "toponym": "Switzerland",
         "continent": {
           "code": "EU",
           "slug": "europe",
@@ -135262,7 +135258,7 @@
           }
         ],
         "neighbours": [],
-        "population": "0",
+        "population": null,
         "timezone": null
       },
       "geometry": {

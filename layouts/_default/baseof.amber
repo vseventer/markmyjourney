@@ -40,7 +40,7 @@ html[lang=Site.LanguageCode]
       import ../partials/footer.amber
 
     block js
-      script[data-src=absURL("js/components.js")][data-event="ready:components"]
+      script[data-src=absURL("js/components.js")][data-event="components"]
       script[async][src=absURL("js/main.js")]
 
     block currentLocation

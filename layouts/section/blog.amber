@@ -10,3 +10,11 @@ block prepend content
       li.active Page #{ Paginator.PageNumber }
     else
       li.active #{ Title }
+
+block append sidebar
+  import ../mixins/social.amber
+    +twitter
+
+block append js
+  import ../mixins/social.amber
+    +jsTwitter

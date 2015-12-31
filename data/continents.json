@@ -376,7 +376,7 @@
             "name": "South Georgia and the South Sandwich Islands"
           }
         ],
-        "population": "0",
+        "population": null,
         "timezone": {
           "name": "Antarctica/Syowa",
           "dstOffset": "UTC+03:00",
@@ -1232,7 +1232,7 @@
             "name": "Vatican"
           }
         ],
-        "population": "0",
+        "population": null,
         "timezone": {
           "name": "Europe/Vaduz",
           "dstOffset": "UTC+02:00",
@@ -1363,7 +1363,7 @@
             "name": "Yemen"
           }
         ],
-        "population": "0",
+        "population": null,
         "timezone": {
           "name": "Asia/Damascus",
           "dstOffset": "UTC+03:00",
@@ -1449,7 +1449,7 @@
             "name": "United States"
           }
         ],
-        "population": "0",
+        "population": null,
         "timezone": {
           "name": "America/Cambridge_Bay",
           "dstOffset": "UTC-06:00",
@@ -1640,7 +1640,7 @@
             "name": "Wallis and Futuna"
           }
         ],
-        "population": "0",
+        "population": null,
         "timezone": {
           "name": "Pacific/Pohnpei",
           "dstOffset": "UTC+11:00",

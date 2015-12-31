@@ -15,48 +15,16 @@ block prepend content
 block prepend sidebar
   $countries = where(Site.Data.countries.features, "properties.slug", urlize(Title))
   each $country in $countries
-    div.card
-      h3.card-header.m-b-0.text-xs-center
-        | #{ $country.properties.toponym }
-        span[class="mmjy-icon icon-flags icon-flags-" + lower($country.properties.code)]
+    import ../partials/country.amber
 
-      div.mmjy-border-bottom.mmjy-map[data-l-box-zoom="false"][data-l-dragging="false"][data-l-double-click-zoom="false"][data-l-zoom-control="false"][data-source="dest"]
-
-      dl.card-block.m-b-0.mmjy-dl-horizontal
-        if $country.properties.capital
-          dt Capital City
-          dd #{ $country.properties.capital }
-        if 0 < len($country.properties.languages)
-          dt Languages
-          each $language in $country.properties.languages
-            dd #{ $language.name }
-        if $country.properties.area
-          dt Area
-          dd #{ $country.properties.area } km<sup>2</sup>
-        if $country.properties.population
-          dt Population
-          dd #{ $country.properties.population }
-        dt Currency
-        dd #{ $country.properties.currency.name} (#{ $country.properties.currency.code })
-        if $country.properties.timezone
-          dt Timezone
-          dd #{ $country.properties.timezone.gmtOffset }
-          if $country.properties.timezone.gmtOffset != $country.properties.timezone.dstOffset
-            dd #{ $country.properties.timezone.dstOffset } (DST)
-        if 0 < len($country.properties.neighbours)
-          dt Neighbors
-          each $neighbour in $country.properties.neighbours
-            if isset($Site.Taxonomies.destinations, $neighbour.slug)
-              dd
-                a[href=absURL("destinations/" + $neighbour.slug)] #{ $neighbour.name}
-                  span[class="mmjy-icon icon-flags icon-flags-" + lower($neighbour.code)]
-            else
-              dd #{ $neighbour.name }
-                span[class="mmjy-icon icon-flags icon-flags-" + lower($neighbour.code)]
+  if 0 == len($countries)
+    $continents = where(Site.Data.continents.features, "properties.slug", urlize(Title))
+    each $continent in $continents
+      import ../partials/continent.amber
 
 block append js
   import ../mixins/geojson.amber
-    $countries = where(Site.Data.countries.features, "properties.name", Title)
+    $countries = where(Site.Data.countries.features, "properties.slug", urlize(Title))
     each $country in $countries
       $geometry = index($country.geometry.geometries, 2)
       +openFeature("dest")
@@ -64,10 +32,10 @@ block append js
       +closeFeature
 
     if 0 == len($countries)
-      $continents = where(Site.Data.continents.features, "properties.name", Title)
+      $continents = where(Site.Data.continents.features, "properties.slug", urlize(Title))
       each $continent in $continents
         +openCollection("dest")
-        $countries = where($Site.Data.countries.features, "properties.continent", $continent.properties.code)
+        $countries = where($Site.Data.countries.features, "properties.continent.slug", $continent.properties.slug)
         each $country in $countries
           if isset($Site.Taxonomies.destinations, $country.properties.slug)
             $html     = "<a class=\"mmjy-map-icon icon-flags icon-flags-" + lower($country.properties.code) + "\" href=\"" + absURL("destinations/" + $country.properties.slug) + "\"></a>"

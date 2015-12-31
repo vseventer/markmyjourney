@@ -8,7 +8,7 @@ disableSitemap = true
 paginate = 3
 
 [permalinks]
-  blog = "/:filename"
+  blog = "/:title"
 
 [taxonomies]
   destination = "destinations"
