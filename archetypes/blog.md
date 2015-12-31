@@ -1,4 +1,6 @@
 +++
+aliases = [ ]
 destinations = [ ]
-photos       = [ ]
+cities  = [ ]
+photos  = [ ]
 +++
