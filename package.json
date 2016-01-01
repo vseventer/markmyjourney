@@ -31,10 +31,10 @@
     "build"     : "parallelshell 'npm run build:css' 'npm run build:html' 'npm run build:img' 'npm run build:js' 'npm run build:thumbs' 'npm run build:uploads'",
     "postbuild" : "rimraf public/css/main.scss public/css/sprite.css",
 
-    "build:css"     : "hugo server -d ./tmp -w=false & TASK_PID=$! && npm run css && kill $TASK_PID",
+    "build:css"     : "./bin/hugo server -d ./tmp -w=false & TASK_PID=$! && npm run css && kill $TASK_PID",
     "build:html"    : "find ./public -iname '*.html' -exec html-minifier -c ./.htmlrc {} -o {} \\;",
     "prebuild:hugo" : "npm run make",
-    "build:hugo"    : "hugo -v",
+    "build:hugo"    : "./bin/hugo -v",
     "build:img"     : "imagemin -P mozjpeg -P pngquant --speed 1 'public/img/*' ./public/img",
     "build:js"      : "find ./public/js -iname '*.js' -exec uglifyjs {} -cmvo {} --comments '/\/*!/' \\;",
     "build:thumbs"  : "imagemin -P mozjpeg --quality 100 'public/uploads/thumbs/*' ./public/uploads/thumbs",
@@ -45,7 +45,7 @@
     "postinstall" : "npm run webpack",
     "prestart"    : "npm run make",
     "start"       : "npm run watch",
-    "watch"       : "parallelshell 'npm run sass -- -w' 'hugo server -vw'"
+    "watch"       : "parallelshell 'npm run sass -- -w' './bin/hugo server -vw'"
   },
   "dependencies"    : { },
   "devDependencies" : {
@@ -54,13 +54,13 @@
     "clean-css"     : "3.4.x",
     "exif-reader"   : "1.0.x",
     "html-minifier" : "1.0.x",
-    "imagemin-cli"  : "2.0.x",
+    "imagemin-cli"  : "2.1.x",
     "imagemin-mozjpeg"  : "5.1.x",
     "imagemin-pngquant" : "4.2.x",
     "jquery"        : "2.1.x",
     "leaflet"       : "1.0.0-beta.2",
     "leaflet-dataoptions"   : "vseventer/Leaflet.dataoptions",
-    "leaflet-fullscreen"    : "0.0.x",
+    "leaflet-fullscreen"    : "1.0.x",
     "leaflet.markercluster" : "Leaflet/Leaflet.markercluster#v1.0.0-beta.2.0",
     "leaflet-minimap"       : "3.0.x",
     "moment"        : "2.10.x",
