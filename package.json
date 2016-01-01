@@ -31,7 +31,7 @@
     "build"     : "parallelshell 'npm run build:css' 'npm run build:html' 'npm run build:img' 'npm run build:js' 'npm run build:thumbs' 'npm run build:uploads'",
     "postbuild" : "rimraf public/css/main.scss public/css/sprite.css",
 
-    "build:css"     : "./bin/hugo server -d ./tmp -w=false & TASK_PID=$! && npm run css && kill $TASK_PID",
+    "build:css"     : "./bin/hugo server -d ./tmp -w=false & TASK_PID=$! && sleep 1 && npm run css && kill $TASK_PID",
     "build:html"    : "find ./public -iname '*.html' -exec html-minifier -c ./.htmlrc {} -o {} \\;",
     "prebuild:hugo" : "npm run make",
     "build:hugo"    : "./bin/hugo -v",
@@ -53,7 +53,7 @@
     "bootstrap"     : "twbs/bootstrap#v4.0.0-alpha.2",
     "clean-css"     : "3.4.x",
     "exif-reader"   : "1.0.x",
-    "html-minifier" : "1.0.x",
+    "html-minifier" : "1.0.0",
     "imagemin-cli"  : "2.1.x",
     "imagemin-mozjpeg"  : "5.1.x",
     "imagemin-pngquant" : "4.2.x",

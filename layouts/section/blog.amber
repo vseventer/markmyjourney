@@ -12,9 +12,9 @@ block prepend content
       li.active #{ Title }
 
 block append sidebar
-  import ../mixins/social.amber
+  import ../mixins/widgets.amber
     +twitter
 
 block append js
-  import ../mixins/social.amber
+  import ../mixins/widgets.amber
     +jsTwitter

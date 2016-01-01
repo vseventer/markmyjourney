@@ -22531,7 +22531,7 @@
         "population": "44,000",
         "timezone": {
           "name": "America/Cayman",
-          "dstOffset": "UTC-05:00",
+          "dstOffset": "UTC-04:00",
           "gmtOffset": "UTC-05:00"
         }
       },
@@ -34671,16 +34671,16 @@
                     11.71
                   ],
                   [
-                    43.21,
-                    11.73
-                  ],
-                  [
                     43.2,
                     11.73
                   ],
                   [
                     43.21,
                     11.73
+                  ],
+                  [
+                    43.21,
+                    11.72
                   ],
                   [
                     43.2,
@@ -72603,18 +72603,6 @@
                     55.46
                   ],
                   [
-                    21.14,
-                    55.69
-                  ],
-                  [
-                    21.1,
-                    55.72
-                  ],
-                  [
-                    21.09,
-                    55.73
-                  ],
-                  [
                     21.07,
                     55.8
                   ],
@@ -89977,8 +89965,8 @@
         "population": "2,000",
         "timezone": {
           "name": "Pacific/Norfolk",
-          "dstOffset": "UTC+11:30",
-          "gmtOffset": "UTC+11:30"
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
         }
       },
       "geometry": {
@@ -90143,8 +90131,8 @@
         "population": "22.9m",
         "timezone": {
           "name": "Asia/Pyongyang",
-          "dstOffset": "UTC+09:00",
-          "gmtOffset": "UTC+09:00"
+          "dstOffset": "UTC+08:30",
+          "gmtOffset": "UTC+08:30"
         }
       },
       "geometry": {
@@ -129617,7 +129605,7 @@
         "timezone": {
           "name": "America/Grand_Turk",
           "dstOffset": "UTC-04:00",
-          "gmtOffset": "UTC-05:00"
+          "gmtOffset": "UTC-04:00"
         }
       },
       "geometry": {
@@ -135639,7 +135627,7 @@
         "timezone": {
           "name": "America/Montevideo",
           "dstOffset": "UTC-03:00",
-          "gmtOffset": "UTC-02:00"
+          "gmtOffset": "UTC-03:00"
         }
       },
       "geometry": {

@@ -1,7 +1,7 @@
 extends _default/baseof.amber
 
 block header
-  div.jumbotron.jumbotron-fluid.m-b-1.mmjy-border-bottom.mmjy-map[data-l-fullscreen-control="true"][data-source="cover"]
+  div.jumbotron.jumbotron-fluid.m-b-1.mmjy-border-bottom.mmjy-map[data-l-fullscreen-control="{\"pseudoFullscreen\":true}"][data-source="cover"]
 
 block content
   p.breadcrumb
@@ -14,22 +14,11 @@ block content
     hr
 
 block append sidebar
-  import mixins/social.amber
+  import mixins/widgets.amber
     +twitter
 
-  div.card
-    h4.card-header Travel Statistics
-    dl.card-block.mmjy-dl-horizontal
-      $continents = where(Site.Data.continents.features, "properties.slug", "in", Site.Taxonomies.destinations.Keys)
-      $countries  = where(Site.Data.countries.features,  "properties.slug", "in", Site.Taxonomies.destinations.Keys)
-
-      dt Continents
-      dd #{ len($continents) } / #{ len(Site.Data.continents.features) }
-      dt Countries
-      dd #{ len($countries) } / #{ len(Site.Data.countries.features) }
-
 block append js
-  import mixins/social.amber
+  import mixins/widgets.amber
     +jsTwitter
 
   import mixins/geojson.amber

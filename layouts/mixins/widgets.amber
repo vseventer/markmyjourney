@@ -1,5 +1,5 @@
 mixin disqus
-  p.h3 Leave a Reply
+  h3 Leave a Reply
   div#disqus_thread
   hr
 

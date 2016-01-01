@@ -11,7 +11,9 @@ html[lang=Site.LanguageCode]
     meta[http-equiv="x-ua-compatible"][content="ie-edge"]
 
     link[rel="canonical"][href=Permalink]
-    meta[name="robots"][content="noindex, follow"]
+
+    block seo
+      meta[name="robots"][content="noindex, follow"]
 
     #{ Hugo.Generator }
 

@@ -29,14 +29,15 @@
 // Exports.
 module.exports = {
   entry: [
-    'jquery/src/jquery',
-    'bootstrap/dist/js/umd/carousel',
+    'jquery/src/attributes',
+    'jquery/src/css',
+    'jquery/src/event',
+    'jquery/src/exports/global',
     'bootstrap/dist/js/umd/dropdown',
 
     'leaflet',
     'leaflet-dataoptions',
     'leaflet-fullscreen',
-    // @see https://github.com/Leaflet/Leaflet.markercluster/issues/528
     'leaflet.markercluster/dist/leaflet.markercluster-src',
     'leaflet-minimap/src/Control.MiniMap.js'
   ],

@@ -1,0 +1,16 @@
+extends ../_default/single.amber
+
+block header
+  div.jumbotron.jumbotron-fluid.m-b-0.text-md-center
+    div.container
+      h1.display-4 #{ Title }
+      if "0001" != dateFormat("2006", Date)
+        span.lead.text-muted
+          import ../mixins/datetime.amber
+            +toTime(Date)
+
+  $cover = first(1, Params.photos)
+  each $photo in $cover
+    $url   = absURL("uploads/" + $photo)
+    $style = "background-image: url('" + $url + "')"
+    div.m-b-1.mmjy-cover[style=safeCSS($style)]

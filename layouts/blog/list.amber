@@ -1,4 +1,4 @@
-extends ../_default/baseof.amber
+extends ../_default/list.amber
 
 block content
   hr.m-t-0

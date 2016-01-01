@@ -55,6 +55,13 @@ $jumbotron-bg           : #FFFFFF;
   }
 
 // Custom.
+blockquote {
+  @extend .blockquote;
+}
+cite {
+  @extend .blockquote-footer;
+}
+
 .icon-flags {
   display: block;
 }
