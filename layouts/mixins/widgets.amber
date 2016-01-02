@@ -1,7 +1,6 @@
 mixin disqus
   h3 Leave a Reply
   div#disqus_thread
-  hr
 
 mixin jsDisqus
   script[data-src="https://markmyjourney.disqus.com/embed.js"]

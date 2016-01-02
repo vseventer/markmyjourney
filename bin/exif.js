@@ -80,5 +80,11 @@ res = res.map(function(data, index) {
   };
 });
 
+// Format as collection.
+res = {
+  type: 'FeatureCollection',
+  features: res
+};
+
 // Print the resulting GeoJSON object.
 console.log(JSON.stringify(res, null, 2));

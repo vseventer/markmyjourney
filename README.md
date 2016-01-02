@@ -7,6 +7,10 @@
 ## Usage
 `$ npm start`
 
+## Resources
+TODO: Find icons.
+TODO: List third party packages.
+
 ## Changelog
 See the [Changelog](./CHANGELOG.md) for a list of changes.
 

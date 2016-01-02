@@ -8,19 +8,44 @@ block main
 
         if 0 < len(Params.cities)
           div.m-b-1.mmjy-border.mmjy-inset
-            div.mmjy-map[data-source="gallery"]
+            div.mmjy-map[data-source="places"]
 
         $content = replace(Content, Summary, "")
         | #{ safeHTML($content) }
 
-        if 0 < len(Params.photos)
-          ul.list-inline
-          each $photo in Params.photos
-            li.list-inline-item
-              img.mmjy-photo.mmjy-photo-inset[src=absURL("uploads/thumbs/" + $photo)]
+      if 0 < len(Params.photos)
+        div.col-md-12
+          div#gallery.carousel.slide.m-b-05[data-keyboard="true"][data-ride="carousel"]
+            div.carousel-inner[role="listbox"]
+              $photos = where(Site.Data.uploads.features, "properties.src", "in", Params.photos)
+              each $i, $photo in $photos
+                $url   = absURL("uploads/" + $photo.properties.src)
+                $style = "background-image: url('" + $url + "')"
+                div.carousel-item.mmjy-cover[style=safeCSS($style)]
+                  .active ? 0 == $i
+                  div.carousel-caption
+                    import ../mixins/datetime.amber
+                      +toTime($photo.properties.date)
+                      if $photo.properties.description
+                        |  • #{ $photo.properties.description }
+            a.left.carousel-control[href="#gallery"][data-slide="prev"][role="button"]
+              span.icon-prev[aria-hidden]
+              span.sr-only Previous
+            a.right.carousel-control[href="#gallery"][data-slide="next"][role="button"]
+              span.icon-next[aria-hidden]
+              span.sr-only Next
 
+        div.col-sm-12.col-md-8.col-md-offset-2
+          ol.list-inline
+            each $i, $photo in Params.photos
+              li.list-inline-item[data-slide-to=$i][data-target="#gallery"]
+                img.mmjy-photo.mmjy-photo-inset[role="button"][src=absURL("uploads/thumbs/" + $photo)]
+          hr
+
+      div.col-sm-12.col-md-8.col-md-offset-2
         import ../mixins/widgets.amber
           +disqus
+        hr
 
         div.row
           div.col-sm-12.col-md-6
@@ -48,11 +73,20 @@ block append js
   import ../mixins/widgets.amber
     +jsDisqus
 
-  if 0 < len(Params.cities)
-    import ../mixins/geojson.amber
-      +openCollection("gallery")
-      $cities = where($Site.Data.cities.features, "properties.slug", "in", Params.cities)
-      each $city in $cities
-        +toGeoJSON($city.properties.name, nil, $city.geometry)
-        | ,
-      +closeCollection()
+  import ../mixins/geojson.amber
+    +openCollection("places")
+
+    $cities = where($Site.Data.cities.features, "properties.slug", "in", Params.cities)
+    each $city in $cities
+      $title = "<span class=\"mmjy-map-label\">" + $city.properties.name + "</span>"
+      +toGeoJSON($title, nil, $city.geometry)
+      | ,
+
+    $photos = where($Site.Data.uploads.features, "properties.src", "in", Params.photos)
+    each $i, $photo in $photos
+      $title = "<img class=\"img-rounded mmjy-photo\" src=\"" + absURL("uploads/thumbs/" + $photo.properties.src) + "\" />"
+      $html  = "<div class=\"mmjy-map-icon icon-stock icon-stock-camera\"></div>"
+      +toGeoJSON($title, $html, $photo.geometry)
+      | ,
+
+    +closeCollection

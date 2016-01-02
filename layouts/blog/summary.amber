@@ -1,16 +1,18 @@
 div.card.mmjy-summary
   h2.card-title
     a[href=Permalink] #{ Title }
-  p.card-text
-    strong
+
+  ul.list-inline
+    li.list-inline-item.font-weight-bold
       import ../mixins/datetime.amber
         +toTime(Date)
 
     $countries = where(Site.Data.countries.features, "properties.slug", "in", Params.destinations)
-    each $country in $countries
+    if 0 < len($countries)
       | •
-      a[href=absURL("destinations/" + $country.properties.slug)] #{ $country.properties.name }
-        span[class="mmjy-icon icon-flags icon-flags-" + lower($country.properties.code)]
+    each $country in $countries
+      li.list-inline-item
+        a.label.label-default[href=absURL("destinations/" + $country.properties.slug)] #{ $country.properties.name }
 
   $photos = first(5, Params.photos)
   ul.list-inline
