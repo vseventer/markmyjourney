@@ -5,10 +5,10 @@ title        = "MarkMyJourney"
 disableRSS     = true
 disableSitemap = true
 
-paginate = 3
+paginate = 5
 
 [permalinks]
-  blog = "/:title"
+  blog = "/:slug"
 
 [taxonomies]
   destination = "destinations"

@@ -22,16 +22,17 @@
     "make" : "parallelshell 'npm run make:css' 'npm run make:exif' 'npm run leaflet' 'npm run make:thumbs' 'npm run make:uploads'",
 
     "make:css"     : "npm run sprity && npm run sass",
-    "make:exif"    : "./bin/exif.js uploads/* > data/uploads.json",
+    "make:exif"    : "./bin/exif.js uploads/*.JPG > data/uploads.json",
     "make:leaflet" : "npm run leaflet",
-    "make:thumbs"  : "sharp 'uploads/*' -h 100  -o ./static/uploads/thumbs --withoutMetadata",
-    "make:uploads" : "sharp 'uploads/*' -w 1920 -o ./static/uploads        --withoutMetadata",
+    "make:thumbs"  : "sharp 'uploads/*.JPG' -h 100  -o ./static/uploads/thumbs --rotate --withoutMetadata",
+    "make:uploads" : "sharp 'uploads/*.JPG' -w 1920 -o ./static/uploads        --rotate --withoutMetadata",
 
     "prebuild"  : "npm run clean && npm run build:hugo",
     "build"     : "parallelshell 'npm run build:css' 'npm run build:html' 'npm run build:img' 'npm run build:js' 'npm run build:thumbs' 'npm run build:uploads'",
     "postbuild" : "rimraf public/css/main.scss public/css/sprite.css",
 
-    "build:css"     : "./bin/hugo server -d ./tmp -w=false & TASK_PID=$! && sleep 1 && npm run css && kill $TASK_PID",
+    "prebuild:css"  : "./bin/hugo -d ./tmp -b=http://localhost:1313",
+    "build:css"     : "web-server -r ./tmp -p 1313 & TASK_PID=$! && npm run css && kill $TASK_PID",
     "build:html"    : "find ./public -iname '*.html' -exec html-minifier -c ./.htmlrc {} -o {} \\;",
     "prebuild:hugo" : "npm run make",
     "build:hugo"    : "./bin/hugo -v",
@@ -70,7 +71,8 @@
     "sharp-cli"     : "0.2.x",
     "sprity-cli"    : "1.0.x",
     "uglifyjs"      : "2.4.x",
-    "uncss"         : "0.12.x",
+    "uncss"         : "elamperti/uncss",
+    "web-server-cli": "2.0.x",
     "webpack"       : "1.12.x"
   },
   "engines": {

@@ -6,9 +6,8 @@ block main
       div.col-sm-12.col-md-8.col-md-offset-2
         #{ Summary }
 
-        if 0 < len(Params.cities)
-          div.m-b-1.mmjy-border.mmjy-inset
-            div.mmjy-map[data-source="places"]
+        div.m-y-1.mmjy-border.mmjy-inset
+          div.mmjy-map[data-source="places"]
 
         $content = replace(Content, Summary, "")
         | #{ safeHTML($content) }
@@ -84,9 +83,10 @@ block append js
 
     $photos = where($Site.Data.uploads.features, "properties.src", "in", Params.photos)
     each $i, $photo in $photos
-      $title = "<img class=\"img-rounded mmjy-photo\" src=\"" + absURL("uploads/thumbs/" + $photo.properties.src) + "\" />"
-      $html  = "<div class=\"mmjy-map-icon icon-stock icon-stock-camera\"></div>"
-      +toGeoJSON($title, $html, $photo.geometry)
-      | ,
+      if $photo.geometry
+        $title = "<img class=\"img-rounded mmjy-photo\" src=\"" + absURL("uploads/thumbs/" + $photo.properties.src) + "\" />"
+        $html  = "<div class=\"mmjy-map-icon icon-stock icon-stock-camera\"></div>"
+        +toGeoJSON($title, $html, $photo.geometry)
+        | ,
 
     +closeCollection
