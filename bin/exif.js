@@ -35,7 +35,7 @@ var exifReader = require('exif-reader'),
 moment.defaultFormat = 'YYYY-MM-DD[T]HH:mm:ssZ'; // Retain timezone.
 
 // Local modules.
-var metadata = require('../uploads/metadata.json');
+var metadata = require('../data/captions.json');
 
 // Configure.
 var images = process.argv.slice(2);
