@@ -13,6 +13,10 @@ block content
     import blog/summary.amber
     hr
 
+  ul.pager
+    li
+      a[href=absURL("/blog")] More →
+
 block append sidebar
   import mixins/widgets.amber
     +twitter

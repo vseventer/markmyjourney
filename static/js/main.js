@@ -1,4 +1,4 @@
-/*!
+  /*!
  * The MIT License (MIT)
  *
  * Copyright (c) 2015 Mark van Seventer
@@ -60,6 +60,13 @@
   document.addEventListener('ready:components', function() {
     L.Icon.Default.imagePath = '/img/'; // Configure.
 
+    // Patch active carousel indicators outside carousel.
+    $('.carousel').on('slide.bs.carousel', function(e) {
+      var index = $(e.relatedTarget).index(),
+          indicators = $('[data-target="#' + this.id + '"]').removeClass('active');
+      indicators.filter('[data-slide-to="' + index + '"]').addClass('active');
+    });
+
     // Initialize maps.
     var elements = document.querySelectorAll('.mmjy-map');
     arraySlice.call(elements).forEach(function(element) {
@@ -120,8 +127,9 @@
           }
           return marker;
         },
-        style: function() {
-          return { color: '#006400', weight: 1 };
+        style: function(feature) {
+          var weight = 'LineString' === feature.geometry.type ? 3 : 1;
+          return { color: '#006400', weight: weight };
         }
       });
 
@@ -129,7 +137,7 @@
       var bounds = layer.getBounds();
       if(!bounds.isValid()) { // No or invalid bounds.
         return map.setView([ 0, 0 ], MIN_ZOOM);
-        return element.remove();
+        // return element.remove();
       }
 
       // Prepare cluster.

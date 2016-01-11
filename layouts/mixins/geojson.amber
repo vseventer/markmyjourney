@@ -11,12 +11,27 @@ mixin openFeature($name)
   +open
   | var #{ $name } =
 
+mixin openGeoJSONPath()
+  | {
+  |   type: 'Feature',
+  |   properties: #{ unescaped("{") }
+  |     geodesic: true
+  |   },
+  |   geometry: #{ unescaped("{") }
+  |     type: 'LineString',
+  |     coordinates: [
+
 mixin close
   | #{ unescaped("</script>") }
 
 mixin closeCollection
   | ]};
   +close
+
+mixin closeGeoJSONPath()
+  |     ]
+  |   },
+  | }
 
 mixin closeFeature
   | ;
@@ -31,3 +46,6 @@ mixin toGeoJSON($title, $html, $geometry)
   |   },
   |   geometry: #{ unescaped(json($geometry)) }
   | }
+
+mixin toGeoJSONPath($city)
+  | #{ unescaped(json($city.geometry.coordinates)) }

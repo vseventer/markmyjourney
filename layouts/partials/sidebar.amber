@@ -1,7 +1,7 @@
 div.card
   h4.card-header.m-b-0.text-center.mmjy-border-bottom-0 Popular Posts
   ul.list-group.list-group-flush
-    $popular = first(5, where(Site.Pages.ByDate.Reverse, "Type", "blog"))
+    $popular = first(5, where(Site.Pages.ByWeight.Reverse, "Type", "blog"))
     each $page in $popular
       li.list-group-item
         a[href=Permalink] #{ Title }

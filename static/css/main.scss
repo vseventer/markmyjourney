@@ -131,12 +131,16 @@ cite {
 }
 
 .mmjy-photo {
-  height: 100px;
+  height : 100px;
+  width  : 133px;
 }
+  .active .mmjy-photo { /* Carousel. */
+    border-color : #000000;
+    opacity      : 0.5;
+  }
   .mmjy-photo-inset {
     background : #FFFFFF;
     border     : $card-border-width solid $card-border-color;
-    margin     : -2px;
     padding    : $card-border-width;
     box-sizing : initial;
   }

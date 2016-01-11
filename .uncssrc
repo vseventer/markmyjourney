@@ -1,11 +1,18 @@
 {
   "ignore": [
+    ".leaflet-cluster-anim",
+    ".leaflet-fullscreen-on",
     ".leaflet-popup",
     ".leaflet-popup-content",
     ".leaflet-popup-content-wrapper",
     ".leaflet-popup-tip",
     ".leaflet-popup-tip-container",
+    ".leaflet-pseudo-fullscreen",
     ".leaflet-tile",
-    ".leaflet-tile-loaded"
+    ".leaflet-tile-loaded",
+    ".leaflet-zoom-anim",
+
+    ".mmjy-map-icon",
+    ".mmjy-map-label"
   ]
 }

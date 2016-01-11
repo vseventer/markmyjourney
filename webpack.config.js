@@ -26,13 +26,16 @@
 
 // NOTE: This configuration is merged with any CLI flags.
 
+// Package modules.
+var webpack = require('webpack');
+
 // Exports.
 module.exports = {
   entry: [
     'jquery/src/attributes',
     'jquery/src/css',
     'jquery/src/data',
-    'jquery/src/event',
+    'jquery/src/event/trigger',
     'jquery/src/exports/global',
     'bootstrap/dist/js/umd/carousel',
     'bootstrap/dist/js/umd/dropdown',
@@ -40,15 +43,13 @@ module.exports = {
     'leaflet',
     'leaflet-dataoptions',
     'leaflet-fullscreen',
+    'leaflet-geodesic/Leaflet.Geodesic.js',
     'leaflet.markercluster/dist/leaflet.markercluster-src',
     'leaflet-minimap/src/Control.MiniMap.js'
   ],
-  module: {
-    loaders: [
-      { test: /jquery\/src\/selector\.js/, loader: 'amd-define-factory-patcher-loader' }
-    ]
-  },
-  resolve: {
-    alias: { sizzle: 'jquery/src/sizzle/dist/sizzle' }
-  }
+  plugins: [
+    // Patch requires for `jquery/src/exports/global` (jQuery v2.2).
+    new webpack.DefinePlugin({ noGlobal: false }),
+    new webpack.ProvidePlugin({ jQuery: 'jquery/src/core' })
+  ]
 };
