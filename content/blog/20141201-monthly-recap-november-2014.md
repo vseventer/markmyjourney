@@ -3,9 +3,6 @@ date    = "2014-12-01"
 title   = "Monthly Recap: November 2014"
 aliases = [ "/blog/monthly-recap-november-2014.html" ]
 destinations = [ "asia", "thailand", "malaysia", "singapore" ]
-cities  = [ ]
-photos  = [ ]
-cover   = ""
 +++
 
 In November 2014, we visited three countries: Thailand, Malaysia, and Singapore. After a [rough start in Thailand](/blog/bustling-bangkok.html), we found ourself being [comfortable in Kuala Lumpur](/blog/calmer-waters-in-kuala-lumpur.html), and [enjoying Singapore](/blog/three-days-in-singapore.html). Looking back, we probably won’t return to any of these countries any time soon as we feel we have a good impression of all of them.
@@ -13,10 +10,12 @@ In November 2014, we visited three countries: Thailand, Malaysia, and Singapore.
 Determining the budget for Southeast Asia was not easy, especially since we hadn’t been there before. Yet, after a month of traveling here, we are happy to see our expected and actual expenses are pretty close!
 
 **The Good**
+
 * We stayed within budget for all countries. In Thailand we relied on buses and trains, which in total took up a decent chunk of its budget. But, due to the low cost of food and lodging, we were able to make up for it.
 * Malaysia is slighly more expensive than Thailand, but as we mainly used public transport and our feet to get around, we didn’t spend much. Also, the street food here turned out to be cheap *and* delicious. Singapore is an expensive country, yet we kept the total expenses down by only spending three days here.
 
 **The Bad**
+
 * On our first day in Thailand, we paid an extraordinary amount of 17$ for ice cream inside the Grand Palace in Bangkok. We would never pay this is any country, let alone Thailand. But, we were overwhelmed by the city, and eager to eat something after we completed the Grand Palace tour in the burning heat. After we already started indulging, we saw the bill. Lesson learned.
 * In Ko Lanta, our plan to rent a motorcycle went haywire, so we decided to use a private taxi instead. On the way, it started to rain, so our plan of visiting a series of beaches down south did not work out. The bill was 800 baht, or 24$.
 * Finally, we decided to have a nice dinner in Singapore. Not the best decision, we spent 33$ on a mediocre burger. The next day, we spent less than 10$ on a local meal of similar quality.

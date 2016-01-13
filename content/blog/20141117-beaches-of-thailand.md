@@ -4,8 +4,12 @@ title   = "Beaches of Thailand"
 aliases = [ "/blog/beaches-of-thailand.html" ]
 destinations = [ "asia", "thailand" ]
 cities  = [ "krabi-krabi-th", "ban-ao-nang-phangnga-th", "ko-lanta-krabi-th" ]
-photos  = [ "PB102315.JPG", "PB112354.JPG", "PB112361.JPG", "PB112398.JPG", "PB122481.JPG", "PB142535.JPG", "PB142547.JPG", "PB142581.JPG", "PB142604.JPG", "PB152606.JPG", "PB162619.JPG", "PB162620.JPG", "PB162623.JPG", "PB162627.JPG", "PB162629.JPG" ]
-cover   = "PB102315.JPG"
+photos  = [
+  "PB102315.JPG", "PB112354.JPG", "PB112361.JPG", "PB112398.JPG", "PB122481.JPG",
+  "PB142535.JPG", "PB142547.JPG", "PB142581.JPG", "PB142604.JPG", "PB152606.JPG",
+  "PB162619.JPG", "PB162620.JPG", "PB162623.JPG", "PB162627.JPG", "PB162629.JPG"
+]
+cover = "PB102315.JPG"
 +++
 
 After spending 10 days in the north of Thailand, we headed south in search for white sand beaches. From Chiang Mai, we took an overnight bus to Bangkok, followed by an overnight train to Surat Thani. From there, a three hour bus ride brought us to Krabi Town. Needless to say, we smelled terrible, so a nice long shower and nap was the first thing we did.

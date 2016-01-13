@@ -5,8 +5,11 @@ slug    = "trekking-through-sapas-hmong-valley"
 aliases = [ "/blog/trekking-through-sapas-hmong-valley.html" ]
 destinations = [ "asia", "vietnam" ]
 cities  = [ "sa-pa-lao-cai-vn" ]
-photos  = [ "PC153610.JPG", "PC153612.JPG", "PC153616.JPG", "PC153617.JPG", "PC153628.JPG", "PC153637.JPG", "PC153643.JPG", "PC153645.JPG", "PC153655.JPG", "PC153662.JPG" ]
-cover   = "PC153643.JPG"
+photos  = [
+  "PC153610.JPG", "PC153612.JPG", "PC153616.JPG", "PC153617.JPG", "PC153628.JPG",
+  "PC153637.JPG", "PC153643.JPG", "PC153645.JPG", "PC153655.JPG", "PC153662.JPG"
+]
+cover = "PC153643.JPG"
 +++
 
 The day after returning from our [Hạ Long Bay cruise](/blog/two-day-cruise-in-ha-long-bay.html) we were already on the move again. We went north to the mountain town of Sa Pá. Initially, we planned to take the train, but as the government opened a brand new highway just three weeks before, taking a bus is now equally safe, and cheaper too. Only the last hour of our journey consisted of driving on mountain passes, but nothing too bad.

@@ -4,8 +4,12 @@ title   = "Three Days in Singapore"
 aliases = [ "/blog/three-days-in-singapore.html" ]
 destinations = [ "asia", "singapore" ]
 cities  = [ "singapore-sg" ]
-photos  = [ "PB232808.JPG", "PB232822.JPG", "PB232829.JPG", "PB232834.JPG", "PB232840.JPG", "PB232848.JPG", "PB232891.JPG", "PB242914.JPG", "PB242927.JPG", "PB242941.JPG", "PB242946.JPG", "PB242952.JPG", "PB242967.JPG" ]
-cover   = "PB232891.JPG"
+photos  = [
+  "PB232808.JPG", "PB232822.JPG", "PB232829.JPG", "PB232834.JPG", "PB232840.JPG",
+  "PB232848.JPG", "PB232891.JPG", "PB242914.JPG", "PB242927.JPG", "PB242941.JPG",
+  "PB242946.JPG", "PB242952.JPG", "PB242967.JPG"
+]
+cover = "PB232891.JPG"
 +++
 
 The train is one of the best ways to get around in Southeast Asia. From Kuala Lumpur, it took only seven hours to reach Singapore. We had only a few days here, as our flights to Bangkok and then Cambodia were quickly approaching. As most tourists, we started by exploring the bay area. The bay area consists out of the waterfront, with tons of skyscrapers, most of them owned by banks (Singapore is a tax haven). On the other side, the magnificent Marina Bay Sands hotel dominates the view. These three towers are connected by a large “hotdog”, as the locals call it. This skydeck provides an observatory space, and also an *Infinity Pool*. On ground-level, the hotel is surrounded by giant shopping malls. How more Western can it get?

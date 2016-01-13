@@ -4,8 +4,12 @@ title   = "Cities of Vietnam"
 aliases = [ "/blog/cities-of-vietnam.html" ]
 destinations = [ "asia", "vietnam" ]
 cities  = [ "ho-chi-minh-city-ho-chi-minh-city-vn", "phan-thiet-binh-thuan-vn", "hanoi-ha-noi-vn" ]
-photos  = [ "PC043226.JPG", "PC043238.JPG", "PC043246.JPG", "PC053306.JPG", "PC053326.JPG", "PC073343.JPG", "PC073358.JPG", "PC073372.JPG", "PC073376.JPG", "PC093417.JPG", "PC113435.JPG", "PC113441.JPG", "PC113444.JPG" ]
-cover   = "PC053326.JPG"
+photos  = [
+  "PC043226.JPG", "PC043238.JPG", "PC043246.JPG", "PC053306.JPG", "PC053326.JPG",
+  "PC073343.JPG", "PC073358.JPG", "PC073372.JPG", "PC073376.JPG", "PC093417.JPG",
+  "PC113435.JPG", "PC113441.JPG", "PC113444.JPG"
+]
+cover = "PC053326.JPG"
 +++
 
 During our stay in Vietnam we used the cities of Ho Chi Minh and Hanoi as our main places to stay. From there, it is easy to visit many of the highlights the country has to offer. In previous posts we covered our [Hạ Long Bay cruise](/blog/two-day-cruise-in-ha-long-bay.html), and [trekking trip to Sa Pá](/blog/trekking-through-sapas-hmong-valley.html). Yet, Vietnam has more to offer. Apart from seeing Ho Chi Minh City and Hanoi itself, we went on trips to the Mekong Delta, Mũi Né, and the Củ Chi tunnels.

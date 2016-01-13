@@ -4,6 +4,7 @@ title   = "The First Step"
 aliases = [ "/blog/the-first-step.html" ]
 destinations = [ "north-america", "united-states", "europe", "netherlands" ]
 cities  = [ "boston-massachusetts-us", "amsterdam-nl" ]
+path    = [ "boston-massachusetts-us", "reykjavik-capital-region-is", "amsterdam-nl" ]
 photos  = [ "PA111623.JPG", "PA111629.JPG" ]
 cover   = "PA111629.JPG"
 +++

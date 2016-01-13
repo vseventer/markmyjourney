@@ -4,8 +4,12 @@ title   = "The Loy Krathong Festival in Chiang Mai"
 aliases = [ "/blog/catching-the-loy-krathong-festival-in-chiang-mai.html" ]
 destinations = [ "asia", "thailand" ]
 cities  = [ "chiang-mai-th" ]
-photos  = [ "PB042099.JPG", "PB042109.JPG", "PB052125.JPG", "PB052137.JPG", "PB052146.JPG", "PB052149.JPG", "PB052160.JPG", "PB052168.JPG", "PB052179.JPG", "PB062245.JPG", "PB072251.JPG", "PB072259.JPG", "PB072272.JPG" ]
-cover   = "PB072251.JPG"
+photos  = [
+  "PB042099.JPG", "PB042109.JPG", "PB052125.JPG", "PB052137.JPG", "PB052146.JPG",
+  "PB052149.JPG", "PB052160.JPG", "PB052168.JPG", "PB052179.JPG", "PB062245.JPG",
+  "PB072251.JPG", "PB072259.JPG", "PB072272.JPG"
+]
+cover = "PB072251.JPG"
 +++
 
 Our second stop in Thailand was the northern city of Chiang Mai. On November 3rd, one day before we wanted to leave for Chiang Mai, we went to the train station in Bangkok to buy two tickets for the overnight train. It turned out, however, tickets were sold out for the remainder of the week, as we learned there was a festival in Chiang Mai.

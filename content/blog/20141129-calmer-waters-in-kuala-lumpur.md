@@ -4,8 +4,11 @@ title   = "Calmer Waters in Kuala Lumpur"
 aliases = [ "/blog/calmer-waters-in-kuala-lumpur.html" ]
 destinations = [ "asia", "malaysia" ]
 cities  = [ "kuala-lumpur-kuala-lumpur-my" ]
-photos  = [ "PB182647.JPG", "PB192677.JPG", "PB192684.JPG", "PB202690.JPG", "PB202693.JPG", "PB202697.JPG", "PB202702.JPG", "PB212739.JPG", "PB212780.JPG", "PB222798.JPG" ]
-cover   = "PB212780.JPG"
+photos  = [
+  "PB182647.JPG", "PB192677.JPG", "PB192684.JPG", "PB202690.JPG", "PB202693.JPG",
+  "PB202697.JPG", "PB202702.JPG", "PB212739.JPG", "PB212780.JPG", "PB222798.JPG"
+]
+cover = "PB212780.JPG"
 +++
 
 Thailand is hectic. Very hectic. In an attempt to slow down a little and increase our comfort level, we decided to head south. After enjoying the [beaches of Thailand](/blog/beaches-of-thailand.html), we took two overnight trains towards the capital of Malaysia: Kuala Lumpur.

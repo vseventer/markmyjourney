@@ -3,8 +3,8 @@ date    = "2015-01-06"
 title   = "The Long Way South"
 aliases = [ "/blog/the-long-way-south.html" ]
 destinations = [ "asia", "china", "south-america", "brazil" ]
-cities  = [ "beijing-beijing-cn", "abu-dhabi-ae", "sao-paulo-sao-paulo-br" ]
-photos  = [ "P1064010.JPG" ]
+cities  = [ "beijing-beijing-cn", "sao-paulo-sao-paulo-br" ]
+path    = [ "beijing-beijing-cn", "abu-dhabi-ae", "sao-paulo-sao-paulo-br" ]
 cover   = "P1064010.JPG"
 +++
 

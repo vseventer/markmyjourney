@@ -4,8 +4,11 @@ title   = "History Lessons in Cambodia"
 aliases = [ "/blog/history-lessons-in-cambodia.html" ]
 destinations = [ "asia", "cambodia" ]
 cities  = [ "siem-reap-siem-reap-kh", "phnom-penh-phnom-penh-kh" ]
-photos  = [ "PB283032.JPG", "PB283034.JPG", "PB283046.JPG", "PB283064.JPG", "PB283067.JPG", "PB283092.JPG", "PB283103.JPG", "PC013179.JPG", "PC013187.JPG", "PC013205.JPG" ]
-cover   = "PB283092.JPG"
+photos  = [
+  "PB283032.JPG", "PB283034.JPG", "PB283046.JPG", "PB283064.JPG", "PB283067.JPG",
+  "PB283092.JPG", "PB283103.JPG", "PC013179.JPG", "PC013187.JPG", "PC013205.JPG"
+]
+cover = "PB283092.JPG"
 +++
 
 Our stay in Cambodia was limited to six days - three in Siem Reap and three in the capital Phnom Penh. Our main goal was to visit two important historic sites in Cambodia, before moving on to Vietnam. We flew in from Bangkok, and after a long and tiring visa procedure at the airport we found ourselves in Siem Reap. This town has little to offer except the ancient temples of Angkor Wat.

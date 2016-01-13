@@ -3,9 +3,6 @@ date    = "2015-01-02"
 title   = "Monthly Recap: December 2014"
 aliases = [ "/blog/monthly-recap-december-2014.html" ]
 destinations = [ "asia", "cambodia", "vietnam", "hong-kong", "macao", "china" ]
-cities  = [ ]
-photos  = [ ]
-cover   = ""
 +++
 
 In December 2014, we visited five countries: Cambodia, Vietnam, Hong Kong, Macau, and China. We visited some [great historical sites in Cambodia](/blog/history-lessons-in-cambodia.html), enjoyed the [cities of Vietnam](/blog/cities-of-vietnam.html), before heading on trips to [Hạ Long Bay](/blog/two-day-cruise-in-ha-long-bay.html) and [Sa Pá](/blog/trekking-through-sapas-hmong-valley.html). From Vietnam, we visited [Hong Kong and Macau](/blog/shopping-and-gambling.html), before celebrating Christmas and New Year’s in China.
@@ -15,10 +12,12 @@ After staying on budget in [November](/blog/monthly-recap-november-2014.html), o
 In Vietnam we overspent (deliberately, as we had some money to spare from November) by going on a luxury cruise. Other than that, we stayed on budget. The same holds for Hong Kong and Macau. We also decided to include China into December’s Recap, even though we stayed here until January 6th. But, separating the budget between Asia and our next destination, South America, makes much more sense.
 
 **The Good**
+
 * We found a great room to stay in Hong Kong for a decent price. Given we booked late and we were in Hong Kong during the Christmas period, we could easily have spent way more. Instead, we stayed on budget.
 * By booking early for lodging in China (our visa application required us to have advance reservations), we saved a lot of money. We learned some of our fellow travelers paid triple for the same room for the days around New Year’s.
 
 **The Bad**
+
 * In Shanghai, we paid 16$ for “The Bund Sightseeing Tunnel”. Other than a way to cross the river, it was a waste of money. We reckon only people who like to get in higher atmospheres would appreciate its, well, beauty I guess.
 
 A detailed list of expenses per country is listed below. The amounts per person are based on our two-person journey. Flights are listed separately (and are not included in the countries’ budget) as we booked these in advance.

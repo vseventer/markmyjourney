@@ -5,8 +5,12 @@ slug    = "shopping-and-gambling"
 aliases = [ "/blog/shopping-and-gambling.html" ]
 destinations = [ "asia", "hong-kong", "macao" ]
 cities  = [ "hong-kong-hk", "macau-mo" ]
-photos  = [ "PC213683.JPG", "PC213690.JPG", "PC213700.JPG", "PC223714.JPG", "PC223724.JPG", "PC223733.JPG", "PC223744.JPG", "PC223747.JPG", "PC233769.JPG", "PC233779.JPG", "PC233783.JPG" ]
-cover   = "PC223747.JPG"
+photos  = [
+  "PC213683.JPG", "PC213690.JPG", "PC213700.JPG", "PC223714.JPG", "PC223724.JPG",
+  "PC223733.JPG", "PC223744.JPG", "PC223747.JPG", "PC233769.JPG", "PC233779.JPG",
+  "PC233783.JPG"
+]
+cover = "PC223747.JPG"
 +++
 
 After traveling around Southeast Asia for almost two months, arriving in Hong Kong felt like Singapore: way more Western than like for example Vietnam where we just came from. We stayed in Hong Kong for five days, leaving the day of Christmas Eve.

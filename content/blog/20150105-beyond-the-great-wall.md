@@ -4,8 +4,12 @@ title   = "Beyond the Great Wall"
 aliases = [ "/blog/beyond-the-great-wall.html" ]
 destinations = [ "asia", "china" ]
 cities  = [ "beijing-beijing-cn" ]
-photos  = [ "P1013902.JPG", "P1023931.JPG", "P1023957.JPG", "P1023959.JPG", "P1023962.JPG", "P1033978.JPG", "PC313865.JPG", "PC313871.JPG", "PC313881.JPG", "PC313885.JPG", "PC313891.JPG" ]
-cover   = "P1023959.JPG"
+photos  = [
+  "P1013902.JPG", "P1023931.JPG", "P1023957.JPG", "P1023959.JPG", "P1023962.JPG",
+  "P1033978.JPG", "PC313865.JPG", "PC313871.JPG", "PC313881.JPG", "PC313885.JPG",
+  "PC313891.JPG"
+]
+cover = "P1023959.JPG"
 +++
 
 A tourist trip to China typically includes a visit to the Great Wall, one of the major attractions of the immense country. From Beijing, multiple sections of the Great Wall are easily visited on a day-trip. We, of course, wanted to see what it was all about too. We chose to visit the Great Wall at Badaling.

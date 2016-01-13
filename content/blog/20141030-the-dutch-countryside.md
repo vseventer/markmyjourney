@@ -4,8 +4,13 @@ title   = "The Dutch Countryside"
 aliases = [ "/blog/the-dutch-countryside.html" ]
 destinations = [ "europe", "netherlands" ]
 cities  = [ "mijdrecht-nl", "putten-nl", "harderwijk-nl", "utrecht-nl", "delft-south-holland-nl", "leiden-south-holland-nl" ]
-photos  = [ "IMG_0775.JPG", "PA161643.JPG", "PA171651.JPG", "PA181681.JPG", "PA211690.JPG", "PA211697.JPG", "PA211702.JPG", "PA211718.JPG", "PA211724.JPG", "PA271801.JPG", "PA271805.JPG", "PA271808.JPG", "PA271813.JPG", "PA271816.JPG", "PA271829.JPG", "PA271848.JPG", "PA271856.JPG", "PA281865.JPG" ]
-cover   = "PA271848.JPG"
+photos  = [
+  "IMG_0775.JPG", "PA161643.JPG", "PA171651.JPG", "PA181681.JPG", "PA211690.JPG",
+  "PA211697.JPG", "PA211702.JPG", "PA211718.JPG", "PA211724.JPG", "PA271801.JPG",
+  "PA271805.JPG", "PA271808.JPG", "PA271813.JPG", "PA271816.JPG", "PA271829.JPG",
+  "PA271848.JPG", "PA271856.JPG", "PA281865.JPG"
+]
+cover = "PA271848.JPG"
 +++
 
 Our home base during our stay in the Netherlands was my old hometown of Mijdrecht. Mijdrecht, located 20 minutes outside of Amsterdam, is a quiet and typical Dutch town: not much to do, a few small shops (closed on Sundays of course), and a population predominated by parents with young kids, and older couples.

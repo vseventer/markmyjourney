@@ -1,11 +1,15 @@
 +++
 date    = "2014-10-19"
 title   = "Running the Amsterdam Marathon"
+weight  = 25
 aliases = [ "/blog/running-the-amsterdam-marathon.html" ]
 destinations = [ "europe", "netherlands" ]
 cities  = [ "amsterdam-nl" ]
-photos  = [ "P1000740.JPG", "P1000747.JPG", "P1000752.JPG", "P1000756.JPG", "P1000760.JPG", "PA171646.JPG", "PA171653.JPG" ]
-cover   = "P1000747.JPG"
+photos  = [
+  "P1000740.JPG", "P1000747.JPG", "P1000752.JPG", "P1000756.JPG", "P1000760.JPG",
+  "PA171646.JPG", "PA171653.JPG"
+]
+cover = "P1000747.JPG"
 +++
 
 The Amsterdam Marathon. After almost a year of hard training, the day had finally come: my first marathon. After a very decent breakfast we headed out to the Olympic Stadion in Amsterdam, the starting point of what turned out to be a very tough run.
