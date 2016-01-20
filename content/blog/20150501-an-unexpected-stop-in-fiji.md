@@ -3,11 +3,13 @@ date    = "2015-05-01"
 title   = "An Unexpected Stop in Fiji"
 aliases = [ "/blog/an-unexpected-stop-in-fiji.html" ]
 destinations = [ "oceania", "fiji" ]
-cities  = [ "nadi-fj" ]
-photos  = [
-  "IMG_0128.JPG", "IMG_0134.JPG", "IMG_4420.JPG", "IMG_4427.JPG", "IMG_4435.JPG",
-  "IMG_4440.JPG", "IMG_4442.JPG", "IMG_4450.JPG", "IMG_4458.JPG", "IMG_4469.JPG",
-  "IMG_4471.JPG"
+places  = [
+  "10227101-denarau-island-fj", "6491320-castaway-island-fj", "2204152-malamala-island-fj"
+]
+photos = [
+  "IMG_0128.JPG", "IMG_4420.JPG", "IMG_4427.JPG", "IMG_4435.JPG", "IMG_4440.JPG",
+  "IMG_4442.JPG", "IMG_4450.JPG", "IMG_4458.JPG", "IMG_4469.JPG", "IMG_4471.JPG",
+  "IMG_0134.JPG"
 ]
 cover = "IMG_4450.JPG"
 +++
@@ -19,7 +21,7 @@ About one hour before we were supposed to leave, a message was broadcasted stati
 
 The story could have ended there, with us just relaxing in the resort, but we decided to explore more of Fiji. A short walk to the harbor later and we were waiting for our private boat to show us around Castaway Island and uninhabited Malamala Island.
 
-## Castaway & Malamala Islands
+## Castaway & Malamala Island
 The bumpy ride to Castaway Island took a good hour, and upon leaving the boat we were on the white sand beach part of the Castaway Island Resort, which actually owns the entire island. After having lunch there, and taking a quick dip in the water we went back into the boat to go to the next island.
 
 The beach of Castaway Island was covered in small but annoying stones, and the water had a lot of small branches floating in it, we hoped Malamala would be a little better for swimming. We tried snorkeling first, as the water looked extremely clear, and when approaching the island we saw feet long bright blue fish. However, it turned out that closer to the beach not much fish could be seen.

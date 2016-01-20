@@ -3,9 +3,11 @@ date    = "2015-05-03"
 title   = "A Rush Visit to Sydney"
 aliases = [ "/blog/a-rush-visit-to-sydney.html" ]
 destinations = [ "oceania", "australia" ]
-cities  = [ "sydney-au", "kiama-au", "katoomba-au" ]
-photos  = [
-  "IMG_0172.JPG", "IMG_0174.JPG", "IMG_0179.JPG", "IMG_0182.JPG", "IMG_0196.JPG",
+places  = [
+  "2147714-sydney-au", "2161515-kiama-au", "2175227-blue-mountains-national-park-au"
+]
+photos = [
+  "IMG_0172.JPG", "IMG_0182.JPG", "IMG_0179.JPG", "IMG_0196.JPG",
   "IMG_0201.JPG", "IMG_0205.JPG", "IMG_0230.JPG", "IMG_0242.JPG", "IMG_0264.JPG",
   "IMG_0275.JPG", "IMG_0279.JPG", "IMG_0284.JPG", "IMG_0292.JPG", "IMG_0297.JPG"
 ]

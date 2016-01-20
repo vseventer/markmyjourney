@@ -1,18 +1,47 @@
 {
   "ignore": [
-    ".leaflet-cluster-anim",
-    ".leaflet-fullscreen-on",
-    ".leaflet-popup",
-    ".leaflet-popup-content",
-    ".leaflet-popup-content-wrapper",
-    ".leaflet-popup-tip",
-    ".leaflet-popup-tip-container",
-    ".leaflet-pseudo-fullscreen",
-    ".leaflet-tile",
-    ".leaflet-tile-loaded",
-    ".leaflet-zoom-anim",
+    "/^.carousel/",
+    ".open > a",
+    ".open > .dropdown-menu",
 
-    ".mmjy-map-icon",
-    ".mmjy-map-label"
+    "/.leaflet-container/",
+    "/.leaflet-tile/",
+    "/.leaflet-tile-container/",
+
+    "/^.leaflet-popup/",
+    "/^.leaflet-touch/",
+
+    ".leaflet-layer",
+    ".leaflet-pane",
+    ".leaflet-marker-pane",
+    ".leaflet-overlay-pane",
+    ".leaflet-popup-pane",
+    ".leaflet-shadow-pane",
+    ".leaflet-tile-pane",
+
+    ".leaflet-marker-icon",
+    "/.leaflet-interactive/",
+
+    "/.leaflet-bar/",
+    ".leaflet-control",
+    "/^.leaflet-bottom",
+    "/^.leaflet-left",
+    "/^.leaflet-right",
+    "/^.leaflet-top",
+
+    "/.leaflet-zoom-animated/",
+    "/^.leaflet-control-zoom-in",
+    "/^.leaflet-control-zoom-out",
+
+    "/.leaflet-control-fullscreen/",
+    "/.leaflet-fullscreen/",
+    ".leaflet-pseudo-fullscreen",
+
+    "/^.leaflet-control-minimap/",
+
+    "/^.leaflet-cluster/",
+    "/^.marker-cluster/",
+
+    "/^.mmjy/"
   ]
 }

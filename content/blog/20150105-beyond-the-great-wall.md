@@ -3,11 +3,11 @@ date    = "2015-01-05"
 title   = "Beyond the Great Wall"
 aliases = [ "/blog/beyond-the-great-wall.html" ]
 destinations = [ "asia", "china" ]
-cities  = [ "beijing-beijing-cn" ]
+places  = [ "1816670-beijing-cn", "8389116-badaling-changcheng-cn" ]
 photos  = [
-  "P1013902.JPG", "P1023931.JPG", "P1023957.JPG", "P1023959.JPG", "P1023962.JPG",
-  "P1033978.JPG", "PC313865.JPG", "PC313871.JPG", "PC313881.JPG", "PC313885.JPG",
-  "PC313891.JPG"
+  "PC313865.JPG", "PC313871.JPG", "PC313881.JPG", "PC313885.JPG", "PC313891.JPG",
+  "P1013902.JPG", "P1023959.JPG", "P1023962.JPG", "P1023931.JPG", "P1023957.JPG",
+  "P1033978.JPG",
 ]
 cover = "P1023959.JPG"
 +++

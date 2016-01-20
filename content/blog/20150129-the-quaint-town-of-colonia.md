@@ -3,7 +3,7 @@ date    = "2015-01-29"
 title   = "The Quaint Town of Colonia"
 aliases = [ "/blog/the-quaint-town-of-colonia.html" ]
 destinations = [ "south-america", "uruguay" ]
-cities  = [ "colonia-del-sacramento-uy" ]
+places  = [ "3443013-colonia-del-sacramento-uy" ]
 photos  = [
   "P1234483.JPG", "P1234485.JPG", "P1234488.JPG", "P1234491.JPG", "P1234493.JPG",
   "P1234498.JPG", "P1234499.JPG"

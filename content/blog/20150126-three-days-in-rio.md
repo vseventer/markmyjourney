@@ -3,13 +3,13 @@ date    = "2015-01-26"
 title   = "Three Days in Rio"
 aliases = [ "/blog/three-days-in-rio.html" ]
 destinations = [ "south-america", "brazil" ]
-cities  = [ "rio-de-janeiro-rio-de-janeiro-br" ]
+places  = [ "3451190-rio-de-janeiro-br" ]
 photos  = [
-  "P1154180.JPG", "P1154195.JPG", "P1154198.JPG", "P1154211.JPG", "P1154212.JPG",
+  "P1154211.JPG", "P1154180.JPG", "P1154195.JPG", "P1154198.JPG", "P1154212.JPG",
   "P1154219.JPG", "P1154223.JPG", "P1154225.JPG", "P1154230.JPG", "P1154240.JPG",
   "P1154247.JPG", "P1154254.JPG", "P1154260.JPG", "P1164268.JPG", "P1164272.JPG"
 ]
-cover = "P1154180.JPG"
+cover = "P1164272.JPG"
 +++
 
 After visiting [Paraty and Ilha Grande](/blog/brazils-costa-verde.html), we headed to the city where we initially got [stranded](/blog/a-week-of-problems.html): Rio de Janeiro. On our first day, we opted for the organized city tour offered by our hostel. On first sight, the tour was expensive, but after adding up the costs for all the entrance fees and transportation, it turned out to only be 10$ more and it would save us a lot of hassle. The itinerary included highlights such as Christ the Redeemer, Santa Teresa and Lapa neighborhoods, as well as Sugarloaf Mountain.

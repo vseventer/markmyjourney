@@ -3824,12 +3824,7 @@
           "code": "",
           "name": ""
         },
-        "languages": [
-          {
-            "code": "",
-            "name": "Afro-Asiatic languages"
-          }
-        ],
+        "languages": [],
         "neighbours": [],
         "population": null,
         "timezone": null
@@ -15222,12 +15217,7 @@
           "code": "NOK",
           "name": "Krone"
         },
-        "languages": [
-          {
-            "code": "",
-            "name": "Afro-Asiatic languages"
-          }
-        ],
+        "languages": [],
         "neighbours": [],
         "population": null,
         "timezone": {
@@ -34494,7 +34484,7 @@
                   ],
                   [
                     9.74,
-                    55.52
+                    55.56
                   ],
                   [
                     9.57,
@@ -40699,6 +40689,10 @@
                   [
                     -6.53,
                     62.31
+                  ],
+                  [
+                    -6.51,
+                    62.29
                   ],
                   [
                     -6.42,
@@ -53863,12 +53857,7 @@
           "code": "AUD",
           "name": "Dollar"
         },
-        "languages": [
-          {
-            "code": "",
-            "name": "Afro-Asiatic languages"
-          }
-        ],
+        "languages": [],
         "neighbours": [],
         "population": null,
         "timezone": {
@@ -54356,10 +54345,6 @@
                   [
                     -87.39,
                     13.36
-                  ],
-                  [
-                    -87.4,
-                    13.37
                   ],
                   [
                     -87.43,
@@ -57158,8 +57143,8 @@
                     65.17
                   ],
                   [
-                    -21.92,
-                    65.42
+                    -21.93,
+                    65.39
                   ],
                   [
                     -21.69,
@@ -62172,10 +62157,6 @@
           "name": "Shekel"
         },
         "languages": [
-          {
-            "code": "",
-            "name": "Afro-Asiatic languages"
-          },
           {
             "code": "ar",
             "name": "Arabic"
@@ -74309,8 +74290,8 @@
                     -16
                   ],
                   [
-                    46.42,
-                    -15.86
+                    46.45,
+                    -15.89
                   ],
                   [
                     46.3,
@@ -89012,6 +88993,10 @@
                   [
                     8.31,
                     4.61
+                  ],
+                  [
+                    8.32,
+                    4.62
                   ],
                   [
                     8.33,
@@ -134634,8 +134619,8 @@
                     30.34
                   ],
                   [
-                    -89.89,
-                    30.25
+                    -89.98,
+                    30.26
                   ],
                   [
                     -89.11,

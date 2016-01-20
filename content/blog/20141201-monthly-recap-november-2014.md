@@ -3,6 +3,20 @@ date    = "2014-12-01"
 title   = "Monthly Recap: November 2014"
 aliases = [ "/blog/monthly-recap-november-2014.html" ]
 destinations = [ "asia", "thailand", "malaysia", "singapore" ]
+places  = [
+  "2759794-amsterdam-nl", "1609350-bangkok-th", "1880252-singapore-sg",
+  "1822214-siem-reap-kh"
+]
+route = [
+  "6296680-amsterdam-airport-schiphol-nl",
+  "6301137-suvarnabhumi-airport-th",
+  "",
+  "1880725-singapore-changi-airport-sg",
+  "6301137-suvarnabhumi-airport-th",
+  "",
+  "1619461-don-mueang-international-airport-th",
+  "6301065-siem-reap-international-airport-kh"
+]
 +++
 
 In November 2014, we visited three countries: Thailand, Malaysia, and Singapore. After a [rough start in Thailand](/blog/bustling-bangkok.html), we found ourself being [comfortable in Kuala Lumpur](/blog/calmer-waters-in-kuala-lumpur.html), and [enjoying Singapore](/blog/three-days-in-singapore.html). Looking back, we probably won’t return to any of these countries any time soon as we feel we have a good impression of all of them.
@@ -32,21 +46,21 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Budget: **$1,540** ($35 pppd),
 * Expenses: **$1,413** ($32 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/images/budget-thailand.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-thailand.png)</span>
 
 ## Malaysia
 * Days: **4**,
 * Budget: **$320** ($40 pppd),
 * Expenses: **$276** ($34.50 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/images/budget-malaysia.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-malaysia.png)</span>
 
 ## Singapore
 * Days: **3**,
 * Budget: **$420** ($70 pppd),
 * Expenses: **$384** ($64 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/images/budget-singapore.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-singapore.png)</span>
 
 ## Next Month
 In December we’ll visit four new countries as our journey through Asia continues: Cambodia, Vietnam, Hong Kong, and China. The majority of the month will consist of exploring Vietnam and China, as our visits to Cambodia and Hong Kong will be limited to a few days. As we travel north, we will slowly transition into colder weather. Christmas and New Years should be familiarly cold.

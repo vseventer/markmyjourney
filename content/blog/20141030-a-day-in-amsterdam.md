@@ -3,7 +3,7 @@ date    = "2014-10-30"
 title   = "A Day In Amsterdam"
 aliases = [ "/blog/a-day-in-amsterdam.html" ]
 destinations = [ "europe", "netherlands" ]
-cities  = [ "amsterdam-nl" ]
+places  = [ "2759794-amsterdam-nl" ]
 photos  = [ "PA141635.JPG", "PA251763.JPG", "PA251764.JPG", "PA251766.JPG", "PA251773.JPG", "PA251781.JPG" ]
 cover   = "PA251781.JPG"
 +++

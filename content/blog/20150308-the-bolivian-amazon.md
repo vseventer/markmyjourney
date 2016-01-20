@@ -3,13 +3,13 @@ date    = "2015-03-08"
 title   = "The Bolivian Amazon"
 aliases = [ "/blog/the-bolivian-amazon.html" ]
 destinations = [ "south-america", "bolivia" ]
-cities  = [ "rurrenabaque-bo" ]
+places  = [ "3906209-rurrenabaque-bo", "9179604-madidi-national-park-bo" ]
 photos  = [
   "P3035906.JPG", "P3035925.JPG", "P3035932.JPG", "P3035933.JPG", "P3035934.JPG",
   "P3035943.JPG", "P3035953.JPG", "P3035959.JPG", "P3035964.JPG", "P3035982.JPG",
   "P3036002.JPG", "P3036006.JPG", "P3036009.JPG", "P3036012.JPG", "P3046017.JPG",
-  "P3046031.JPG", "P3046037.JPG", "P3046039.JPG", "P3046044.JPG", "P3046048.JPG",
-  "P3046053.JPG", "P3046055.JPG", "P3046057.JPG", "P3046072.JPG", "P3046074.JPG",
+  "P3046074.JPG", "P3046031.JPG", "P3046037.JPG", "P3046039.JPG", "P3046044.JPG",
+  "P3046048.JPG", "P3046053.JPG", "P3046055.JPG", "P3046057.JPG", "P3046072.JPG",
   "P3046077.JPG", "P3046085.JPG", "P3046096.JPG"
 ]
 cover = "P3035932.JPG"

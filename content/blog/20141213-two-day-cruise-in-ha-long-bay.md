@@ -3,10 +3,10 @@ date    = "2014-12-13"
 title   = "Two-day Cruise in Ha Long Bay"
 aliases = [ "/blog/two-day-cruise-in-ha-long-bay.html" ]
 destinations = [ "asia", "vietnam" ]
-cities  = [ "thanh-pho-ha-long-quang-ninh-vn" ]
+places  = [ "1581250-vinh-ha-long-vn" ]
 photos  = [
-  "PC123455.JPG", "PC123458.JPG", "PC123480.JPG", "PC123500.JPG", "PC123531.JPG",
-  "PC123540.JPG", "PC123549.JPG", "PC123552.JPG", "PC123558.JPG", "PC133564.JPG",
+  "PC123531.JPG", "PC123558.JPG", "PC123455.JPG", "PC123540.JPG", "PC123458.JPG",
+  "PC123480.JPG", "PC123500.JPG", "PC123549.JPG", "PC123552.JPG", "PC133564.JPG",
   "PC133577.JPG"
 ]
 cover = "PC123455.JPG"

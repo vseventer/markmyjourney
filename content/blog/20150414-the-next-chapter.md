@@ -1,12 +1,18 @@
 +++
 date    = "2015-04-14"
 title   = "The Next Chapter"
+weight  = 10
 aliases = [ "/blog/the-next-chapter.html" ]
 destinations = [ "north-america", "united-states", "south-america", "colombia" ]
-cities  = [ "bogota-bogota-dc-co", "seattle-washington-us" ]
-path    = [ "bogota-bogota-dc-co", "fort-lauderdale-florida-us", "los-angeles-california-us", "seattle-washington-us" ]
-photos  = [ "P4136855.JPG", "P4136858.JPG", "P4146877.JPG" ]
-cover   = "P4146877.JPG"
+places  = [ "3688689-bogota-co", "5809844-seattle-washington-us" ]
+route   = [
+  "6300736-el-dorado-international-airport-co",
+  "4155976-fort-lauderdale-hollywood-international-airport-us",
+  "5368418-los-angeles-international-airport-us",
+  "5809876-seattle-tacoma-international-airport-us"
+]
+photos = [ "P4136858.JPG", "P4136855.JPG", "IMG_4305.JPG", "P4146877.JPG" ]
+cover  = "P4146877.JPG"
 +++
 
 Against our tradition, we will not wait until the end of the month to summarize expenses. As we are leaving South America behind, it is time to wrap up the finances and move on to the next chapter.

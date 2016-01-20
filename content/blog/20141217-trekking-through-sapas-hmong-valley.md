@@ -4,7 +4,7 @@ title   = "Trekking through Sapá’s H’mong Valley"
 slug    = "trekking-through-sapas-hmong-valley"
 aliases = [ "/blog/trekking-through-sapas-hmong-valley.html" ]
 destinations = [ "asia", "vietnam" ]
-cities  = [ "sa-pa-lao-cai-vn" ]
+places  = [ "9072747-sa-pa-vn" ]
 photos  = [
   "PC153610.JPG", "PC153612.JPG", "PC153616.JPG", "PC153617.JPG", "PC153628.JPG",
   "PC153637.JPG", "PC153643.JPG", "PC153645.JPG", "PC153655.JPG", "PC153662.JPG"

@@ -48,7 +48,7 @@ module.exports = {
     'leaflet-minimap/src/Control.MiniMap.js'
   ],
   plugins: [
-    // Patch requires for `jquery/src/exports/global` (jQuery v2.2).
+    // Patch required for `jquery/src/exports/global` (jQuery v2.2).
     new webpack.DefinePlugin({ noGlobal: false }),
     new webpack.ProvidePlugin({ jQuery: 'jquery/src/core' })
   ]

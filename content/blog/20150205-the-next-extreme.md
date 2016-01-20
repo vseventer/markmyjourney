@@ -3,9 +3,13 @@ date    = "2015-02-05"
 title   = "The Next Extreme"
 aliases = [ "/blog/the-next-extreme.html" ]
 destinations = [ "south-america", "chile" ]
-cities  = [ "punta-arenas-magallanes-cl", "hanga-roa-isla-de-pascau-cl" ]
-path    = [ "punta-arenas-magallanes-cl", "santiago-santiago-metropolitan-cl", "hanga-roa-isla-de-pascau-cl" ]
-cover   = "P2055014.JPG"
+places  = [ "3874787-punta-arenas-cl", "4030726-easter-island-cl" ]
+route   = [
+  "6300693-presidente-carlos-ibanez-del-campo-international-airport-cl",
+  "3899261-comodoro-arturu-merino-benitez-international-airport-cl",
+  "4030749-mataveri-international-airport-cl"
+]
+cover = "P2055014.JPG"
 +++
 
 As our twelve day stay in Patagonia comes to an end, the next adventurous destination is already waiting for us. We will be flying from Punta Arenas to the capital of Santiago, stay overnight in the airport, and depart in the early morning to Easter Island!

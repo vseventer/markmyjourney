@@ -18,8 +18,8 @@ mixin openGeoJSONPath()
   |     geodesic: true
   |   },
   |   geometry: #{ unescaped("{") }
-  |     type: 'LineString',
-  |     coordinates: [
+  |     type: 'MultiLineString',
+  |     coordinates: [ [
 
 mixin close
   | #{ unescaped("</script>") }
@@ -29,13 +29,16 @@ mixin closeCollection
   +close
 
 mixin closeGeoJSONPath()
-  |     ]
+  |     ] ]
   |   },
   | }
 
 mixin closeFeature
   | ;
   +close
+
+mixin nextGeoJSONPath()
+  | ], [
 
 mixin toGeoJSON($title, $html, $geometry)
   | {

@@ -3,11 +3,14 @@ date    = "2015-12-04"
 title   = "A Long Weekend in Western Australia"
 aliases = [ "/blog/a-long-weekend-in-western-australia.html" ]
 destinations = [ "oceania", "australia" ]
-cities  = [ "perth-au", "margaret-river-au", "swan-view-au" ]
-photos  = [
+places  = [
+  "2063523-perth-au", "2066981-margaret-river-au", "2060771-swan-view-au",
+  "2079018-the-pinnacles-au"
+]
+photos = [
   "IMG_0847.JPG", "IMG_0848.JPG", "IMG_0849.JPG", "IMG_0855.JPG", "IMG_0861.JPG",
-  "IMG_0873.JPG", "IMG_0890.JPG", "IMG_0919.JPG", "IMG_0935.JPG", "IMG_0947.JPG",
-  "IMG_0958.JPG"
+  "IMG_0873.JPG", "IMG_0890.JPG", "IMG_0919.JPG", "IMG_0935.JPG", "IMG_0958.JPG",
+  "IMG_0947.JPG"
 ]
 cover = "IMG_0958.JPG"
 +++

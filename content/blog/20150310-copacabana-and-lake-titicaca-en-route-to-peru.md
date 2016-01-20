@@ -4,7 +4,7 @@ title   = "Copacabana & Lake Titicaca En Route to Peru"
 slug    = "copacabana-and-lake-titicaca-en-route-to-peru"
 aliases = [ "/blog/copacabana-and-lake-titicaca-en-route-to-peru.html" ]
 destinations = [ "south-america", "bolivia" ]
-cities  = [ "copacabana-bo" ]
+places  = [ "3919189-copacabana-bo", "3904119-isla-del-sol-bo", "3927364-lago-titicaca-bo" ]
 photos  = [
   "IMG_3926.JPG", "P3066144.JPG", "P3066150.JPG", "P3066158.JPG", "P3066161.JPG",
   "P3066166.JPG", "P3066183.JPG", "P3066186.JPG", "P3066195.JPG", "P3066197.JPG"

@@ -3,9 +3,15 @@ date    = "2015-07-18"
 title   = "Driving the Great Ocean Road"
 aliases = [ "/blog/driving-the-great-ocean-road.html" ]
 destinations = [ "oceania", "australia" ]
-cities  = [ "melbourne-au", "warrnambool-au" ]
-photos  = [
-  "IMG_0470.JPG", "IMG_0476.JPG", "IMG_0479.JPG", "IMG_0481.JPG", "IMG_0489.JPG",
+places  = [ "2146218-torquay-au", "2178081-allansford-au" ]
+route   = [
+  "2146218-torquay-au", "2178224-aireys-inlet-au", "2159545-lorne-au",
+  "2177810-apollo-bay-au", "2172414-cape-otway", "8215727-glenaire-au",
+  "2152512-princetown-au", "2152683-port-campbell-au", "2153380-peterborough-au",
+  "2178081-allansford-au"
+]
+photos = [
+  "IMG_0470.JPG", "IMG_0489.JPG", "IMG_0479.JPG", "IMG_0476.JPG", "IMG_0481.JPG",
   "IMG_0490.JPG", "IMG_0503.JPG", "IMG_0507.JPG", "IMG_0512.JPG", "IMG_0520.JPG",
   "IMG_0530.JPG", "IMG_0532.JPG", "IMG_0535.JPG", "IMG_0541.JPG"
 ]

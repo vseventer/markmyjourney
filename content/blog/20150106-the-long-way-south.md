@@ -3,9 +3,14 @@ date    = "2015-01-06"
 title   = "The Long Way South"
 aliases = [ "/blog/the-long-way-south.html" ]
 destinations = [ "asia", "china", "south-america", "brazil" ]
-cities  = [ "beijing-beijing-cn", "sao-paulo-sao-paulo-br" ]
-path    = [ "beijing-beijing-cn", "abu-dhabi-ae", "sao-paulo-sao-paulo-br" ]
-cover   = "P1064010.JPG"
+places  = [ "1816670-beijing-cn", "3451190-rio-de-janeiro-br", "3448439-sao-paulo-br" ]
+route   = [
+  "6301354-beijing-capital-international-airport-cn",
+  "6300092-abu-dhabi-international-airport-ae",
+  "6301853-rio-de-janeiro-galeao-international-airport-br",
+  "6300629-sao-paulo-gaurulhos-international-airport-br"
+]
+cover = "P1064010.JPG"
 +++
 
 After 69 days and eight countries our time in Asia is up. From Beijing Capital Airport, we flew to Abu Dhabi and onwards to São Paulo. A journey of 24 hours and almost 21,000km (13,000 miles), half of the earths’ circumfence.

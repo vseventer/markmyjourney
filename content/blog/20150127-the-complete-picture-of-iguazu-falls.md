@@ -3,7 +3,7 @@ date    = "2015-01-27"
 title   = "The Complete Picture of Iguazú Falls"
 aliases = [ "/blog/the-complete-picture-of-iguazu-falls.html" ]
 destinations = [ "south-america", "argentina", "brazil" ]
-cities  = [ "foz-do-iguacu-parana-br", "puerto-iguazu-misiones-ar" ]
+places  = [ "3463030-foz-do-iguacu-br", "3433488-iguazu-falls", "3429777-puerto-iguazu-ar" ]
 photos  = [
   "P1194276.JPG", "P1194280.JPG", "P1194282.JPG", "P1194287.JPG", "P1194302.JPG",
   "P1194319.JPG", "P1194328.JPG", "P1194335.JPG", "P1194345.JPG", "P1194347.JPG",

@@ -3,12 +3,16 @@ date    = "2015-02-03"
 title   = "Trekking in Argentinian Patagonia"
 aliases = [ "/blog/trekking-in-argentinian-patagonia.html", "/blog/trekking-in-argentinan-patagonia.html" ]
 destinations = [ "south-america", "argentina" ]
-cities  = [ "el-chalten-santa-cruz-ar", "el-calafate-santa-cruz-ar", "ushuaia-tierra-del-fuego-ar" ]
-photos  = [
+places  = [
+  "6690180-el-chalten-ar", "3858677-el-calafate-ar",
+  "6942216-perito-moreno-glacier-ar", "3833367-ushuaia-ar",
+  "3844784-isla-martillo-ar"
+]
+photos = [
   "P1264551.JPG", "P1264557.JPG", "P1264558.JPG", "P1264562.JPG", "P1264567.JPG",
-  "P1264573.JPG", "P1264596.JPG", "P1274615.JPG", "P1284628.JPG", "P1284647.JPG",
-  "P1284648.JPG", "P1284684.JPG", "P2034902.JPG", "P2034914.JPG", "P2034940.JPG",
-  "P2034961.JPG", "P2034979.JPG", "P2035001.JPG"
+  "P1264573.JPG", "P1264596.JPG", "P1274615.JPG", "P1284684.JPG", "P1284628.JPG",
+  "P1284647.JPG", "P1284648.JPG", "P2035001.JPG", "P2034902.JPG", "P2034914.JPG",
+  "P2034940.JPG", "P2034961.JPG", "P2034979.JPG"
 ]
 cover = "P1264573.JPG"
 +++

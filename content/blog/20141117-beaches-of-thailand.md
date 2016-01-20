@@ -3,10 +3,13 @@ date    = "2014-11-17"
 title   = "Beaches of Thailand"
 aliases = [ "/blog/beaches-of-thailand.html" ]
 destinations = [ "asia", "thailand" ]
-cities  = [ "krabi-krabi-th", "ban-ao-nang-phangnga-th", "ko-lanta-krabi-th" ]
-photos  = [
+places  = [
+  "1152633-krabi-th", "1120400-ao-nang-th", "1152416-ko-lanta-th",
+  "7778911-khao-phing-kan-th"
+]
+photos = [
   "PB102315.JPG", "PB112354.JPG", "PB112361.JPG", "PB112398.JPG", "PB122481.JPG",
-  "PB142535.JPG", "PB142547.JPG", "PB142581.JPG", "PB142604.JPG", "PB152606.JPG",
+  "PB142604.JPG", "PB142535.JPG", "PB142547.JPG", "PB142581.JPG", "PB152606.JPG",
   "PB162619.JPG", "PB162620.JPG", "PB162623.JPG", "PB162627.JPG", "PB162629.JPG"
 ]
 cover = "PB102315.JPG"

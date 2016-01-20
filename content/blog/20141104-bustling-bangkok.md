@@ -3,9 +3,13 @@ date    = "2014-11-04"
 title   = "Bustling Bangkok"
 aliases = [ "/blog/bustling-bangkok.html" ]
 destinations = [ "asia", "thailand" ]
-cities  = [ "bangkok-bangkok-th" ]
-photos  = [ "IMG_3222.JPG", "IMG_3224.JPG", "IMG_3225.JPG", "PA311895.JPG", "PA311928.JPG", "PA311934.JPG", "PA311943.JPG", "PB022030.JPG", "PB022033.JPG", "PB032039.JPG", "PB032044.JPG", "PB032057.JPG", "PB032080.JPG" ]
-cover   = "IMG_3225.JPG"
+places  = [ "1609350-bangkok-th" ]
+photos  = [
+  "PA311895.JPG", "PA311928.JPG", "PA311934.JPG", "PA311943.JPG", "PB022030.JPG",
+  "PB022033.JPG", "PB032039.JPG", "PB032044.JPG", "PB032057.JPG", "PB032080.JPG",
+  "IMG_3225.JPG", "IMG_3222.JPG", "IMG_3224.JPG"
+]
+cover = "IMG_3225.JPG"
 +++
 
 The city that never sleeps resembles Bangkok for us now. Upon exiting the plane, Mark being in a non-Western culture for the first time, we entered a different world. This city has so much going on, and will drag you with.

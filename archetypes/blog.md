@@ -1,7 +1,8 @@
 +++
 aliases = [ ]
 destinations = [ ]
-cities  = [ ]
+places  = [ ]
+route   = [ ]
 photos  = [ ]
 cover   = ""
 +++

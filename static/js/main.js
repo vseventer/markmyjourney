@@ -128,7 +128,7 @@
           return marker;
         },
         style: function(feature) {
-          var weight = 'LineString' === feature.geometry.type ? 3 : 1;
+          var weight = 'MultiLineString' === feature.geometry.type ? 3 : 1;
           return { color: '#006400', weight: weight };
         }
       });
@@ -149,8 +149,9 @@
 
       // Append layers.
       layer.getLayers().forEach(function(layer) {
+        var subject = null !== layer.feature.properties.html ? cluster : map;
         // Add markers to cluster, all other layers to the map.
-        var subject = layer instanceof L.Marker ? cluster : map;
+        // var subject = layer instanceof L.Marker ? cluster : map;
         subject.addLayer(layer);
       });
 

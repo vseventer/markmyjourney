@@ -3,10 +3,10 @@ extends ../post/single.amber
 block main
   div.container
     div.row
-      div.col-sm-12.col-md-8.col-md-offset-2
+      div.col-xs-12.col-md-8.col-md-offset-2
         #{ Summary }
 
-        if isset(Params, "cities") || isset(Params, "photos")
+        if isset(Params, "photos") || isset(Params, "places") || isset(Params, "route")
           div.m-y-1.mmjy-border.mmjy-inset
             div.mmjy-map[data-l-fullscreen-control="{\"pseudoFullscreen\":true}"][data-source="places"]
 
@@ -14,20 +14,22 @@ block main
         | #{ safeHTML($content) }
 
       if isset(Params, "photos")
-        div.col-md-12
+        div.col-xs-12.col-md-10.col-md-offset-1
           div#gallery.carousel.slide.m-b-05[data-keyboard="true"][data-ride="carousel"]
             div.carousel-inner[role="listbox"]
-              $photos = where(Site.Data.uploads.features, "properties.src", "in", Params.photos)
-              each $i, $photo in $photos
-                $url   = absURL("uploads/" + $photo.properties.src)
-                $style = "background-image: url('" + $url + "')"
-                div.carousel-item.mmjy-cover[style=safeCSS($style)]
-                  .active ? 0 == $i
-                  div.carousel-caption
-                    import ../mixins/datetime.amber
-                      +toTime($photo.properties.date)
-                      if $photo.properties.description
-                        |  • #{ $photo.properties.description }
+              each $i, $photo in Params.photos
+                $datas = where($Site.Data.uploads.features, "properties.src", $photo)
+                each $data in $datas
+                  $url   = absURL("uploads/" + $data.properties.src)
+                  $style = "background-image: url('" + $url + "')"
+                  div.carousel-item.mmjy-photo[style=safeCSS($style)]
+                    .mmjy-photo-portrait ? "portrait" == $data.properties.orientation
+                    .active ? 0 == $i
+                    div.carousel-caption
+                      import ../mixins/datetime.amber
+                        +toTime($data.properties.date)
+                        if $data.properties.description
+                          |  • #{ $data.properties.description }
             a.left.carousel-control[href="#gallery"][data-slide="prev"][role="button"]
               span.icon-prev[aria-hidden]
               span.sr-only Previous
@@ -35,21 +37,21 @@ block main
               span.icon-next[aria-hidden]
               span.sr-only Next
 
-        div.col-sm-12.col-md-8.col-md-offset-2
-          ol.list-inline
+        div.col-xs-12.col-md-8.col-md-offset-2
+          ol.list-inline.text-xs-center
             each $i, $photo in Params.photos
               li.list-inline-item.m-b-05[data-slide-to=$i][data-target="#gallery"]
                 .active ? 0 == $i
-                img.mmjy-photo.mmjy-photo-inset[role="button"][src=absURL("uploads/thumbs/" + $photo)]
+                img.mmjy-thumb.mmjy-thumb-inset[role="button"][src=absURL("uploads/thumbs/" + $photo)]
           hr
 
-      div.col-sm-12.col-md-8.col-md-offset-2
+      div.col-xs-12.col-md-8.col-md-offset-2
         import ../mixins/widgets.amber
           +disqus
         hr
 
         div.row
-          div.col-sm-12.col-md-6
+          div.col-xs-12.col-md-6
             if PrevInSection
               div.card
                 div.card-header Previous Post
@@ -59,7 +61,7 @@ block main
                   small.card-text.text-muted
                     import ../mixins/datetime
                       +toTime(PrevInSection.Date)
-          div.col-sm-12.col-md-6
+          div.col-xs-12.col-md-6
             if NextInSection
               div.card
                 div.card-header Next Post
@@ -77,20 +79,23 @@ block append js
   import ../mixins/geojson.amber
     +openCollection("places")
 
-    if isset(Params, "cities")
-      $cities = where($Site.Data.cities.features, "properties.slug", "in", Params.cities)
-      each $city in $cities
-        $title = "<span class=\"mmjy-map-label\">" + $city.properties.name + "</span>"
-        +toGeoJSON($title, nil, $city.geometry)
+    if isset(Params, "places")
+      $places = where($Site.Data.places.features, "properties.slug", "in", Params.places)
+      each $place in $places
+        $title = "<span class=\"mmjy-map-label\">" + $place.properties.name + "</span>"
+        +toGeoJSON($title, nil, $place.geometry)
         | ,
 
-    if isset(Params, "path")
+    if isset(Params, "route")
       +openGeoJSONPath
-      each $segment in Params.path
-        $cities = where($Site.Data.cities.features, "properties.slug", $segment)
-        each $city in $cities
-          +toGeoJSONPath($city)
-          | ,
+      each $segment in Params.route
+        if "" == $segment
+          +nextGeoJSONPath
+        else
+          $places = where($Site.Data.places.features, "properties.slug", $segment)
+          each $place in $places
+            +toGeoJSONPath($place)
+            | ,
       +closeGeoJSONPath
       | ,
 
@@ -98,7 +103,7 @@ block append js
       $photos = where($Site.Data.uploads.features, "properties.src", "in", Params.photos)
       each $i, $photo in $photos
         if $photo.geometry
-          $title = "<img class=\"img-rounded mmjy-photo\" src=\"" + absURL("uploads/thumbs/" + $photo.properties.src) + "\" />"
+          $title = "<img class=\"img-rounded mmjy-thumb\" src=\"" + absURL("uploads/thumbs/" + $photo.properties.src) + "\" />"
           $html  = "<div class=\"mmjy-map-icon icon-stock icon-stock-camera\"></div>"
           +toGeoJSON($title, $html, $photo.geometry)
           | ,

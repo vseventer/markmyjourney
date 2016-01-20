@@ -3,8 +3,11 @@ date    = "2014-12-10"
 title   = "History Lessons in Cambodia"
 aliases = [ "/blog/history-lessons-in-cambodia.html" ]
 destinations = [ "asia", "cambodia" ]
-cities  = [ "siem-reap-siem-reap-kh", "phnom-penh-phnom-penh-kh" ]
-photos  = [
+places  = [
+  "1822214-siem-reap-kh", "1831948-angkor-wat-kh", "1821306-phnom-penh-kh",
+  "6942278-choeung-ek-kh"
+]
+photos = [
   "PB283032.JPG", "PB283034.JPG", "PB283046.JPG", "PB283064.JPG", "PB283067.JPG",
   "PB283092.JPG", "PB283103.JPG", "PC013179.JPG", "PC013187.JPG", "PC013205.JPG"
 ]

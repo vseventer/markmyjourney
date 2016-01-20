@@ -3,10 +3,10 @@ date    = "2015-01-03"
 title   = "Christmas in Shanghai"
 aliases = [ "/blog/christmas-in-shanghai.html" ]
 destinations = [ "asia", "china" ]
-cities  = [ "shanghai-shanghai-shi-cn" ]
+places  = [ "1796236-shanghai-cn", "1798097-qibao-cn" ]
 photos  = [
-  "PC263788.JPG", "PC263800.JPG", "PC263801.JPG", "PC263803.JPG", "PC263807.JPG",
-  "PC263817.JPG", "PC263821.JPG", "PC273836.JPG", "PC273850.JPG", "PC273854.JPG",
+  "PC263788.JPG", "PC263800.JPG", "PC263801.JPG", "PC263821.JPG", "PC263803.JPG", "PC263807.JPG",
+  "PC263817.JPG", "PC273836.JPG", "PC273850.JPG", "PC273854.JPG",
   "PC283858.JPG", "PC303863.JPG"
 ]
 cover = "PC263800.JPG"

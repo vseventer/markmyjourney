@@ -3,11 +3,11 @@ date    = "2015-04-07"
 title   = "Colombia’s Coffee Triangle"
 aliases = [ "/blog/colombias-coffee-triangle.html" ]
 destinations = [ "south-america", "colombia" ]
-cities  = [ "pereira-risaralda-co", "salento-quindio-co" ]
+places  = [ "3672486-pereira-co", "3670352-salento-co", "7870994-valle-de-cocora-co" ]
 photos  = [
-  "IMG_4226.JPG", "IMG_4242.JPG", "P4056694.JPG", "P4056697.JPG", "P4056699.JPG",
-  "P4056704.JPG", "P4056726.JPG", "P4056733.JPG", "P4056738.JPG", "P4066758.JPG",
-  "P4066759.JPG", "P4066764.JPG", "P4066771.JPG", "P4066779.JPG", "P4066787.JPG",
+  "P4056694.JPG", "P4056697.JPG", "P4056699.JPG", "P4056704.JPG", "P4056726.JPG",
+  "P4056733.JPG", "P4056738.JPG", "P4066758.JPG", "P4066759.JPG", "IMG_4226.JPG",
+  "P4066764.JPG", "P4066771.JPG", "P4066779.JPG", "IMG_4242.JPG", "P4066787.JPG",
   "P4076793.JPG", "P4076798.JPG"
 ]
 cover = "IMG_4242.JPG"

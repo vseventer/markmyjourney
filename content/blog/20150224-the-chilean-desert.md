@@ -3,11 +3,11 @@ date    = "2015-02-24"
 title   = "The Chilean Desert"
 aliases = [ "/blog/the-chilean-desert.html" ]
 destinations = [ "south-america", "chile" ]
-cities  = [ "san-pedro-de-atacama-cl" ]
+places  = [ "3871781-san-pedro-de-atacama-cl" ]
 photos  = [
   "P2215361.JPG", "P2225375.JPG", "P2225383.JPG", "P2225384.JPG", "P2225390.JPG",
   "P2225394.JPG", "P2225401.JPG", "P2225404.JPG", "P2225413.JPG", "P2225415.JPG",
-  "P2245435.JPG", "P2245442.JPG", "P2245445.JPG", "P2245457.JPG", "P2245459.JPG",
+  "P2245442.JPG", "P2245435.JPG", "P2245445.JPG", "P2245457.JPG", "P2245459.JPG",
   "P2245477.JPG"
 ]
 cover = "P2225390.JPG"

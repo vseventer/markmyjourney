@@ -3,7 +3,7 @@ date    = "2015-07-24"
 title   = "Wine Tasting in Yarra Valley"
 aliases = [ "/blog/wine-tasting-in-yarra-valley.html" ]
 destinations = [ "oceania", "australia" ]
-cities  = [ "healesville-au" ]
+places  = [ "7302627-yarra-valley-au" ]
 photos  = [ "IMG_0549.JPG", "IMG_0565.JPG", "IMG_0566.JPG", "IMG_0576.JPG", "IMG_0582.JPG" ]
 cover   = "IMG_0576.JPG"
 +++

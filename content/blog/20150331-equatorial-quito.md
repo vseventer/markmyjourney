@@ -3,10 +3,10 @@ date    = "2015-03-31"
 title   = "Equatorial Quito"
 aliases = [ "/blog/equatorial-quito.html" ]
 destinations = [ "south-america", "ecuador" ]
-cities  = [ "quito-pichincha-ec" ]
+places  = [ "3652462-quito-ec", "3652031-san-antonio-ec" ]
 photos  = [
-  "P3266510.JPG", "P3266512.JPG", "P3266514.JPG", "P3266527.JPG", "P3266532.JPG",
-  "P3266533.JPG", "P3266547.JPG", "P3316618.JPG", "P3316622.JPG", "P3316624.JPG",
+  "P3266512.JPG", "P3266514.JPG", "P3266527.JPG", "P3266532.JPG", "P3266533.JPG",
+  "P3266510.JPG", "P3266547.JPG", "P3316618.JPG", "P3316622.JPG", "P3316624.JPG",
   "P3316626.JPG"
 ]
 cover = "P3266533.JPG"

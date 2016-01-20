@@ -4,7 +4,7 @@ title   = "Tango & Wine"
 slug    = "tango-and-wine"
 aliases = [ "/blog/tango-and-wine.html" ]
 destinations = [ "south-america", "argentina" ]
-cities  = [ "buenos-aires-ar" ]
+places  = [ "3435910-buenos-aires-ar" ]
 photos  = [
   "P1224392.JPG", "P1224395.JPG", "P1224398.JPG", "P1224402.JPG", "P1224406.JPG",
   "P1224408.JPG", "P1224412.JPG", "P1224414.JPG", "P1224415.JPG", "P1224419.JPG",

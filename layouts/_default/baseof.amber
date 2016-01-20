@@ -13,7 +13,7 @@ html[lang=Site.LanguageCode]
     link[rel="canonical"][href=Permalink]
 
     block seo
-      meta[name="robots"][content="noindex, follow"]
+      meta[name="robots"][content="index, follow"]
 
     #{ Hugo.Generator }
 
@@ -51,12 +51,12 @@ html[lang=Site.LanguageCode]
 
         $locations = last(1, Site.Data.locations)
         each $location in $locations
-          $cities = where($Site.Data.cities.features, "properties.slug", $location)
-          each $city in $cities
-            +toGeoJSON(nil, nil, $city.geometry)
+          $places = where($Site.Data.places.features, "properties.slug", $location)
+          each $place in $places
+            +toGeoJSON(nil, nil, $place.geometry)
             | ,
 
-            $countries = where($Site.Data.countries.features, "properties.slug", $city.properties.country.slug)
+            $countries = where($Site.Data.countries.features, "properties.slug", $place.properties.country.slug)
             each $country in $countries
               $geometry = index($country.geometry.geometries, 2)
               +toGeoJSON(nil, nil, $geometry)

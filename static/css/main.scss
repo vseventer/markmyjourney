@@ -131,14 +131,24 @@ cite {
 }
 
 .mmjy-photo {
+  background      : center center no-repeat;
+  background-size : 100% 100%; /* Contain and optionally strech entire image. */
+  padding-bottom  : 75%;
+  width           : 100%;
+}
+  .mmjy-photo-portrait {
+    padding-bottom: 133%;
+  }
+
+.mmjy-thumb {
   height : 100px;
   width  : 133px;
 }
-  .active .mmjy-photo { /* Carousel. */
+  .active .mmjy-thumb { /* Carousel. */
     border-color : #000000;
     opacity      : 0.5;
   }
-  .mmjy-photo-inset {
+  .mmjy-thumb-inset {
     background : #FFFFFF;
     border     : $card-border-width solid $card-border-color;
     padding    : $card-border-width;

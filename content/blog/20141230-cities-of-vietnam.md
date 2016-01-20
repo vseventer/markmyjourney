@@ -3,9 +3,12 @@ date    = "2014-12-30"
 title   = "Cities of Vietnam"
 aliases = [ "/blog/cities-of-vietnam.html" ]
 destinations = [ "asia", "vietnam" ]
-cities  = [ "ho-chi-minh-city-ho-chi-minh-city-vn", "phan-thiet-binh-thuan-vn", "hanoi-ha-noi-vn" ]
-photos  = [
-  "PC043226.JPG", "PC043238.JPG", "PC043246.JPG", "PC053306.JPG", "PC053326.JPG",
+places  = [
+  "1566083-ho-chi-minh-city-vn", "1574717-mekong-delta-vn", "7304197-mui-ne-vn",
+  "1584661-cu-chi-vn", "1581130-hanoi-vn"
+]
+photos = [
+  "PC043226.JPG", "PC043246.JPG", "PC043238.JPG", "PC053326.JPG", "PC053306.JPG",
   "PC073343.JPG", "PC073358.JPG", "PC073372.JPG", "PC073376.JPG", "PC093417.JPG",
   "PC113435.JPG", "PC113441.JPG", "PC113444.JPG"
 ]

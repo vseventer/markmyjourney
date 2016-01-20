@@ -1,11 +1,10 @@
-data/uploads.json
 node_modules/
 public/
 static/**/*
-tmp/
 .DS_Store
 npm_debug.log
 
 !static/css/main.scss
 !static/img/about.jpg
 !static/js/main.js
+!static/uploads/*.png

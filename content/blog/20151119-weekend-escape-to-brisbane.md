@@ -3,7 +3,7 @@ date    = "2015-11-19"
 title   = "Weekend Escape to Brisbane"
 aliases = [ "/blog/weekend-escape-to-brisbane.html" ]
 destinations = [ "oceania", "australia" ]
-cities  = [ "brisbane-au", "surfers-paradise-au" ]
+places  = [ "2174003-brisbane-au", "2147849-surfers-paradise-au" ]
 photos  = [
   "IMG_0688.JPG", "IMG_0689-2.JPG", "IMG_0695.JPG", "IMG_0698.JPG", "IMG_0705.JPG",
   "IMG_0707.JPG", "IMG_0721.JPG", "IMG_0723.JPG", "IMG_0730.JPG", "IMG_0738.JPG",

@@ -3,7 +3,7 @@ date    = "2015-03-10"
 title   = "La Paz: the World’s Highest Capital City"
 aliases = [ "/blog/la-paz-the-worlds-highest-capital-city.html" ]
 destinations = [ "south-america", "bolivia" ]
-cities  = [ "la-paz-la-paz-bo" ]
+places  = [ "3911925-la-paz-bo" ]
 photos  = [
   "IMG_3908.JPG", "P2285800.JPG", "P2285802.JPG", "P2285804.JPG", "P2285805.JPG",
   "P2285807.JPG", "P2285810.JPG", "P2285811.JPG"

@@ -3,9 +3,9 @@ date    = "2015-03-20"
 title   = "Old and New Lima"
 aliases = [ "/blog/old-and-new-lima.html" ]
 destinations = [ "south-america", "peru" ]
-cities  = [ "lima-lima-pe" ]
+places  = [ "3936456-lima-pe" ]
 photos  = [
-  "P3156323.JPG", "P3156327.JPG", "P3156330.JPG", "P3156331.JPG", "P3156332.JPG",
+  "P3156330.JPG", "P3156331.JPG", "P3156332.JPG", "P3156327.JPG",  "P3156323.JPG",
   "P3166341.JPG", "P3166347.JPG", "P3166356.JPG"
 ]
 cover = "P3156332.JPG"

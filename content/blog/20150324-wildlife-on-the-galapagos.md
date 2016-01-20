@@ -4,7 +4,7 @@ title   = "Wildlife on the Galápagos"
 slug    = "wildlife-on-the-galapagos"
 aliases = [ "/blog/wildlife-on-the-galapagos.html" ]
 destinations = [ "south-america", "ecuador" ]
-cities  = [ "puerto-ayora-galapagos-ec" ]
+places  = [ "3652764-puerto-ayora-ec", "3651162-isla-seymour-norte-ec" ]
 photos  = [
   "P3196370.JPG", "P3206394.JPG", "P3216405.JPG", "P3216411.JPG", "P3226420.JPG",
   "P3226423.JPG", "P3226429.JPG", "P3236441.JPG", "P3236447.JPG", "P3236461.JPG",

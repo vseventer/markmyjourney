@@ -3,6 +3,18 @@ date    = "2015-03-01"
 title   = "Monthly Recap: February 2015"
 aliases = [ "/blog/monthly-recap-february-2015.html" ]
 destinations = [ "south-america", "argentine", "chile" ]
+places  = [
+  "3874787-punta-arenas-cl", "4030726-easter-island-cl", "3871336-santiago-cl",
+  "3871781-san-pedro-de-atacama-cl"
+]
+route   = [
+  "6300693-presidente-carlos-ibanez-del-campo-international-airport-cl",
+  "3899261-comodoro-arturu-merino-benitez-international-airport-cl",
+  "4030749-mataveri-international-airport-cl",
+  "",
+  "3899261-comodoro-arturu-merino-benitez-international-airport-cl",
+  "3891150-aerodromo-el-loa-cl"
+]
 +++
 
 In February 2015, we visited only one new country: Chile, but we went back to Argentina for a few days. From [Patagonia](/blog/the-wilderness-of-chilean-patagonia.html), we traveled to [Easter Island](/blog/mysterious-easter-island.html), after returning to the mainland. We traveled by bus to Mendoza, to try out [Argentinian wines](/blog/bike-and-wine.html) in addition to the [food](/blog/in-search-of-great-steak-and-wine.html) we already tried. After returning to Santiago, and trying out lots of [Chilean food](/blog/chile-the-mayo-capital.html), we flew north to [San Pedro](/blog/the-chilean-desert.html). From there, we crossed into Bolivia.
@@ -31,7 +43,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Budget: **$2,520** ($60 pppd),
 * Expenses: **$2,373** ($56.50 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/images/budget-chile.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-chile.png)</span>
 
 ## Argentina
 * Days: **3**,
@@ -43,7 +55,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Budget: **$1,800** ($60 pppd),
 * Expenses: **$1,836** ($61 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/images/budget-argentina-feb15.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-argentina-feb15.png)</span>
 
 ## Next Month
 From Chile, we crossed into Bolivia at the end of February, which is where we will stay for two weeks. After, it is onwards to Peru and Ecuador. Highlight of Ecuador will without a doubt be our visit to Galapagos Islands. On April 1st, we will leave Ecuador for Colombia.

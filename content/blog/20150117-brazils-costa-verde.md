@@ -3,11 +3,11 @@ date    = "2015-01-17"
 title   = "Brazil’s Costa Verde"
 aliases = [ "/blog/brazils-costa-verde.html" ]
 destinations = [ "south-america", "brazil" ]
-cities  = [ "paraty-rio-de-janeiro-br", "angra-dos-reis-rio-de-janeiro-br" ]
+places  = [ "3455036-paraty-br", "3472177-angra-dos-reis-br", "3462217-ilha-grande-br" ]
 photos  = [
   "P1104038.JPG", "P1104048.JPG", "P1104053.JPG", "P1124066.JPG", "P1124070.JPG",
-  "P1124073.JPG", "P1124093.JPG", "P1124108.JPG", "P1124123.JPG", "P1134133.JPG",
-  "P1134141.JPG", "P1134152.JPG", "P1134162.JPG", "P1144171.JPG", "P1144172.JPG"
+  "P1124073.JPG", "P1124093.JPG", "P1124108.JPG", "P1144171.JPG", "P1134133.JPG",
+  "P1134141.JPG", "P1134152.JPG", "P1134162.JPG", "P1124123.JPG", "P1144172.JPG"
 ]
 cover = "P1104038.JPG"
 +++

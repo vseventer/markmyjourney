@@ -3,12 +3,12 @@ date    = "2015-02-22"
 title   = "Mysterious Easter Island"
 aliases = [ "/blog/mysterious-easter-island.html" ]
 destinations = [ "south-america", "chile" ]
-cities  = [ "hanga-roa-isla-de-pascau-cl" ]
+places  = [ "4030726-easter-island-cl" ]
 photos  = [
-  "P2095033.JPG", "P2095035.JPG", "P2095057.JPG", "P2095061.JPG", "P2095063.JPG",
-  "P2095071.JPG", "P2095087.JPG", "P2095089.JPG", "P2095093.JPG", "P2095097.JPG",
-  "P2095106.JPG", "P2095125.JPG", "P2095131.JPG", "P2095138.JPG", "P2105173.JPG",
-  "P2105174.JPG", "P2105196.JPG", "P2115219.JPG", "P2125224.JPG", "P2125226.JPG",
+  "P2115219.JPG", "P2095138.JPG", "P2095063.JPG", "P2095033.JPG", "P2125224.JPG",
+  "P2095035.JPG", "P2095057.JPG", "P2095061.JPG", "P2095071.JPG", "P2095087.JPG",
+  "P2095089.JPG", "P2095093.JPG", "P2095097.JPG", "P2095106.JPG", "P2095125.JPG",
+  "P2095131.JPG", "P2105173.JPG", "P2105174.JPG", "P2125226.JPG", "P2105196.JPG",
   "P2125246.JPG", "P2125251.JPG"
 ]
 cover = "P2095089.JPG"

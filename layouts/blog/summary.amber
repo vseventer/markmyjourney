@@ -22,7 +22,7 @@ div.card.mmjy-summary
       ul.list-inline
         each $photo in $photos
           li.list-inline-item
-            img.mmjy-photo.mmjy-photo-inset[src=absURL("uploads/thumbs/" + $photo)]
+            img.mmjy-thumb.mmjy-thumb-inset[src=absURL("uploads/thumbs/" + $photo)]
 
   #{ Summary }
   p.card-text

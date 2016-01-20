@@ -3,7 +3,7 @@ date    = "2015-11-26"
 title   = "A Brief Visit to Australia’s Capital City"
 aliases = [ "/blog/a-brief-visit-to-australias-capital-city.html" ]
 destinations = [ "oceania", "australia" ]
-cities  = [ "canberra-au" ]
+places  = [ "2172517-canberra-au" ]
 cover   = "IMG_0984.JPG"
 +++
 

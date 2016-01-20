@@ -3,11 +3,11 @@ date    = "2014-11-08"
 title   = "The Loy Krathong Festival in Chiang Mai"
 aliases = [ "/blog/catching-the-loy-krathong-festival-in-chiang-mai.html" ]
 destinations = [ "asia", "thailand" ]
-cities  = [ "chiang-mai-th" ]
+places  = [ "1153671-chiang-mai-th" ]
 photos  = [
-  "PB042099.JPG", "PB042109.JPG", "PB052125.JPG", "PB052137.JPG", "PB052146.JPG",
-  "PB052149.JPG", "PB052160.JPG", "PB052168.JPG", "PB052179.JPG", "PB062245.JPG",
-  "PB072251.JPG", "PB072259.JPG", "PB072272.JPG"
+  "PB042099.JPG", "PB042109.JPG", "PB052149.JPG", "PB052125.JPG", "PB052137.JPG",
+  "PB052146.JPG", "PB072272.JPG", "PB052179.JPG", "PB052160.JPG", "PB052168.JPG",
+  "PB062245.JPG", "PB072251.JPG", "PB072259.JPG"
 ]
 cover = "PB072251.JPG"
 +++

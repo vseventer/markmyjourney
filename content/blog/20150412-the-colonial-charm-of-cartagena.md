@@ -3,11 +3,11 @@ date    = "2015-04-12"
 title   = "The Colonial Charm of Cartagena"
 aliases = [ "/blog/the-colonial-charm-of-cartagena.html" ]
 destinations = [ "south-america", "colombia" ]
-cities  = [ "cartagena-bolivar-co" ]
+places  = [ "3687238-cartagena-co", "3830544-playa-blanca-co" ]
 photos  = [
-  "P4106807.JPG", "P4106809.JPG", "P4106811.JPG", "P4106814.JPG", "P4106821.JPG",
-  "P4106824.JPG", "P4106826.JPG", "P4106827.JPG", "P4106830.JPG", "P4116839.JPG",
-  "P4116842.JPG", "P4126848.JPG"
+  "P4106807.JPG", "P4106809.JPG", "P4106811.JPG", "P4106814.JPG", "P4126848.JPG",
+  "P4106821.JPG", "P4106824.JPG", "P4106826.JPG", "P4106827.JPG", "P4106830.JPG",
+  "P4116839.JPG", "P4116842.JPG"
 ]
 cover = "P4106814.JPG"
 +++

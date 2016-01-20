@@ -4,7 +4,7 @@ title   = "Shopping & Gambling"
 slug    = "shopping-and-gambling"
 aliases = [ "/blog/shopping-and-gambling.html" ]
 destinations = [ "asia", "hong-kong", "macao" ]
-cities  = [ "hong-kong-hk", "macau-mo" ]
+places  = [ "1819729-hong-kong-hk", "1821274-macau-mo" ]
 photos  = [
   "PC213683.JPG", "PC213690.JPG", "PC213700.JPG", "PC223714.JPG", "PC223724.JPG",
   "PC223733.JPG", "PC223744.JPG", "PC223747.JPG", "PC233769.JPG", "PC233779.JPG",

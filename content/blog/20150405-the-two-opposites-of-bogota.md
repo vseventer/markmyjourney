@@ -4,7 +4,7 @@ title   = "The Two Opposites of Bogotá"
 slug    = "the-two-opposites-of-bogota"
 aliases = [ "/blog/the-two-opposites-of-bogota.html" ]
 destinations = [ "south-america", "colombia" ]
-cities  = [ "bogota-bogota-dc-co" ]
+places  = [ "3688689-bogota-co" ]
 photos  = [
   "P4026644.JPG", "P4026648.JPG", "P4026654.JPG", "P4026656.JPG", "P4026659.JPG",
   "P4026660.JPG", "P4026661.JPG", "P4026671.JPG", "P4026672.JPG", "P4036675.JPG",

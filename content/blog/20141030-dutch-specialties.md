@@ -3,11 +3,10 @@ date    = "2014-10-30"
 title   = "Dutch Specialties"
 aliases = [ "/blog/dutch-specialties.html" ]
 destinations = [ "europe", "netherlands" ]
-cities  = [ ]
 photos  = [
-  "IMG_0772.JPG", "PA141634.JPG", "PA161644.JPG", "PA181672.JPG", "PA181673.JPG",
-  "PA181675.JPG", "PA181679.JPG", "PA211703.JPG", "PA211708.JPG", "PA211713.JPG",
-  "PA221733.JPG", "PA251785.JPG", "PA251788.JPG", "PA271831.JPG"
+  "PA141634.JPG", "PA161644.JPG", "PA181672.JPG", "PA181673.JPG", "PA181675.JPG",
+  "PA181679.JPG", "PA211703.JPG", "PA211708.JPG", "PA211713.JPG", "PA221733.JPG",
+  "PA251785.JPG", "PA251788.JPG", "PA271831.JPG", "IMG_0772.JPG"
 ]
 cover = "PA161644.JPG"
 +++

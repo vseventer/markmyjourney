@@ -3,6 +3,26 @@ date    = "2015-02-03"
 title   = "Monthly Recap: January 2015"
 aliases = [ "/blog/monthly-recap-january-2015.html" ]
 destinations = [ "south-america", "brazil", "argentina", "uruguay", "chile" ]
+places  = [
+  "1816670-beijing-cn", "3451190-rio-de-janeiro-br", "3448439-sao-paulo-br",
+  "3463030-foz-do-iguacu-br", "3429777-puerto-iguazu-ar",
+  "3435910-buenos-aires-ar", "3858677-el-calafate-ar"
+]
+route = [
+  "6301354-beijing-capital-international-airport-cn",
+  "6300092-abu-dhabi-international-airport-ae",
+  "6301853-rio-de-janeiro-galeao-international-airport-br",
+  "6300629-sao-paulo-gaurulhos-international-airport-br",
+  "",
+  "6301853-rio-de-janeiro-galeao-international-airport-br",
+  "6300623-foz-do-iguacu-cataratas-international-airport-br",
+  "",
+  "6300549-cataratas-del-iguazu-international-airport-ar",
+  "6301847-jorge-newbery-airport-ar",
+  "",
+  "6301847-jorge-newbery-airport-ar",
+  "7668427-el-calafate-airport-ar"
+]
 +++
 
 In January 2015, we visited four countries: Brazil, Argentina, Uruguay, and Chile. From [China](/blog/monthly-recap-december-2014.html) we were meant to land in São Paulo, but [ended up in Rio de Janeiro](/blog/the-long-way-south.html) instead, where we mainly [enjoyed Brazilian food](/blog/delicious-foods-of-brazil.html). The highlight of Brazil was without a doubt [Costa Verde](/blog/brazils-costa-verde.html), although the [tour of Rio de Janeiro](/blog/three-days-in-rio.html) was very nice too.
@@ -36,7 +56,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$1,347** ($48 pppd),
 * Additional visa costs: **$160** (Herta).
 
-<span class="img-thumbnail">![Expenses Breakdown](/images/budget-brazil.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-brazil.png)</span>
 
 ## Argentina & Uruguay
 *Note (1): Uruguay accepts the Argentinian Peso and U.S. Dollar, therefore we decided to add the money spent during our one-day trip to Uruguay to the Argentina budget.*
@@ -48,7 +68,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$1,547** ($64.50 pppd),
 * Additional visa costs: **$160** (Herta).
 
-<span class="img-thumbnail">![Expenses Breakdown](/images/budget-argentina.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-argentina.png)</span>
 
 ## Next Month
 The first few days of February we will spend in Chilean Patagonia, before heading back north. We will spent more time in Chile there, and depending on how our plans enfold we might go to Argentina a bit more before crossing into Bolivia. For our one-year anniversary (February 12th), we have something special planned – you will see.

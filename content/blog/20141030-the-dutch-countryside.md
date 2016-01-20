@@ -3,12 +3,15 @@ date    = "2014-10-30"
 title   = "The Dutch Countryside"
 aliases = [ "/blog/the-dutch-countryside.html" ]
 destinations = [ "europe", "netherlands" ]
-cities  = [ "mijdrecht-nl", "putten-nl", "harderwijk-nl", "utrecht-nl", "delft-south-holland-nl", "leiden-south-holland-nl" ]
-photos  = [
-  "IMG_0775.JPG", "PA161643.JPG", "PA171651.JPG", "PA181681.JPG", "PA211690.JPG",
-  "PA211697.JPG", "PA211702.JPG", "PA211718.JPG", "PA211724.JPG", "PA271801.JPG",
-  "PA271805.JPG", "PA271808.JPG", "PA271813.JPG", "PA271816.JPG", "PA271829.JPG",
-  "PA271848.JPG", "PA271856.JPG", "PA281865.JPG"
+places  = [
+  "2750815-mijdrecht-nl", "2748392-putten-nl", "2754848-harderwijk-nl",
+  "2745912-utrecht-nl", "2757345-delft-nl", "2751773-leiden-nl"
+]
+photos = [
+  "PA281865.JPG", "IMG_0775.JPG", "PA181681.JPG", "PA161643.JPG", "PA171651.JPG",
+  "PA211690.JPG", "PA211697.JPG", "PA211702.JPG", "PA211718.JPG", "PA211724.JPG",
+  "PA271801.JPG", "PA271805.JPG", "PA271808.JPG", "PA271813.JPG", "PA271816.JPG",
+  "PA271829.JPG", "PA271848.JPG", "PA271856.JPG"
 ]
 cover = "PA271848.JPG"
 +++

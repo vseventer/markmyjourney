@@ -2,16 +2,19 @@
 date    = "2015-04-08"
 title   = "Transportation in South America"
 aliases = [ "/blog/transportation-in-south-america.html" ]
-destinations = [ "south-america", "argentina", "bolivia", "brazil", "chile", "colombia", "ecuador", "peru", "uruguay" ]
-photos  = [
-  "IMG_3610.JPG", "IMG_3967.JPG", "IMG_4019.JPG", "P1104057.JPG", "P1124114.JPG",
-  "P1154260.JPG", "P1204351.JPG", "P1204352.JPG", "P1234504.JPG", "P1254530.JPG",
-  "P1294687.JPG", "P1304691.JPG", "P2014874.JPG", "P2024889.JPG", "P2095063.JPG",
-  "P2125226.JPG", "P2155285.JPG", "P2165310.JPG", "P2225370.JPG", "P2225413.JPG",
-  "P2245437.JPG", "P2255498.JPG", "P2275798.JPG", "P3015846.JPG", "P3035907.JPG",
-  "P3046078.JPG", "P3066143.JPG", "P3066200.JPG", "P3116248.JPG", "P3116251.JPG",
+destinations = [
+  "south-america", "argentina", "bolivia", "brazil", "chile", "colombia",
+  "ecuador", "peru", "uruguay"
+]
+photos = [
+  "P1104057.JPG", "IMG_3610.JPG", "P1124114.JPG", "P1154260.JPG", "P1204351.JPG",
+  "P1204352.JPG", "P1234504.JPG", "P1254530.JPG", "P1294687.JPG", "P1304691.JPG",
+  "P2014874.JPG", "P2024889.JPG", "P2095063.JPG", "P2125226.JPG", "P2155285.JPG",
+  "P2165310.JPG", "P2225370.JPG", "P2225413.JPG", "P2245437.JPG", "P2255498.JPG",
+  "P2275798.JPG", "P3015846.JPG", "P3035907.JPG", "P3046078.JPG", "P3066143.JPG",
+  "P3066200.JPG", "P3116248.JPG", "P3116251.JPG", "IMG_3967.JPG", "IMG_4019.JPG",
   "P3226418.JPG", "P3236441.JPG", "P3286608.JPG", "P3286609.JPG", "P4036686.JPG",
-  "P4056693.JPG", "P4056753.JPG"
+  "P4056753.JPG", "P4056693.JPG"
 ]
 cover = "P2255498.JPG"
 +++

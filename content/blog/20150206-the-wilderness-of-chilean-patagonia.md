@@ -3,11 +3,14 @@ date    = "2015-02-06"
 title   = "The Wilderness of Chilean Patagonia"
 aliases = [ "/blog/the-wilderness-of-chilean-patagonia.html" ]
 destinations = [ "south-america", "chile" ]
-cities  = [ "puerto-natales-magallanes-cl", "punta-arenas-magallanes-cl" ]
-photos  = [
-  "IMG_3755.JPG", "P1304689.JPG", "P1304696.JPG", "P1304708.JPG", "P1304714.JPG",
-  "P1304722.JPG", "P1304724.JPG", "P1304737.JPG", "P1304758.JPG", "P1304794.JPG",
-  "P1304804.JPG", "P1314819.JPG", "P1314830.JPG", "P1314848.JPG", "P1314853.JPG",
+places  = [
+  "3874958-puerto-natales-cl", "7732121-parque-national-torres-del-paine",
+  "3874787-punta-arenas-cl"
+]
+photos = [
+  "P1304689.JPG", "P1304696.JPG", "P1304708.JPG", "P1304714.JPG", "P1304722.JPG",
+  "P1304724.JPG", "P1304737.JPG", "P1304758.JPG", "P1304794.JPG", "P1304804.JPG",
+  "P1314819.JPG", "P1314830.JPG", "P1314848.JPG", "IMG_3755.JPG", "P1314853.JPG",
   "P1314856.JPG", "P2055011.JPG"
 ]
 cover = "P1314853.JPG"

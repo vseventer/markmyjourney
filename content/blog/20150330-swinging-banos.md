@@ -3,10 +3,10 @@ date    = "2015-03-30"
 title   = "Swinging Baños"
 aliases = [ "/blog/swinging-banos.html" ]
 destinations = [ "south-america", "ecuador" ]
-cities  = [ "banos-tungurahua-ec" ]
+places  = [ "3660346-banos-ec" ]
 photos  = [
-  "P3276549.JPG", "P3276560.JPG", "P3276562.JPG", "P3286578.JPG", "P3286585.JPG",
-  "P3286592.JPG", "P3286595.JPG", "P3286596.JPG", "P3286605.JPG"
+  "P3276549.JPG", "P3276560.JPG", "P3276562.JPG", "P3286595.JPG", "P3286578.JPG",
+  "P3286585.JPG", "P3286592.JPG", "P3286596.JPG", "P3286605.JPG"
 ]
 cover = "P3286578.JPG"
 +++

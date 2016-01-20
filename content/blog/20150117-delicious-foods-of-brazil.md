@@ -4,9 +4,9 @@ title   = "Delicious Foods of Brazil"
 aliases = [ "/blog/delicious-foods-of-brazil.html" ]
 destinations = [ "south-america", "brazil" ]
 photos  = [
-  "IMG_3629.JPG", "P1074014.JPG", "P1074016.JPG", "P1074018.JPG", "P1074020.JPG",
-  "P1074021.JPG", "P1074022.JPG", "P1074023.JPG", "P1084035.JPG", "P1104047.JPG",
-  "P1104055.JPG", "P1124126.JPG", "P1124128.JPG", "P1154262.JPG"
+  "P1074014.JPG", "P1124128.JPG", "P1074016.JPG", "P1084035.JPG", "P1074018.JPG",
+  "P1104047.JPG", "P1154262.JPG", "P1104055.JPG", "P1124126.JPG", "P1074023.JPG",
+  "P1074020.JPG", "P1074021.JPG", "P1074022.JPG", "IMG_3629.JPG"
 ]
 cover = "P1104055.JPG"
 +++

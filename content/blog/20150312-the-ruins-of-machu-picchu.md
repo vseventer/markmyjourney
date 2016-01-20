@@ -3,12 +3,11 @@ date    = "2015-03-12"
 title   = "The Ruins of Machu Picchu"
 aliases = [ "/blog/the-ruins-of-machu-picchu.html" ]
 destinations = [ "south-america", "peru" ]
-cities  = [ "cusco-cusco-pe", "urubamba-cusco-pe" ]
+places  = [ "3941584-cusco-pe", "3935636-machu-picchu-pe" ]
 photos  = [
   "P3076219.JPG", "P3086230.JPG", "P3106240.JPG", "P3116253.JPG", "P3116254.JPG",
-  "P3116257.JPG", "P3116267.JPG", "P3116269.JPG", "P3116280.JPG", "P3116281.JPG",
-  "P3116285.JPG", "P3116288.JPG", "P3116291.JPG", "P3116295.JPG", "P3116296.JPG",
-  "P3116297.JPG", "P3116304.JPG"
+  "P3116257.JPG", "P3116267.JPG", "P3116280.JPG", "P3116281.JPG", "P3116285.JPG",
+  "P3116291.JPG", "P3116295.JPG", "P3116296.JPG", "P3116297.JPG", "P3116304.JPG"
 ]
 cover = "P3116257.JPG"
 +++

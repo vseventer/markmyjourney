@@ -3,14 +3,16 @@ date    = "2015-04-26"
 title   = "Cities of the Pacific Northwest"
 aliases = [ "/blog/cities-of-the-pacific-northwest.html" ]
 destinations = [ "north-america", "canada", "united-states" ]
-cities  = [ "portland-oregon-us", "vancouver-ca", "seattle-washington-us" ]
-photos  = [
-  "IMG_0003.JPG", "IMG_0014.JPG", "IMG_0017.JPG", "IMG_0023.JPG", "IMG_0036.JPG",
-  "IMG_0040.JPG", "IMG_0048.JPG", "IMG_0056.JPG", "IMG_0068.JPG", "IMG_0082.JPG",
-  "IMG_0097.JPG", "IMG_0119.JPG", "IMG_0689.JPG", "P4166881.JPG", "P4166908.JPG",
-  "P4176915.JPG", "P4176922.JPG", "P4186935.JPG", "P4186961.JPG", "P4196964.JPG",
-  "P4196967.JPG", "P4196973.JPG", "P4196987.JPG", "P4207000.JPG", "P4207017.JPG",
-  "P4207019.JPG"
+places  = [
+  "5746545-portland-oregon-us", "6173331-vancouver-ca", "5809844-seattle-washington-us"
+]
+photos = [
+  "P4166881.JPG", "IMG_0689.JPG", "P4166908.JPG", "P4176915.JPG", "P4176922.JPG",
+  "P4186935.JPG", "P4186961.JPG", "P4196964.JPG", "P4196967.JPG", "P4196973.JPG",
+  "IMG_0003.JPG", "P4196987.JPG", "P4207000.JPG", "P4207017.JPG", "P4207019.JPG",
+  "IMG_0014.JPG", "IMG_0017.JPG", "IMG_0023.JPG", "IMG_0036.JPG", "IMG_0040.JPG",
+  "IMG_0048.JPG", "IMG_0082.JPG", "IMG_0056.JPG", "IMG_0068.JPG", "IMG_0097.JPG",
+  "IMG_0119.JPG"
 ]
 cover = "IMG_0036.JPG"
 +++

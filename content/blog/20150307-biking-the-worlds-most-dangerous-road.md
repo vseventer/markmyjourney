@@ -3,11 +3,11 @@ date    = "2015-03-07"
 title   = "Biking the World’s Most Dangerous Road"
 aliases = [ "/blog/biking-the-worlds-most-dangerous-road.html" ]
 destinations = [ "south-america", "bolivia" ]
-cities  = [ "la-paz-bo" ]
+places  = [ "3911925-la-paz-bo", "3919085-coroico-bo" ]
 photos  = [
-  "P1120676.JPG", "P3015815.JPG", "P3015832.JPG", "P3015837.JPG", "P3015838.JPG",
-  "P3015840.JPG", "P3015841.JPG", "P3015842.JPG", "P3015845.JPG", "P3015848.JPG",
-  "P3015858.JPG", "P3015887.JPG", "P3015903.JPG"
+  "P3015815.JPG", "P3015832.JPG", "P3015837.JPG", "P3015838.JPG", "P3015840.JPG",
+  "P3015841.JPG", "P3015842.JPG", "P3015845.JPG", "P3015848.JPG", "P3015858.JPG",
+  "P3015887.JPG", "P1120676.JPG", "P3015903.JPG"
 ]
 cover = "P3015842.JPG"
 +++

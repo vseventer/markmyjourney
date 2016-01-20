@@ -1,9 +1,10 @@
 +++
 date    = "2015-10-21"
 title   = "Melbourne Half Marathon Race Report"
+weight  = 25
 aliases = [ "/blog/melbourne-half-marathon-race-report.html" ]
 destinations = [ "oceania", "australia" ]
-cities  = [ "melbourne-au" ]
+places  = [ "2158177-melbourne-au" ]
 photos  = [ "IMG_1025.JPG", "IMG_1031.JPG", "IMG_1036.JPG", "IMG_1041.JPG", "IMG_1042.JPG" ]
 cover   = "IMG_1042.JPG"
 +++

@@ -3,7 +3,7 @@ date    = "2014-11-29"
 title   = "Three Days in Singapore"
 aliases = [ "/blog/three-days-in-singapore.html" ]
 destinations = [ "asia", "singapore" ]
-cities  = [ "singapore-sg" ]
+places  = [ "1880252-singapore-sg" ]
 photos  = [
   "PB232808.JPG", "PB232822.JPG", "PB232829.JPG", "PB232834.JPG", "PB232840.JPG",
   "PB232848.JPG", "PB232891.JPG", "PB242914.JPG", "PB242927.JPG", "PB242941.JPG",

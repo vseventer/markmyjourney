@@ -7,6 +7,23 @@ destinations = [
   "oceania", "australia", "fiji",
   "south-america", "colombia"
 ]
+places = [
+  "5368361-los-angeles-us", "5809844-seattle-washington-us", "2202064-nadi-fj",
+  "2147714-sydney-au", "2158177-melbourne-au"
+]
+route = [
+  "5368418-los-angeles-international-airport-us",
+  "5809876-seattle-tacoma-international-airport-us",
+  "",
+  "5368418-los-angeles-international-airport-us",
+  "6299945-nadi-international-airport-fj",
+  "",
+  "6299945-nadi-international-airport-fj",
+  "2208268-sydney-international-airport-au",
+  "",
+  "2208268-sydney-international-airport-au",
+  "6290242-melbourne-airport-au"
+]
 +++
 
 In April 2015, we visited five countries: Colombia, United States, Canada, Fiji, and Australia. Two weeks ago we summarized [Colombia](/blog/the-next-chapter.html), and now it is time for the remainder of the month. After Colombia, we visited the [Pacific Northwest](/blog/cities-of-the-pacific-northwest.html), before spending an unexpected day in [Fiji](/blog/an-unexpected-stop-in-fiji.html). We settled down in Melbourne, but not after we briefly visited Sydney.
@@ -37,7 +54,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Budget: **$0**,
 * Expenses: **-$12** (-$6 pppd),
 
-<span class="img-thumbnail">![Expenses Breakdown](/images/budget-fiji.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-fiji.png)</span>
 
 ## Sydney, Australia
 * Days: **2**,
@@ -45,7 +62,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$446** ($111.50 pppd),
 * Additional visa costs: **$800** ($400 pp).
 
-<span class="img-thumbnail">![Expenses Breakdown](/images/budget-sydney.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-sydney.png)</span>
 
 ## Next Month
 On April 30th, we arrived in Melbourne after a long journey of over six months. The next month we will look for an apartment, job, bike, furniture, and everything else that comes with being responsible adults. We plan to stay in Melbourne for a year or so, as on first sight it seems to be an extremely livable city.

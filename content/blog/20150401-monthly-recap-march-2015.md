@@ -3,6 +3,30 @@ date    = "2015-04-01"
 title   = "Monthly Recap: March 2015"
 aliases = [ "/blog/monthly-recap-march-2015.html" ]
 destinations = [ "south-america", "bolivia", "peru", "ecuador" ]
+places  = [
+  "3911925-la-paz-bo", "3906209-rurrenabaque-bo", "3941584-cusco-pe",
+  "3936456-lima-pe", "3657509-gauyaquil-ec", "3658931-galapagos-islands",
+  "3652462-quito-ec", "3688689-bogota-co"
+]
+route = [
+  "3913354-el-alto-international-airport-bo",
+  "6300783-rurrenabaque-bo",
+  "",
+  "6300825-alejandro-velasco-astete-international-airport-pe",
+  "3937555-jorge-chavez-international-airport-pe",
+  "",
+  "3937555-jorge-chavez-international-airport-pe",
+  "6300713-jose-joaquin-de-olmedo-international-airport-ec",
+  "",
+  "6300713-jose-joaquin-de-olmedo-international-airport-ec",
+  "6453414-seymour-airport-ec",
+  "",
+  "6453414-seymour-airport-ec",
+  "6300721-mariscal-sucre-international-airport-ec",
+  "",
+  "6300721-mariscal-sucre-international-airport-ec",
+  "6300736-el-dorado-international-airport-co"
+]
 +++
 
 In March 2015, we visited three new countries: Bolivia, Peru, and Ecuador. We ended last month with a three day tour of [Salar de Uyuni](/blog/surreal-salar-de-uyuni.html), from where we continued on to [La Paz](/blog/la-paz-the-worlds-highest-capital-city.html). There, we conquered [the World’s Most Dangerous Road](/blog/biking-the-worlds-most-dangerous-road.html) and [Amazon rainforest](/blog/the-bolivian-amazon.html).
@@ -39,21 +63,21 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$1,342** ($74.50 pppd),
 * Additional visa costs: **$160** (Herta).
 
-<span class="img-thumbnail">![Expenses Breakdown](/images/budget-bolivia.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-bolivia.png)</span>
 
 ## Peru
 * Days: **11**,
 * Budget: **$990** ($45 pppd),
 * Expenses: **$986** ($45 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/images/budget-peru.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-peru.png)</span>
 
 ## Ecuador
 * Days: **15**,
 * Budget: **$1,695** ($56.50 pppd),
 * Expenses: **$1,740** ($58 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/images/budget-ecuador.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-ecuador.png)</span>
 
 ## Next Month
 April marks the last month of our seven month journey through Asia and South America. On April 14, we will leave Colombia and return to the United States for ten days. Afterwards, it is on to Sydney and finally Melbourne, where we will settle down for a while.

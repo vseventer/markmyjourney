@@ -4,12 +4,12 @@ title   = "Bike & Wine"
 slug    = "bike-and-wine"
 aliases = [ "/blog/bike-and-wine.html" ]
 destinations = [ "south-america", "argentina" ]
-cities  = [ "mendoza-mendoza-ar" ]
+places  = [ "3844421-mendoza-ar", "3845247-maipu-ar" ]
 photos  = [
-  "P2175313.JPG", "P2175317.JPG", "P2175319.JPG", "P2175320.JPG", "P2175323.JPG",
-  "P2175328.JPG", "P2175330.JPG", "P2175334.JPG", "P2175338.JPG", "P2175342.JPG",
-  "P2175346.JPG", "P2175349.JPG", "P2175350.JPG", "P2175352.JPG", "P2175354.JPG",
-  "P2175356.JPG"
+  "P2175356.JPG", "P2175313.JPG", "P2175317.JPG", "P2175319.JPG", "P2175320.JPG",
+  "P2175323.JPG", "P2175328.JPG", "P2175330.JPG", "P2175334.JPG", "P2175338.JPG",
+  "P2175342.JPG", "P2175346.JPG", "P2175349.JPG", "P2175350.JPG", "P2175352.JPG",
+  "P2175354.JPG"
 ]
 cover = "P2175338.JPG"
 +++

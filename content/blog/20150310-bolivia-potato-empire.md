@@ -4,7 +4,7 @@ title   = "Bolivia: Potato Empire"
 aliases = [ "/blog/bolivia-potato-empire.html" ]
 destinations = [ "south-america", "bolivia" ]
 photos  = [
-  "P2265685.JPG", "P3015900.JPG", "P3035935.JPG", "P3035936.JPG", "P3035937.JPG",
+  "P2265685.JPG", "IMG_3899.JPG", "P3015900.JPG", "P3035935.JPG", "P3035936.JPG", "P3035937.JPG",
   "P3035939.JPG", "P3035991.JPG", "P3035992.JPG", "P3035993.JPG", "P3046109.JPG",
   "P3056129.JPG", "P3056131.JPG", "P3066151.JPG", "P3066154.JPG"
 ]
