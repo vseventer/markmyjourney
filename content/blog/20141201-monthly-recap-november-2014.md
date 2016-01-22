@@ -19,7 +19,7 @@ route = [
 ]
 +++
 
-In November 2014, we visited three countries: Thailand, Malaysia, and Singapore. After a [rough start in Thailand](/blog/bustling-bangkok.html), we found ourself being [comfortable in Kuala Lumpur](/blog/calmer-waters-in-kuala-lumpur.html), and [enjoying Singapore](/blog/three-days-in-singapore.html). Looking back, we probably won’t return to any of these countries any time soon as we feel we have a good impression of all of them.
+In November 2014, we visited three countries: Thailand, Malaysia, and Singapore. After a [rough start in Thailand](/bustling-bangkok), we found ourself being [comfortable in Kuala Lumpur](/calmer-waters-in-kuala-lumpur), and [enjoying Singapore](/three-days-in-singapore). Looking back, we probably won’t return to any of these countries any time soon as we feel we have a good impression of all of them.
 <!--more-->
 Determining the budget for Southeast Asia was not easy, especially since we hadn’t been there before. Yet, after a month of traveling here, we are happy to see our expected and actual expenses are pretty close!
 

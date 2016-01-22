@@ -18,7 +18,7 @@ cover = "PA271848.JPG"
 
 Our home base during our stay in the Netherlands was my old hometown of Mijdrecht. Mijdrecht, located 20 minutes outside of Amsterdam, is a quiet and typical Dutch town: not much to do, a few small shops (closed on Sundays of course), and a population predominated by parents with young kids, and older couples.
 <!--more-->
-After Mark ran his [marathon](/blog/running-the-amsterdam-marathon.html), we went out on a two day trip to Putten and Harderwijk. The first day, in Putten, consisted of a day long stay in Saunadrome. In the Netherlands, it is very **un**common for saunas to allow bathing suits. Needless to say, it took a while to get used to this atmosphere. In the end, relaxing and getting a massage turned out to be a great way to start the recovery phase.
+After Mark ran his [marathon](/running-the-amsterdam-marathon), we went out on a two day trip to Putten and Harderwijk. The first day, in Putten, consisted of a day long stay in Saunadrome. In the Netherlands, it is very **un**common for saunas to allow bathing suits. Needless to say, it took a while to get used to this atmosphere. In the end, relaxing and getting a massage turned out to be a great way to start the recovery phase.
 
 From Putten, we visited Harderwijk, a typical Dutch fishing town. Unfortunately, it rained most of the day, so we walked around the town quickly and ended with eating a “Hollandse Nieuwe”. Stay tuned for a post about all the strange food the Dutch eat.
 

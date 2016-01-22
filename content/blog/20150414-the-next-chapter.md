@@ -17,7 +17,7 @@ cover  = "P4146877.JPG"
 
 Against our tradition, we will not wait until the end of the month to summarize expenses. As we are leaving South America behind, it is time to wrap up the finances and move on to the next chapter.
 <!--more-->
-From Quito, Ecuador, we arrived in Bogotá, a city we explored in only [two days](/blog/the-two-opposites-of-bogota.html). Next, we visited the famous [coffee region of Colombia](/blog/colombias-coffee-triangle.html), experiencing how delicious coffee is made. We ended our stay with a visit to [Cartagena](/blog/the-colonial-charm-of-cartagena.html) on the Caribbean coast, before flying back to Bogotá for one last night.
+From Quito, Ecuador, we arrived in Bogotá, a city we explored in only [two days](/the-two-opposites-of-bogota). Next, we visited the famous [coffee region of Colombia](/colombias-coffee-triangle), experiencing how delicious coffee is made. We ended our stay with a visit to [Cartagena](/the-colonial-charm-of-cartagena) on the Caribbean coast, before flying back to Bogotá for one last night.
 
 **The Good**
 

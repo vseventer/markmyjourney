@@ -11,7 +11,7 @@ photos  = [
 cover = "PB202697.JPG"
 +++
 
-Thailand is hectic. Very hectic. In an attempt to slow down a little and increase our comfort level, we decided to head south. After enjoying the [beaches of Thailand](/blog/beaches-of-thailand.html), we took two overnight trains towards the capital of Malaysia: Kuala Lumpur.
+Thailand is hectic. Very hectic. In an attempt to slow down a little and increase our comfort level, we decided to head south. After enjoying the [beaches of Thailand](/beaches-of-thailand), we took two overnight trains towards the capital of Malaysia: Kuala Lumpur.
 <!--more-->
 The first train departed from dark and unfriendly (I’m sure that was just our impression) Surat Thani in the middle of the night. Originally scheduled at 1:26, we left the station around 3AM, as our train arrived traditionally late. After getting a little bit of sleep, we crossed the Thai-Malay border, before arriving in Butterworth around 3 in the afternoon.
 

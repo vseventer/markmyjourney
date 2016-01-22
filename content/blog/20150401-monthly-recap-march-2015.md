@@ -29,11 +29,11 @@ route = [
 ]
 +++
 
-In March 2015, we visited three new countries: Bolivia, Peru, and Ecuador. We ended last month with a three day tour of [Salar de Uyuni](/blog/surreal-salar-de-uyuni.html), from where we continued on to [La Paz](/blog/la-paz-the-worlds-highest-capital-city.html). There, we conquered [the World’s Most Dangerous Road](/blog/biking-the-worlds-most-dangerous-road.html) and [Amazon rainforest](/blog/the-bolivian-amazon.html).
+In March 2015, we visited three new countries: Bolivia, Peru, and Ecuador. We ended last month with a three day tour of [Salar de Uyuni](/surreal-salar-de-uyuni), from where we continued on to [La Paz](/la-paz-the-worlds-highest-capital-city). There, we conquered [the World’s Most Dangerous Road](/biking-the-worlds-most-dangerous-road) and [Amazon rainforest](/the-bolivian-amazon).
 <!--more-->
-We left Bolivia for Peru by bus, making a stop at [Copacabana & Lake Titicaca](/blog/copacabana-and-lake-titicaca-en-route-to-peru.html) on the way. In Peru, we spent six days in Cusco, where we visited [the ruins of Machu Picchu](/blog/the-ruins-of-machu-picchu.html). Our last stop was a brief visit to [Lima](/blog/old-and-new-lima.html), before flying out to Ecuador and the [Galápagos Islands](/blog/wildlife-on-the-galapagos.html).
+We left Bolivia for Peru by bus, making a stop at [Copacabana & Lake Titicaca](/copacabana-and-lake-titicaca-en-route-to-peru) on the way. In Peru, we spent six days in Cusco, where we visited [the ruins of Machu Picchu](/the-ruins-of-machu-picchu). Our last stop was a brief visit to [Lima](/old-and-new-lima), before flying out to Ecuador and the [Galápagos Islands](/wildlife-on-the-galapagos).
 
-The last week of March we spent exploring [Quito](/blog/equatorial-quito.html) and nearby [Baños](/blog/swinging-banos.html). As always, we enjoyed the [Bolivian](/blog/bolivia-potato-empire.html), [Peruvian](/blog/beyond-ceviche.html), and [Ecuadorian](/blog/ecuadorian-cuisine.html) cuisine along the way. On April 1st, we flew into Colombia, our last stop in South America.
+The last week of March we spent exploring [Quito](/equatorial-quito) and nearby [Baños](/swinging-banos). As always, we enjoyed the [Bolivian](/bolivia-potato-empire), [Peruvian](/beyond-ceviche), and [Ecuadorian](/ecuadorian-cuisine) cuisine along the way. On April 1st, we flew into Colombia, our last stop in South America.
 
 In March we spent more than we thought we would. Especially Bolivia turned out to be expensive, mainly due to the variety of activities (Salar de Uyuni, biking the Death Road, and visiting the Amazon) which cost a grand total of around $900 ($450 pp). In Peru, visiting Machu Picchu is rather costly with all the transportation and entrance fees combined, but we managed to stay on budget.
 
@@ -48,7 +48,7 @@ In Ecuador, our budget originally yielded $60 pppd, yet we shifted $5 of these f
 
 * In order to obtain some Bolivian currency, we were forced to spent 30$ on changing Chilean currency at a Money Exchange office.
 * We failed to estimate the costs in Bolivia, leaving us with a large gap of $442.
-* We spent a lot on (overpriced) groceries on Galápagos. Unfortunately, we couldn’t repeat what we did for [Easter Island](/blog/the-next-extreme.html), as importing food is not allowed in order to preserve the wildlife.
+* We spent a lot on (overpriced) groceries on Galápagos. Unfortunately, we couldn’t repeat what we did for [Easter Island](/the-next-extreme), as importing food is not allowed in order to preserve the wildlife.
 
 A detailed list of expenses per country is listed below. The amounts per person are based on our two-person journey. Flights are listed separately (and are not included in the countries’ budget) as we booked these in advance.
 

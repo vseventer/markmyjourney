@@ -11,6 +11,6 @@ photos  = [
 cover = "P2285811.JPG"
 +++
 
-Our first impression of La Paz was that is was quite modern compared to [Uyuni](/blog/surreal-salar-de-uyuni.html) and the rest of Bolivia. We spent four days in the (administrative) capital of Bolivia, as the base for our trips to the [Death Road](/blog/biking-the-worlds-most-dangerous-road.html) and [Amazon](/blog/the-bolivian-amazon.html).
+Our first impression of La Paz was that is was quite modern compared to [Uyuni](/surreal-salar-de-uyuni) and the rest of Bolivia. We spent four days in the (administrative) capital of Bolivia, as the base for our trips to the [Death Road](/biking-the-worlds-most-dangerous-road) and [Amazon](/the-bolivian-amazon).
 <!--more-->
 The city does not have many landmarks, but it is known for being lively at nighttime. We mainly explored the city during the day though, walking around the historic center, market (Mercado Lanza), and plaza (Plaza Mayor). From the city center, the amount of brick houses built next to each other on the surrounding hills is the most impressive sight.

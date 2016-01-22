@@ -26,7 +26,7 @@ route = [
 ]
 +++
 
-In April 2015, we visited five countries: Colombia, United States, Canada, Fiji, and Australia. Two weeks ago we summarized [Colombia](/blog/the-next-chapter.html), and now it is time for the remainder of the month. After Colombia, we visited the [Pacific Northwest](/blog/cities-of-the-pacific-northwest.html), before spending an unexpected day in [Fiji](/blog/an-unexpected-stop-in-fiji.html). We settled down in Melbourne, but not after we briefly visited Sydney.
+In April 2015, we visited five countries: Colombia, United States, Canada, Fiji, and Australia. Two weeks ago we summarized [Colombia](/the-next-chapter), and now it is time for the remainder of the month. After Colombia, we visited the [Pacific Northwest](/cities-of-the-pacific-northwest), before spending an unexpected day in [Fiji](/an-unexpected-stop-in-fiji). We settled down in Melbourne, but not after we briefly visited Sydney.
 <!--more-->
 **The Good**
 

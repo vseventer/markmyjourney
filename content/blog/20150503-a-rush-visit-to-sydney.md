@@ -14,7 +14,7 @@ photos = [
 cover = "IMG_0201.JPG"
 +++
 
-Due to our unexpected visit to [Fiji](/blog/an-unexpected-stop-in-fiji.html), our stay in Sydney was limited to two days only. But, since we arrived well rested from our business class flight, we decided to go explore right away.
+Due to our unexpected visit to [Fiji](/an-unexpected-stop-in-fiji), our stay in Sydney was limited to two days only. But, since we arrived well rested from our business class flight, we decided to go explore right away.
 <!--more-->
 ## Sydney
 After picking up the rental car we decided to first head to the Koala Park, about 30 minutes west of Sydney. The short visit to this park was quite nice, as it was possible to come up close with the koalas and kangaroos. Also, there were a collection of parrot-looking birds who literally asked for crackers. Hilarious!
