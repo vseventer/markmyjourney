@@ -58,7 +58,7 @@
 
   // Add ready listeners.
   document.addEventListener('ready:components', function() {
-    L.Icon.Default.imagePath = '/img/'; // Configure.
+    L.Icon.Default.imagePath = '/img'; // Configure.
 
     // Patch active carousel indicators outside carousel.
     $('.carousel').on('slide.bs.carousel', function(e) {
