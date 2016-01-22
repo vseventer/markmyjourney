@@ -42,6 +42,7 @@
     "/^.leaflet-cluster/",
     "/^.marker-cluster/",
 
+    ".icon-stock-camera",
     "/^.mmjy/"
   ]
 }

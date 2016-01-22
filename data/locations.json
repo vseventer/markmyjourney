@@ -1,1 +1,32 @@
-[ "2158177-melbourne-au" ]
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2158177,
+        "slug": "2158177-melbourne-au",
+        "name": "Melbourne",
+        "region": "Victoria",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "4.2m",
+        "timezone": {
+          "name": "Australia/Melbourne",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.81
+        ]
+      }
+    }
+  ]
+}

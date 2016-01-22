@@ -10,11 +10,9 @@ div.container-fluid.bg-faded.p-y-2.mmjy-border-top
             p We, Mark & Herta, decided to embark on a seven month adventure throughout Asia and South America, with the intention of staying Down Under for a while in Australia. Beyond that? The possibilities are endless.
             a[href=ref($, "about.md")] Read Mark & Herta’s full story.
 
-      $locations = last(1, Site.Data.locations)
+      $locations = last(1, Site.Data.locations.features)
       each $location in $locations
-        $places = where($Site.Data.places.features, "properties.slug", $location)
-        each $place in $places
-          div.col-xs-12.col-md-6
-            h4 We are currently in … #{ $place.properties.name } <span class="mmjy-icon icon-flags icon-flags-#{ lower($place.properties.country.code) }"></span>
-            div.mmjy-border.mmjy-inset
-              div.mmjy-map.mmjy-map-sm[data-l-box-zoom="false"][data-l-dragging="false"][data-l-double-click-zoom="false"][data-l-zoom-control="false"][data-source="current"]
+        div.col-xs-12.col-md-6
+          h4 We are currently in … #{ $location.properties.name } <span class="mmjy-icon icon-flags icon-flags-#{ lower($location.properties.country.code) }"></span>
+          div.mmjy-border.mmjy-inset
+            div.mmjy-map.mmjy-map-sm[data-l-box-zoom="false"][data-l-dragging="false"][data-l-double-click-zoom="false"][data-l-zoom-control="false"][data-source="current"]
