@@ -49,16 +49,14 @@ html[lang=Site.LanguageCode]
       import ../mixins/geojson.amber
         +openCollection("current")
 
-        $locations = last(1, Site.Data.locations)
+        $locations = last(1, Site.Data.locations.features)
         each $location in $locations
-          $places = where($Site.Data.places.features, "properties.slug", $location)
-          each $place in $places
-            +toGeoJSON(nil, nil, $place.geometry)
-            | ,
+          +toGeoJSON(nil, nil, $location.geometry)
+          | ,
 
-            $countries = where($Site.Data.countries.features, "properties.slug", $place.properties.country.slug)
-            each $country in $countries
-              $geometry = index($country.geometry.geometries, 2)
-              +toGeoJSON(nil, nil, $geometry)
+          $countries = where($Site.Data.countries.features, "properties.slug", $location.properties.country.slug)
+          each $country in $countries
+            $geometry = index($country.geometry.geometries, 2)
+            +toGeoJSON(nil, nil, $geometry)
 
         +closeCollection
