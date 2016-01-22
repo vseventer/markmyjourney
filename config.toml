@@ -8,7 +8,7 @@ disableSitemap = true
 paginate = 5
 
 [blackfriday]
-fractions = false
+  fractions = false
 
 [permalinks]
   blog = "/:slug"
