@@ -1,0 +1,38 @@
+extends _default/baseof.amber
+
+block seo
+  meta[name="robots"][content="noindex, follow"]
+
+block header
+  div.jumbotron.m-b-0.text-xs-center
+    h1.display-4 Page not found
+    p.lead Looks like we haven’t been to this destination yet.
+    p
+      a.btn.btn-primary.btn-sm[href=absURL("/")] Return Home
+
+block main
+  div.container
+    div.card-deck
+      div.card
+        h4.card-header.m-b-0.text-center.mmjy-border-bottom-0 Latest Posts
+        ul.list-group.list-group-flush
+          $latest = first(5, where(Site.Pages.ByDate.Reverse, "Type", "blog"))
+          each $page in $latest
+            li.list-group-item
+              a[href=Permalink] #{ Title }
+
+      div.card
+        h4.card-header.m-b-0.text-center.mmjy-border-bottom-0 Popular Posts
+        ul.list-group.list-group-flush
+          $popular = first(5, where(Site.Pages.ByWeight.Reverse, "Type", "blog"))
+          each $page in $popular
+            li.list-group-item
+              a[href=Permalink] #{ Title }
+
+      div.card
+        h4.card-header.m-b-0.text-center.mmjy-border-bottom-0 Destinations
+        ul.list-group.list-group-flush
+          $continents = where(Site.Data.continents.features, "properties.slug", "in", Site.Taxonomies.destinations.Keys)
+          each $continent in $continents
+            li.list-group-item
+              a[href=absURL("destinations/" + $continent.properties.slug)] #{ $continent.properties.name }
