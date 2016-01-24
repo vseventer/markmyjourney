@@ -1,6 +1,7 @@
 +++
 date    = "2015-03-30"
 title   = "Swinging Baños"
+slug    = "swinging-banos"
 aliases = [ "/blog/swinging-banos.html" ]
 destinations = [ "south-america", "ecuador" ]
 places  = [ "3660346-banos-ec" ]

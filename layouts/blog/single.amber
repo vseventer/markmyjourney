@@ -22,9 +22,11 @@ block main
                 each $data in $datas
                   $url   = absURL("uploads/" + $data.properties.src)
                   $style = "background-image: url('" + $url + "')"
-                  div.carousel-item.mmjy-photo[style=safeCSS($style)]
+                  div.carousel-item.mmjy-photo
                     .mmjy-photo-portrait ? "portrait" == $data.properties.orientation
                     .active ? 0 == $i
+                    [style=safeCSS($style)]      ? 0 == $i
+                    [data-style=safeCSS($style)] ? 0 != $i
                     div.carousel-caption
                       import ../mixins/datetime.amber
                         +toTime($data.properties.date)

@@ -3,10 +3,10 @@ div.container-fluid.bg-faded.p-y-2.mmjy-border-top
     div.row
       div.col-xs-12.col-md-6
         div.media
-          div.media-left.media-middle
-            img.img-circle.media-object[src=absURL("img/about-us.jpg")][style="width: 130px"]
+          div.media-left.media-middle.hidden-md-down
+            img.img-circle.img-fluid.media-object[src=absURL("img/about-us.jpg")]
           div.media-body
-            h4.media-heading Mark & Herta
+            h4.media-heading About Us
             p We, Mark & Herta, decided to embark on a seven month adventure throughout Asia and South America, with the intention of staying Down Under for a while in Australia. Beyond that? The possibilities are endless.
             a[href=ref($, "about.md")] Read Mark & Herta’s full story.
 

@@ -38,6 +38,7 @@ module.exports = {
     'jquery/src/event/trigger',
     'jquery/src/exports/global',
     'bootstrap/dist/js/umd/carousel',
+    'bootstrap/dist/js/umd/collapse',
     'bootstrap/dist/js/umd/dropdown',
 
     'leaflet',

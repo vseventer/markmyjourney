@@ -15,8 +15,6 @@ html[lang=Site.LanguageCode]
     block seo
       meta[name="robots"][content="index, follow"]
 
-    #{ Hugo.Generator }
-
     block css
       link[rel="stylesheet"][href=absURL("css/main.css")]
 

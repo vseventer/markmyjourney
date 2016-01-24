@@ -60,11 +60,12 @@
   document.addEventListener('ready:components', function() {
     L.Icon.Default.imagePath = '/img'; // Configure.
 
-    // Patch active carousel indicators outside carousel.
+    // Lazy-load carousel items on slide & patch active carousel indicators outside carousel.
     $('.carousel').on('slide.bs.carousel', function(e) {
-      var index = $(e.relatedTarget).index(),
-          indicators = $('[data-target="#' + this.id + '"]').removeClass('active');
-      indicators.filter('[data-slide-to="' + index + '"]').addClass('active');
+      var indicators = $('[data-target="#' + this.id + '"]').removeClass('active'),
+          target     = $(e.relatedTarget);
+      target.attr('style', target.attr('data-style')).removeAttr('data-style');
+      indicators.filter('[data-slide-to="' + target.index() + '"]').addClass('active');
     });
 
     // Initialize maps.

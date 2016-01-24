@@ -5,7 +5,7 @@ block seo
 
 block header
   div.jumbotron.m-b-0.text-xs-center
-    h1.display-4 Page not found
+    h1.display-4 #{ Title }
     p.lead Looks like we haven’t been to this destination yet.
     p
       a.btn.btn-primary.btn-sm[href=absURL("/")] Return Home

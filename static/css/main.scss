@@ -77,6 +77,10 @@ cite {
   @extend .blockquote-footer;
 }
 
+.nav.collapse.in, .nav.collapsing { /* Make reponsive. */
+  clear: both;
+}
+
 .icon-flags {
   display: block;
 }

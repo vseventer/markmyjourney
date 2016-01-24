@@ -1,6 +1,7 @@
 +++
 date    = "2015-01-27"
 title   = "The Complete Picture of Iguazú Falls"
+slug    = "the-complete-picture-of-iguazu-falls"
 aliases = [ "/blog/the-complete-picture-of-iguazu-falls.html" ]
 destinations = [ "south-america", "argentina", "brazil" ]
 places  = [ "3463030-foz-do-iguacu-br", "3433488-iguazu-falls", "3429777-puerto-iguazu-ar" ]
