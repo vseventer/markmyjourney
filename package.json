@@ -49,7 +49,7 @@
     "postinstall" : "napa && npm run webpack",
     "prestart"    : "npm run make",
     "prestage"    : "npm run build",
-    "stage"       : "echo replace",
+    "stage"       : "replace 'https://www.markmyjourney.com' 'http://localhost:1313' public/ -r",
     "start"       : "npm run watch",
     "watch"       : "parallelshell 'npm run sass -- -w' './bin/hugo server -vw'"
   },
