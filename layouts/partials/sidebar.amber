@@ -19,5 +19,5 @@ div.card
       a[href="https://twitter.com/vseventer"][title="Twitter"]
         span.mmjy-icon.icon-stock.icon-stock-twitter
     li.list-inline-item
-      a[href="mailto:hello@markmyjourney.com"][title="E-mail"]
+      a[href="mailto:mark@markmyjourney.com"][title="E-mail"]
         span.mmjy-icon.icon-stock.icon-stock-email

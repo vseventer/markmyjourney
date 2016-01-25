@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*!
  * The MIT License (MIT)
  *
@@ -24,33 +25,27 @@
 // Strict mode.
 'use strict';
 
-// NOTE: This configuration is merged with any CLI flags.
+// Standard lib.
+var path = require('path'),
+    util = require('util');
 
 // Package modules.
-var webpack = require('webpack');
+var ghPages = require('gh-pages');
 
-// Exports.
-module.exports = {
-  entry: [
-    'jquery/src/attributes',
-    'jquery/src/css',
-    'jquery/src/data',
-    'jquery/src/event/trigger',
-    'jquery/src/exports/global',
-    'bootstrap/dist/js/umd/carousel',
-    'bootstrap/dist/js/umd/collapse',
-    'bootstrap/dist/js/umd/dropdown',
+// Local modules.
+var pkg = require('./package.json');
 
-    'leaflet',
-    'leaflet-dataoptions',
-    'leaflet-fullscreen',
-    'leaflet-geodesic/Leaflet.Geodesic.js',
-    'leaflet.markercluster/dist/leaflet.markercluster-src',
-    'leaflet-minimap/src/Control.MiniMap.js'
-  ],
-  plugins: [
-    // Patch required for `jquery/src/exports/global` (jQuery v2.2).
-    new webpack.DefinePlugin({ noGlobal: false }),
-    new webpack.ProvidePlugin({ jQuery: 'jquery/src/core' })
-  ]
+// Configure.
+var paths = {
+  public : path.join(__dirname, '../public'),
+  tmp    : '../tmp' // Must be a relative path.
 };
+var ts = (new Date()).toISOString();
+
+// Run.
+ghPages.publish(paths.public, {
+  clone   : paths.tmp,
+  logger  : console.log,
+  message : util.format('Release %s (%s).', pkg.version, ts),
+  tag     : util.format('v%s', pkg.version)
+});

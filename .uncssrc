@@ -1,7 +1,7 @@
 {
   "ignore": [
     "/^.carousel/",
-    "/.collapsing/"
+    "/.collapsing/",
     "/.collapse.in/",
     ".open > a",
     ".open > .dropdown-menu",
