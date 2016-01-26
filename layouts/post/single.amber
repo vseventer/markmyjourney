@@ -8,7 +8,7 @@ block header
         ul.list-inline.m-b-05
           each $country in $countries
             li.list-inline-item
-              a.label.label-default[href=absURL("destinations/" + $country.properties.slug)] #{ $country.properties.name }
+              a.label.label-default[href=absURL("destinations/" + $country.properties.slug + "/")] #{ $country.properties.name }
 
       h1.display-4 #{ Title }
       if "0001" != dateFormat("2006", Date)

@@ -35,4 +35,4 @@ block main
           $continents = where(Site.Data.continents.features, "properties.slug", "in", Site.Taxonomies.destinations.Keys)
           each $continent in $continents
             li.list-group-item
-              a[href=absURL("destinations/" + $continent.properties.slug)] #{ $continent.properties.name }
+              a[href=absURL("destinations/" + $continent.properties.slug) + "/"] #{ $continent.properties.name }

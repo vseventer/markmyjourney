@@ -9,7 +9,7 @@ photos  = [ "IMG_1025.JPG", "IMG_1031.JPG", "IMG_1036.JPG", "IMG_1041.JPG", "IMG
 cover   = "IMG_1042.JPG"
 +++
 
-Exactly one year ago, on October 18, 2014, I ran the [Amsterdam Marathon](/running-the-amsterdam-marathon), which ended in slight disappointment, as I did not reach my goal of finishing within three-and-a-half hours. After settling down in Australia, I picked up running regularly again, and apart from getting into better shape, I also felt it was time for another race. As preparing for a marathon requires a lot of time, I decided to stick to the Half Marathon this time.
+Exactly one year ago, on October 18, 2014, I ran the [Amsterdam Marathon](/running-the-amsterdam-marathon/), which ended in slight disappointment, as I did not reach my goal of finishing within three-and-a-half hours. After settling down in Australia, I picked up running regularly again, and apart from getting into better shape, I also felt it was time for another race. As preparing for a marathon requires a lot of time, I decided to stick to the Half Marathon this time.
 <!--more-->
 ## Training
 I used the treadmill for my first few runs in Melbourne. After six months of traveling non-stop, eating semi-unhealthy, and not running at all, I had to start at what felt step 0. My pace was quite slow, and I would be exhausted after only a few kilometers.

@@ -15,7 +15,7 @@ block content
 
   ul.pager
     li
-      a[href=absURL("/blog")] More →
+      a[href=absURL("blog/")] More →
 
 block append sidebar
   import mixins/widgets.amber
@@ -30,7 +30,7 @@ block append js
     $countries = where(Site.Data.countries.features, "properties.slug", "in", Site.Taxonomies.destinations.Keys)
     each $country in $countries
       $title    = "<span class=\"mmjy-map-label\">" + $country.properties.name + "</span>"
-      $html     = "<a class=\"mmjy-map-icon icon-flags icon-flags-" + lower($country.properties.code) + "\" href=\"" + absURL("destinations/" + $country.properties.slug) + "\"></a>"
+      $html     = "<a class=\"mmjy-map-icon icon-flags icon-flags-" + lower($country.properties.code) + "\" href=\"" + absURL("destinations/" + $country.properties.slug) + "/\"></a>"
       $geometry = index($country.geometry.geometries, 0)
       +toGeoJSON($title, $html, $geometry)
       | ,

@@ -4,7 +4,7 @@ nav.navbar.navbar-full.navbar-light.bg-faded.mmjy-border-bottom
     a.navbar-brand[href=absURL("/")] #{ Site.Title }
     ul.nav.navbar-nav.navbar-toggleable-xs.collapse
       li.nav-item
-        a.nav-link[href=absURL("blog")] Blog
+        a.nav-link[href=absURL("blog/")] Blog
       li.nav-item
         a.nav-link[href=ref($, "about.md")] About Mark & Herta
       li.nav-item.dropdown
@@ -13,4 +13,4 @@ nav.navbar.navbar-full.navbar-light.bg-faded.mmjy-border-bottom
           $Site = Site
           $continents = where($Site.Data.continents.features, "properties.slug", "in", $Site.Taxonomies.destinations.Keys)
           each $continent in $continents
-            a.dropdown-item[href=absURL("destinations/" + $continent.properties.slug)] #{ $continent.properties.name }
+            a.dropdown-item[href=absURL("destinations/" + $continent.properties.slug) + "/"] #{ $continent.properties.name }

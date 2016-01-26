@@ -17,7 +17,7 @@ route   = [
 ]
 +++
 
-In February 2015, we visited only one new country: Chile, but we went back to Argentina for a few days. From [Patagonia](/the-wilderness-of-chilean-patagonia), we traveled to [Easter Island](/mysterious-easter-island), after returning to the mainland. We traveled by bus to Mendoza, to try out [Argentinian wines](/bike-and-wine) in addition to the [food](/in-search-of-great-steak-and-wine) we already tried. After returning to Santiago, and trying out lots of [Chilean food](/chile-the-mayo-capital), we flew north to [San Pedro](/the-chilean-desert). From there, we crossed into Bolivia.
+In February 2015, we visited only one new country: Chile, but we went back to Argentina for a few days. From [Patagonia](/the-wilderness-of-chilean-patagonia/), we traveled to [Easter Island](/mysterious-easter-island/), after returning to the mainland. We traveled by bus to Mendoza, to try out [Argentinian wines](/bike-and-wine/) in addition to the [food](/in-search-of-great-steak-and-wine/) we already tried. After returning to Santiago, and trying out lots of [Chilean food](/chile-the-mayo-capital/), we flew north to [San Pedro](/the-chilean-desert/). From there, we crossed into Bolivia.
 <!--more-->
 The overview below lists the expenses in Chile and Argentina. For Argentina, the expenses during our three day stay this month are added to last months’ overview, as this gives the full picture of the expenses. For Bolivia, where we spent the last three days in February, we will cover all expenses in next months’ recap.
 
@@ -29,7 +29,7 @@ The overview below lists the expenses in Chile and Argentina. For Argentina, the
 **The Bad**
 
 * We spent a lot on taxis in Chile - around 100$. The taxis were state of the art, and since the Santiago airport is not connected with public transport we had to, yet it is still a large expense.
-* In Argentina, we changed a little bit too much on the [black market](/money-exchange-in-argentina) which we had to change back. We changed with another traveler, but still lost a bit on it (6$).
+* In Argentina, we changed a little bit too much on the [black market](/money-exchange-in-argentina/) which we had to change back. We changed with another traveler, but still lost a bit on it (6$).
 
 A detailed list of expenses per country is listed below. The amounts per person are based on our two-person journey. Flights are listed separately (and are not included in the countries’ budget) as we booked these in advance.
 

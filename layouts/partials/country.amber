@@ -31,7 +31,7 @@ div.card
       each $neighbour in $country.properties.neighbours
         if isset($Site.Taxonomies.destinations, $neighbour.slug)
           dd
-            a[href=absURL("destinations/" + $neighbour.slug)] #{ $neighbour.name}
+            a[href=absURL("destinations/" + $neighbour.slug) + "/"] #{ $neighbour.name}
               span[class="mmjy-icon icon-flags icon-flags-" + lower($neighbour.code)]
         else
           dd #{ $neighbour.name }

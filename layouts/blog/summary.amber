@@ -14,7 +14,7 @@ div.card.mmjy-summary
 
     each $country in $countries
       li.list-inline-item
-        a.label.label-default[href=absURL("destinations/" + $country.properties.slug)] #{ $country.properties.name }
+        a.label.label-default[href=absURL("destinations/" + $country.properties.slug + "/")] #{ $country.properties.name }
 
   if isset(Params, "photos")
     $photos = first(5, Params.photos)

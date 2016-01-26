@@ -39,7 +39,7 @@ block append js
         each $country in $countries
           if isset($Site.Taxonomies.destinations, $country.properties.slug)
             $title    = "<span class=\"mmjy-map-label\">" + $country.properties.name + "</span>"
-            $html     = "<a class=\"mmjy-map-icon icon-flags icon-flags-" + lower($country.properties.code) + "\" href=\"" + absURL("destinations/" + $country.properties.slug) + "\"></a>"
+            $html     = "<a class=\"mmjy-map-icon icon-flags icon-flags-" + lower($country.properties.code) + "\" href=\"" + absURL("destinations/" + $country.properties.slug) + "/\"></a>"
             $geometry = index($country.geometry.geometries, 0)
             +toGeoJSON($title, $html, $geometry)
             | ,

@@ -15,7 +15,7 @@ cover = "P3116257.JPG"
 Machu Picchu is one of the ”[New 7 Wonders of the World](http://world.new7wonders.com/new7wonders-of-the-world-page/new7wonders-of-the-world/).” Built around 1450 by the Incas, but soon left abandoned due to the Spanish invasion. The ruins of Machu Picchu were rediscovered in 1911 by Hiram Bingham, from where it started to gain popularity as tourist attraction. Located at 2430 meters above sea level, in the remote Sacred Valley, it is certainly not an attraction easily reachable, especially not for budget travelers.
 <!--more-->
 ## Cusco
-We decided to make Cusco our home base for visiting Machu Picchu. After arriving from [Lake Titicaca](/copacabana-and-lake-titicaca-en-route-to-peru), we decided to stay in Cusco for six days to relax since our travel in Bolivia was quick paced. Cusco is a charming city with great architecture and it has a great (international) food scene. However, our main reason was visiting Machu Picchu.
+We decided to make Cusco our home base for visiting Machu Picchu. After arriving from [Lake Titicaca](/copacabana-and-lake-titicaca-en-route-to-peru/), we decided to stay in Cusco for six days to relax since our travel in Bolivia was quick paced. Cusco is a charming city with great architecture and it has a great (international) food scene. However, our main reason was visiting Machu Picchu.
 
 ## Machu Picchu
 From Cusco it takes around four hours to get to the smaller and more expensive town of Machu Picchu. Normally, one takes a train directly from Cusco, yet because of the rainy season we had to take a bus and train combo about two hours each. We opted to visit Machu Picchu only one day, so adding up all the hours in transit it was a rather exhausting day.
