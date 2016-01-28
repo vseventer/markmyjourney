@@ -4,6 +4,54 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "010A.jpg",
+        "date": "2015-11-28",
+        "description": "Scuba-diving the Great Barrier Reef.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.99,
+          -16.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "015A.jpg",
+        "date": "2015-11-28",
+        "description": "One of the dozen of colorful fish.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.99,
+          -16.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "024A.jpg",
+        "date": "2015-11-28",
+        "description": "On our way to Norman Reef we quickly stopped at the resort on Green Island.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.97,
+          -16.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "11000465_10206320504035706_477955072_o.jpg",
         "date": null,
         "description": "Lunch at Laguna Chiar Kkota.",
@@ -80,6 +128,22 @@
         "orientation": "landscape"
       },
       "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "GA-0346.jpg",
+        "date": "2015-11-28",
+        "description": "Professional underwater photograph.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.99,
+          -16.43
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1312,6 +1376,102 @@
         "coordinates": [
           144.96,
           -37.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1101.JPG",
+        "date": "2015-11-27T10:15:40",
+        "description": "Hipster-like market in Kuranda.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.64,
+          -16.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1102.JPG",
+        "date": "2015-11-27T10:37:45",
+        "description": "An almost dried up Barron Falls, and view over the Kuranda National Park.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.64,
+          -16.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1108.JPG",
+        "date": "2015-11-27T11:46:01",
+        "description": "Palm Cove Beach.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67,
+          -16.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1114.JPG",
+        "date": "2015-11-27T14:14:16",
+        "description": "We got a free triple upgrade on our rental car, making it way too big for just the two of us.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57,
+          -16.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1117.JPG",
+        "date": "2015-11-28",
+        "description": "At the Reef platform just before heading back to Cairns.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.99,
+          -16.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1120.JPG",
+        "date": "2015-11-29T07:59:52",
+        "description": "Cairns Esplanade Lagoon.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.78,
+          -16.92
         ]
       }
     },

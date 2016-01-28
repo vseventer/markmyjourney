@@ -571,6 +571,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2172797,
+        "slug": "2172797-cairns-au",
+        "name": "Cairns",
+        "region": "Queensland",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "153,000",
+        "timezone": {
+          "name": "Australia/Brisbane",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.77,
+          -16.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2172517,
         "slug": "2172517-canberra-au",
         "name": "Canberra",
@@ -1354,6 +1381,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2164555,
+        "slug": "2164555-green-island-au",
+        "name": "Green Island",
+        "region": "Queensland",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Lindeman",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.97,
+          -16.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3657509,
         "slug": "3657509-gauyaquil-ec",
         "name": "Guayaquil",
@@ -1861,6 +1915,33 @@
         "coordinates": [
           101.69,
           3.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8155831,
+        "slug": "8155831-kuranda-national-park-au",
+        "name": "Kuranda National Park",
+        "region": "Queensland",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Brisbane",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.47,
+          -16.66
         ]
       }
     },
@@ -2542,6 +2623,29 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2155089,
+        "slug": "2155089-norman-reef-au",
+        "name": "Norman Reef",
+        "region": "Queensland",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146,
+          -16.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3455036,
         "slug": "3455036-paraty-br",
         "name": "Paraty",
@@ -2779,6 +2883,33 @@
         "coordinates": [
           143,
           -38.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2152681,
+        "slug": "2152681-port-douglas-au",
+        "name": "Port Douglas",
+        "region": "Queensland",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "3,000",
+        "timezone": {
+          "name": "Australia/Brisbane",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.47,
+          -16.48
         ]
       }
     },
