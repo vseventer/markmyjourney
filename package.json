@@ -16,42 +16,43 @@
     "prewebpack" : "rimraf ./node_modules/leaflet-minimap/node_modules/leaflet",
     "webpack"    : "webpack static/js/components.js --display-modules",
 
-    "preleaflet"         : "mkdir -p ./static/img",
     "leaflet"            : "parallelshell 'npm run leaflet:fullscreen' 'npm run leaflet:main'",
     "leaflet:fullscreen" : "cp node_modules/leaflet-fullscreen/dist/*.png ./static/img",
     "leaflet:main"       : "cp node_modules/leaflet/dist/images/*.png ./static/img",
 
-    "premake" : "mkdir -p ./static/uploads",
-    "make"    : "parallelshell 'npm run make:css' 'npm run make:exif' 'npm run leaflet' 'npm run make:thumbs' 'npm run make:uploads'",
-
+    "make"         : "parallelshell 'npm run make:css' 'npm run make:exif' 'npm run leaflet'",
     "make:css"     : "npm run sprity && npm run sass",
     "make:exif"    : "./bin/exif.js uploads/*",
     "make:leaflet" : "npm run leaflet",
-    "make:thumbs"  : "sharp 'uploads/*' -w 133 -h 100 --sharpen 1 --sharpenFlat 0.3 --sharpenJagged 0.6 -o ./static/uploads/thumbs --quality=100 --rotate --withoutMetadata",
-    "make:uploads" : "sharp 'uploads/*' -w 1280 -h 1280 --max -o ./static/uploads --quality=100 --rotate --verbose --withoutMetadata",
+
+    "preuploads"  : "rimraf ./static/uploads/*.{jpg,JPG} ./static/uploads/thumbs/*.{jpg,JPG}",
+    "uploads"     : "parallelshell 'npm run uploads:resize' 'npm run uploads:thumbs'",
+    "uploads:resize"     : "sharp 'uploads/*' -w 1280 -h 1280 --max -o ./static/uploads --quality 100 --rotate --verbose --withoutMetadata",
+    "postuploads:resize" : "imagemin -P mozjpeg --progressive --quality 75 ./static/uploads ./static/uploads",
+    "uploads:thumbs"     : "sharp 'uploads/*' -w 133 -h 100 --sharpen 1 --sharpenFlat 0.3 --sharpenJagged 0.6 -o ./static/uploads/thumbs --quality=100 --rotate --withoutMetadata",
+    "postuploads:thumbs" : "imagemin -P mozjpeg --quality 90 ./static/uploads/thumbs ./static/uploads/thumbs",
 
     "prebuild"  : "npm run clean && npm run build:hugo",
-    "build"     : "parallelshell 'npm run build:css' 'npm run build:html' 'npm run build:img' 'npm run build:js' 'npm run build:thumbs' 'npm run build:uploads'",
+    "build"     : "parallelshell 'npm run build:css' 'npm run build:html' 'npm run build:img' 'npm run build:js'",
     "postbuild" : "rimraf public/css/main.scss public/css/sprite.css && npm run hash",
 
     "build:css"     : "uncss -H ./public -s /css/main.css -u ./.uncssrc 'public/**/*.html' | cleancss --s0 -do public/css/main.css",
     "build:html"    : "find ./public -iname '*.html' -exec html-minifier -c ./.htmlrc {} -o {} \\;",
-    "prebuild:hugo" : "npm run make",
+    "prebuild:hugo" : "parallelshell 'npm run make' 'npm run make'",
     "build:hugo"    : "./bin/hugo -v",
     "build:img"     : "imagemin -P mozjpeg -P pngquant --speed 1 'public/img/*' ./public/img",
     "build:js"      : "find ./public/js -iname '*.js' -exec uglifyjs {} -cmvo {} \\;",
-    "build:thumbs"  : "imagemin -P mozjpeg --quality 90 'public/uploads/thumbs/*' ./public/uploads/thumbs",
-    "build:uploads" : "imagemin -P mozjpeg --progressive --quality 70 'public/uploads/*' ./public/uploads",
 
-    "clean"       : "rimraf public/* static/css/*.css ./static/img/*.png static/uploads/*.jpg static/uploads/thumbs/*.jpg",
-    "predeploy"   : "npm run build",
-    "deploy"      : "confirm && ./bin/deploy.js",
+    "clean"       : "rimraf public/* static/css/*.css ./static/img/*.png",
     "postinstall" : "napa && npm run webpack",
     "prestart"    : "npm run make",
+    "start"       : "npm run watch",
+    "watch"       : "parallelshell 'npm run sass -- -w' './bin/hugo server -vw'",
+
     "prestage"    : "npm run build",
     "stage"       : "replace 'https://www.markmyjourney.com' 'http://localhost:1313' public/ -r",
-    "start"       : "npm run watch",
-    "watch"       : "parallelshell 'npm run sass -- -w' './bin/hugo server -vw'"
+    "predeploy"   : "npm run build",
+    "deploy"      : "confirm && ./bin/deploy.js"
   },
   "dependencies"    : { },
   "devDependencies" : {
