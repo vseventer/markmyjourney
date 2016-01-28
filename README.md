@@ -5,11 +5,14 @@
 `$ npm install`
 
 ## Usage
-`$ npm start`
+* `$ npm start` - Starts the live development environment.
+* `$ npm run clean` - Removes intermediate, temporary files.
+* `$ npm run stage` - Builds MarkMyJourney for local environment only.
+* `$ npm run deploy` - Builds MarkMyJourney for production environment.
 
 ## Resources
-TODO: Find icons.
-TODO: List third party packages.
+* [Flag icons](http://start.bannerflow.com/blog/free-flat-flag-icons) - License: free for personal and commercial use.
+* [Social media icons](http://linhpham.me/social/) - License: free for personal and commercial use.
 
 ## Changelog
 See the [Changelog](./CHANGELOG.md) for a list of changes.
