@@ -28,7 +28,7 @@
     "make:exif"    : "./bin/exif.js uploads/*",
     "make:leaflet" : "npm run leaflet",
     "make:thumbs"  : "sharp 'uploads/*' -w 133 -h 100 --sharpen 1 --sharpenFlat 0.3 --sharpenJagged 0.6 -o ./static/uploads/thumbs --quality=100 --rotate --withoutMetadata",
-    "make:uploads" : "sharp 'uploads/*' -w 1280 -o ./static/uploads --quality=100 --rotate --withoutMetadata",
+    "make:uploads" : "sharp 'uploads/*' -w 1280 -h 1280 --max -o ./static/uploads --quality=100 --rotate --verbose --withoutMetadata",
 
     "prebuild"  : "npm run clean && npm run build:hugo",
     "build"     : "parallelshell 'npm run build:css' 'npm run build:html' 'npm run build:img' 'npm run build:js' 'npm run build:thumbs' 'npm run build:uploads'",
@@ -40,8 +40,8 @@
     "build:hugo"    : "./bin/hugo -v",
     "build:img"     : "imagemin -P mozjpeg -P pngquant --speed 1 'public/img/*' ./public/img",
     "build:js"      : "find ./public/js -iname '*.js' -exec uglifyjs {} -cmvo {} \\;",
-    "build:thumbs"  : "imagemin -P mozjpeg --quality 75 'public/uploads/thumbs/*' ./public/uploads/thumbs",
-    "build:uploads" : "imagemin -P mozjpeg --progressive --quality 75 'public/uploads/*' ./public/uploads",
+    "build:thumbs"  : "imagemin -P mozjpeg --quality 90 'public/uploads/thumbs/*' ./public/uploads/thumbs",
+    "build:uploads" : "imagemin -P mozjpeg --progressive --quality 70 'public/uploads/*' ./public/uploads",
 
     "clean"       : "rimraf public/* static/css/*.css ./static/img/*.png static/uploads/*.jpg static/uploads/thumbs/*.jpg",
     "predeploy"   : "npm run build",

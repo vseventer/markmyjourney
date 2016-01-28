@@ -3,6 +3,12 @@ mixin disqus
   div#disqus_thread
 
 mixin jsDisqus
+  | #{ unescaped("<script>") }
+  | var disqus_config = function() {
+  |   this.page.url = #{ unescaped(json(Permalink)) };
+  |   this.page.identifier = #{ unescaped(json(replace(RelPermalink, "/", ""))) };
+  | };
+  | #{ unescaped("</script>") }
   script[data-src="https://markmyjourney.disqus.com/embed.js"]
 
 mixin twitter

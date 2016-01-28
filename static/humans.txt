@@ -1,0 +1,9 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Mark van Seventer
+    E-mail: mark@markmyjourney.com
+    GitHub: https://github.com/vseventer
+    LinkedIn: https://www.linkedin.com/in/markvanseventer
+    Twitter: @vseventer

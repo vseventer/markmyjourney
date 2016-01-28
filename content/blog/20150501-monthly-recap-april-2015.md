@@ -50,6 +50,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 
 ## Fiji
 *As we received spending money from the airline, we actually made money on Fiji.*
+
 * Days: **1**,
 * Budget: **$0**,
 * Expenses: **-$12** (-$6 pppd),

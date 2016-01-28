@@ -8,7 +8,7 @@ block main
 
         if isset(Params, "photos") || isset(Params, "places") || isset(Params, "route")
           div.m-y-1.mmjy-border.mmjy-inset
-            div.mmjy-map[data-l-fullscreen-control="{\"pseudoFullscreen\":true}"][data-source="places"]
+            div.mmjy-map[data-l-dragging="false"][data-l-fullscreen-control="{\"pseudoFullscreen\":true}"][data-source="places"]
 
         $content = replace(Content, Summary, "")
         | #{ safeHTML($content) }
