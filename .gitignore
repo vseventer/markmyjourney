@@ -1,7 +1,7 @@
-node_modules/
-public/
-tmp/
-uploads/
+node_modules
+public
+tmp
+uploads
 
 .DS_Store
 npm_debug.log
@@ -9,3 +9,4 @@ npm_debug.log
 static/css/*.css
 static/img/*.png
 static/js/components.js
+!static/uploads
