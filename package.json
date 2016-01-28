@@ -1,9 +1,9 @@
 {
   "name"        : "MarkMyJourney",
   "version"     : "1.0.0",
-  "description" : "My personal website http://www.markmyjourney.com.",
+  "description" : "My personal website, MarkMyJourney.com.",
   "keywords"    : [ "blog", "travel" ],
-  "homepage"    : "http://www.markmyjourney.com",
+  "homepage"    : "https://www.markmyjourney.com",
   "bugs"        : "https://github.com/vseventer/markmyjourney/issues",
   "license"     : "MIT",
   "author"      : "Mark van Seventer <mark@vseventer.com>",
@@ -38,7 +38,7 @@
 
     "build:css"     : "uncss -H ./public -s /css/main.css -u ./.uncssrc 'public/**/*.html' | cleancss --s0 -do public/css/main.css",
     "build:html"    : "find ./public -iname '*.html' -exec html-minifier -c ./.htmlrc {} -o {} \\;",
-    "prebuild:hugo" : "parallelshell 'npm run make' 'npm run make'",
+    "prebuild:hugo" : "parallelshell 'npm run make' 'npm run uploads'",
     "build:hugo"    : "./bin/hugo -v",
     "build:img"     : "imagemin -P mozjpeg -P pngquant --speed 1 'public/img/*' ./public/img",
     "build:js"      : "find ./public/js -iname '*.js' -exec uglifyjs {} -cmvo {} \\;",

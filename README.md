@@ -1,5 +1,5 @@
 # MarkMyJourney
-> My personal website [http://www.markmyjourney.com](http://www.markmyjourney.com).
+> My personal website, [MarkMyJourney.com](https://www.markmyjourney.com).
 
 ## Installation
 `$ npm install`

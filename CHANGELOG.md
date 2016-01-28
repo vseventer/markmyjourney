@@ -4,4 +4,4 @@
 * Initial version.
 
 ### 0.X.X (October 14, 2014–December 4, 2015)
-* Legacy version.
+* Legacy versions.
