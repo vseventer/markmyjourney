@@ -34,12 +34,12 @@ var ghPages = require('gh-pages'),
     moment  = require('moment');
 
 // Local modules.
-var pkg = require('./package.json');
+var pkg = require('../package.json');
 
 // Configure.
 var paths = {
   public : path.join(__dirname, '../public'),
-  tmp    : '../tmp' // Must be a relative path.
+  tmp    : './tmp' // Relative to the project root.
 };
 var datetime = moment().format();
 
