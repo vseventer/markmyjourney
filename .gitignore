@@ -1,11 +1,11 @@
 node_modules/
 public/
-static/**/*
 tmp/
+uploads/
+
 .DS_Store
 npm_debug.log
 
-!static/css/main.scss
-!static/img/about.jpg
-!static/js/main.js
-!static/uploads/*.png
+static/css/*.css
+static/img/*.png
+static/js/components.js
