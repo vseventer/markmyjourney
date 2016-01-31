@@ -16,14 +16,14 @@ photos = [
 cover = "010A.jpg"
 +++
 
-It only took two minutes after landing in Cairns before we switched our long pants and shoes for shorts and flip-flops: North Queensland has a hot & humid tropical climate. Our main objective for the weekend was to see the Great Barrier Reef, but by renting a car we were able to explore the surrounding areas as well.
+It only took two minutes after landing in Cairns before we swapped our long pants and shoes for shorts and flip-flops: North Queensland has a hot & humid tropical climate. Our main objective for the weekend was to see the Great Barrier Reef, but by renting a car we were able to explore the surrounding areas as well.
 
 <!--more-->
 ## Kuranda National Park
-The road into Kuranda National Park is windy, which caused our stomachs to be upset since we just landed hours earlier. Our first stop was the picturesque village of Kuranda itself, nestled in the rainforest. After strolling through the unique markets of Kuranda selling anything from crafts and local produce, we visited the picturesque Barron Falls. An easy five-minute walk on a paved trail provided a view of the rainforest and falls.
+The windy road into Kuranda National Park caused our stomachs to be upset since we just landed hours earlier. Our first stop was the picturesque village of Kuranda itself, nestled in the rainforest. After strolling through the unique markets of Kuranda selling anything from crafts and local produce, we visited the picturesque Barron Falls. An easy five-minute walk on a paved trail provided a view of the rainforest and falls.
 
 ## Port Douglas
-We did not stay in Kuranda too long, as we wanted to make a two-hour drive north towards Port Douglas. But nota after making a quick stop at Palm Cove beach, a beautiful resort area with a very picturesque palm tree lined beach and vibrant beach life.
+We did not stay in Kuranda too long, as we wanted to make a two-hour drive north towards Port Douglas. But not after making a quick stop at Palm Cove beach, a beautiful resort area with a very picturesque palm tree lined beach and a vibrant beach life.
 
 Port Douglas serves as both a gateway to the Great Barrier Reef and a popular resort area. The main street is quite lively, yet that’s about all as the town is surprisingly small. After an hour or so, we headed back to Cairns for a long night of sleep, as the next day would be a long one.
 
@@ -37,6 +37,6 @@ Once we arrived, we swapped into our scuba-diving suit, as we had pre-booked hal
 The diving was definitely a highlight as it allowed us to go up close and explore the reef in a different way than just snorkeling. The underwater camera we purchased for this trip made decent pictures, yet we couldn’t resist buying one taken by one of the professional photographers diving with us.
 
 ## Cairns
-After diving and snorkeling in the Great Barrier Reef, it was time for the three-hours back to Cairns. After returning we didn’t waste any time and went on a stroll along the lively Cairns Esplanade. This street is lined with countless restaurants serving deliciously diverse food. We decided to end our evening with a yummy gelato from Gelocchio.
+After diving and snorkeling in the Great Barrier Reef, it was time for the three-hours back to Cairns. After returning we didn’t waste any time and went on a stroll along the lively Cairns Esplanade. This street is lined with countless restaurants serving deliciously diverse foods. We decided to end our evening with a yummy gelato from Gelocchio.
 
-The following day, on our way to the airport, we walked around the center a bit more as Cairns is quite a walkable city. We quickly stopped at the saltwater swimming lagoon in Cairns, complete with Christmas tree, before heading back to not-so-tropical Melbourne.
+The following day, on our way to the airport, we walked around the center a bit more as Cairns is quite a walkable city. We quickly stopped at the saltwater swimming lagoon in Cairns before heading back to a not-so-tropical Melbourne.
