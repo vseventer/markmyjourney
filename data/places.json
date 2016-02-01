@@ -355,6 +355,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2166667,
+        "slug": "2166667-bay-of-fires-au",
+        "name": "Bay of Fires",
+        "region": "Tasmania",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Hobart",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3,
+          -41.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3660346,
         "slug": "3660346-banos-ec",
         "name": "Baños",
@@ -922,6 +949,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2170098,
+        "slug": "2170098-cradle-mountain-national-park-au",
+        "name": "Cradle Mountain-Lake Saint Clair National Park",
+        "region": "Tasmania",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Hobart",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146,
+          -41.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3941584,
         "slug": "3941584-cusco-pe",
         "name": "Cusco",
@@ -1300,6 +1354,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2166067,
+        "slug": "2166067-freycinet-national-park-au",
+        "name": "Freycinet National Park",
+        "region": "Tasmania",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Hobart",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.28,
+          -42.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3658931,
         "slug": "3658931-galapagos-islands",
         "name": "Galapagos Islands",
@@ -1510,6 +1591,33 @@
         "coordinates": [
           106.63,
           10.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2163355,
+        "slug": "2163355-hobart-au",
+        "name": "Hobart",
+        "region": "Tasmania",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "217,000",
+        "timezone": {
+          "name": "Australia/Hobart",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33,
+          -42.88
         ]
       }
     },
@@ -1996,6 +2104,33 @@
         "coordinates": [
           -69.4,
           -15.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2160517,
+        "slug": "2160517-launceston-au",
+        "name": "Launceston",
+        "region": "Tasmania",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "106,000",
+        "timezone": {
+          "name": "Australia/Hobart",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.13,
+          -41.44
         ]
       }
     },
@@ -2856,6 +2991,33 @@
         "coordinates": [
           -75.59,
           10.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2152685,
+        "slug": "2152685-port-arthur-au",
+        "name": "Port Arthur",
+        "region": "Tasmania",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "500",
+        "timezone": {
+          "name": "Australia/Hobart",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.84,
+          -43.15
         ]
       }
     },
@@ -4098,6 +4260,33 @@
         "coordinates": [
           107.1,
           20.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7839373,
+        "slug": "7839373-west-tamar-au",
+        "name": "West Tamar",
+        "region": "Tasmania",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "23,000",
+        "timezone": {
+          "name": "Australia/Hobart",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.89,
+          -41.26
         ]
       }
     },

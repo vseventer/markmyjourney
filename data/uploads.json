@@ -1478,6 +1478,294 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1150.JPG",
+        "date": "2015-12-25T14:03:13",
+        "description": "Cradle Mountain.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.96,
+          -41.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1155.JPG",
+        "date": "2015-12-25T14:16:01",
+        "description": "Dove Lake and the Cradle Mountain.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.96,
+          -41.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1157.JPG",
+        "date": "2015-12-25T14:25:56",
+        "description": "One of many trails in the Cradle Mountain National Park.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.95,
+          -41.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1162.JPG",
+        "date": "2015-12-25T14:29:09",
+        "description": "Trail surroundings.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.95,
+          -41.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1169.JPG",
+        "date": "2015-12-26T09:22:40",
+        "description": "Cataract Gorge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.12,
+          -41.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1185.JPG",
+        "date": "2015-12-26T13:45:56",
+        "description": "Binalong Bay.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3,
+          -41.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1190.JPG",
+        "date": "2015-12-26T13:48:16",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3,
+          -41.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1195.JPG",
+        "date": "2015-12-26T13:50:02",
+        "description": "Fantastic views despite the clouds.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3,
+          -41.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1199.JPG",
+        "date": "2015-12-26T16:07:50",
+        "description": "Hiking trail up to the Wineglass Bay Lookout.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.29,
+          -42.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1200.JPG",
+        "date": "2015-12-26T16:20:02",
+        "description": "Wineglass Bay.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.29,
+          -42.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1218.JPG",
+        "date": "2015-12-27T11:34:01",
+        "description": "Two Tasmanian Devils at Unzoo.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.86,
+          -43.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1223.JPG",
+        "date": "2015-12-27T11:43:15",
+        "description": "Kangaroos.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.86,
+          -43.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1240.JPG",
+        "date": "2015-12-27T14:49:54",
+        "description": "Hobart Street Mall.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33,
+          -42.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1242.JPG",
+        "date": "2015-12-27T15:12:58",
+        "description": "Salamanca Market.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33,
+          -42.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1247.JPG",
+        "date": "2015-12-27T15:40:58",
+        "description": "Outside Salamanca Market.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33,
+          -42.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1252.JPG",
+        "date": "2015-12-27T16:36:14",
+        "description": "Art at MONA.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.26,
+          -42.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1256.JPG",
+        "date": "2015-12-27T18:05:59",
+        "description": "Almost at the top of Mt. Wellington.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.24,
+          -42.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1262.JPG",
+        "date": "2015-12-27T18:13:43",
+        "description": "Mt. Wellington summit.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.24,
+          -42.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3156.JPG",
         "date": "2014-10-22T21:25:10",
         "description": "Electronics.",
