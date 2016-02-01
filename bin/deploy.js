@@ -30,8 +30,7 @@ var path = require('path'),
     util = require('util');
 
 // Package modules.
-var ghPages = require('gh-pages'),
-    moment  = require('moment');
+var ghPages = require('gh-pages');
 
 // Local modules.
 var pkg = require('../package.json');
@@ -41,12 +40,10 @@ var paths = {
   public : path.join(__dirname, '../public'),
   tmp    : './tmp' // Relative to the project root.
 };
-var datetime = moment().format();
 
 // Run.
 ghPages.publish(paths.public, {
   clone   : paths.tmp,
   logger  : console.log,
-  message : util.format('Release %s (%s).', pkg.version, datetime),
-  tag     : util.format('v%s', pkg.version)
+  message : util.format('Updates per v%s.', pkg.version)
 });
