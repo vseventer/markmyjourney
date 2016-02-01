@@ -1,5 +1,10 @@
 # Changelog
 
+### 1.0.2 (February 4, 2016)
+* Added *Tasmania* post.
+* Added flag for Peru.
+* Enabled map dragging in posts.
+
 ### 1.0.1 (January 31, 2016)
 * Fixed typos in *Great Barrier Reef* & *Western Australia* posts.
 * Updated `gh-pages` and `napa` dependencies.
