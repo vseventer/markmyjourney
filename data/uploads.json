@@ -1095,7 +1095,13 @@
         "description": "Jonge Jenever (gin).",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86,
+          52.21
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1105,7 +1111,13 @@
         "description": "Every Wednesday, “de Markt” is in town. It’s like food trucks, but not limited to food.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86,
+          52.21
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1781,7 +1793,13 @@
         "description": "Sweet and sour chicken with rice, and Pad Thai, two Thai street food favorites. The Chang beer remains our favorite beer so far.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.74
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1791,7 +1809,13 @@
         "description": null,
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.74
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1801,7 +1825,13 @@
         "description": "Eating on the street next to traffic.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.74
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1811,7 +1841,13 @@
         "description": "Pang Gee fritter, a Thai desert made of coconut, taro and palm sugar with corn.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1,
+          7.65
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1821,7 +1857,13 @@
         "description": "Pang Gee with chocolate.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1,
+          7.65
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2151,7 +2193,13 @@
         "description": "Happy hour in the bar means free fancy drinks.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05,
+          4.68
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2251,7 +2299,13 @@
         "description": "Preparation stage, about an hour before the start.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86,
+          52.34
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2261,7 +2315,13 @@
         "description": "Many of the 16,000 runners eager to get started.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86,
+          52.34
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2271,7 +2331,13 @@
         "description": "Smiles after the first 13km flew by.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89,
+          52.37
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2281,7 +2347,13 @@
         "description": "Exhaustion. Taken around the 25km mark.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89,
+          52.37
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2291,7 +2363,13 @@
         "description": "A glass of chocolate milk never tasted better.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86,
+          52.34
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2381,7 +2459,13 @@
         "description": "Steamed vegetable and pork dumplings with a garlic-vinegar soy sauce.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.01,
+          40.36
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9569,7 +9653,13 @@
         "description": "The pool part of the Casa Dann Carlton spa, which turned out to be quite enjoyable.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05,
+          4.68
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9579,7 +9669,13 @@
         "description": "Taking a break from backpacking.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05,
+          4.68
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9599,7 +9695,13 @@
         "description": "Our plane from Bogotá to Fort Lauderdale.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15,
+          4.7
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9827,7 +9929,13 @@
         "description": "Packing chaos.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.25,
+          42.35
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9837,7 +9945,13 @@
         "description": "Everything we will need for the next seven months. The carry-on will be left in Amsterdam.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.25,
+          42.35
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9908,7 +10022,7 @@
       "properties": {
         "src": "PA171646.JPG",
         "date": "2014-10-17T12:52:23",
-        "description": null,
+        "description": "Flags from representing countries just outside the Olympic Stadium.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -9959,7 +10073,13 @@
         "description": "Chocolate sprinkles.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86,
+          52.21
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9969,7 +10089,13 @@
         "description": "Vlaflip. A mix of vanilla pudding and yoghurt.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86,
+          52.21
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9979,7 +10105,13 @@
         "description": "Leverworst. For on your sandwich.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86,
+          52.21
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9989,7 +10121,13 @@
         "description": "Erwtensoep.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86,
+          52.21
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -10143,7 +10281,13 @@
         "description": "Boerenkool met worst (kale with sausage).",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86,
+          52.21
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -10601,7 +10745,13 @@
         "description": "The reclining Buddha in Wat Pho.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49,
+          13.75
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -10691,7 +10841,13 @@
         "description": "Flower Market.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5,
+          13.74
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -10797,7 +10953,13 @@
         "description": "A songthaew.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.99,
+          18.79
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -10807,7 +10969,13 @@
         "description": "Tuk-tuk, useful for very short distance trips only as it is not the safest.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.98,
+          18.79
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -10817,7 +10985,13 @@
         "description": "Streets decorated with lanterns because of the festival.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.99,
+          18.79
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -11051,7 +11225,13 @@
         "description": "Thai overnight train, heading to Krabi.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.74
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -11183,7 +11363,13 @@
         "description": "Coconut juice. As fresh as it gets.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1,
+          7.65
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -11625,7 +11811,13 @@
         "description": "Dragon fruit; does not really taste like anything, but it is very healthy.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86,
+          1.29
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -11635,7 +11827,13 @@
         "description": "Excited for our next adventure: Singapore.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71,
+          3.15
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -11645,7 +11843,13 @@
         "description": "Daytime train from Kuala Lumpur to Singapore: very spacious and comfortable seats.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.71,
+          3.15
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -11911,7 +12115,13 @@
         "description": "Green tea custard bun.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5,
+          13.75
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -11921,7 +12131,13 @@
         "description": "Egg custard bun.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5,
+          13.75
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -11947,7 +12163,13 @@
         "description": "Third-class Thai train without luxuries like A/C. We only used this for a short 40-minute transfer to the airport.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.74
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12069,7 +12291,13 @@
         "description": "Caramel rice cookie. Typical Cambodian snack.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85,
+          13.35
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12079,7 +12307,13 @@
         "description": "Oil drenched pancake with stir-fried noodles. Not much taste to it.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85,
+          13.35
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12089,7 +12323,13 @@
         "description": "Khmer deserts consist of diluted condensed milk mixed with ice and anything pumpkin to taro, but not too sweet.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85,
+          13.35
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12099,7 +12339,13 @@
         "description": "Crabs.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85,
+          13.35
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12109,7 +12355,13 @@
         "description": "Snails sauteed in a sweet chilly paste sauce.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85,
+          13.35
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12231,7 +12483,13 @@
         "description": "Vietnamese Pho with a well-balanced broth.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69,
+          10.77
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12479,7 +12737,13 @@
         "description": "Củ Chi tunnels from the Vietnam War.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53,
+          11.06
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12505,7 +12769,13 @@
         "description": "Active train tracks through a narrow street.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84,
+          21.02
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12515,7 +12785,13 @@
         "description": "Bun Cha: grilled meat, noodles, topped with peanuts.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84,
+          21.02
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12525,7 +12801,13 @@
         "description": "Old Hanoi city wall.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84,
+          21.02
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12535,17 +12817,29 @@
         "description": "Creamy egg coffee is a Hanoi favorite, although strong Vietnamese black coffee with condensed milk is also common.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84,
+          21.02
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "src": "PC113444.JPG",
         "date": "2014-12-11T14:59:30",
-        "description": null,
+        "description": "Hoàn Kiếm Lake in the center of Hanoi.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85,
+          21.03
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12699,7 +12993,13 @@
         "description": "Our room.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1,
+          20.85
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12709,7 +13009,13 @@
         "description": "Traditional Vietnamese breakfast.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1,
+          20.85
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12783,7 +13089,13 @@
         "description": "The fruity Lao Cai beer.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87,
+          22.35
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12953,7 +13265,13 @@
         "description": "Sa Pá offered a vast variety of hot wines, combined with anything from cinnamon to chilis.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87,
+          22.35
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -13011,7 +13329,13 @@
         "description": "World’s longest covered escalators.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.16,
+          22.29
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -13021,7 +13345,13 @@
         "description": "Double-decker bus (left) and tram (right). Tram is the cheapest (0.40$ flat rate), but also very slow.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.16,
+          22.29
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -13031,7 +13361,13 @@
         "description": "Venetian Macau.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.56,
+          22.15
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -13361,7 +13697,13 @@
         "description": "Awaiting the ERA Acrobats.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.36,
+          31.15
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -13371,7 +13713,13 @@
         "description": "Greasy yet delicious Chow Mein noodles.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.46,
+          31.22
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -13386,22 +13734,18 @@
     {
       "type": "Feature",
       "properties": {
-        "src": "PC303862.JPG",
-        "date": "2014-12-30T16:04:27",
-        "description": "High-speed bullet train from Shanghai to Beijing.",
-        "orientation": "landscape"
-      },
-      "geometry": null
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "src": "PC303863.JPG",
         "date": "2014-12-30T16:04:39",
-        "description": "Bullet train to Beijing - only took five hours.",
+        "description": "Bullet train from Shanghai to Beijing - only took five hours.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.43,
+          39.9
+        ]
+      }
     },
     {
       "type": "Feature",
