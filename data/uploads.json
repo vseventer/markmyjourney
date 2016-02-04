@@ -57,7 +57,13 @@
         "description": "Lunch at Laguna Chiar Kkota.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.06,
+          -21.62
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -67,7 +73,13 @@
         "description": "Árbol de Piedra.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.88,
+          -22.05
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -77,7 +89,13 @@
         "description": null,
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67,
+          -20.38
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -87,7 +105,13 @@
         "description": "Laguna Colorada.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8,
+          -22.21
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -97,7 +121,13 @@
         "description": null,
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67,
+          -20.38
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -107,7 +137,13 @@
         "description": null,
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67,
+          -20.38
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -117,7 +153,13 @@
         "description": "Our jeep.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8,
+          -22.88
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -127,7 +169,13 @@
         "description": "All Cordillera-travelers.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67,
+          -20.38
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -265,7 +313,13 @@
         "description": "Old timers at The LeMay - America’s Car Museum.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43,
+          47.24
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -275,7 +329,13 @@
         "description": "One of our favorites.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43,
+          47.24
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -365,7 +425,13 @@
         "description": "Typical breakfast with homemade jam, guacamole, pineapple, ham, and local cheese accompanied with a cup of coca tea.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.98,
+          -13.52
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1783,7 +1849,13 @@
         "description": "Electronics.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86,
+          52.21
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1873,7 +1945,13 @@
         "description": "The ferry from Angra dos Reis to Ilha Grande.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.32,
+          -23
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1883,7 +1961,13 @@
         "description": "Beijinho de Coco (top): coconut truffles, and Pão de Queijos (bottom): cheese bread.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.48,
+          -23.43
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1893,7 +1977,13 @@
         "description": "Choripán sandwich, meat empanada, and the underwhelming Quilmes beer.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1903,7 +1993,13 @@
         "description": "Flank steak with a potato and vegetable lasagna.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1913,7 +2009,13 @@
         "description": "Dulce de leche (boiled condensed milk) chocolate cake.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.57,
+          -25.6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1923,7 +2025,13 @@
         "description": "Sticky crossaints and dulce the leche spreading.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.57,
+          -25.6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1933,7 +2041,13 @@
         "description": "Chocolate-covered alfajore, and dulce rellena.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89,
+          -49.32
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1943,7 +2057,13 @@
         "description": "Steak and fries.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89,
+          -49.32
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1953,7 +2073,13 @@
         "description": null,
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.58,
+          -51.53
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1963,7 +2089,13 @@
         "description": "Helado: the Argentinian variant of frozen yoghurt. Simply delicous: we highly recommend the “El Calafate” (blueberry) flavour.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3,
+          -54.81
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1973,7 +2105,13 @@
         "description": "Giant avocado.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91,
+          -53.15
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1983,7 +2121,13 @@
         "description": "Pastel de Choclo: a pie with beef, chicken, egg, olives, and raisins, topped off with a corn puree. Surprisingly delicious.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91,
+          -53.15
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -1993,7 +2137,13 @@
         "description": "Corn Humitas: contains a corn paste which we did not particularly like.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91,
+          -53.15
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2003,7 +2153,13 @@
         "description": "Egg baked in avocado, not good when eaten hot.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91,
+          -53.15
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2013,7 +2169,13 @@
         "description": "Coconut cake topped with meringue.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.79,
+          -33.39
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2023,7 +2185,13 @@
         "description": "Capel Sour; similar to the ingredient used to make pisco sours.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.79,
+          -33.39
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2033,7 +2201,13 @@
         "description": "Selection of Bolivian desserts - we recommend getting them fresh from the bakery though.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14,
+          -16.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2043,7 +2217,13 @@
         "description": "City center.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.15,
+          -16.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2053,7 +2233,13 @@
         "description": "Dodging the roadblocks on the way to Copacabana.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3,
+          -16.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2063,7 +2249,13 @@
         "description": "Cusqueña beer - our favorite Peruvian beer.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.98,
+          -13.52
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2073,7 +2265,13 @@
         "description": "A taxi we never should have taken in Lima. Picture says it all.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03,
+          -12.13
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2083,7 +2281,13 @@
         "description": "The near-empty plane from Lima to Guayaquil. Due to the flight being international, tickets ran very expensive (think $500+) for this one hour flight. We managed to get a good deal, avoiding a 24hr bus ride.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.88,
+          -2.16
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2093,7 +2297,13 @@
         "description": "The main beer of Ecuador, allright tasting but nothing special.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91,
+          -2.21
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2103,7 +2313,13 @@
         "description": "Fioravanti: fruity carbonated softdrink with strawberry flavour, accompanied with plantain chips.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91,
+          -2.21
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2113,7 +2329,13 @@
         "description": "Club beer, tries to compete with Pilseners’ popularity but unsuccessfully so.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.31,
+          -0.75
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2123,7 +2345,13 @@
         "description": "Sour mango with salt, a common snack but we felt salt was not needed.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.42,
+          -1.4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2133,7 +2361,13 @@
         "description": "Poker beer - popular in Bogotá (our favorite).",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2143,7 +2377,13 @@
         "description": "Between the coffee plants.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7,
+          4.84
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2153,7 +2393,13 @@
         "description": "Araza fruit ice cream (very similar to passion fruit in taste) with casquitos; a jelly made from the outer part of the coffee cherry fruit (very nice sweet and sour taste).",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7,
+          4.84
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2163,7 +2409,13 @@
         "description": "Amazing Arabica coffee.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7,
+          4.84
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2173,7 +2425,13 @@
         "description": "Choclomelos: chocolate covered marshmallows, not as good as the German version.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15,
+          4.7
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2183,7 +2441,13 @@
         "description": "Colombian rum - spicy flavors and quite smooth.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05,
+          4.68
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2209,7 +2473,13 @@
         "description": "Pool.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.37,
+          -17.77
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2219,7 +2489,13 @@
         "description": "Our private boat for the day.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.37,
+          -17.77
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2229,7 +2505,13 @@
         "description": "One of many resorts on our way to Castaway Island.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13,
+          -17.73
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2239,7 +2521,13 @@
         "description": "Resort on Castaway Island.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13,
+          -17.73
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2249,7 +2537,13 @@
         "description": "Beautiful looking beach, yet not that good for swimming.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13,
+          -17.73
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2259,7 +2553,13 @@
         "description": "Colorful catamaran on the beach.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13,
+          -17.73
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2269,7 +2569,13 @@
         "description": "Enjoying a luke warm beer on the beach.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.13,
+          -17.73
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2279,7 +2585,13 @@
         "description": "Uninhabited island of Malamala.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.28,
+          -17.72
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2289,7 +2601,13 @@
         "description": "Extremely clear waters, yet when snorkeling we didn’t see that much sealife.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.28,
+          -17.72
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2523,7 +2841,13 @@
         "description": "The plane for our first leg: Beijing to Abu Dhabi.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.58,
+          40.08
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2533,7 +2857,13 @@
         "description": "Guava paste and white cheese stacked on top. An acquired taste.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18,
+          -22.9
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2543,7 +2873,13 @@
         "description": "Assortment of deserts including coconut, lemon, apple-pecan, passion fruit, and chocolate sprinkle cake.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18,
+          -22.9
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2553,7 +2889,13 @@
         "description": "Mountain Dew for Brazilians, has a cherry flavour.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18,
+          -22.9
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2563,7 +2905,13 @@
         "description": "Fried cassava flour (top) and black bean stew with different kinds of beef and sausage.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18,
+          -22.9
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2573,7 +2921,13 @@
         "description": "Dish made with tripe. Yikes.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18,
+          -22.9
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2583,7 +2937,13 @@
         "description": "Delicious strogonoff sauce.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18,
+          -22.9
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2593,7 +2953,13 @@
         "description": "Fried snacks stuffed with chicken and creamy cheese.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18,
+          -22.9
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2603,7 +2969,13 @@
         "description": "Brigadeiro: chocolate truffle made with condensed milk, covered in chocolate sprinkles. Not as good as the Dutch ones.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.64,
+          -23.55
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2613,7 +2985,13 @@
         "description": "Cobblestone streets of Paraty.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.71,
+          -23.22
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2623,7 +3001,13 @@
         "description": "Selection of beers. Our favorite is Brahma, although Skol, Itaipava, Antarctica, and Bohemian are popular as well.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.71,
+          -23.22
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2633,7 +3017,13 @@
         "description": "Paraty beach.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.71,
+          -23.22
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2643,7 +3033,13 @@
         "description": null,
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.71,
+          -23.22
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2653,7 +3049,13 @@
         "description": "Açaí, a superfood berry topped with bananas and granola. Healthy and delicious.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.71,
+          -23.22
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2679,7 +3081,13 @@
         "description": "At the finish line of the Death Road.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.76,
+          -16.21
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2817,7 +3225,13 @@
         "description": "Brazilian cream cheese.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.17,
+          -23.13
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2827,7 +3241,13 @@
         "description": "Hiking trail to the Parrot Peak.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2,
+          -23.15
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2885,7 +3305,13 @@
         "description": "Church in the center of Abraão. The Parrot Peak can be seen in the background.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.17,
+          -23.14
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -2895,7 +3321,13 @@
         "description": "Leaving Ilha Grande.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.17,
+          -23.14
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3161,7 +3593,13 @@
         "description": "The shuttle bus to the Brazilian side of the falls.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.44,
+          -25.68
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3443,7 +3881,13 @@
         "description": "Argentinian blue cheese.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.57,
+          -25.6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3613,7 +4057,13 @@
         "description": "Tango lessons.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3623,7 +4073,13 @@
         "description": null,
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3633,7 +4089,13 @@
         "description": null,
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3643,7 +4105,13 @@
         "description": null,
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3653,7 +4121,13 @@
         "description": "Another meat-filled empanada.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3663,7 +4137,13 @@
         "description": "Delicious wine, served at the tango show.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3673,7 +4153,13 @@
         "description": "Steak and assorted vegetables.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3683,7 +4169,13 @@
         "description": "Tango show.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3693,7 +4185,13 @@
         "description": "Dulce de leche flan.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3703,7 +4201,13 @@
         "description": null,
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3713,7 +4217,13 @@
         "description": null,
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.85,
+          -34.47
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3835,7 +4345,13 @@
         "description": "Ferry from Buenos Aires to Colonia, Uruguay.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35,
+          -34.63
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3845,7 +4361,13 @@
         "description": "Yerba mate.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3855,7 +4377,13 @@
         "description": "Choripán with delicious chimichurri sauce.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -3865,7 +4393,13 @@
         "description": "Chimichurri.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4099,7 +4633,13 @@
         "description": "The fruity local beer in El Calafate.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.89,
+          -49.32
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4173,7 +4713,13 @@
         "description": "Bus to the Perito Moreno Glacier, also departing from El Calafate.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.26,
+          -50.34
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4439,7 +4985,13 @@
         "description": "Completo: a hotdog with avocado, chopped tomaties, and a ridiculous amount of mayo.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5,
+          -51.73
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4529,7 +5081,13 @@
         "description": "Bus from Puerto Natales to Ushuaia (and back).",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.49,
+          -51.72
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4539,7 +5097,13 @@
         "description": "Local beer in Ushuaia with very nice honey taste.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3,
+          -54.81
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4677,7 +5241,13 @@
         "description": "Aji sauce, a garlic-based sauce good on bread and meat.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91,
+          -53.15
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4687,7 +5257,13 @@
         "description": "Patagonian lamb; this particular one was not very well prepared as it wasn’t tender enough. Try to look for a restaurant that displays the lamb as it is slowly cooked and may offer a more tender meat.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91,
+          -53.15
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4697,7 +5273,13 @@
         "description": "Punta Arenas downtown - quite a nice area.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91,
+          -53.15
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4707,7 +5289,13 @@
         "description": "Six days worth of shopping.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.91,
+          -53.15
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -4733,7 +5321,13 @@
         "description": "Anakena Beach.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.32,
+          -27.08
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -5079,7 +5673,13 @@
         "description": "Mahina pale ale; refreshing and flavorful.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.32,
+          -27.08
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -5201,7 +5801,13 @@
         "description": "Terremoto (earthquake): wine, fernet, and pineapple ice cream. Gets you drunk quickly, hence the name.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65,
+          -33.46
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -5211,7 +5817,13 @@
         "description": "Seafood empanada with spicy aji sauce.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65,
+          -33.46
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -5221,7 +5833,13 @@
         "description": "Chacarero Chileno: avocado sandwich with a thinly-sliced steak.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65,
+          -33.46
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -5231,7 +5849,13 @@
         "description": "Mote con Huesillos; a sweet sugary drink with peach flavor and corn at the bottom. Not our favorite.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65,
+          -33.46
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -5241,7 +5865,13 @@
         "description": "Cable car in Santiago.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65,
+          -33.46
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -5251,7 +5881,13 @@
         "description": "Bus from Santiago to Mendoza.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.09,
+          -32.83
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -5261,7 +5897,13 @@
         "description": "The first winery of the day at Familia di Tommaso.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.76,
+          -33.02
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -5511,7 +6153,13 @@
         "description": "Charming town of San Pedro de Atacama.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2,
+          -22.91
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -5521,7 +6169,13 @@
         "description": "Excellent, yet expensive, taxi service found in major cities in Chile.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2,
+          -22.91
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -5531,7 +6185,13 @@
         "description": "Cavernas de Sal - salt caves.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.32,
+          -22.92
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -5890,7 +6550,7 @@
       "properties": {
         "src": "P2255518.JPG",
         "date": "2015-02-25T12:35:06",
-        "description": "Sol de Mañana.",
+        "description": "Sol de la Mañana.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -6213,7 +6873,13 @@
         "description": "Private room.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6,
+          -21.4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -6223,7 +6889,13 @@
         "description": "Potato soup.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.81,
+          -22.27
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -6233,7 +6905,13 @@
         "description": "The hostel in Alota.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6,
+          -21.4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -6403,7 +7081,13 @@
         "description": "The hilly streets in the historic center.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14,
+          -16.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -6413,7 +7097,13 @@
         "description": "Local market.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14,
+          -16.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -6423,7 +7113,13 @@
         "description": "View of the historic center, the Saint Francisco Church, and many houses on the hill.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14,
+          -16.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -6433,7 +7129,13 @@
         "description": "Plaza Mayor, and many houses up the hill.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14,
+          -16.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -6443,7 +7145,13 @@
         "description": "Saint Francisco Church.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14,
+          -16.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -6453,7 +7161,13 @@
         "description": "Mercado Lanza.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14,
+          -16.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -6463,7 +7177,13 @@
         "description": "Av. Montes, the main street leading into the city.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14,
+          -16.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -6681,7 +7401,13 @@
         "description": "The drive back to La Paz turned out to be the most scary part of the day.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.82,
+          -16.3
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -6691,7 +7417,13 @@
         "description": "Arrival by tiny plane.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5,
+          -14.42
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -6861,7 +7593,13 @@
         "description": "Açaí tree.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7,
+          -14.55
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -6871,7 +7609,13 @@
         "description": "Print of a guinea pig.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7,
+          -14.55
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7025,7 +7769,13 @@
         "description": "Walking path to our lodge.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7,
+          -14.55
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7275,7 +8025,13 @@
         "description": "Bolivian chocolates.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14,
+          -16.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7285,7 +8041,13 @@
         "description": "A delicious lemon pie.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.14,
+          -16.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7503,7 +8265,13 @@
         "description": "Yuca Croquettes: yucca tuber with zucchini, pepper, cheese, and chili sauce with avocado makes for a filling appetizer.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02,
+          -15.84
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7513,7 +8281,13 @@
         "description": "Guacamole Tequenos, a wantan dough with cheese and avocado, lemon, and chili sauce dip was a delicious appetizer.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02,
+          -15.84
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7523,7 +8297,13 @@
         "description": "Alpaca Medallion in a Rosemary Sauce with mashed potatoes - the flavorful lean meat was delicious, however the rather sweet mashed potatoes made for a strange accompanying dish.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02,
+          -15.84
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7597,7 +8377,13 @@
         "description": "The old city gate.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.98,
+          -13.52
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7607,7 +8393,13 @@
         "description": "Inca Kola, a super sweet candy tasting soda which was not our favorite although very popular among locals and other tourists.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.98,
+          -13.52
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7617,7 +8409,13 @@
         "description": "Hearty potato soup with gigantic corn and cheese appetizer.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.98,
+          -13.52
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7627,7 +8425,13 @@
         "description": "Lucuma ice cream: not too sweet with a pumpkin texture did not compete with Argentinas cheap and yummy helados.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.98,
+          -13.52
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7637,7 +8441,13 @@
         "description": "Church.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.98,
+          -13.52
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7647,7 +8457,13 @@
         "description": "Quinoa pound cake - quite delicious and filling.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.98,
+          -13.52
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7657,7 +8473,13 @@
         "description": "Cheap and delicious vegetarian place for lunch offering anything from veggie burgers to pizzas.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.98,
+          -13.52
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7667,7 +8489,13 @@
         "description": "Bus from Cusco to the train to Machu Picchu.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.22,
+          -13.27
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7709,7 +8537,13 @@
         "description": "The town of Machu Picchu.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.54,
+          -13.16
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7895,7 +8729,13 @@
         "description": "Just outside Plaza Mayor: a large police presence, and Lima suburbs on the hill.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03,
+          -12.05
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7969,7 +8809,13 @@
         "description": "Pilsen, a local beer in Lima, yet not as good as cusqueña.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03,
+          -12.13
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7979,7 +8825,13 @@
         "description": "Rocoto relleno: spicy hot pepper filled with minced meat and topped with cheese. We did not particularly dislike this dish, but we also did not like it as it was loaded with meat. The potato-cheese lasagna on the other hand was quite delicious.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03,
+          -12.13
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -7989,7 +8841,13 @@
         "description": "The fancy buildings of the Miraflores neighborhood.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03,
+          -12.13
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8191,7 +9049,13 @@
         "description": "Boat for the tour to North Seymour.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28,
+          -0.5
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8393,7 +9257,13 @@
         "description": "Mora juice, a red berry which taste like a mixture of raspberries and blackberries.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.52,
+          -0.22
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8403,7 +9273,13 @@
         "description": "Venezuela Street, with a great view of the basilica.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.52,
+          -0.22
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8413,7 +9289,13 @@
         "description": "Plaza Grande.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.52,
+          -0.22
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8423,7 +9305,13 @@
         "description": "Palacio de Carondelet.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.52,
+          -0.22
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8433,7 +9321,13 @@
         "description": "Ecuadorian candy, deepfried with extra sugar. Not our favorite.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.52,
+          -0.22
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8555,7 +9449,13 @@
         "description": "Palomino Flores, the central park in Baños.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.42,
+          -1.4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8565,7 +9465,13 @@
         "description": "Cuy: guinea pig. Taste like chicken, but does not have a lot of meat.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.42,
+          -1.4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8575,7 +9481,13 @@
         "description": "The process of making melcocha, a very sweet local toffee, dangerous for your teeth.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.42,
+          -1.4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8585,7 +9497,13 @@
         "description": "The end product.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.42,
+          -1.4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8595,7 +9513,13 @@
         "description": "Basílica Virgen de Agua Santa.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.42,
+          -1.4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8605,7 +9529,13 @@
         "description": "Mountains around the town.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.42,
+          -1.4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8727,7 +9657,13 @@
         "description": "Bus from Quito to Baños - for $3.50 this was a bargain, and on top they showed a (Spanish) movie too!",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.42,
+          -1.4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8737,7 +9673,13 @@
         "description": "Salchipapas: fries topped with a special sauce made from tomato purée, homemade mayo, aji, and onions. Very yummy but a bit spicy.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.42,
+          -1.4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8747,7 +9689,13 @@
         "description": "Pollo a la Parrilla: tender and delicious grilled chicken from the Dulche Carbón restaurant.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.42,
+          -1.4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8821,7 +9769,13 @@
         "description": "Ajiaco: a potato-based soup with corn and capers, topped with sour cream.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8831,7 +9785,13 @@
         "description": "Bandeja Paisa: a heavy plate consisting of chorizo sausages, grilled steak, fried pork rind, rice, and beans. Topped with a fried egg, avocado, and sweet banana chips. It’s considered the national dish of Colombia. We found one was plenty for two people to share, however it was a bit too heavy for us.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8841,7 +9801,13 @@
         "description": "Hot chocolate (non-sweetened) with cheese - the cheese did not alter the taste of the hot chocolate drastically, however it was an interesting taste.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8851,7 +9817,13 @@
         "description": "Maracuya coconut cocada: super sweet but the sour passion fruit taste balanced the sugar and coconut very well.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8861,7 +9833,13 @@
         "description": "Aguardiente: anise liquor that is super cheap and popular in Colombia (we didn’t like it because of the strong anise taste as it resembled the green fairy quite a bit).",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8871,7 +9849,13 @@
         "description": "Plaza del Chorro de Quevedo in the La Candelaria neighborhood.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8881,7 +9865,13 @@
         "description": "Colorful streets of La Candelaria.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8891,7 +9881,13 @@
         "description": "Street art.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8901,7 +9897,13 @@
         "description": "Street leading to Plaza de Bolivar.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8911,7 +9913,13 @@
         "description": "Iglesia de Candelaria (church), and Museo de Botero on the right.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8921,7 +9929,13 @@
         "description": "(Fat) Mona Lisa by Fernando Botero.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8931,7 +9945,13 @@
         "description": "Mapa de Colombia by Fernand Léger.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8941,7 +9961,13 @@
         "description": "Obleas: thin wafer with condensed milk in the middle.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8983,7 +10009,13 @@
         "description": "Arepa cornmeal pancake with gooey cheese in the middle (yummy, the corn version not so yummy).",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -8993,7 +10025,13 @@
         "description": "High-end fashion street in Zona T.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05,
+          4.67
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9003,7 +10041,13 @@
         "description": "Empty streets due to Easter festivities elsewhere.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05,
+          4.67
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9013,7 +10057,13 @@
         "description": "Aguilar beer - we preferred the regular one instead of the light version.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9023,7 +10073,13 @@
         "description": "French fries sprinkled with paprika, delicious.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9033,7 +10089,13 @@
         "description": "Delicious ice cream from Crepes & Waffles, close in quality and price to Argentinian ice cream.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08,
+          4.61
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9043,7 +10105,13 @@
         "description": "Foodtrucks.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05,
+          4.67
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9066,10 +10134,16 @@
       "properties": {
         "src": "P4046688.JPG",
         "date": "2015-04-04T20:22:26",
-        "description": "Costena - a beer we found in Pereira - not good.",
+        "description": "Costeña - a beer we found in Pereira - not good.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7,
+          4.81
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9415,7 +10489,13 @@
         "description": "The Clock Tower is the main entrance gate into the city.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55,
+          10.42
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9425,7 +10505,13 @@
         "description": "Square full of restaurants right next to the Clock Tower.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55,
+          10.42
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9435,7 +10521,13 @@
         "description": "San Pedro Claver church.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55,
+          10.42
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9685,7 +10777,13 @@
         "description": "Ron Viejo de Caldas - local spicy Colombian rum.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05,
+          4.68
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9711,7 +10809,13 @@
         "description": "Scenic view of the Multnomah Falls.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.08,
+          45.59
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -11241,7 +12345,13 @@
         "description": "Sleeper compartments, lower bunkbeds are slightly bigger. Bumpy ride still.",
         "orientation": "portrait"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.74
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12611,7 +13721,13 @@
         "description": "Sleeper bus on our daytime (!) journey to Mũi Né.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69,
+          10.77
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12621,7 +13737,13 @@
         "description": "Very strange layout, but reasonable comfortable as long as you’re not too tall.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69,
+          10.77
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -12727,7 +13849,13 @@
         "description": "Daytime bus back to Ho Chi Minh City. Very small seats, and the driver liked to take shortcuts. Not as good as it sounds.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.28,
+          10.93
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -13729,7 +14857,13 @@
         "description": "Seats are comfortable and spacious, journey is very smooth.",
         "orientation": "landscape"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.43,
+          39.9
+        ]
+      }
     },
     {
       "type": "Feature",

@@ -3,8 +3,11 @@ date    = "2015-02-28"
 title   = "Surreal Salar de Uyuni"
 aliases = [ "/blog/surreal-salar-de-uyuni.html" ]
 destinations = [ "south-america", "bolivia" ]
-places  = [ "3901900-salar-de-uyuni-bo" ]
-photos  = [
+places  = [
+  "3871781-san-pedro-de-atacama-cl", "3919774-laguna-colorada-bo",
+  "3901596-villa-alota-bo", "3901903-uyuni-bo", "3901900-salar-de-uyuni-bo"
+]
+photos = [
   "P2255485.JPG", "11035285_10206320496275512_264797419_o.jpg", "P2255493.JPG", "P2255506.JPG", "P2255508.JPG",
   "P2255518.JPG", "P2255530.JPG", "P2255546.JPG", "11024914_10205318655341874_913324348_o.jpg", "P2255558.JPG",
   "P2255556.JPG", "P2265576.JPG", "P2265590.JPG", "P2265593.JPG", "11003195_10205318651621781_1336621446_o.jpg",

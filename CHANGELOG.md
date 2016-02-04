@@ -3,6 +3,7 @@
 ### 1.0.2 (February 4, 2016)
 * Added *Tasmania* post.
 * Added flag for Peru.
+* Added missing geometries to uploads.
 * Enabled map dragging in posts.
 
 ### 1.0.1 (January 31, 2016)

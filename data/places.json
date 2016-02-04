@@ -2110,6 +2110,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3919774,
+        "slug": "3919774-laguna-colorada-bo",
+        "name": "Laguna Colorada",
+        "region": "Potosí",
+        "country": {
+          "code": "BO",
+          "slug": "bolivia",
+          "name": "Bolivia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "America/La_Paz",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.77,
+          -22.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2160517,
         "slug": "2160517-launceston-au",
         "name": "Launceston",
@@ -4185,6 +4212,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3901903,
+        "slug": "3901903-uyuni-bo",
+        "name": "Uyuni",
+        "region": "Potosí",
+        "country": {
+          "code": "BO",
+          "slug": "bolivia",
+          "name": "Bolivia"
+        },
+        "population": "10,000",
+        "timezone": {
+          "name": "America/La_Paz",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.83,
+          -20.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 7870994,
         "slug": "7870994-valle-de-cocora-co",
         "name": "Valle del Cocora",
@@ -4233,6 +4287,33 @@
         "coordinates": [
           -123.12,
           49.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3901596,
+        "slug": "3901596-villa-alota-bo",
+        "name": "Villa Alota",
+        "region": "Potosí",
+        "country": {
+          "code": "BO",
+          "slug": "bolivia",
+          "name": "Bolivia"
+        },
+        "population": "75",
+        "timezone": {
+          "name": "America/La_Paz",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6,
+          -21.4
         ]
       }
     },

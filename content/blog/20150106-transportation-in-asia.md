@@ -5,7 +5,7 @@ aliases = [ "/blog/transportation-in-asia.html" ]
 destinations = [ "asia", "thailand", "malaysia", "singapore", "cambodia", "vietnam", "hong-kong", "macao", "china" ]
 photos  = [
   "PB032065.JPG", "PB042096.JPG", "PB032092.JPG", "PB042099.JPG", "PB042105.JPG",
-  "PB082282.JPG", "PB112380.JPG", "PB082291.JPG", "PB142536.JPG", "PB273009.JPG",
+  "PB082282.JPG", "PB082291.JPG", "PB112380.JPG", "PB142536.JPG", "PB273009.JPG",
   "PB182659.JPG", "PB182667.JPG", "PB182671.JPG", "PB192685.JPG", "PB222801.JPG",
   "PB303153.JPG", "PB303161.JPG", "PC063328.JPG", "PC063333.JPG", "PC063335.JPG",
   "PC073363.JPG", "PC083400.JPG", "PC143600.JPG", "PC143602.JPG", "PC213677.JPG",
