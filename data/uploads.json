@@ -1460,6 +1460,118 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1047.JPG",
+        "date": "2015-10-24T13:25:34",
+        "description": "View over the Phillip Island bay.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58,
+          -38.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1048.JPG",
+        "date": "2015-10-24T14:28:23",
+        "description": "Woolamai Beach, part of the Cape Woolamai State Faunal Reserve on Phillip Island.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34,
+          -38.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1050.JPG",
+        "date": "2015-10-24T15:11:35",
+        "description": "Pyramid Rock.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.22,
+          -38.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1058.JPG",
+        "date": "2015-10-24T15:51:30",
+        "description": "The Nobbies Round Island on the southwesternmost tip of Phillip Island.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.12,
+          -38.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1060.JPG",
+        "date": "2015-10-24T19:39:14",
+        "description": "Waiting for the penguin parade, unfortunately taking photographs was not allowed.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.15,
+          -38.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1067.JPG",
+        "date": "2015-10-25T10:45:53",
+        "description": "Colorful beach houses on Mills Beach in Mornington.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.05,
+          -38.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1075.JPG",
+        "date": "2015-10-25T15:35:56",
+        "description": "Relaxation at the Peninsula Hot Springs.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84,
+          -38.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1101.JPG",
         "date": "2015-11-27T10:15:40",
         "description": "Hipster-like market in Kuranda.",

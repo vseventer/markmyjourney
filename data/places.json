@@ -2677,6 +2677,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 7839813,
+        "slug": "7839813-mornington-peninsula-au",
+        "name": "Mornington Peninsula",
+        "region": "Victoria",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "152,000",
+        "timezone": {
+          "name": "Australia/Melbourne",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.05,
+          -38.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 7304197,
         "slug": "7304197-mui-ne-vn",
         "name": "Mui Ne",
@@ -2964,6 +2991,33 @@
         "coordinates": [
           142.87,
           -38.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2153331,
+        "slug": "2153331-phillip-island-au",
+        "name": "Phillip Island",
+        "region": "Victoria",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Melbourne",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23,
+          -38.47
         ]
       }
     },
