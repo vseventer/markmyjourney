@@ -3,4 +3,4 @@ form.m-b-1[action="https://encrypted.google.com/search"][role="search"]
   div.input-group
     input.form-control[name="q"][type="search"][placeholder="Search"]
     span.input-group-btn
-      button.btn.btn-secondary[type="button"] Go
+      button.btn.btn-secondary[type="submit"] Go

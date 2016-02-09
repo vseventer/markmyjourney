@@ -3,6 +3,7 @@
 ### 1.0.3 (February 11, 2016)
 * Added *Mornington Peninsula & Phillip Island* post.
 * Enabled `preserveLineBreaks` for `html-minifier`.
+* Fixed non-working `Go` search button.
 
 ### 1.0.2 (February 4, 2016)
 * Added *Tasmania* post.
