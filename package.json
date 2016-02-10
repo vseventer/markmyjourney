@@ -83,7 +83,7 @@
     "@songkick/replaceinfiles": "1.1.x",
     "sprity-cli"    : "1.0.x",
     "uglifyjs"      : "2.4.x",
-    "uncss"         : "elamperti/uncss#patch-150",
+    "uncss"         : "0.13.x",
     "webpack"       : "1.12.x"
   },
   "napa"    : { "leaflet-geodesic" : "henrythasler/Leaflet.Geodesic#testing1.0" },
