@@ -89,14 +89,14 @@
       var layer  = L.geoJson(window[source], {
         // Wrap longitude around antemeridian.
         // NOTE: `L.latLng.prototype.wrap` currently seems broken.
-        coordsToLatLng: function(coords) {
-          var lng = coords[0],
-              lat = coords[1];
-          if(lng < 0) {
-            // lng = 360 + lng;
-          }
-          return L.latLng(lat, lng);
-        },
+        // coordsToLatLng: function(coords) {
+        //   var lng = coords[0],
+        //       lat = coords[1];
+        //   if(lng < 0) {
+        //     lng = 360 + lng;
+        //   }
+        //   return L.latLng(lat, lng);
+        // },
         onEachFeature: function(feature, layer) {
           // Create popup.
           if(null != feature.properties.title) {
