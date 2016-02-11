@@ -27,6 +27,33 @@
           -37.81
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1650534,
+        "slug": "1650534-bali-id",
+        "name": "Bali",
+        "region": "Bali",
+        "country": {
+          "code": "ID",
+          "slug": "indonesia",
+          "name": "Indonesia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Asia/Makassar",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          -8.33
+        ]
+      }
     }
   ]
 }
