@@ -18,6 +18,10 @@
           "name": "Australia/Melbourne",
           "dstOffset": "UTC+11:00",
           "gmtOffset": "UTC+11:00"
+        },
+        "period": {
+          "start" : "2016-01-10",
+          "end"   : "2016-02-12"
         }
       },
       "geometry": {
@@ -45,6 +49,10 @@
           "name": "Asia/Makassar",
           "dstOffset": "UTC+11:00",
           "gmtOffset": "UTC+11:00"
+        },
+        "period": {
+          "start" : "2016-02-15",
+          "end"   : "2016-02-19"
         }
       },
       "geometry": {
@@ -52,6 +60,34 @@
         "coordinates": [
           115,
           -8.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2158177,
+        "slug": "2158177-melbourne-au",
+        "name": "Melbourne",
+        "region": "Victoria",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "4.2m",
+        "timezone": {
+          "name": "Australia/Melbourne",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        },
+        "period": { "start": "2016-02-19" }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.81
         ]
       }
     }
