@@ -21,7 +21,7 @@ After getting a great deal on flights to Adelaide we decided a one-hour flight s
 ## Kangaroo Island
 After arriving in Adelaide on late Friday night, we drove directly to our Airbnb located in Yankalilla, shortening our drive the following morning to the ferry connecting the mainland to the Kangaroo Island.
 
-Still, the following morning was a pretty early start at 9:00AM to get the first ferry in. Although the ferry-ride is very expensive, we decided to take the car with us to explore the island. From Penneshaw on Kangaroo Island, we headed to the X farm where we tasted some delicious sheep produce samples, together with ligurian pure honey from Italian bees exclusive to the Kangaroo island.
+Still, the following morning was a pretty early start at 9:00AM to get the first ferry in. Although the ferry-ride is very expensive, we decided to take the car with us to explore the island. From Penneshaw on Kangaroo Island, we headed to Island Pure Sheep Dairy Farm where we tasted some delicious sheep produce samples, together with ligurian pure honey from Italian bees exclusive to the Kangaroo island.
 
 Our next point was the Seal Bay, however you could see them only from a distance and was quite overpriced, so we opted to move right to our next point: Vivonne Bay. Vivonne Bay had beautiful secluded views of the bay and beach itself. After this short stop we headed for Flinders Chase National Park, where the Admiral Arch and Remarkable Rocks are the main landmarks.
 
@@ -30,7 +30,7 @@ The Remarkable Rocks are quite a unique formation and interesting to walk about.
 On our way back to catch the last ferry back to Cape Jervis, we also quickly stopped in Kingscote, a charming but small town where most stores had unfortunately already closed when we arrived there.
 
 ## Adelaide & Barossa Valley
-The next day we made a quick stop in Adelaide, a medium-sized city with beautiful parks and a vibrant center before heading to the infamous Barossa Valley, one of the top wine valleys in Australia.
+The next day we made a quick stop in Adelaide, a medium-sized city with beautiful parks and a vibrant center before heading to the infamous Barossa Valley, one of the top wine valleys in Australia. We chose to go to Barossa Valley over the smaller McLaren Vale, which is located just south of Adelaide.
 
 As soon as we entered in Barossa we were met with beautiful vast wineries. We decided to try seven different wineries: Hentley, Jacob’s Creek, Penfolds, Rockford, Seppeltsfield, Wolf Blass, and Yalumba. We also made a quick stop at Maggies Beer’s Farm Shop, which had a beautiful pond with small turtles, a nice setting and it was nice to sample all the different products.
 
