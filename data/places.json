@@ -31,6 +31,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2078025,
+        "slug": "2078025-adelaide-au",
+        "name": "Adelaide",
+        "region": "South Australia",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "1.2m",
+        "timezone": {
+          "name": "Australia/Adelaide",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6,
+          -34.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3891150,
         "slug": "3891150-aerodromo-el-loa-cl",
         "name": "Aeródromo El Loa",
@@ -355,6 +382,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2077101,
+        "slug": "2077101-barossa-valley-au",
+        "name": "Barossa Valley",
+        "region": "South Australia",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Adelaide",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.95,
+          -34.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2166667,
         "slug": "2166667-bay-of-fires-au",
         "name": "Bay of Fires",
@@ -646,6 +700,33 @@
         "coordinates": [
           149.13,
           -35.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8348978,
+        "slug": "8348978-cape-jervis-au",
+        "name": "Cape Jervis",
+        "region": "South Australia",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "295",
+        "timezone": {
+          "name": "Australia/Adelaide",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.1,
+          -35.6
         ]
       }
     },
@@ -1273,6 +1354,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 8153716,
+        "slug": "8153716-flinders-chase-national-park-au",
+        "name": "Flinders Chase National Park",
+        "region": "South Australia",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Adelaide",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.72,
+          -35.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 4155976,
         "slug": "4155976-fort-lauderdale-hollywood-international-airport-us",
         "name": "Fort Lauderdale/Hollywood International Airport",
@@ -1861,6 +1969,33 @@
         "coordinates": [
           -79.88,
           -2.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2068768,
+        "slug": "2068768-kangaroo-island-au",
+        "name": "Kangaroo Island",
+        "region": "South Australia",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Adelaide",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.21,
+          -35.81
         ]
       }
     },
@@ -2883,6 +3018,33 @@
         "coordinates": [
           -73.12,
           -51.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2063591,
+        "slug": "2063591-penneshaw-au",
+        "name": "Penneshaw",
+        "region": "South Australia",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "264",
+        "timezone": {
+          "name": "Australia/Adelaide",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.93,
+          -35.73
         ]
       }
     },

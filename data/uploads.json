@@ -1956,6 +1956,230 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1299.JPG",
+        "date": "2016-01-09T08:45:54",
+        "description": "Our tiny rental car squeezed in the corner of the ferry.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.09,
+          -35.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1304.JPG",
+        "date": "2016-01-09T11:31:10",
+        "description": "A selection of local ligurian honey, sheep halloumi cheese, and yoghurt.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.55,
+          -35.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1313.JPG",
+        "date": "2016-01-09T13:14:34",
+        "description": "Vivonne Bay.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.18,
+          -35.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1321.JPG",
+        "date": "2016-01-09T14:45:13",
+        "description": "Remarkable rocks, a sight in the Flinders Chase National Park.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.76,
+          -36.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1322.JPG",
+        "date": "2016-01-09T14:46:57",
+        "description": "More remarkable rocks.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.76,
+          -36.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1331.JPG",
+        "date": "2016-01-09T15:12:54",
+        "description": "Walk to Admirals Arch on the southernmost tip of Kangaroo Island.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.7,
+          -36.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1334.JPG",
+        "date": "2016-01-09T15:14:18",
+        "description": "Admirals Arch.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.71,
+          -36.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1351.JPG",
+        "date": "2016-01-10T09:18:13",
+        "description": "Elder Park and River Torrens in downtown Adelaide.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6,
+          -34.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1360.JPG",
+        "date": "2016-01-10T11:57:15",
+        "description": "Yalumba Winery Cellar Door.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.06,
+          -34.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1370.JPG",
+        "date": "2016-01-10T13:35:54",
+        "description": "Rockford Winery, a small winery with excellent wines.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.96,
+          -34.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1375.JPG",
+        "date": "2016-01-10T14:20:08",
+        "description": "Jacob’s Creek produces some of Australias most widespread wines.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.93,
+          -34.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1382.JPG",
+        "date": "2016-01-10T14:53:10",
+        "description": "Wolf Blass Winery: wines, wines, wines.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.03,
+          -34.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1389.JPG",
+        "date": "2016-01-10T15:42:48",
+        "description": "The entrance to Seppeltsfield Winery.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.92,
+          -34.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1393.JPG",
+        "date": "2016-01-10T16:07:35",
+        "description": "Great views over the Barossa Valley, just outside Hentley Farm Wines.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.91,
+          -34.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3156.JPG",
         "date": "2014-10-22T21:25:10",
         "description": "Electronics.",

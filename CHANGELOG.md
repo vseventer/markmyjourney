@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.0.4 (February 18, 2016)
+* Added *South Australia* post.
+* Set current location to Melbourne, Australia.
+
 ### 1.0.3 (February 11, 2016)
 * Added *Mornington Peninsula & Phillip Island* post.
 * Enabled `preserveLineBreaks` for `html-minifier`.
