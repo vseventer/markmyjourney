@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.5
+* Updated `gh-pages` and `html-minifier` dependencies.
+
 ### 1.0.4 (February 18, 2016)
 * Added *South Australia* post.
 * Set current location to Melbourne, Australia.
