@@ -2180,6 +2180,198 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1541.JPG",
+        "date": "2016-02-13T08:29:05",
+        "description": "Bus bringing us to the various highlights in Kakadu National Park.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.68,
+          -12.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1547.JPG",
+        "date": "2016-02-13T11:32:24",
+        "description": "Cruising the Yellow Waters.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.52,
+          -12.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1553.JPG",
+        "date": "2016-02-13T11:44:57",
+        "description": "Crystal clear mirrored tree.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.52,
+          -12.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1566.JPG",
+        "date": "2016-02-13T14:58:38",
+        "description": "Aboriginal rock art at the Ubirr Art Site.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.81,
+          -12.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1577.JPG",
+        "date": "2016-02-13T15:19:34",
+        "description": "Cliffs spanning the whole of Kakadu National Park.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.82,
+          -12.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1582.JPG",
+        "date": "2016-02-13T15:22:38",
+        "description": "Gunwarrdehwarrde Lookout.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.82,
+          -12.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1599.JPG",
+        "date": "2016-02-14T11:39:32",
+        "description": "Darwin Waterfront.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.85,
+          -12.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1603.JPG",
+        "date": "2016-02-14T13:38:55",
+        "description": "Florence Falls in Litchfield National Park.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.78,
+          -13.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1609.JPG",
+        "date": "2016-02-14T14:07:55",
+        "description": "Refreshing swim in the falls.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.78,
+          -13.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1612.JPG",
+        "date": "2016-02-14T15:07:42",
+        "description": "Buley Rockholes.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.79,
+          -13.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1619.JPG",
+        "date": "2016-02-14T15:19:44",
+        "description": "Series of waterfalls.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.79,
+          -13.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1630.JPG",
+        "date": "2016-02-14T19:22:26",
+        "description": "Sunset over Mindil Beach in Darwin.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.83,
+          -12.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3156.JPG",
         "date": "2014-10-22T21:25:10",
         "description": "Electronics.",

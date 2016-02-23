@@ -1111,6 +1111,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2073124,
+        "slug": "2073124-darwin-au",
+        "name": "Darwin",
+        "region": "Northern Territory",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "129,000",
+        "timezone": {
+          "name": "Australia/Darwin",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.84,
+          -12.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2757345,
         "slug": "2757345-delft-nl",
         "name": "Delft",
@@ -1975,6 +2002,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 6941907,
+        "slug": "6941907-kakadu-national-park-au",
+        "name": "Kakadu National Park",
+        "region": "Northern Territory",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Darwin",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.44,
+          -13.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2068768,
         "slug": "2068768-kangaroo-island-au",
         "name": "Kangaroo Island",
@@ -2347,6 +2401,33 @@
         "coordinates": [
           -77.03,
           -12.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8157831,
+        "slug": "8157831-litchfield-national-park-au",
+        "name": "Litchfield Park",
+        "region": "Northern Territory",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Darwin",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.88,
+          -13.28
         ]
       }
     },

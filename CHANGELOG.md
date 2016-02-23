@@ -1,6 +1,7 @@
 # Changelog
 
-### 1.0.5
+### 1.0.5 (February 25, 2016)
+* Added *Darwin* post.
 * Updated `gh-pages` and `html-minifier` dependencies.
 
 ### 1.0.4 (February 18, 2016)
