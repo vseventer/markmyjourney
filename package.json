@@ -79,7 +79,6 @@
     "replace"       : "0.3.x",
     "rimraf"        : "2.5.x",
     "sharp-cli"     : "0.3.x",
-    "sizzle"        : "2.3.x",
     "@songkick/replaceinfiles": "1.1.x",
     "sprity-cli"    : "1.0.x",
     "uglifyjs"      : "2.4.x",

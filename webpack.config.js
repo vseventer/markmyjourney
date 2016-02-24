@@ -51,6 +51,9 @@ module.exports = {
   plugins: [
     // Patch required for `jquery/src/exports/global` (jQuery v2.2).
     new webpack.DefinePlugin({ noGlobal: false }),
-    new webpack.ProvidePlugin({ jQuery: 'jquery/src/core' })
+    new webpack.ProvidePlugin({ jQuery: 'jquery/src/core' }),
+
+    // Use native selector over sizzle.
+    new webpack.NormalModuleReplacementPlugin(/selector$/, 'jquery/src/selector-native')
   ]
 };
