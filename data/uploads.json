@@ -2372,6 +2372,390 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1652.JPG",
+        "date": "2016-02-15T11:07:38",
+        "description": "Arrival on the beach of Gili Trawangan.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.04,
+          -8.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1658.JPG",
+        "date": "2016-02-15T12:11:35",
+        "description": "Lively main street.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.04,
+          -8.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1670.JPG",
+        "date": "2016-02-15T13:40:27",
+        "description": "One of many beachside lounge areas.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.04,
+          -8.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1676.JPG",
+        "date": "2016-02-15T14:20:48",
+        "description": "The northside has the best beaches.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.04,
+          -8.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1680.JPG",
+        "date": "2016-02-15T15:26:16",
+        "description": "Incoming rainstorm over Gili Meno.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.04,
+          -8.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1683.JPG",
+        "date": "2016-02-15T16:01:47",
+        "description": "One of the many horse taxis on Gili.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.03,
+          -8.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1695.JPG",
+        "date": "2016-02-15T17:10:08",
+        "description": "Swing in the sea.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.03,
+          -8.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1736.JPG",
+        "date": "2016-02-16T15:47:58",
+        "description": "Our luxurious room in the resort in Ubud.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.28,
+          -8.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1754.JPG",
+        "date": "2016-02-17T08:02:10",
+        "description": "Tegallalang Rice Fields.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.28,
+          -8.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1771.JPG",
+        "date": "2016-02-17T08:39:19",
+        "description": "View over Mount Batur.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.36,
+          -8.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1793.JPG",
+        "date": "2016-02-17T11:45:14",
+        "description": "Temple on the Lake, or Ulun Danu Bratan Temple.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.17,
+          -8.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1809.JPG",
+        "date": "2016-02-17T11:51:25",
+        "description": "Panorama of the temple.",
+        "orientation": "panorama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.17,
+          -8.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1858.JPG",
+        "date": "2016-02-17T14:38:47",
+        "description": "Air Panas Banjar: sacred hot springs popular among both locals and tourists.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.97,
+          -8.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1946.JPG",
+        "date": "2016-02-18T12:34:45",
+        "description": "Batu Bolong Temple.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.09,
+          -8.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1948.JPG",
+        "date": "2016-02-18T12:37:14",
+        "description": "Tanah Lot Temple.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.09,
+          -8.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1959.JPG",
+        "date": "2016-02-18T12:46:15",
+        "description": "Tanah Lot Temple, surrounded by the sea.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.09,
+          -8.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1976.JPG",
+        "date": "2016-02-18T14:31:38",
+        "description": "Kuta Beach: not very clean, and only good for surfing.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.17,
+          -8.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1982.JPG",
+        "date": "2016-02-18T15:40:46",
+        "description": "One of the busy streets in downtown Kuta.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.17,
+          -8.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2042.JPG",
+        "date": "2016-02-18T18:22:36",
+        "description": "Kecak and Fire Dance at Uluwatu Temple (seen in the distance).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.09,
+          -8.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2067.JPG",
+        "date": "2016-02-18T18:50:34",
+        "description": "Fire Dance during sunset.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.09,
+          -8.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2088.JPG",
+        "date": "2016-02-19T09:33:35",
+        "description": "View from the pool over the forest. Try to spot the monkey.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.28,
+          -8.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2102.JPG",
+        "date": "2016-02-19T10:12:15",
+        "description": "Ricefields near our resort at Banjar Melayang.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.28,
+          -8.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2104.JPG",
+        "date": "2016-02-19T10:31:11",
+        "description": "Downtown Ubud.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.26,
+          -8.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2109.JPG",
+        "date": "2016-02-19T11:43:26",
+        "description": "Together with our awesome driver Wayan.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.17,
+          -8.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3156.JPG",
         "date": "2014-10-22T21:25:10",
         "description": "Electronics.",

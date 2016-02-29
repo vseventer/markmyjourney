@@ -382,6 +382,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 7376301,
+        "slug": "7376301-banjar-melayang-id",
+        "name": "Banjar Melayang",
+        "region": "Bali",
+        "country": {
+          "code": "ID",
+          "slug": "indonesia",
+          "name": "Indonesia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Asia/Makassar",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.31,
+          -8.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2077101,
         "slug": "2077101-barossa-valley-au",
         "name": "Barossa Valley",
@@ -1570,6 +1597,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1624060,
+        "slug": "1624060-gili-trawangan-id",
+        "name": "Gili Trawangan",
+        "region": "West Nusa Tenggara",
+        "country": {
+          "code": "ID",
+          "slug": "indonesia",
+          "name": "Indonesia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Asia/Makassar",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.03,
+          -8.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 8215727,
         "slug": "8215727-glenaire-au",
         "name": "Glenaire Beach",
@@ -2239,6 +2293,33 @@
         "coordinates": [
           145.47,
           -16.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1639002,
+        "slug": "1639002-kuta-id",
+        "name": "Kuta",
+        "region": "Bali",
+        "country": {
+          "code": "ID",
+          "slug": "indonesia",
+          "name": "Indonesia"
+        },
+        "population": "30,000",
+        "timezone": {
+          "name": "Asia/Makassar",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.17,
+          -8.72
         ]
       }
     },
@@ -4449,6 +4530,33 @@
         "coordinates": [
           144.33,
           -38.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1622846,
+        "slug": "1622846-ubud-id",
+        "name": "Ubud",
+        "region": "Bali",
+        "country": {
+          "code": "ID",
+          "slug": "indonesia",
+          "name": "Indonesia"
+        },
+        "population": "28,000",
+        "timezone": {
+          "name": "Asia/Makassar",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.27,
+          -8.51
         ]
       }
     },

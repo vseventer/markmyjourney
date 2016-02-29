@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.6 (March 3, 2016)
+* Added *Bali* post.
+
 ### 1.0.5 (February 25, 2016)
 * Added *Darwin* post.
 * Removed `sizzle` dependency.
