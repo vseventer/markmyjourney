@@ -1,9 +1,15 @@
 extends ../post/single.amber
 
+block append seo
+  meta[property="og:description"][content=Summary]
+  if isset(Params, "cover")
+    meta[property="og:image"][content=absURL("uploads/thumbs/" + Params.cover)]
+  meta[property="og:type"][content="blog"]
+
 block main
   div.container
     div.row
-      div.col-xs-12.col-md-8.col-md-offset-2
+      div.col-xs-12.col-lg-8.col-lg-offset-2
         #{ Summary }
 
         if isset(Params, "photos") || isset(Params, "places") || isset(Params, "route")
@@ -13,8 +19,12 @@ block main
         $content = replace(Content, Summary, "")
         | #{ safeHTML($content) }
 
+      div.col-xs-12.col-lg-2.text-xs-center
+        import ../mixins/widgets.amber
+          +share
+
       if isset(Params, "photos")
-        div.col-xs-12.col-md-10.col-md-offset-1
+        div.col-xs-12.col-lg-10.col-lg-offset-1
           div#gallery.carousel.slide.m-b-05[data-keyboard="true"][data-ride="carousel"]
             div.carousel-inner[role="listbox"]
               each $i, $photo in Params.photos
@@ -23,6 +33,7 @@ block main
                   $url   = absURL("uploads/" + $data.properties.src)
                   $style = "background-image: url('" + $url + "')"
                   div.carousel-item.mmjy-photo
+                    .mmjy-photo-panorama ? "panorama" == $data.properties.orientation
                     .mmjy-photo-portrait ? "portrait" == $data.properties.orientation
                     .active ? 0 == $i
                     [style=safeCSS($style)]      ? 0 == $i
@@ -39,7 +50,7 @@ block main
               span.icon-next[aria-hidden]
               span.sr-only Next
 
-        div.col-xs-12.col-md-8.col-md-offset-2
+        div.col-xs-12.col-lg-8.col-lg-offset-2
           ol.list-inline.text-xs-center
             each $i, $photo in Params.photos
               li.list-inline-item.m-b-05[data-slide-to=$i][data-target="#gallery"]
@@ -47,37 +58,33 @@ block main
                 img.mmjy-thumb.mmjy-thumb-inset[role="button"][src=absURL("uploads/thumbs/" + $photo)]
           hr
 
-      div.col-xs-12.col-md-8.col-md-offset-2
+      div.col-xs-12.col-lg-8.col-lg-offset-2
         import ../mixins/widgets.amber
           +disqus
         hr
 
-        div.row
-          div.col-xs-12.col-md-6
-            if PrevInSection
-              div.card
-                div.card-header Previous Post
-                div.card-block
-                  h4.card-title
-                    a[href=PrevInSection.Permalink] #{ PrevInSection.Title }
-                  small.card-text.text-muted
-                    import ../mixins/datetime
-                      +toTime(PrevInSection.Date)
-          div.col-xs-12.col-md-6
-            if NextInSection
-              div.card
-                div.card-header Next Post
-                div.card-block
-                  h4.card-title
-                    a[href=NextInSection.Permalink] #{ NextInSection.Title }
-                  small.card-text.text-muted
-                    import ../mixins/datetime
-                      +toTime(NextInSection.Date)
+      div.col-xs-12.col-sm-6.col-lg-4.col-lg-offset-2
+        if PrevInSection
+          div.card
+            div.card-header Previous Post
+            div.card-block
+              h4.card-title
+                a[href=PrevInSection.Permalink] #{ PrevInSection.Title }
+              small.card-text.text-muted
+                import ../mixins/datetime
+                  +toTime(PrevInSection.Date)
+      div.col-xs-12.col-sm-6.col-lg-4
+        if NextInSection
+          div.card
+            div.card-header Next Post
+            div.card-block
+              h4.card-title
+                a[href=NextInSection.Permalink] #{ NextInSection.Title }
+              small.card-text.text-muted
+                import ../mixins/datetime
+                  +toTime(NextInSection.Date)
 
 block append js
-  import ../mixins/widgets.amber
-    +jsDisqus
-
   import ../mixins/geojson.amber
     +openCollection("places")
 
@@ -111,3 +118,7 @@ block append js
           | ,
 
     +closeCollection
+
+  import ../mixins/widgets.amber
+    +jsDisqus
+    +jsShare

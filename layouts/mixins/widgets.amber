@@ -2,6 +2,19 @@ mixin disqus
   h2 Leave a Reply
   div#disqus_thread
 
+mixin share
+  div.card.mmjy-fluid
+    ul.list-group-md-horizontal.list-group.list-group-flush
+      li.list-group-item.text-xs-center
+        a.twitter-share-button[href="https://twitter.com/share"][data-text=Title][data-url=Permalink][data-via="vseventer"]
+      li.list-group-item.text-xs-center
+        div.fb-share-button[data-href=Permalink][data-layout="box_count"]
+      li.list-group-item.text-xs-center
+        div.g-plus[data-action="share"][data-annotation="vertical-bubble"][data-height="60"]
+
+mixin twitter
+  div.twitter-timeline[data-border-color="#DDDDDD"][data-tweet-limit="3"][data-widget-id="512390021861498880"]
+
 mixin jsDisqus
   | #{ unescaped("<script>") }
   | var disqus_config = function() {
@@ -11,8 +24,11 @@ mixin jsDisqus
   | #{ unescaped("</script>") }
   script[data-src="https://markmyjourney.disqus.com/embed.js"]
 
-mixin twitter
-  div.twitter-timeline[data-border-color="#DDDDDD"][data-tweet-limit="3"][data-widget-id="512390021861498880"]
+mixin jsShare
+  div#fb-root
+  script[data-src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5"]
+  script[data-src="https://apis.google.com/js/platform.js"]
+  +jsTwitter
 
 mixin jsTwitter
   script[data-src="https://platform.twitter.com/widgets.js"]
