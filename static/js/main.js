@@ -144,8 +144,7 @@
       // Prepare cluster.
       var cluster = L.markerClusterGroup({
         maxClusterRadius    : 24,
-        showCoverageOnHover : false,
-        spiderfyOnMaxZoom   : true
+        showCoverageOnHover : false
       }).addTo(map);
 
       // Append layers.

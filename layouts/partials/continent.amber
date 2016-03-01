@@ -1,7 +1,7 @@
 div.card
   h3.card-header.m-b-0.text-xs-center #{ $continent.properties.name }
 
-  div.mmjy-border-bottom.mmjy-map[data-l-box-zoom="false"][data-l-dragging="false"][data-l-double-click-zoom="false"][data-l-max-zoom="3"][data-l-zoom-control="false"][data-source="dest"]
+  div.mmjy-border-bottom.mmjy-map[data-l-box-zoom="false"][data-l-double-click-zoom="false"][data-l-max-zoom="3"][data-l-zoom-control="false"][data-source="dest"]
 
   dl.card-block.m-b-0.mmjy-dl-horizontal
     if $continent.properties.population
