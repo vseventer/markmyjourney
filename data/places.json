@@ -1816,7 +1816,7 @@
         "id": 1819729,
         "slug": "1819729-hong-kong-hk",
         "name": "Hong Kong",
-        "region": null,
+        "region": "Central and Western",
         "country": {
           "code": "HK",
           "slug": "hong-kong",
@@ -1860,7 +1860,7 @@
         "type": "Point",
         "coordinates": [
           113.93,
-          22.31
+          22.32
         ]
       }
     },
@@ -2464,7 +2464,7 @@
         "id": 3936456,
         "slug": "3936456-lima-pe",
         "name": "Lima",
-        "region": "Lima",
+        "region": "Lima Province",
         "country": {
           "code": "PE",
           "slug": "peru",
@@ -4215,7 +4215,7 @@
         "id": 1880252,
         "slug": "1880252-singapore-sg",
         "name": "Singapore",
-        "region": null,
+        "region": "Central Singapore",
         "country": {
           "code": "SG",
           "slug": "singapore",
@@ -4242,7 +4242,7 @@
         "id": 1880725,
         "slug": "1880725-singapore-changi-airport-sg",
         "name": "Singapore Changi Airport",
-        "region": null,
+        "region": "North East",
         "country": {
           "code": "SG",
           "slug": "singapore",
