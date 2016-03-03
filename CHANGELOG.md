@@ -4,6 +4,7 @@
 * Added *Bali* post.
 * Added Twitter, Facebook, and Google+ share buttons to posts.
 * Enabled map dragging in destinations.
+* Optimized *About Us* image.
 * Optimized responsiveness of posts.
 
 ### 1.0.5 (February 25, 2016)
