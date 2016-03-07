@@ -3,8 +3,10 @@ extends ../post/single.amber
 block append seo
   meta[property="og:description"][content=Summary]
   if isset(Params, "cover")
-    meta[property="og:image"][content=absURL("uploads/thumbs/" + Params.cover)]
+    meta[property="og:image"][content=absURL("uploads/" + Params.cover)]
+  meta[property="og:title"][content=Title]
   meta[property="og:type"][content="blog"]
+  meta[property="og:url"][content=Permalink]
 
 block main
   div.container
