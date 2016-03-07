@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.7 (March 10, 2016)
+* Updated `gh-pages` and `leaflet-minimap` dependencies.
+
 ### 1.0.6 (March 3, 2016)
 * Added *Bali* post.
 * Added Twitter, Facebook, and Google+ share buttons to posts.
