@@ -2,7 +2,7 @@
 
 ### 1.0.7 (March 10, 2016)
 * Updated Facebook Open Graph tags.
-* Updated `gh-pages` and `leaflet-minimap` dependencies.
+* Updated `gh-pages`, `leaflet-minimap`, and `moment` dependencies.
 
 ### 1.0.6 (March 3, 2016)
 * Added *Bali* post.
