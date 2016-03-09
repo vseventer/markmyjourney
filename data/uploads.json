@@ -2404,6 +2404,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1667.JPG",
+        "date": "2016-02-15T13:15:02",
+        "description": "Mie Goreng and Nasi Goreng with some side dishes.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.04,
+          -8.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1670.JPG",
         "date": "2016-02-15T13:40:27",
         "description": "One of many beachside lounge areas.",
@@ -2484,10 +2500,74 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1704.JPG",
+        "date": "2016-02-15T19:28:44",
+        "description": "Night market on Gili Trawangan.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.04,
+          -8.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1717.JPG",
+        "date": "2016-02-16T11:19:14",
+        "description": "Excellent Nasi Goreng: a fried egg on top and krupuk on the side.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.04,
+          -8.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1736.JPG",
         "date": "2016-02-16T15:47:58",
         "description": "Our luxurious room in the resort in Ubud.",
         "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.28,
+          -8.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1746.JPG",
+        "date": "2016-02-16T21:16:47",
+        "description": "Surprisignly, chocolate lava cake was a desert found in a lot of restaurants.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.26,
+          -8.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1747.JPG",
+        "date": "2016-02-17T07:31:59",
+        "description": "Bali is within the coffee belt, hence it produces some delicious coffee.",
+        "orientation": "portrait"
       },
       "geometry": {
         "type": "Point",
@@ -2564,6 +2644,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1834.JPG",
+        "date": "2016-02-17T12:40:56",
+        "description": "Lunch: Soto Ayam (left; chicken noodle soup), Asam Manis (top; chicken with sweet souce), and Ayam Goreng (bottom-right; fried chicken), accompanied by the Bintang beer.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.14,
+          -8.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1835.JPG",
+        "date": "2016-02-17T13:04:44",
+        "description": "Fried bananas covered with chocolate; a popular Balinese desert.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.14,
+          -8.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1858.JPG",
         "date": "2016-02-17T14:38:47",
         "description": "Air Panas Banjar: sacred hot springs popular among both locals and tourists.",
@@ -2574,6 +2686,86 @@
         "coordinates": [
           114.97,
           -8.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1871.JPG",
+        "date": "2016-02-17T16:22:10",
+        "description": "Coffee beans used to produce Luwak coffee, the most expensive coffee in the world.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.19,
+          -8.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1872.JPG",
+        "date": "2016-02-17T16:26:55",
+        "description": "The coffee is produced by processing coffee beans that have been digested by civet cats like this.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.19,
+          -8.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1876.JPG",
+        "date": "2016-02-17T16:29:19",
+        "description": "The result, about six dollars per cup. We didn’t particularly like it, and prefer the regular Balinese coffee.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.19,
+          -8.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1908.JPG",
+        "date": "2016-02-17T19:07:23",
+        "description": "Chicken satay, sprinkled with fried onions.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.28,
+          -8.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1915.JPG",
+        "date": "2016-02-17T19:48:42",
+        "description": "Apart from Bintang, the Anker beer can sporadically be found on Bali as well.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.28,
+          -8.49
         ]
       }
     },
@@ -2686,6 +2878,70 @@
         "coordinates": [
           115.09,
           -8.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2079.JPG",
+        "date": "2016-02-18T19:46:12",
+        "description": "The Bintang beer is everywhere on Bali, with a Radler (lemon) version available as well.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.15,
+          -8.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2080.JPG",
+        "date": "2016-02-18T19:53:36",
+        "description": "More chicken satay, this particular meal had the best (handmade) satay we tried.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.15,
+          -8.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2082.JPG",
+        "date": "2016-02-18T20:13:35",
+        "description": "Another popular Balinese desert: black sticky rice with coconut milk.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.15,
+          -8.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2084.JPG",
+        "date": "2016-02-19T09:14:32",
+        "description": "Breakfast at the resort: coffee, fresh juice and fruits, pancakes, and bread with some jam.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.28,
+          -8.49
         ]
       }
     },

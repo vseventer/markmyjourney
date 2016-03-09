@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.0.7 (March 10, 2016)
+* Added *Indonesian Cuisine* post.
 * Updated Facebook Open Graph tags.
 * Updated `gh-pages`, `leaflet-minimap`, and `moment` dependencies.
 
