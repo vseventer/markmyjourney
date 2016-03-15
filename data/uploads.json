@@ -3012,6 +3012,278 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2209.JPG",
+        "date": "2016-03-05T17:33:48",
+        "description": "Downtown Airlie Beach.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.72,
+          -20.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2221.JPG",
+        "date": "2016-03-06T09:02:14",
+        "description": "Abell Point Marina.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.71,
+          -20.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2240.JPG",
+        "date": "2016-03-06T10:03:27",
+        "description": "Leaving Airlie Beach on our way to Whitsundays.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.72,
+          -20.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2251.JPG",
+        "date": "2016-03-06T11:08:04",
+        "description": "Ready for snorkeling.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.01,
+          -20.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2285.JPG",
+        "date": "2016-03-06T12:48:00",
+        "description": "View from Tongue Point.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.02,
+          -20.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2289.JPG",
+        "date": "2016-03-06T12:48:48",
+        "description": "Boats moored in the Hill Inlet",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.02,
+          -20.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2296.JPG",
+        "date": "2016-03-06T12:50:12",
+        "description": "At Tongue Point.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.02,
+          -20.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2298.JPG",
+        "date": "2016-03-06T12:51:00",
+        "description": "View over Hill Inlet.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.02,
+          -20.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2319.JPG",
+        "date": "2016-03-06T13:10:24",
+        "description": "Pristine white-sand beaches while walking back to the boat.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.02,
+          -20.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2331.JPG",
+        "date": "2016-03-06T13:15:47",
+        "description": "A rainy day but still a great view.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.02,
+          -20.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2340.JPG",
+        "date": "2016-03-06T13:17:06",
+        "description": "The different colors of beach and water.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.02,
+          -20.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2379.JPG",
+        "date": "2016-03-06T14:32:32",
+        "description": "Whitehaven Beach.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.05,
+          -20.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2398.JPG",
+        "date": "2016-03-06T14:47:48",
+        "description": "Ready to head back to the mainland.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.06,
+          -20.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2403.JPG",
+        "date": "2016-03-06T15:11:44",
+        "description": "Terrible rainstorms and waves on our way back.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.01,
+          -20.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2408.JPG",
+        "date": "2016-03-06T16:30:31",
+        "description": "Airlie Beach Lagoon.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.72,
+          -20.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2410.JPG",
+        "date": "2016-03-07T09:32:49",
+        "description": "View from our hotel over Pioneer Bay.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.72,
+          -20.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2421.JPG",
+        "date": "2016-03-07T10:01:17",
+        "description": "Port of Airlie.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.73,
+          -20.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3156.JPG",
         "date": "2014-10-22T21:25:10",
         "description": "Electronics.",

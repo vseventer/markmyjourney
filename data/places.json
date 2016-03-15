@@ -112,6 +112,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 6354936,
+        "slug": "6354936-airlie-beach-au",
+        "name": "Airlie Beach",
+        "region": "Queensland",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Brisbane",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.71,
+          -20.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 6300825,
         "slug": "6300825-alejandro-velasco-astete-international-airport-pe",
         "name": "Alejandro Velasco Astete International Airport",
@@ -2677,6 +2704,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 6301299,
+        "slug": "6301299-mackay-mo-au",
+        "name": "Mackay Mo",
+        "region": "Queensland",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Brisbane",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.18,
+          -21.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 9179604,
         "slug": "9179604-madidi-national-park-bo",
         "name": "Madidi National Park",
@@ -3558,6 +3612,33 @@
         "coordinates": [
           143.15,
           -38.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6301301,
+        "slug": "6301301-proserpine-airport-au",
+        "name": "Proserpine Airport",
+        "region": "Queensland",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Brisbane",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.55,
+          -20.5
         ]
       }
     },
@@ -4773,6 +4854,33 @@
         "coordinates": [
           146.89,
           -41.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8161317,
+        "slug": "8161317-whitsunday-islands-national-park-au",
+        "name": "Whitsunday Islands National Park",
+        "region": "Queensland",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Lindeman",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.98,
+          -20.25
         ]
       }
     },
