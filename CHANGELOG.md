@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.8 (March 17, 2016)
+* Update project description.
+
 ### 1.0.7 (March 10, 2016)
 * Added *Indonesian Cuisine* post.
 * Updated Facebook Open Graph tags.
