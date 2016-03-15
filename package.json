@@ -87,7 +87,7 @@
   },
   "napa"    : { "leaflet-geodesic" : "henrythasler/Leaflet.Geodesic#testing1.0" },
   "engines" : {
-    "hugo" : "0.15",
+    "hugo" : "0.16-dev",
     "node" : "4.x"
   },
   "private": true

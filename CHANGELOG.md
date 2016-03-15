@@ -2,6 +2,7 @@
 
 ### 1.0.8 (March 17, 2016)
 * Added *Whitsundays* post.
+* Update `hugo` dependency.
 * Update project description.
 
 ### 1.0.7 (March 10, 2016)
