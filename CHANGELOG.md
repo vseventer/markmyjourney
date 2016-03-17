@@ -2,7 +2,9 @@
 
 ### 1.0.8 (March 17, 2016)
 * Added *Whitsundays* post.
-* Update `hugo` dependency.
+* Added comments to `robots.txt`.
+* Optimized `js/main.js`.
+* Update `html-minifier`, `hugo`, and `uncss` dependencies.
 * Update project description.
 
 ### 1.0.7 (March 10, 2016)
