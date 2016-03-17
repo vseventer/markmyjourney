@@ -4,7 +4,7 @@
 * Added *Whitsundays* post.
 * Added comments to `robots.txt`.
 * Optimized `js/main.js`.
-* Update `html-minifier`, `hugo`, and `uncss` dependencies.
+* Update `html-minifier` and `hugo` dependencies.
 * Update project description.
 
 ### 1.0.7 (March 10, 2016)

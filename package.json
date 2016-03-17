@@ -56,7 +56,6 @@
   },
   "dependencies"    : { },
   "devDependencies" : {
-    "async"         : "1.5.x",
     "bootstrap"     : "twbs/bootstrap#v4.0.0-alpha.2",
     "clean-css"     : "3.4.x",
     "confirm"       : "0.1.x",
@@ -83,7 +82,7 @@
     "@songkick/replaceinfiles": "1.1.x",
     "sprity-cli"    : "1.0.x",
     "uglifyjs"      : "2.4.x",
-    "uncss"         : "giakki/uncss",
+    "uncss"         : "0.13.x",
     "webpack"       : "1.12.x"
   },
   "napa"    : { "leaflet-geodesic" : "henrythasler/Leaflet.Geodesic#testing1.0" },
