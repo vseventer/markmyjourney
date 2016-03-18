@@ -1,11 +1,13 @@
 # Changelog
 
+### 1.0.9-dev
+
 ### 1.0.8 (March 17, 2016)
 * Added *Whitsundays* post.
 * Added comments to `robots.txt`.
 * Optimized `js/main.js`.
-* Update `html-minifier` and `hugo` dependencies.
-* Update project description.
+* Updated `html-minifier` and `hugo` dependencies.
+* Updated project description.
 
 ### 1.0.7 (March 10, 2016)
 * Added *Indonesian Cuisine* post.
