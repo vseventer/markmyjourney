@@ -3055,6 +3055,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2064211,
+        "slug": "2064211-mount-olga-au",
+        "name": "Mount Olga",
+        "region": "Northern Territory",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Darwin",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.74,
+          -25.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 7304197,
         "slug": "7304197-mui-ne-vn",
         "name": "Mui Ne",
@@ -4644,6 +4671,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 7645281,
+        "slug": "7645281-uluru-au",
+        "name": "Uluru",
+        "region": "Northern Territory",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Darwin",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.03,
+          -25.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3833367,
         "slug": "3833367-ushuaia-ar",
         "name": "Ushuaia",
@@ -4908,6 +4962,33 @@
         "coordinates": [
           145.23,
           -37.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6355222,
+        "slug": "6355222-yulara-au",
+        "name": "Yulara",
+        "region": "Northern Territory",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "986",
+        "timezone": {
+          "name": "Australia/Darwin",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.99,
+          -25.24
         ]
       }
     }

@@ -1,6 +1,7 @@
 # Changelog
 
-### 1.0.9-dev
+### 1.0.9 (March 24, 2016)
+* Added *Uluru* post.
 
 ### 1.0.8 (March 17, 2016)
 * Added *Whitsundays* post.
