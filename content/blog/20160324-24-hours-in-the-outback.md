@@ -14,7 +14,7 @@ A visit to the Outback, the vast desert region in the center of Australia, is a 
 ## Kata Tjuta
 The closest city to Uluru is Alice Springs, a mere six hours away. Therefore, we decided to fly into Ayers Rock Airport directly, and after picking up our rental car we were on our way. The first stop were the 36 red-rock domes of Kata Tjuta, also known as The Olgas.
 
-While walking to the viewpoint, we were greeted with what turned out to be a very common thing in The Outback: flies. Desperate for moisture, they buzzed around our heads, lips, nose, and ears. After making an extremely quick picture, we made our best purchase ever: mosquito nets.
+While walking to the viewpoint, we were greeted with what turned out to be a very common thing in the Outback: flies. Desperate for moisture, they buzzed around our heads, lips, nose, and ears. After making an extremely quick picture, we made our best purchase ever: mosquito nets.
 
 Safe from the flies, we continued our sightseeing by getting closer to the rock formation. Contrary to Uluru, which appears to be one solid rock, The Olgas consist of 36 separate rocks. We didn’t spend much time walking around, as temperatures rose to the mid-30s.
 
