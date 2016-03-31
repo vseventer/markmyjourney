@@ -3190,6 +3190,60 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2155135,
+        "slug": "2155135-noosa-heads-au",
+        "name": "Noosa Heads",
+        "region": "Queensland",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "4,000",
+        "timezone": {
+          "name": "Australia/Brisbane",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09,
+          -26.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8159861,
+        "slug": "8159861-noosa-national-park-au",
+        "name": "Noosa National Park",
+        "region": "Queensland",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Brisbane",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09,
+          -26.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2155089,
         "slug": "2155089-norman-reef-au",
         "name": "Norman Reef",

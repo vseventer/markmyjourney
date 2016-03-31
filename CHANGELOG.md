@@ -1,6 +1,9 @@
 # Changelog
 
-### 1.0.10-dev
+### 1.0.10 (March 31, 2016)
+* Added *Noosa* post.
+* Fixed typo in *Uluru* post.
+* Updated `html-minifier` dependency.
 
 ### 1.0.9 (March 24, 2016)
 * Added *Uluru* post.
