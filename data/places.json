@@ -779,7 +779,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.1,
+          138.11,
           -35.6
         ]
       }
@@ -898,7 +898,7 @@
         "id": 6300549,
         "slug": "6300549-cataratas-del-iguazu-international-airport-ar",
         "name": "Cataratas del Iguazú International Airport",
-        "region": "Misiones",
+        "region": "Misiones Province",
         "country": {
           "code": "AR",
           "slug": "argentina",
@@ -1330,7 +1330,7 @@
         "id": 3858677,
         "slug": "3858677-el-calafate-ar",
         "name": "El Calafate",
-        "region": "Santa Cruz",
+        "region": "Santa Cruz Province",
         "country": {
           "code": "AR",
           "slug": "argentina",
@@ -1357,7 +1357,7 @@
         "id": 7668427,
         "slug": "7668427-el-calafate-airport-ar",
         "name": "El Calafate Airport",
-        "region": "Santa Cruz",
+        "region": "Santa Cruz Province",
         "country": {
           "code": "AR",
           "slug": "argentina",
@@ -1384,7 +1384,7 @@
         "id": 6690180,
         "slug": "6690180-el-chalten-ar",
         "name": "El Chaltén",
-        "region": "Santa Cruz",
+        "region": "Santa Cruz Province",
         "country": {
           "code": "AR",
           "slug": "argentina",
@@ -1537,6 +1537,33 @@
         "coordinates": [
           -54.49,
           -25.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2166136,
+        "slug": "2166136-fraser-island-au",
+        "name": "Fraser Island",
+        "region": "Queensland",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Brisbane",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.17,
+          -25.25
         ]
       }
     },
@@ -1786,6 +1813,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 6354957,
+        "slug": "6354957-hervey-bay-au",
+        "name": "Hervey Bay",
+        "region": "Queensland",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Australia/Brisbane",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.83,
+          -25.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1566083,
         "slug": "1566083-ho-chi-minh-city-vn",
         "name": "Ho Chi Minh City",
@@ -1870,7 +1924,7 @@
         "id": 6301089,
         "slug": "6301089-hong-kong-international-airport-hk",
         "name": "Hong Kong International Airport",
-        "region": null,
+        "region": "Islands",
         "country": {
           "code": "HK",
           "slug": "hong-kong",
@@ -2032,7 +2086,7 @@
         "id": 6301847,
         "slug": "6301847-jorge-newbery-airport-ar",
         "name": "Jorge Newbery Airport",
-        "region": null,
+        "region": "Buenos Aires F.D.",
         "country": {
           "code": "AR",
           "slug": "argentina",
@@ -2761,7 +2815,7 @@
         "id": 3845247,
         "slug": "3845247-maipu-ar",
         "name": "Maipú",
-        "region": "Mendoza",
+        "region": "Mendoza Province",
         "country": {
           "code": "AR",
           "slug": "argentina",
@@ -2977,7 +3031,7 @@
         "id": 3844421,
         "slug": "3844421-mendoza-ar",
         "name": "Mendoza",
-        "region": "Mendoza",
+        "region": "Mendoza Province",
         "country": {
           "code": "AR",
           "slug": "argentina",
@@ -3378,7 +3432,7 @@
         "id": 6942216,
         "slug": "6942216-perito-moreno-glacier-ar",
         "name": "Perito Moreno Glacier",
-        "region": "Santa Cruz",
+        "region": "Santa Cruz Province",
         "country": {
           "code": "AR",
           "slug": "argentina",
@@ -3691,8 +3745,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          143.15,
-          -38.68
+          143.16,
+          -38.69
         ]
       }
     },
@@ -3756,7 +3810,7 @@
         "id": 3429777,
         "slug": "3429777-puerto-iguazu-ar",
         "name": "Puerto Iguazú",
-        "region": "Misiones",
+        "region": "Misiones Province",
         "country": {
           "code": "AR",
           "slug": "argentina",
@@ -3864,7 +3918,7 @@
         "id": 1798097,
         "slug": "1798097-qibao-cn",
         "name": "Qibao",
-        "region": "Shanghai Shi",
+        "region": "Shanghai",
         "country": {
           "code": "CN",
           "slug": "china",
@@ -4269,7 +4323,7 @@
         "id": 1796236,
         "slug": "1796236-shanghai-cn",
         "name": "Shanghai",
-        "region": "Shanghai Shi",
+        "region": "Shanghai",
         "country": {
           "code": "CN",
           "slug": "china",
@@ -4296,7 +4350,7 @@
         "id": 6301386,
         "slug": "6301386-shanghai-pudong-international-airport-cn",
         "name": "Shanghai Pudong International Airport",
-        "region": "Shanghai Shi",
+        "region": "Shanghai",
         "country": {
           "code": "CN",
           "slug": "china",
@@ -4755,7 +4809,7 @@
         "id": 3833367,
         "slug": "3833367-ushuaia-ar",
         "name": "Ushuaia",
-        "region": "Tierra del Fuego",
+        "region": "Tierra del Fuego Province",
         "country": {
           "code": "AR",
           "slug": "argentina",

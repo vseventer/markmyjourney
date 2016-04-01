@@ -9,7 +9,7 @@ photos  = [
 ]
 cover = "IMG_2947.JPG"
 +++
-Over the year, we’ve taken numerous trips to places all around Australia. However, one big trip was still missing: a visit to Noosa and Fraser Island. We started with a few days in Noosa, which has it all: beaches, shopping, bars and restaurants, and a National Park.
+Over the year, we’ve taken numerous trips to places all around Australia. However, one big trip was still missing: a visit to Noosa and [Fraser Island](/sandy-adventures-on-fraser-island/). We started with a few days in Noosa, which has it all: beaches, shopping, bars and restaurants, and a National Park.
 <!--more-->
 Noosa is a popular town on Australia’s Sunshine Coast, with good beaches, a great National Park, and plenty of shopping. Not surprisingly, it is popular among many Australians, young families and retirees in particular. In March, the weather is excellent, with temperatures about 30 degrees. Quite the difference compared to Melbourne, where the first signs of fall had arrived.
 

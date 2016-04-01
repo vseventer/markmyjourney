@@ -3540,6 +3540,294 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2739.JPG",
+        "date": "2016-03-25T08:29:54",
+        "description": "The ferry from Hervey Bay to Fraser Island.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.92,
+          -25.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2745.JPG",
+        "date": "2016-03-25T10:07:52",
+        "description": "Beach at Lake McKenzie.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.05,
+          -25.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2748.JPG",
+        "date": "2016-03-25T10:28:06",
+        "description": "Extremely clear waters.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.05,
+          -25.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2753.JPG",
+        "date": "2016-03-25T10:30:47",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.05,
+          -25.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2761.JPG",
+        "date": "2016-03-25T11:50:27",
+        "description": "The beach, or highway.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.13,
+          -25.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2774.JPG",
+        "date": "2016-03-25T12:22:19",
+        "description": "A strange experience, going 80km per hour on the beach.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.24,
+          -25.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2782.JPG",
+        "date": "2016-03-25T12:23:11",
+        "description": "Maheno Shipwreck (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.24,
+          -25.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2783.JPG",
+        "date": "2016-03-25T12:24:39",
+        "description": "Maheno Shipwreck (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.24,
+          -25.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2790.JPG",
+        "date": "2016-03-25T12:28:05",
+        "description": "Maheno Shipwreck (3).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.24,
+          -25.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2794.JPG",
+        "date": "2016-03-25T12:32:19",
+        "description": "Coloured sand cliffs, called The Pinnacles.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.25,
+          -25.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2797.JPG",
+        "date": "2016-03-25T12:59:49",
+        "description": "View from the walkway to the Champagne Pools.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35,
+          -24.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2804.JPG",
+        "date": "2016-03-25T13:02:50",
+        "description": "Champagne Pools.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35,
+          -24.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2818.JPG",
+        "date": "2016-03-25T13:06:31",
+        "description": "In the pools.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35,
+          -24.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2843.JPG",
+        "date": "2016-03-25T14:12:23",
+        "description": "Our spot for lunch.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35,
+          -24.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2863.JPG",
+        "date": "2016-03-25T14:37:20",
+        "description": "View from Indian Head.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.36,
+          -25.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2910.JPG",
+        "date": "2016-03-25T15:55:13",
+        "description": "Eli Creek.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.22,
+          -25.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2919.JPG",
+        "date": "2016-03-25T16:01:21",
+        "description": "Easter weekend means lots of people.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.22,
+          -25.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2934.JPG",
+        "date": "2016-03-25T17:49:10",
+        "description": "Sunset during the ferry ride back to Hervey Bay.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.97,
+          -25.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2947.JPG",
         "date": "2016-03-26T15:48:02",
         "description": "Noosa Main Beach.",
