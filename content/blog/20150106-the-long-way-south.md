@@ -31,6 +31,6 @@ After accumulating the budgets of all the Asian countries we visited, the simple
 For the math enthusiasts among us, all the expenses above make for a total spending of **54.50$** a person a day. Not bad, we reckon, for what we’ve seen and done!
 
 ## South America
-Over the next months, we will visit Brazil, Argentine, Chile, Bolivia, Peru, Ecuador, and Colombia. Our budget for South America is a little bit higher as Brazil, Argentina, and Chile are expensive and we’ll be spending quite some time there. Also, some remote islands, like the Galápagos Islands in Ecuador, are on our list, and those simply are costly. But in the end, we will have greater experiences than money can buy us.
+Over the next months, we will visit Brazil, Argentina, Chile, Bolivia, Peru, Ecuador, and Colombia. Our budget for South America is a little bit higher as Brazil, Argentina, and Chile are expensive and we’ll be spending quite some time there. Also, some remote islands, like the Galápagos Islands in Ecuador, are on our list, and those simply are costly. But in the end, we will have greater experiences than money can buy us.
 
 On April 14th, we will leave South America for its northern neighbor as we’ll fly to Seattle, United States. Until then, the next 98 days should be magnificent.

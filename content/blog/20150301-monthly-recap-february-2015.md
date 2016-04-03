@@ -2,7 +2,7 @@
 date    = "2015-03-01"
 title   = "Monthly Recap: February 2015"
 aliases = [ "/blog/monthly-recap-february-2015.html" ]
-destinations = [ "south-america", "argentine", "chile" ]
+destinations = [ "south-america", "argentina", "chile" ]
 places  = [
   "3874787-punta-arenas-cl", "4030726-easter-island-cl", "3871336-santiago-cl",
   "3871781-san-pedro-de-atacama-cl"
