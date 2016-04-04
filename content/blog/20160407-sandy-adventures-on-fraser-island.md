@@ -9,7 +9,7 @@ photos  = [
   "IMG_2797.JPG", "IMG_2804.JPG", "IMG_2818.JPG", "IMG_2843.JPG", "IMG_2863.JPG",
   "IMG_2910.JPG", "IMG_2919.JPG", "IMG_2934.JPG"
 ]
-cover = "IMG_2782.JPG"
+cover = "IMG_2774.JPG"
 +++
 We can only relax so much, so after a few days in [Noosa](/a-retreat-to-noosa/) we moved on and drove three hours north, to the small town of Hervey Bay. This town is the gateway to Fraser Island, the world’s largest sand island. We went on a one-day tour exploring the unique sights of this unique island.
 <!--more-->
