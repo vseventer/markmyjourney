@@ -3,6 +3,7 @@
 ### 1.0.11-dev
 * Added *Fraser Island* post.
 * Fixed typo in *Argentina* posts.
+* Updated `sharp-cli` dependency.
 
 ### 1.0.10 (March 31, 2016)
 * Added *Noosa* post.

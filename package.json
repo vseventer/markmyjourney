@@ -78,7 +78,7 @@
     "parallelshell" : "2.0.x",
     "replace"       : "0.3.x",
     "rimraf"        : "2.5.x",
-    "sharp-cli"     : "0.3.x",
+    "sharp-cli"     : "0.4.x",
     "@songkick/replaceinfiles": "1.1.x",
     "sprity-cli"    : "1.0.x",
     "uglifyjs"      : "2.4.x",
