@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.0.11-dev
+### 1.0.11 (April 7, 2016)
 * Added *Fraser Island* post.
 * Fixed typo in *Argentina* posts.
 * Updated `sharp-cli` dependency.
