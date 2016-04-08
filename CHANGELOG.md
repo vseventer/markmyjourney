@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.12-dev
+* Added additional zoom levels to smaller maps.
+
 ### 1.0.11 (April 7, 2016)
 * Added *Fraser Island* post.
 * Fixed typo in *Argentina* posts.

@@ -25,10 +25,11 @@
   'use strict';
 
   // Constants.
-  var MIN_ZOOM    = 2,
+  var DEFAULT_ZOOM = 6,
+      MIN_ZOOM     = 1,
       MINIMAP_THRESHOLD_ZOOM = 4,
-      MAX_ZOOM    = 8,
-      POPUP_DELAY = 500; // ms.
+      MAX_ZOOM     = 12,
+      POPUP_DELAY  = 500; // ms.
 
   // Variables.
   var arraySlice = Array.prototype.slice;
@@ -38,8 +39,8 @@
     return Leaflet.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
         attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community',
         detectRetina: true,
-        maxZoom : 16,
-        minZoom : 1
+        maxZoom : MAX_ZOOM + 1, // Allow for retina tiles.
+        minZoom : MIN_ZOOM
     });
     // Fallback: use MapQuest.
     // return Leaflet.tileLayer('https://otile{s}-s.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.jpg', {
@@ -73,7 +74,7 @@
       var map = Leaflet.map(element, {
         layers  : tileLayer(Leaflet),
         maxZoom : MAX_ZOOM,
-        minZoom : MIN_ZOOM,
+        minZoom : MIN_ZOOM + 1,
         scrollWheelZoom: false
       });
 
@@ -153,6 +154,12 @@
         subject.addLayer(layer);
       });
 
+      // Redefine maximum zoom if untouched. Update to max out on bounds or
+      // default.
+      if(MAX_ZOOM === map.getMaxZoom()) {
+        map.setMaxZoom(Math.max(DEFAULT_ZOOM, map.getBoundsZoom(bounds)));
+      }
+
       // Focus map.
       if(map.getZoom()) { // Use predefined zoom.
         map.setView(bounds.getCenter());
@@ -171,14 +178,9 @@
           var minimap = new Leaflet.Control.MiniMap(tileLayer(Leaflet), {
             width  : 100,
             height : 100,
-            zoomLevelFixed: 1
+            zoomLevelOffset: -8
           }).addTo(map);
-
-          // Staticize.
-          minimap._miniMap.dragging.disable();
-          minimap._miniMap.touchZoom.disable();
-          minimap._miniMap.doubleClickZoom.disable();
-          minimap._miniMap.scrollWheelZoom.disable();
+          minimap._miniMap.dragging.disable(); // Staticize.
         }
       }
     });
