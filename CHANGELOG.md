@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.0.12-dev
+* Added *Melbourne* post.
 * Added additional zoom levels to smaller maps.
 * Updated `html-minifier` dependency.
 
