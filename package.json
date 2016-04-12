@@ -37,7 +37,7 @@
     "postbuild" : "rimraf public/css/main.scss public/css/sprite.css && npm run hash",
 
     "build:css"     : "uncss -H ./public -s /css/main.css -u ./.uncssrc 'public/**/*.html' | cleancss --s0 -do public/css/main.css",
-    "build:html"    : "find ./public -iname '*.html' -exec html-minifier -c ./.htmlrc {} -o {} \\;",
+    "build:html"    : "find ./public -iname '*.html' -exec sh -c 'cat {} | html-minifier -c ./.htmlrc -o {}' \\;",
     "prebuild:hugo" : "parallelshell 'npm run make' 'npm run uploads'",
     "build:hugo"    : "./bin/hugo -v",
     "build:img"     : "imagemin -P mozjpeg -P pngquant --speed 1 'public/img/*' ./public/img",
@@ -62,7 +62,7 @@
     "exif-reader"   : "1.0.x",
     "gh-pages"      : "0.11.x",
     "hashmark"      : "3.1.x",
-    "html-minifier" : "1.4.x",
+    "html-minifier" : "1.5.x",
     "imagemin-cli"  : "2.1.x",
     "imagemin-mozjpeg"  : "5.1.x",
     "imagemin-pngquant" : "4.2.x",
