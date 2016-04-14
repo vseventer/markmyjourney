@@ -71,7 +71,7 @@
     "leaflet-dataoptions"   : "vseventer/Leaflet.dataoptions",
     "leaflet-fullscreen"    : "1.0.x",
     "leaflet.markercluster" : "Leaflet/Leaflet.markercluster#v1.0.0-beta.2.0",
-    "leaflet-minimap"       : "3.1.x",
+    "leaflet-minimap"       : "3.3.x",
     "moment"        : "2.12.x",
     "napa"          : "2.3.x",
     "node-sass"     : "3.4.x",

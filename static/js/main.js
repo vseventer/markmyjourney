@@ -176,11 +176,11 @@
         if(20 > latDiff || 20 > lngDiff) {
           // Configure.
           var minimap = new Leaflet.Control.MiniMap(tileLayer(Leaflet), {
-            width  : 100,
-            height : 100,
+            centerFixed : bounds.getCenter(),
+            width       : 100,
+            height      : 100,
             zoomLevelOffset: -8
           }).addTo(map);
-          minimap._miniMap.dragging.disable(); // Staticize.
         }
       }
     });
