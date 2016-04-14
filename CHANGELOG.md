@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.0.12-dev
+### 1.0.12 (April 14, 2016)
 * Added *Melbourne* post.
 * Added additional zoom levels to smaller maps.
 * Updated menu to reflect active menu items.
