@@ -3,10 +3,11 @@ nav.navbar.navbar-full.navbar-light.bg-faded.mmjy-border-bottom
     button.navbar-toggler.hidden-sm-up.pull-xs-right[type="button"][data-toggle="collapse"][data-target=".collapse"] ☰
     a.navbar-brand[href=absURL("/")] #{ Site.Title }
     ul.nav.navbar-nav.navbar-toggleable-xs.collapse
-      li.nav-item
-        a.nav-link[href=absURL("blog/")] Blog
-      li.nav-item
-        a.nav-link[href=ref($, "about.md")] About Mark & Herta
+      $current = Permalink
+      each $node in Site.Menus.main
+        li.nav-item
+          .active ? $current == absURL(URL)
+          a.nav-link[href=absURL(URL + "/")] #{ Name }
       li.nav-item.dropdown
         a.nav-link.dropdown-toggle[data-toggle="dropdown"][href="#"][role="button"] Destinations
         div.dropdown-menu

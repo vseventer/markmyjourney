@@ -4,8 +4,8 @@ title        = "MarkMyJourney"
 
 disableRSS     = true
 disableSitemap = true
-
-paginate = 5
+paginate       = 5
+SectionPagesMenu = "main"
 
 [blackfriday]
   fractions = false

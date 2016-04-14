@@ -3,6 +3,7 @@
 ### 1.0.12-dev
 * Added *Melbourne* post.
 * Added additional zoom levels to smaller maps.
+* Updated menu to reflect active menu items.
 * Updated `html-minifier` and `leaflet-minimap` dependencies.
 
 ### 1.0.11 (April 7, 2016)
