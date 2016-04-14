@@ -4164,6 +4164,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2993.JPG",
+        "date": "2016-04-14T11:15:42",
+        "description": "Southern Cross Station.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95,
+          -37.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3156.JPG",
         "date": "2014-10-22T21:25:10",
         "description": "Electronics.",
