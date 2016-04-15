@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.13-dev
+* Added missing dates to uploads.
+
 ### 1.0.12 (April 14, 2016)
 * Added *Melbourne* post.
 * Added additional zoom levels to smaller maps.
