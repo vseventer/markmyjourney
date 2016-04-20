@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.0.13 (April 21, 2016)
+* Added *Melbourne Festivals* post.
 * Added missing dates to uploads.
 * Updated `html-minifier`, `moment`, and `webpack` dependencies.
 

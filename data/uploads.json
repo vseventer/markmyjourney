@@ -1380,6 +1380,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_0783.JPG",
+        "date": "2015-08-08T13:47:28",
+        "description": "Etihad Stadium, mainly home to Australian Football matches.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95,
+          -37.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_0784.JPG",
+        "date": "2015-08-08T13:54:00",
+        "description": "Australian Football.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95,
+          -37.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_0806.JPG",
         "date": "2015-08-09T13:53:21",
         "description": "Pink lake in Westgate Park.",
@@ -1908,6 +1940,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1133.JPG",
+        "date": "2015-12-20T13:08:12",
+        "description": "Christmas in the Crown on Southbank.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1150.JPG",
         "date": "2015-12-25T14:03:13",
         "description": "Cradle Mountain.",
@@ -2420,6 +2468,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1406.JPG",
+        "date": "2016-01-14T19:04:43",
+        "description": "Foodtrucks at the South Melbourne Night Market.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1410.JPG",
+        "date": "2016-01-14T20:00:14",
+        "description": "Crème brûlée truck.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1426.JPG",
         "date": "2016-01-17T15:46:25",
         "description": "Emerald Hill Library in South Melbourne.",
@@ -2430,6 +2510,54 @@
         "coordinates": [
           144.96,
           -37.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1446.JPG",
+        "date": "2016-01-24T14:06:06",
+        "description": "Men’s Doubles game at the Australian Open.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98,
+          -37.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1456.JPG",
+        "date": "2016-02-03T18:41:14",
+        "description": "Food stalls at the Queen Victoria Night Market.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1466.JPG",
+        "date": "2016-02-05T21:19:24",
+        "description": "Chinese New Year festivities on the Southbank Promenade.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.82
         ]
       }
     },
@@ -3262,6 +3390,70 @@
         "coordinates": [
           115.17,
           -8.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2145.JPG",
+        "date": "2016-02-21T00:12:33",
+        "description": "Light projections onto the Royal Exhibition Building during White Night.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97,
+          -37.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2174.JPG",
+        "date": "2016-02-21T02:38:07",
+        "description": "Beautiful light projections onto the Arts Centre Melbourne.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97,
+          -37.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2185.JPG",
+        "date": "2016-02-27T16:10:45",
+        "description": "Champagne truck on the Southbank Promenade during summer.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2192.JPG",
+        "date": "2016-02-27T17:35:06",
+        "description": "Performance during the Lonsdale Street Greek Festival.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97,
+          -37.81
         ]
       }
     },
