@@ -1,7 +1,8 @@
 # Changelog
 
-### 1.0.13-dev
+### 1.0.13 (April 21, 2016)
 * Added missing dates to uploads.
+* Updated `html-minifier`, `moment`, and `webpack` dependencies.
 
 ### 1.0.12 (April 14, 2016)
 * Added *Melbourne* post.
