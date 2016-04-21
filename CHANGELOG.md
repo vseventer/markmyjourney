@@ -3,7 +3,7 @@
 ### 1.0.13 (April 21, 2016)
 * Added *Melbourne Festivals* post.
 * Added missing dates to uploads.
-* Updated `html-minifier`, `moment`, and `webpack` dependencies.
+* Updated `html-minifier`, `moment`, `node-sass`, and `webpack` dependencies.
 
 ### 1.0.12 (April 14, 2016)
 * Added *Melbourne* post.
