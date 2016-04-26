@@ -174,8 +174,7 @@
         var latDiff = Math.abs(bounds.getNorth() - bounds.getSouth()),
             lngDiff = Math.abs(bounds.getWest()  - bounds.getEast());
         if(20 > latDiff || 20 > lngDiff) {
-          // Configure.
-          var minimap = new Leaflet.Control.MiniMap(tileLayer(Leaflet), {
+          new Leaflet.Control.MiniMap(tileLayer(Leaflet), { // Configure.
             centerFixed : bounds.getCenter(),
             width       : 100,
             height      : 100,

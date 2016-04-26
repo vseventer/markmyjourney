@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.0.14-dev
+* Optimized `js/main.js`.
+* Updated `html-minifier` and `node-sass` dependencies.
+
 ### 1.0.13 (April 21, 2016)
 * Added *Melbourne Festivals* post.
 * Added missing dates to uploads.
