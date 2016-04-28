@@ -628,6 +628,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_0285.JPG",
+        "date": "2015-04-29T15:20:07",
+        "description": "Chocolates from the Blue Mountains.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.31,
+          -33.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_0292.JPG",
         "date": "2015-04-30T09:13:20",
         "description": "Windy beaches of Kiama.",
@@ -686,6 +702,38 @@
         "coordinates": [
           144.96,
           -37.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_0372.JPG",
+        "date": "2015-05-03T14:57:17",
+        "description": "Tim tams, a popular chocolate-based snack.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_0392.JPG",
+        "date": "2015-05-11T13:01:24",
+        "description": "Vegemite; put thinly on a toast with thick layer of butter.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99,
+          -37.84
         ]
       }
     },
@@ -814,6 +862,22 @@
         "coordinates": [
           143.55,
           -38.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_0509.JPG",
+        "date": "2015-05-23T20:48:53",
+        "description": "One of many local beers available in the local liquor store.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.82,
+          -38.7
         ]
       }
     },
@@ -1124,6 +1188,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_0664.JPG",
+        "date": "2015-06-14T18:33:13",
+        "description": "Crown Golden Ale, but still quite a heavy taste.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_0674.JPG",
         "date": "2015-06-20T16:35:53",
         "description": "Parliament House, home of the Victorian government.",
@@ -1204,6 +1284,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_0690.JPG",
+        "date": "2015-07-03T22:00:49",
+        "description": "Victoria Bitter beer, which indeed tasted quite bitter.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.03,
+          -27.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_0692.JPG",
+        "date": "2015-07-04T12:45:13",
+        "description": "Meat pie with ketchup.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.43,
+          -27.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_0695.JPG",
         "date": "2015-07-04T13:15:52",
         "description": "Surfers Paradise.",
@@ -1256,6 +1368,22 @@
         "date": "2015-07-04T16:47:41",
         "description": "Sunset over Brisbane.",
         "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.96,
+          -27.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_0711.JPG",
+        "date": "2015-07-04T16:55:05",
+        "description": "Light beer, but lacking in taste and thus not our favorite.",
+        "orientation": "portrait"
       },
       "geometry": {
         "type": "Point",
@@ -1348,6 +1476,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_0758.JPG",
+        "date": "2015-08-01T12:09:10",
+        "description": "Lamington.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_0772.JPG",
         "date": "2014-10-22T16:26:37",
         "description": "Jonge Jenever (gin).",
@@ -1422,6 +1566,38 @@
         "coordinates": [
           144.91,
           -37.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_0827.JPG",
+        "date": "2015-08-15T19:40:17",
+        "description": "Carlton Draught, also a darker and heavier beer.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_0841.JPG",
+        "date": "2015-08-22T21:49:02",
+        "description": "Kangaroo.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145,
+          -37.84
         ]
       }
     },
@@ -1614,6 +1790,22 @@
         "coordinates": [
           149.14,
           -35.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_0995.JPG",
+        "date": "2015-09-19T16:33:36",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94,
+          -37.81
         ]
       }
     },
@@ -1956,6 +2148,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1143.JPG",
+        "date": "2015-12-25T11:02:30",
+        "description": "Tasmanian yoghurt.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.12,
+          -41.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1150.JPG",
         "date": "2015-12-25T14:03:13",
         "description": "Cradle Mountain.",
@@ -2030,6 +2238,22 @@
         "coordinates": [
           147.12,
           -41.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1172.JPG",
+        "date": "2015-12-26T09:45:24",
+        "description": "Brie from Tasmania.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.14,
+          -41.43
         ]
       }
     },
@@ -2148,6 +2372,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1238.JPG",
+        "date": "2015-12-27T14:14:37",
+        "description": "Whiskey tasting in Hobart, Tasmania.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33,
+          -42.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1240.JPG",
         "date": "2015-12-27T14:49:54",
         "description": "Hobart Street Mall.",
@@ -2167,6 +2407,22 @@
         "src": "IMG_1242.JPG",
         "date": "2015-12-27T15:12:58",
         "description": "Salamanca Market.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33,
+          -42.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1245.JPG",
+        "date": "2015-12-27T15:32:54",
+        "description": "Lavender icecream, found in Tasmania.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -2244,6 +2500,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1271.JPG",
+        "date": "2015-12-29T18:03:11",
+        "description": "Cocktails on the Southbank Promenade.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1299.JPG",
         "date": "2016-01-09T08:45:54",
         "description": "Our tiny rental car squeezed in the corner of the ferry.",
@@ -2263,6 +2535,22 @@
         "src": "IMG_1304.JPG",
         "date": "2016-01-09T11:31:10",
         "description": "A selection of local ligurian honey, sheep halloumi cheese, and yoghurt.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.55,
+          -35.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1305.JPG",
+        "date": "2016-01-09T11:36:43",
+        "description": "Tasmanian cheese, honey, and yoghurt tasting.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -2350,6 +2638,38 @@
         "coordinates": [
           136.71,
           -36.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1348.JPG",
+        "date": "2016-01-09T21:16:03",
+        "description": "Ligurian honey, exclusively produced in Tasmania.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.35,
+          -35.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1349.JPG",
+        "date": "2016-01-09T21:16:23",
+        "description": "Tasmanian sheep haloumi.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.35,
+          -35.45
         ]
       }
     },
@@ -2500,6 +2820,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1418.JPG",
+        "date": "2016-01-15T20:11:28",
+        "description": "Mountain Goat beer, produced in Richmond.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97,
+          -37.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1426.JPG",
         "date": "2016-01-17T15:46:25",
         "description": "Emerald Hill Library in South Melbourne.",
@@ -2558,6 +2894,22 @@
         "coordinates": [
           144.96,
           -37.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1539.JPG",
+        "date": "2016-02-13T08:20:49",
+        "description": "“Fresh” snacks for on the road in Kakadu National Park.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.68,
+          -12.9
         ]
       }
     },
@@ -2660,6 +3012,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1588.JPG",
+        "date": "2016-02-13T20:53:09",
+        "description": "Char-grilled local barramundi.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.85,
+          -12.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1599.JPG",
         "date": "2016-02-14T11:39:32",
         "description": "Darwin Waterfront.",
@@ -2734,6 +3102,22 @@
         "coordinates": [
           130.79,
           -13.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1621.JPG",
+        "date": "2016-02-14T17:50:27",
+        "description": "Crocodile schnitzel.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.84,
+          -12.46
         ]
       }
     },
@@ -3396,6 +3780,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2125.JPG",
+        "date": "2016-02-20T22:53:39",
+        "description": "Glow-in-the-dark ice cream, served during White Night.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97,
+          -37.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2145.JPG",
         "date": "2016-02-21T00:12:33",
         "description": "Light projections onto the Royal Exhibition Building during White Night.",
@@ -3700,6 +4100,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2409.JPG",
+        "date": "2016-03-06T17:05:38",
+        "description": "Our favorite beer in Australia.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.72,
+          -20.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2410.JPG",
         "date": "2016-03-07T09:32:49",
         "description": "View from our hotel over Pioneer Bay.",
@@ -3726,6 +4142,22 @@
         "coordinates": [
           148.73,
           -20.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2459.JPG",
+        "date": "2016-03-13T10:44:50",
+        "description": "Orange marmelade for breakfast.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.82
         ]
       }
     },
@@ -3828,6 +4260,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2547.JPG",
+        "date": "2016-03-19T17:07:17",
+        "description": "A dark beer produced in Sydney, but available nationwide.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.99,
+          -25.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2559.JPG",
         "date": "2016-03-19T18:24:08",
         "description": "Mosquitos everywhere in the outback, making it very necessary to look ridicuolous.",
@@ -3917,6 +4365,22 @@
         "type": "Point",
         "coordinates": [
           153.1,
+          -26.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2640.JPG",
+        "date": "2016-03-23T20:03:55",
+        "description": "Passionfruit mojito (left).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09,
           -26.39
         ]
       }

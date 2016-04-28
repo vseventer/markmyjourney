@@ -1,6 +1,8 @@
 # Changelog
 
 ### 1.0.14 (April 28, 2016)
+* Added *Australia Food* post.
+* Added photo to *Melbourne Festivals* post.
 * Optimized `js/main.js`.
 * Set current location to New Zealand.
 * Updated `html-minifier` and `node-sass` dependencies.

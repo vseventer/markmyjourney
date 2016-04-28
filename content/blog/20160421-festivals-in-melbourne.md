@@ -6,8 +6,8 @@ destinations = [ "oceania", "australia" ]
 places  = [ "2158177-melbourne-au" ]
 photos  = [
   "IMG_1406.JPG", "IMG_1410.JPG", "IMG_1456.JPG", "IMG_1446.JPG", "IMG_1466.JPG",
-  "IMG_2145.JPG", "IMG_2174.JPG", "IMG_2192.JPG", "IMG_0783.JPG", "IMG_0784.JPG",
-  "IMG_1133.JPG", "IMG_2185.JPG"
+  "IMG_2145.JPG", "IMG_2174.JPG", "IMG_2125.JPG", "IMG_2192.JPG", "IMG_0783.JPG",
+  "IMG_0784.JPG", "IMG_1133.JPG", "IMG_2185.JPG"
 ]
 cover = "IMG_2174.JPG"
 +++
