@@ -81,7 +81,10 @@
           "dstOffset": "UTC+11:00",
           "gmtOffset": "UTC+11:00"
         },
-        "period": { "start": "2016-02-19" }
+        "period": {
+          "start" : "2016-02-19",
+          "end"   : "2016-04-23"
+        }
       },
       "geometry": {
         "type": "Point",
@@ -90,6 +93,24 @@
           -37.81
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2186224,
+        "slug": "2186224-new-zealand",
+        "name": "New Zealand",
+        "region": null,
+        "country": {
+          "code": "NZ",
+          "slug": "new-zealand",
+          "name": "New Zealand"
+        },
+        "population": "4.3m",
+        "timezone": null,
+        "period": { "start" : "2016-04-23" }
+      },
+      "geometry": null
     }
   ]
 }

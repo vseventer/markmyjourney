@@ -1,7 +1,8 @@
 # Changelog
 
-### 1.0.14-dev
+### 1.0.14 (April 28, 2016)
 * Optimized `js/main.js`.
+* Set current location to New Zealand.
 * Updated `html-minifier` and `node-sass` dependencies.
 
 ### 1.0.13 (April 21, 2016)
