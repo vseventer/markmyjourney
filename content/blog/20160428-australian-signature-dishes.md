@@ -12,7 +12,7 @@ photos  = [
 ]
 cover = "IMG_0841.JPG"
 +++
-If you’re walking through the international food isle you wouldn’t exactly expect Australian foods. Nevertheless, having spent over a year in Australia, there are definitely certain foods and drinks you can call Australian, like people.
+If you’re walking through the international food isle you wouldn’t exactly expect Australian foods. Nevertheless, having spent over a year in Australia, there are definitely certain foods and drinks you can call Australian, including some you wouldn’t expect.
 <!--more-->
 For breakfast, the infamous vegemite is a hit or miss (mostly miss among foreigners), as it has a rather acquired taste. The trick is to put a thin layer of vegemite onto a toast with a thick layer of butter. This is the way Australians eat it, and the only way to reduce the intense taste vegemite has on its own. Another breakfast item that has an acquired taste is weetbix. This is like the Australian version of oatmeal, and we quite liked the taste of it.
 
