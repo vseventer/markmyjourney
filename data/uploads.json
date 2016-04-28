@@ -1796,22 +1796,6 @@
     {
       "type": "Feature",
       "properties": {
-        "src": "IMG_0995.JPG",
-        "date": "2015-09-19T16:33:36",
-        "description": null,
-        "orientation": "landscape"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.94,
-          -37.81
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "src": "IMG_1008.JPG",
         "date": "2015-09-27T12:28:52",
         "description": "Along the Capital City Trail, a biking and walking trail around Melbourne.",
