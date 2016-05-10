@@ -1,6 +1,7 @@
 # Changelog
 
-### 1.0.15-dev
+### 1.0.15 (May 10, 2016)
+* Added *New Zealand* post.
 * Fixed typo in *Australia Food* post.
 
 ### 1.0.14 (April 28, 2016)
