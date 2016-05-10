@@ -3,6 +3,7 @@
 ### 1.0.15 (May 10, 2016)
 * Added *New Zealand* post.
 * Fixed typo in *Australia Food* post.
+* Renamed food posts to *Top Foods from <country>*.
 
 ### 1.0.14 (April 28, 2016)
 * Added *Australia Food* post.
