@@ -4820,6 +4820,150 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3052.JPG",
+        "date": "2016-04-24T10:34:30",
+        "description": "Road leading into Milford Sound.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168,
+          -45.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3058.JPG",
+        "date": "2016-04-24T10:42:40",
+        "description": "Mirror Lakes.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.01,
+          -45.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3082.JPG",
+        "date": "2016-04-24T11:50:30",
+        "description": "Road descending into Milford Sound.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.97,
+          -44.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3100.JPG",
+        "date": "2016-04-24T12:36:52",
+        "description": "Just after leaving the harbor.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.92,
+          -44.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3103.JPG",
+        "date": "2016-04-24T12:37:50",
+        "description": "Raining away on the boat in Milford Sound.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.91,
+          -44.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3112.JPG",
+        "date": "2016-04-24T12:52:00",
+        "description": "The “view.”",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.89,
+          -44.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3124.JPG",
+        "date": "2016-04-24T13:01:21",
+        "description": "Dolphins.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.88,
+          -44.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3139.JPG",
+        "date": "2016-04-24T13:20:46",
+        "description": "The rain did make for plenty of beautiful waterfalls.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.84,
+          -44.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3152.JPG",
+        "date": "2016-04-25T12:13:11",
+        "description": "Queenstown.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.66,
+          -45.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3156.JPG",
         "date": "2014-10-22T21:25:10",
         "description": "Electronics.",
@@ -4830,6 +4974,38 @@
         "coordinates": [
           4.86,
           52.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3201.JPG",
+        "date": "2016-04-26T13:37:11",
+        "description": "View from Frankton over Kelvin Heights (left) and Queenstown (right).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.73,
+          -45.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3214.JPG",
+        "date": "2016-04-26T15:05:33",
+        "description": "Lake Wakatipu.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.65,
+          -45.03
         ]
       }
     },
@@ -4884,6 +5060,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3231.JPG",
+        "date": "2016-04-26T15:08:24",
+        "description": "View over Queenstown from the Ben Lomond Scenic Reserve.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.65,
+          -45.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3242.JPG",
         "date": "2014-11-09T20:26:50",
         "description": "Pang Gee fritter, a Thai desert made of coconut, taro and palm sugar with corn.",
@@ -4916,6 +5108,278 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3303.JPG",
+        "date": "2016-04-27T11:38:44",
+        "description": "Lake Wanaka; one of many lakes we passed on the way to Greymouth.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.13,
+          -44.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3314.JPG",
+        "date": "2016-04-27T13:21:14",
+        "description": "Picturesque stop on the way to Greymouth.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.38,
+          -44.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3341.JPG",
+        "date": "2016-04-28T10:43:21",
+        "description": "Arthurs Pass.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.56,
+          -42.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3352.JPG",
+        "date": "2016-04-28T11:45:18",
+        "description": "Castle Hill.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.72,
+          -43.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3357.JPG",
+        "date": "2016-04-28T13:32:30",
+        "description": "Christchurch.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64,
+          -43.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3366.JPG",
+        "date": "2016-04-28T13:59:37",
+        "description": "Christchurch Cathedral.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64,
+          -43.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3370.JPG",
+        "date": "2016-04-28T14:14:19",
+        "description": "Re:Start Mall.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63,
+          -43.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3386.JPG",
+        "date": "2016-04-29T16:10:46",
+        "description": "Kaikoura lookout on the way to Picton.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.69,
+          -42.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3395.JPG",
+        "date": "2016-04-29T16:12:48",
+        "description": "Our campervan.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.69,
+          -42.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3414.JPG",
+        "date": "2016-04-30T11:48:30",
+        "description": "Leaving the South Island by ferry.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.08,
+          -41.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3466.JPG",
+        "date": "2016-04-30T14:24:02",
+        "description": "Approaching Wellington on the North Island.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.81,
+          -41.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3484.JPG",
+        "date": "2016-04-30T15:29:31",
+        "description": "Wellington.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.78,
+          -41.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3537.JPG",
+        "date": "2016-05-01T15:16:53",
+        "description": "Peak of Mount Ruapehu in Tongariro National Park.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.73,
+          -39.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3550.JPG",
+        "date": "2016-05-01T17:12:23",
+        "description": "Barbequing.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.07,
+          -38.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3579.JPG",
+        "date": "2016-05-02T10:38:13",
+        "description": "Waikato River and the cliff used for bungee jumps and swings.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.09,
+          -38.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3595.JPG",
+        "date": "2016-05-02T11:27:32",
+        "description": "Huka Falls in Taupo.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.09,
+          -38.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3608.JPG",
+        "date": "2016-05-02T16:39:55",
+        "description": "View from our camp spot over Tokaanu Bay near Taupo.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.77,
+          -38.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3610.JPG",
         "date": "2015-01-11T12:25:44",
         "description": "The ferry from Angra dos Reis to Ilha Grande.",
@@ -4942,6 +5406,22 @@
         "coordinates": [
           -46.48,
           -23.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3643.JPG",
+        "date": "2016-05-03T10:20:37",
+        "description": "The inside of our campervan. During the day, the bed is converted to the seating area.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.77,
+          -38.96
         ]
       }
     },
@@ -5060,6 +5540,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3777.JPG",
+        "date": "2016-05-04T09:24:15",
+        "description": "Misty Rotorua Lake.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.22,
+          -38.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3780.JPG",
         "date": "2015-02-03T18:41:23",
         "description": "Helado: the Argentinian variant of frozen yoghurt. Simply delicous: we highly recommend the “El Calafate” (blueberry) flavour.",
@@ -5086,6 +5582,22 @@
         "coordinates": [
           -70.91,
           -53.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3790.JPG",
+        "date": "2016-05-04T12:11:06",
+        "description": "The colors of Artist’s Palette in Wai-O-Tapu.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.37,
+          -38.36
         ]
       }
     },
@@ -5172,6 +5684,70 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3841.JPG",
+        "date": "2016-05-04T12:46:55",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.37,
+          -38.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3861.JPG",
+        "date": "2016-05-04T13:03:04",
+        "description": "Primrose Terrace.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.37,
+          -38.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3871.JPG",
+        "date": "2016-05-04T13:15:31",
+        "description": "Bright green lake.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.37,
+          -38.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3885.JPG",
+        "date": "2016-05-04T16:00:37",
+        "description": "Mud bath at Hells Gate.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.36,
+          -38.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3899.JPG",
         "date": "2015-02-28T16:14:57",
         "description": "Selection of Bolivian desserts - we recommend getting them fresh from the bakery though.",
@@ -5198,6 +5774,22 @@
         "coordinates": [
           -68.15,
           -16.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3920.JPG",
+        "date": "2016-05-06T11:52:30",
+        "description": "Entering Hobbiton.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.68,
+          -37.86
         ]
       }
     },
@@ -5236,6 +5828,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3940.JPG",
+        "date": "2016-05-06T12:13:41",
+        "description": "Inside one of many Hobbit houses.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.68,
+          -37.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3958.JPG",
+        "date": "2016-05-06T12:28:31",
+        "description": "Hill full of tiny houses.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.68,
+          -37.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3967.JPG",
         "date": "2015-03-14T16:15:35",
         "description": "A taxi we never should have taken in Lima. Picture says it all.",
@@ -5246,6 +5870,38 @@
         "coordinates": [
           -77.03,
           -12.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4014.JPG",
+        "date": "2016-05-07T09:06:04",
+        "description": "Footpath leading towards Cathedral Cove.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.79,
+          -36.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4016.JPG",
+        "date": "2016-05-07T09:16:53",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.79,
+          -36.83
         ]
       }
     },
@@ -5316,6 +5972,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4042.JPG",
+        "date": "2016-05-07T09:25:49",
+        "description": "Cathedral Cove.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.79,
+          -36.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4062.JPG",
         "date": "2015-03-28T19:57:01",
         "description": "Sour mango with salt, a common snack but we felt salt was not needed.",
@@ -5326,6 +5998,134 @@
         "coordinates": [
           -78.42,
           -1.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4066.JPG",
+        "date": "2016-05-07T10:37:56",
+        "description": "Boiling sand at the Hot Water Beach.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.82,
+          -36.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4075.JPG",
+        "date": "2016-05-07T10:44:45",
+        "description": "A warm-water hole at the beach.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.82,
+          -36.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4083.JPG",
+        "date": "2016-05-07T16:33:03",
+        "description": "Auckland.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77,
+          -36.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4113.JPG",
+        "date": "2016-05-08T11:26:32",
+        "description": "West Brook Winery.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.54,
+          -36.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4127.JPG",
+        "date": "2016-05-08T13:54:07",
+        "description": "Black sand beach of Muriwai.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.43,
+          -36.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4141.JPG",
+        "date": "2016-05-08T16:18:09",
+        "description": "Mission Bay.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.83,
+          -36.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4148.JPG",
+        "date": "2016-05-08T16:34:14",
+        "description": "View over Auckland from Cliff Rd.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.86,
+          -36.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4167.JPG",
+        "date": "2016-05-09T10:06:52",
+        "description": "Takahē bird, unique to New Zealand.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.72,
+          -36.86
         ]
       }
     },

@@ -108,7 +108,66 @@
         },
         "population": "4.3m",
         "timezone": null,
-        "period": { "start" : "2016-04-23" }
+        "period": {
+          "start" : "2016-04-23",
+          "end"   : "2016-05-09"
+        }
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2158177,
+        "slug": "2158177-melbourne-au",
+        "name": "Melbourne",
+        "region": "Victoria",
+        "country": {
+          "code": "AU",
+          "slug": "australia",
+          "name": "Australia"
+        },
+        "population": "4.2m",
+        "timezone": {
+          "name": "Australia/Melbourne",
+          "dstOffset": "UTC+11:00",
+          "gmtOffset": "UTC+11:00"
+        },
+        "period": {
+          "start" : "2016-05-09",
+          "end"   : "2016-05-11"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96,
+          -37.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 290557,
+        "slug": "290557-united-arab-emirates",
+        "name": "United Arab Emirates",
+        "region": null,
+        "country": {
+          "code": "AE",
+          "slug": "united-arab-emirates",
+          "name": "United Arab Emirates"
+        },
+        "population": "5.0m",
+        "timezone": {
+          "name": "Asia/Dubai",
+          "dstOffset": "UTC+12:00",
+          "gmtOffset": "UTC+12:00"
+        },
+        "period": {
+          "start" : "2016-05-11",
+          "end"   : "2016-05-14"
+        }
       },
       "geometry": null
     }

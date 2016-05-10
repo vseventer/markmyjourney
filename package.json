@@ -74,7 +74,7 @@
     "leaflet-minimap"       : "3.3.x",
     "moment"        : "2.13.x",
     "napa"          : "2.3.x",
-    "node-sass"     : "3.6.x",
+    "node-sass"     : "3.7.x",
     "parallelshell" : "2.0.x",
     "replace"       : "0.3.x",
     "rimraf"        : "2.5.x",
