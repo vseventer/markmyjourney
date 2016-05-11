@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.16 (May 14, 2016)
+* Set current location to Mijdrecht, The Netherlands.
+
 ### 1.0.15 (May 10, 2016)
 * Added *New Zealand* post.
 * Fixed typo in *Australia Food* post.
