@@ -19,8 +19,9 @@ div.card
     if $country.properties.population
       dt Population
       dd #{ $country.properties.population }
-    dt Currency
-    dd #{ $country.properties.currency.name} (#{ $country.properties.currency.code })
+    if $country.properties.current
+      dt Currency
+      dd #{ $country.properties.currency.name} (#{ $country.properties.currency.code })
     if $country.properties.timezone
       dt Timezone
       dd #{ $country.properties.timezone.gmtOffset }
