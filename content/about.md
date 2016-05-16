@@ -11,4 +11,4 @@ weight  = 100
 >
 > <cite>Hugh Laurie</cite>
 
-With this mentality in mind we decided to embark on a seven month adventure throughout Asia and South America, with the intention of staying Down Under for a while in Australia. Beyond that? The possibilities are endless.
+In 2014 we left the United States for a seven month adventure throughout Asia and South America. Afterwards, we lived Down Under for a year in Melbourne, exploring the Pacific. Currently, we are backpacking around Europe, and eventually planning to settle in London. Beyond that? The possibilities are endless.

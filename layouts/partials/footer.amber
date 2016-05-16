@@ -7,7 +7,7 @@ div.container-fluid.bg-faded.p-y-2.mmjy-border-top
             img.img-circle.img-fluid.media-object[src=absURL("img/about-us.jpg")]
           div.media-body
             h4.media-heading About Us
-            p We, Mark & Herta, decided to embark on a seven month adventure throughout Asia and South America, with the intention of staying Down Under for a while in Australia. Beyond that? The possibilities are endless.
+            p We, Mark & Herta, are currently backpacking through Europe, and eventually planning to settle in London. Beyond that? The possibilities are endless.
             a[href=ref($, "about.md")] Read Mark & Herta’s full story.
 
       $locations = last(1, Site.Data.locations.features)

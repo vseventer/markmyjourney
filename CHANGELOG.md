@@ -3,6 +3,7 @@
 ### 1.0.16 (May 16, 2016)
 * Added *New Zealand Food* post.
 * Set current location to Mijdrecht, The Netherlands.
+* Updated *About* page.
 
 ### 1.0.15 (May 10, 2016)
 * Added *New Zealand* post.
