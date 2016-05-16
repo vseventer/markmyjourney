@@ -4820,6 +4820,70 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3034.JPG",
+        "date": "2016-04-23T19:12:59",
+        "description": "Pinot Gris from the Gisborne region.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.79,
+          -45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3035.JPG",
+        "date": "2016-04-23T19:13:34",
+        "description": "Whittaker’s peanut slab",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.79,
+          -45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3036.JPG",
+        "date": "2016-04-23T19:18:53",
+        "description": "Hokey Pokey ice cream.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.79,
+          -45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3038.JPG",
+        "date": "2016-04-23T21:17:27",
+        "description": "Kiwifruit (left) and feijoa (right).",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.79,
+          -45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3052.JPG",
         "date": "2016-04-24T10:34:30",
         "description": "Road leading into Milford Sound.",
@@ -4900,6 +4964,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3108.JPG",
+        "date": "2016-04-24T12:45:56",
+        "description": "Fish and chips.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.91,
+          -44.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3112.JPG",
         "date": "2016-04-24T12:52:00",
         "description": "The “view.”",
@@ -4964,6 +5044,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3154.JPG",
+        "date": "2016-04-25T12:30:06",
+        "description": "Chocolate fish.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.66,
+          -45.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3156.JPG",
         "date": "2014-10-22T21:25:10",
         "description": "Electronics.",
@@ -4974,6 +5070,102 @@
         "coordinates": [
           4.86,
           52.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3168.JPG",
+        "date": "2016-04-25T12:52:08",
+        "description": "Wine truck in Queenstown.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.66,
+          -45.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3171.JPG",
+        "date": "2016-04-25T13:03:22",
+        "description": "Kiwifruit and Hokey Pokey chocolates.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.66,
+          -45.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3184.JPG",
+        "date": "2016-04-25T15:01:30",
+        "description": "Spaghetti on toast.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.79,
+          -45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3185.JPG",
+        "date": "2016-04-25T17:33:51",
+        "description": "Feijoas.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.74,
+          -45.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3191.JPG",
+        "date": "2016-04-25T18:27:44",
+        "description": "Lamb shoulder.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.79,
+          -45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3197.JPG",
+        "date": "2016-04-26T12:49:43",
+        "description": "Weet-bix, a cereal breakfast when combined with milk.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.74,
+          -45.03
         ]
       }
     },
@@ -5108,6 +5300,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3287.JPG",
+        "date": "2016-04-26T18:31:59",
+        "description": "Venison.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.66,
+          -45.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3303.JPG",
         "date": "2016-04-27T11:38:44",
         "description": "Lake Wanaka; one of many lakes we passed on the way to Greymouth.",
@@ -5134,6 +5342,38 @@
         "coordinates": [
           169.38,
           -44.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3334.JPG",
+        "date": "2016-04-27T19:47:59",
+        "description": "New Zealand mussels.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.19,
+          -42.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3336.JPG",
+        "date": "2016-04-28T08:55:48",
+        "description": "Piako yoghurt for breakfast.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.19,
+          -42.47
         ]
       }
     },
@@ -5188,6 +5428,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3361.JPG",
+        "date": "2016-04-28T13:41:13",
+        "description": "L&P.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64,
+          -43.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3366.JPG",
         "date": "2016-04-28T13:59:37",
         "description": "Christchurch Cathedral.",
@@ -5220,6 +5476,70 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3374.JPG",
+        "date": "2016-04-28T15:04:17",
+        "description": "Kiwianos in the supermarket.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64,
+          -43.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3377.JPG",
+        "date": "2016-04-28T17:47:21",
+        "description": "Hokey Pokey seasoning.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61,
+          -43.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3378.JPG",
+        "date": "2016-04-28T18:11:00",
+        "description": "Marmite.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61,
+          -43.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3381.JPG",
+        "date": "2016-04-28T20:41:37",
+        "description": "Kiwiano (left) and golden kiwifruit (right).",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61,
+          -43.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3386.JPG",
         "date": "2016-04-29T16:10:46",
         "description": "Kaikoura lookout on the way to Picton.",
@@ -5246,6 +5566,54 @@
         "coordinates": [
           173.69,
           -42.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3408.JPG",
+        "date": "2016-04-29T20:06:20",
+        "description": "Kumara chips.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.96,
+          -41.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3409.JPG",
+        "date": "2016-04-29T20:08:58",
+        "description": "Pavlova, airy cake topped with whipped cream and frozen fruits.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.96,
+          -41.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3411.JPG",
+        "date": "2016-04-29T21:03:07",
+        "description": "Manuka honey.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.96,
+          -41.34
         ]
       }
     },
@@ -5780,6 +6148,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3910.JPG",
+        "date": "2016-05-06T09:00:46",
+        "description": "Ginger slice.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.21,
+          -38.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3920.JPG",
         "date": "2016-05-06T11:52:30",
         "description": "Entering Hobbiton.",
@@ -5870,6 +6254,22 @@
         "coordinates": [
           -77.03,
           -12.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4006.JPG",
+        "date": "2016-05-06T17:23:02",
+        "description": "Popular and decent beers from New Zealand.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.8,
+          -36.83
         ]
       }
     },
@@ -6068,6 +6468,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4119.JPG",
+        "date": "2016-05-08T12:45:14",
+        "description": "Soljans Estate Winery near Auckland.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.58,
+          -36.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4127.JPG",
         "date": "2016-05-08T13:54:07",
         "description": "Black sand beach of Muriwai.",
@@ -6078,6 +6494,22 @@
         "coordinates": [
           174.43,
           -36.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4131.JPG",
+        "date": "2016-05-08T14:33:40",
+        "description": "Real fruit ice cream.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.57,
+          -36.78
         ]
       }
     },
@@ -6142,6 +6574,22 @@
         "coordinates": [
           -74.08,
           4.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4195.JPG",
+        "date": "2016-05-09T13:34:57",
+        "description": "Villa Maria winery next to Auckland Airport.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77,
+          -36.98
         ]
       }
     },

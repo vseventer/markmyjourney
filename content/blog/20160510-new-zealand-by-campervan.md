@@ -46,7 +46,7 @@ One big thing to do here is to hike the Tongariro Alpine Crossing; a 19km hike t
 ## Rotorua
 The area of Rotorua is known for its thermal pools, mud baths, and geysers. We visited Wai-O-Tapu, home to various strangely colored lakes, from orange to bright green. After sightseeing, we relaxed by taking a mud bath and jumping in a sulfur pool at Hells Gate.
 
-Another highlight in this region are the glowworm caves: a series of caves home to worms which attract food by shining a light from their *behinds*. In the dark, this makes for an incredible sight, as the cave seems to have thousands of stars. We opted to explore the caves in a special way by abseiling down a cliff, tubing through the caves, before rock climbing back out. Another activity worth doing!
+Another highlight in this region are the glowworm caves at Waitamo: a series of caves home to worms which attract food by shining a light from their *behinds*. In the dark, this makes for an incredible sight, as the cave seems to have thousands of stars. We opted to explore the caves in a special way by abseiling down a cliff, tubing through the caves, before rock climbing back out. Another activity worth doing!
 
 Near Rotorua lies the town of Matamata, close to the movie set of The Lord of the Rings. For a hefty entrance fee of 80 NZ$ (55$) we went on a tour through Hobbiton, the created town built in the grassy hills, home to the *Hobbits*. It was extremely impressive to learn about the tricks of how this movie set was created, and the enormous amount of effort in creating the town in the first place.
 
