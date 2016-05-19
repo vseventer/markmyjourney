@@ -32,9 +32,9 @@ Unfortunately, apart from being unique Milford Sound is also one of the wettest 
 ## Christchurch
 After four days in Queenstown, we drove north along the West Coast towards Greymouth, passing beautiful lakes, glaciers, and mountain streams. From Greymouth, it is a two-hour drive to Christchurch over the mountains via Arthur’s Pass. This spectacular mountain pass, (mostly) closed during the winter months, passes through various settlements and limestone formations like Castle Hill.
 
-Christchurch, unfortunately commonly known because of the devastating 2011 earthquake, is still in the process of rebuilding. Various initiatives, like the Re:Start Mall, a shopping mall built from shipping containers, bring the color and life back into the city.
+Christchurch, unfortunately commonly known because of the devastating 2011 earthquake, is still in the process of rebuilding. Various initiatives, the most notable being the Re:Start Mall, an innovative shopping mall built from shipping containers, bring the color and life back into the city.
 
-In Christchurch we also swapped our car for a campervan to explore the remainder of New Zealand. As high season was ending, campervan prices were very tempting, and we decided to try and travel around for 10 days in a campervan. New Zealand is a perfect place to do this: apart from Auckland roads are mostly empty, there are ample of free places for campervans to park for the night, and cheap diesel made it a cost-effective and flexible way of moving around.
+In Christchurch we also swapped our car for a campervan to explore the remainder of New Zealand. As high season was ending, campervan prices were very tempting, and we decided to try and travel around for 10 days in a campervan. New Zealand is a perfect place to do this: apart from Auckland, roads are mostly empty, there are ample of free places for campervans to park for the night, and cheap diesel made it a cost-effective and flexible way of moving around.
 
 ## Wellington
 From Christchurch, we drove a good four hours to Picton to board the ferry to the North Island, docking in the capital of Wellington. Despite being the capital, the city is rather small, but charming thanks to its location around Wellington Harbour and its mountains. After an afternoon stroll in the city we drove north towards Tongariro National Park.
@@ -44,7 +44,7 @@ Scenery changes quickly in New Zealand: one minute you’re driving through lush
 One big thing to do here is to hike the Tongariro Alpine Crossing; a 19km hike through the mountains. Despite it being sunny in Taupo, the closest town to the National Park, the park officials deemed weather to be too hostile to attempt any hike. As an alternative, we decided to spend two hours rafting the Tongariro River. Back in Taupo we decided to get another adrenaline rush by swinging of a 40m cliff, similar to a bungee jump but in a sitting position. Scary!
 
 ## Rotorua
-The area of Rotorua is known for its thermal pools, mud baths, and geysers. We visited Wai-O-Tapu, home to various strangely colored lakes, from orange to bright green. After sightseeing, we relaxed by taking a mud bath and jumping in a sulfur pool at Hells Gate.
+The area of Rotorua is known for its thermal pools, mud baths, and geysers. We visited Wai-O-Tapu, home to various strangely colored lakes, from orange to bright green. After sightseeing, we relaxed by taking a mud bath and jumping into a sulfur pool at Hells Gate.
 
 Another highlight in this region are the glowworm caves at Waitamo: a series of caves home to worms which attract food by shining a light from their *behinds*. In the dark, this makes for an incredible sight, as the cave seems to have thousands of stars. We opted to explore the caves in a special way by abseiling down a cliff, tubing through the caves, before rock climbing back out. Another activity worth doing!
 

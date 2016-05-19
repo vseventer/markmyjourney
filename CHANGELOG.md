@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.0.17 (May 19, 2016)
+* Rephrased *Great Barrier Reef*, *Uluru*, *Australia Food*, *New Zealand*, *New Zealand Food* posts.
 * Set current location to Stockholm, Sweden.
 
 ### 1.0.16 (May 16, 2016)

@@ -1,6 +1,7 @@
 +++
 date    = "2016-01-28"
-title   = "Diving the Great Barrier Reef"
+title   = "Top Things to do in Cairns: Diving the Great Barrier Reef"
+aliases = [ "/diving-the-great-barrier-reef/" ]
 destinations = [ "oceania", "australia" ]
 places  = [
   "2172797-cairns-au", "8155831-kuranda-national-park-au",
