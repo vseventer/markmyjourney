@@ -190,7 +190,8 @@
           "gmtOffset": "UTC+12:00"
         },
         "period": {
-          "start": "2016-05-14"
+          "start" : "2016-05-14",
+          "end"   : "2016-05-20"
         }
       },
       "geometry": {
@@ -198,6 +199,36 @@
         "coordinates": [
           4.86,
           52.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2673730,
+        "slug": "2673730-stockholm-se",
+        "name": "Stockholm",
+        "region": "Stockholm",
+        "country": {
+          "code": "SE",
+          "slug": "sweden",
+          "name": "Sweden"
+        },
+        "population": "1.3m",
+        "timezone": {
+          "name": "Europe/Stockholm",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start" : "2016-05-20"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06,
+          59.33
         ]
       }
     }

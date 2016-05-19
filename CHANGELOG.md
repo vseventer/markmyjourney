@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.17 (May 19, 2016)
+* Set current location to Stockholm, Sweden.
+
 ### 1.0.16 (May 16, 2016)
 * Added *New Zealand Food* post.
 * Set current location to Mijdrecht, The Netherlands.
