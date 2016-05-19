@@ -2884,6 +2884,54 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1499.jpg",
+        "date": "2014-05-28T10:21:33",
+        "description": "Inside the mosque (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.47,
+          24.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1503.jpg",
+        "date": "2014-05-28T10:38:04",
+        "description": "Inside the mosque (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.47,
+          24.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1510.jpg",
+        "date": "2014-05-29T15:22:40",
+        "description": "Atlantis, The Palm (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.12,
+          25.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1539.JPG",
         "date": "2016-02-13T08:20:49",
         "description": "“Fresh” snacks for on the road in Kakadu National Park.",
@@ -2958,6 +3006,22 @@
         "coordinates": [
           132.81,
           -12.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1567.jpg",
+        "date": "2014-05-30T19:23:04",
+        "description": "Burj Al Arab (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.19,
+          25.14
         ]
       }
     },
@@ -5596,8 +5660,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          173.96,
-          -41.34
+          144.96,
+          -37.82
         ]
       }
     },
@@ -6142,22 +6206,6 @@
         "coordinates": [
           -68.15,
           -16.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "src": "IMG_3910.JPG",
-        "date": "2016-05-06T09:00:46",
-        "description": "Ginger slice.",
-        "orientation": "landscape"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          175.21,
-          -38.19
         ]
       }
     },
@@ -6830,6 +6878,262 @@
         "coordinates": [
           177.28,
           -17.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4566.JPG",
+        "date": "2016-05-12T07:53:34",
+        "description": "Sheikh Zayed Mosque.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.48,
+          24.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4576.JPG",
+        "date": "2016-05-12T10:34:53",
+        "description": "Dubai Marina.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.14,
+          25.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4605.JPG",
+        "date": "2016-05-12T15:36:30",
+        "description": "The aquarium inside Atlantis, The Palm.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.12,
+          25.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4634.JPG",
+        "date": "2016-05-12T17:31:50",
+        "description": "Sharjah desert, spanning from Oman all the way to Saudi Arabia.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.73,
+          25.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4692.JPG",
+        "date": "2016-05-12T18:16:27",
+        "description": "Camel ride.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.63,
+          25.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4716.JPG",
+        "date": "2016-05-12T18:36:25",
+        "description": "“Enjoying” a gum-flavored sheesha.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.63,
+          25.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4742.JPG",
+        "date": "2016-05-12T21:56:59",
+        "description": "Sparklinkg Burj Khalifa from the hotel rooftop bar.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28,
+          25.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4796.JPG",
+        "date": "2016-05-13T13:45:38",
+        "description": "The World.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.21,
+          25.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4820.JPG",
+        "date": "2016-05-13T13:48:23",
+        "description": "Burj Al Arab (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.17,
+          25.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4832.JPG",
+        "date": "2016-05-13T13:49:20",
+        "description": "Palm Islands.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.14,
+          25.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4842.JPG",
+        "date": "2016-05-13T13:50:35",
+        "description": "Atlantis, The Palm (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.11,
+          25.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4868.JPG",
+        "date": "2016-05-13T13:53:21",
+        "description": "View over Dubai.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.2,
+          25.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4906.JPG",
+        "date": "2016-05-13T14:00:51",
+        "description": "The best way to see the architectural highlights of Dubai is by taking a helicopter tour.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.35,
+          25.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4912.JPG",
+        "date": "2016-05-13T14:41:57",
+        "description": "Ice rink inside the Dubai Mall.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28,
+          25.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4930.JPG",
+        "date": "2016-05-13T16:19:58",
+        "description": "Burj Khalifa.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28,
+          25.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4941.JPG",
+        "date": "2016-05-13T16:28:10",
+        "description": "Waterfalls inside the mall.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.28,
+          25.2
         ]
       }
     },

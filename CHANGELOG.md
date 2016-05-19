@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.0.17 (May 19, 2016)
+* Added *Dubai* post.
 * Rephrased *Great Barrier Reef*, *Uluru*, *Australia Food*, *New Zealand*, *New Zealand Food* posts.
 * Set current location to Stockholm, Sweden.
 
