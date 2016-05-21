@@ -221,7 +221,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start" : "2016-05-20"
+          "start" : "2016-05-20",
+          "end"   : "2016-05-22"
         }
       },
       "geometry": {
@@ -231,6 +232,30 @@
           59.33
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3144096,
+        "slug": "3144096-norway",
+        "name": "Norway",
+        "region": null,
+        "country": {
+          "code": "NO",
+          "slug": "norway",
+          "name": "Norway"
+        },
+        "population": "5.0m",
+        "timezone": {
+          "name": "Europe/Oslo",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+01:00"
+        },
+        "period": {
+          "start": "2016-05-22"
+        }
+      },
+      "geometry": null
     }
   ]
 }

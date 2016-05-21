@@ -1,6 +1,8 @@
 # Changelog
 
-### 1.0.18-dev
+### 1.0.18 (May 21, 2016)
+* Rephrased *Dubai* post.
+* Set current location to Norway.
 
 ### 1.0.17 (May 19, 2016)
 * Added *Dubai* post.
