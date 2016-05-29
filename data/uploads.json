@@ -7140,6 +7140,134 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5034.JPG",
+        "date": "2016-05-21T11:24:07",
+        "description": "Östermalm Food Hall.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.08,
+          59.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5046.JPG",
+        "date": "2016-05-21T13:29:43",
+        "description": "Riksdaghuset.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07,
+          59.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5055.JPG",
+        "date": "2016-05-21T13:48:09",
+        "description": "Cobblestone streets of the Old Town.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07,
+          59.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5066.JPG",
+        "date": "2016-05-21T14:06:53",
+        "description": "Mårten Trotzigs Gränd, the narrowest alley in Stockholm.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07,
+          59.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5071.JPG",
+        "date": "2016-05-21T14:09:39",
+        "description": "Souvenir shops in the Old Town.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07,
+          59.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5079.JPG",
+        "date": "2016-05-21T14:29:44",
+        "description": "Old city gates.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07,
+          59.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5083.JPG",
+        "date": "2016-05-21T14:33:58",
+        "description": "Bridge separating the old and new town.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06,
+          59.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5102.JPG",
+        "date": "2016-05-21T16:12:31",
+        "description": "View from Slussen over Stockholm.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.08,
+          59.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",
