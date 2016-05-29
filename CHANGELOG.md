@@ -2,6 +2,7 @@
 
 ### 1.0.19 (May 29, 2016)
 * Added *Stockholm* post.
+* Set current location to Helsinki, Finland.
 
 ### 1.0.18 (May 21, 2016)
 * Rephrased *Dubai* post.
