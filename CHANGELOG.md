@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.0.20 (June 1, 2016)
+* Added *Sweden Food* post.
+* Rephrased *Stockholm* post.
+
 ### 1.0.19 (May 29, 2016)
 * Added *Stockholm* post.
 * Set current location to Helsinki, Finland.

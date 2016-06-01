@@ -7140,6 +7140,54 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5017.JPG",
+        "date": "2016-05-20T14:08:40",
+        "description": "Cinnamon buns.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06,
+          59.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5020.JPG",
+        "date": "2016-05-20T14:16:18",
+        "description": "Princess cake.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06,
+          59.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5024.JPG",
+        "date": "2016-05-20T20:29:40",
+        "description": "Gravlax.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.95,
+          59.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5034.JPG",
         "date": "2016-05-21T11:24:07",
         "description": "Östermalm Food Hall.",
@@ -7176,6 +7224,22 @@
         "date": "2016-05-21T13:48:09",
         "description": "Cobblestone streets of the Old Town.",
         "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07,
+          59.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5061.JPG",
+        "date": "2016-05-21T13:58:22",
+        "description": "Cloudberry soft service ice cream.",
+        "orientation": "portrait"
       },
       "geometry": {
         "type": "Point",
@@ -7252,6 +7316,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5094.JPG",
+        "date": "2016-05-21T15:48:03",
+        "description": "Classic Swedish meatballs.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.08,
+          59.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5102.JPG",
         "date": "2016-05-21T16:12:31",
         "description": "View from Slussen over Stockholm.",
@@ -7262,6 +7342,86 @@
         "coordinates": [
           18.08,
           59.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5109.JPG",
+        "date": "2016-05-21T16:52:40",
+        "description": "God Lager, a mediocre Swedish beer.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06,
+          59.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5111.JPG",
+        "date": "2016-05-21T17:00:02",
+        "description": "Elk burger.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06,
+          59.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5121.JPG",
+        "date": "2016-05-22T08:31:11",
+        "description": "Skagen toast.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.92,
+          59.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5123.JPG",
+        "date": "2016-05-22T08:32:57",
+        "description": "Vasterbottensost cheese.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.92,
+          59.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5954.JPG",
+        "date": "2016-05-31T20:21:17",
+        "description": "Glögg (muled wine).",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.95,
+          59.29
         ]
       }
     },
