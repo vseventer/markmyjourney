@@ -277,7 +277,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start" : "2016-05-30"
+          "start" : "2016-05-30",
+          "end"   : "2016-06-01"
         }
       },
       "geometry": {
@@ -285,6 +286,36 @@
         "coordinates": [
           24.94,
           60.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 498817,
+        "slug": "498817-saint-petersburg-ru",
+        "name": "Saint Petersburg",
+        "region": "St.-Petersburg",
+        "country": {
+          "code": "RU",
+          "slug": "russia",
+          "name": "Russia"
+        },
+        "population": "5.0m",
+        "timezone": {
+          "name": "Europe/Moscow",
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
+        },
+        "period": {
+          "start": "2016-06-01"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.31,
+          59.94
         ]
       }
     }
