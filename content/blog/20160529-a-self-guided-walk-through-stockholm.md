@@ -2,7 +2,7 @@
 date    = "2016-05-29"
 title   = "A Self-Guided Walk Through Stockholm"
 destinations = [ "europe", "sweden" ]
-places  = [ "2673730-stockholm-se", "498817-saint-petersburg-ru" ]
+places  = [ "2673730-stockholm-se" ]
 photos  = [
   "IMG_5034.JPG", "IMG_5079.JPG", "IMG_5046.JPG", "IMG_5055.JPG", "IMG_5066.JPG",
   "IMG_5071.JPG", "IMG_5083.JPG", "IMG_5102.JPG"

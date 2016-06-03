@@ -308,7 +308,8 @@
           "gmtOffset": "UTC+03:00"
         },
         "period": {
-          "start": "2016-06-01"
+          "start" : "2016-06-01",
+          "end"   : "2016-06-04"
         }
       },
       "geometry": {
@@ -316,6 +317,36 @@
         "coordinates": [
           30.31,
           59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 588409,
+        "slug": "588409-tallinn-ee",
+        "name": "Tallinn",
+        "region": "Harjumaa",
+        "country": {
+          "code": "EE",
+          "slug": "estonia",
+          "name": "Estonia"
+        },
+        "population": "394,000",
+        "timezone": {
+          "name": "Europe/Tallinn",
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
+        },
+        "period": {
+          "start": "2016-06-04"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75,
+          59.44
         ]
       }
     }

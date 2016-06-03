@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.21 (June 4, 2016)
+* Set current location to Tallinn, Estonia.
+
 ### 1.0.20 (June 1, 2016)
 * Added *Sweden Food* post.
 * Rephrased *Stockholm* post.
