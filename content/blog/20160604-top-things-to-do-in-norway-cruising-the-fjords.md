@@ -17,7 +17,7 @@ photos = [
 ]
 cover = "IMG_5502.JPG"
 +++
-With its unparalleled scenery, countless fjords, and unlimited hiking trails, Norway is a great destination for nature lovers. We traveled to Bergen, Oslo, and Møre og Romsdal regions to do some driving, hiking, and sightseeing.
+With its unparalleled scenery, countless fjords, and unlimited hiking trails, Norway is a great destination for nature lovers. We traveled to the Bergen, Oslo, and Møre og Romsdal regions to do some driving, hiking, and sightseeing.
 <!--more-->
 ## Bergen
 After a short flight from [Stockholm](/a-self-guided-walk-through-stockholm/) we arrived in Bergen, and from there we drove four hours east to Odda. Immediately, we were met with isolated red cottages surrounded by vast green valleys and mountain backdrops. During our drive, it was raining non-stop, causing countless waterfalls along the mountain walls.
