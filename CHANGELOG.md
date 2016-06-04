@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.0.21 (June 4, 2016)
+* Added *Norway* post.
 * Set current location to Tallinn, Estonia.
 
 ### 1.0.20 (June 1, 2016)

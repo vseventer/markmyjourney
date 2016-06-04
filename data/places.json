@@ -16,8 +16,8 @@
         "population": "603,000",
         "timezone": {
           "name": "Asia/Dubai",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -43,8 +43,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Dubai",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -70,8 +70,8 @@
         "population": "1.2m",
         "timezone": {
           "name": "Australia/Adelaide",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -97,8 +97,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Santiago",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -124,8 +124,8 @@
         "population": "713",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -151,8 +151,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Brisbane",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -178,8 +178,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Lima",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -205,8 +205,8 @@
         "population": "1,000",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -232,8 +232,8 @@
         "population": "742,000",
         "timezone": {
           "name": "Europe/Amsterdam",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -259,8 +259,8 @@
         "population": "0",
         "timezone": {
           "name": "Europe/Amsterdam",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -286,8 +286,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Phnom_Penh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -313,8 +313,8 @@
         "population": "154,000",
         "timezone": {
           "name": "America/Sao_Paulo",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -340,8 +340,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Bangkok",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -367,8 +367,8 @@
         "population": "2,000",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -394,8 +394,8 @@
         "population": "418,000",
         "timezone": {
           "name": "Pacific/Auckland",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -421,8 +421,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Shanghai",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -448,8 +448,8 @@
         "population": "5.1m",
         "timezone": {
           "name": "Asia/Bangkok",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -475,8 +475,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Makassar",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -502,8 +502,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Adelaide",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -529,8 +529,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Hobart",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -556,8 +556,8 @@
         "population": "10,000",
         "timezone": {
           "name": "America/Guayaquil",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -583,8 +583,8 @@
         "population": "11.7m",
         "timezone": {
           "name": "Asia/Shanghai",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -610,8 +610,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Shanghai",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -619,6 +619,33 @@
         "coordinates": [
           116.58,
           40.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3161732,
+        "slug": "3161732-bergen-no",
+        "name": "Bergen",
+        "region": "Hordaland",
+        "country": {
+          "code": "NO",
+          "slug": "norway",
+          "name": "Norway"
+        },
+        "population": "214,000",
+        "timezone": {
+          "name": "Europe/Oslo",
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.32,
+          60.39
         ]
       }
     },
@@ -637,8 +664,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Sydney",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -664,8 +691,8 @@
         "population": "7.7m",
         "timezone": {
           "name": "America/Bogota",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -691,8 +718,8 @@
         "population": "618,000",
         "timezone": {
           "name": "America/New_York",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -718,8 +745,8 @@
         "population": "2.2m",
         "timezone": {
           "name": "Australia/Brisbane",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -745,8 +772,8 @@
         "population": "13.1m",
         "timezone": {
           "name": "America/Argentina/Buenos_Aires",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -772,8 +799,8 @@
         "population": "153,000",
         "timezone": {
           "name": "Australia/Brisbane",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -799,8 +826,8 @@
         "population": "368,000",
         "timezone": {
           "name": "Australia/Sydney",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -826,8 +853,8 @@
         "population": "295",
         "timezone": {
           "name": "Australia/Adelaide",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -853,8 +880,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -880,8 +907,8 @@
         "population": "952,000",
         "timezone": {
           "name": "America/Bogota",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -907,8 +934,8 @@
         "population": "0",
         "timezone": {
           "name": "Pacific/Fiji",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -934,8 +961,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Argentina/Cordoba",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -961,8 +988,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Argentina/Cordoba",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -988,8 +1015,8 @@
         "population": "201,000",
         "timezone": {
           "name": "Asia/Bangkok",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1015,8 +1042,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Phnom_Penh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1042,8 +1069,8 @@
         "population": "364,000",
         "timezone": {
           "name": "Pacific/Auckland",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1069,8 +1096,8 @@
         "population": "22,000",
         "timezone": {
           "name": "America/Montevideo",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1096,8 +1123,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Santiago",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1123,8 +1150,8 @@
         "population": "0",
         "timezone": {
           "name": "America/La_Paz",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1150,8 +1177,8 @@
         "population": "2,000",
         "timezone": {
           "name": "America/La_Paz",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1177,8 +1204,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Hobart",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1204,8 +1231,8 @@
         "population": "312,000",
         "timezone": {
           "name": "America/Lima",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1231,8 +1258,8 @@
         "population": "75,000",
         "timezone": {
           "name": "Asia/Ho_Chi_Minh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1258,8 +1285,8 @@
         "population": "129,000",
         "timezone": {
           "name": "Australia/Darwin",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1285,8 +1312,8 @@
         "population": "95,000",
         "timezone": {
           "name": "Europe/Amsterdam",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1312,8 +1339,8 @@
         "population": "0",
         "timezone": {
           "name": "Pacific/Fiji",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1339,8 +1366,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Bangkok",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1366,8 +1393,8 @@
         "population": "1.1m",
         "timezone": {
           "name": "Asia/Dubai",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1393,8 +1420,8 @@
         "population": "5,000",
         "timezone": {
           "name": "Pacific/Easter",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1420,8 +1447,8 @@
         "population": "0",
         "timezone": {
           "name": "America/La_Paz",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1447,8 +1474,8 @@
         "population": "8,000",
         "timezone": {
           "name": "America/Argentina/Rio_Gallegos",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1474,8 +1501,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Argentina/Rio_Gallegos",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1501,8 +1528,8 @@
         "population": "800",
         "timezone": {
           "name": "America/Argentina/Rio_Gallegos",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1528,8 +1555,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Bogota",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1555,8 +1582,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Adelaide",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1582,8 +1609,8 @@
         "population": "0",
         "timezone": {
           "name": "America/New_York",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1609,8 +1636,8 @@
         "population": "294,000",
         "timezone": {
           "name": "America/Sao_Paulo",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1636,8 +1663,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Sao_Paulo",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1663,8 +1690,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Brisbane",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1690,8 +1717,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Hobart",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1717,8 +1744,8 @@
         "population": "0",
         "timezone": {
           "name": "Pacific/Galapagos",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1726,6 +1753,33 @@
         "coordinates": [
           -90.5,
           0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6692393,
+        "slug": "6692393-geiranger-no",
+        "name": "Geiranger",
+        "region": "Møre og Romsdal",
+        "country": {
+          "code": "NO",
+          "slug": "norway",
+          "name": "Norway"
+        },
+        "population": "250",
+        "timezone": {
+          "name": "Europe/Oslo",
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.21,
+          62.1
         ]
       }
     },
@@ -1744,8 +1798,8 @@
         "population": "300,000",
         "timezone": {
           "name": "Asia/Kuala_Lumpur",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1771,8 +1825,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Makassar",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1798,8 +1852,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1825,8 +1879,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Lindeman",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1852,8 +1906,8 @@
         "population": "2.0m",
         "timezone": {
           "name": "America/Guayaquil",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1879,8 +1933,8 @@
         "population": "1.4m",
         "timezone": {
           "name": "Asia/Ho_Chi_Minh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1906,8 +1960,8 @@
         "population": "41,000",
         "timezone": {
           "name": "Europe/Amsterdam",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1933,8 +1987,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Brisbane",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1960,8 +2014,8 @@
         "population": "3.5m",
         "timezone": {
           "name": "Asia/Ho_Chi_Minh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -1987,8 +2041,8 @@
         "population": "217,000",
         "timezone": {
           "name": "Australia/Hobart",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2014,8 +2068,8 @@
         "population": "7.0m",
         "timezone": {
           "name": "Asia/Hong_Kong",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2041,8 +2095,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Hong_Kong",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2068,8 +2122,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Sao_Paulo",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2095,8 +2149,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Argentina/Ushuaia",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2122,8 +2176,8 @@
         "population": "0",
         "timezone": {
           "name": "Pacific/Galapagos",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2149,8 +2203,8 @@
         "population": "3,000",
         "timezone": {
           "name": "America/La_Paz",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2176,8 +2230,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Lima",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2203,8 +2257,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Argentina/Buenos_Aires",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2230,8 +2284,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Guayaquil",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2257,8 +2311,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Darwin",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2284,8 +2338,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Adelaide",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2311,8 +2365,8 @@
         "population": "0",
         "timezone": {
           "name": "Atlantic/Reykjavik",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2338,8 +2392,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Bangkok",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2365,8 +2419,8 @@
         "population": "12,000",
         "timezone": {
           "name": "Australia/Sydney",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2392,8 +2446,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Bangkok",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2419,8 +2473,8 @@
         "population": "31,000",
         "timezone": {
           "name": "Asia/Bangkok",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2428,6 +2482,33 @@
         "coordinates": [
           98.91,
           8.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3149312,
+        "slug": "3149312-kristiansund-no",
+        "name": "Kristiansund",
+        "region": "Møre og Romsdal",
+        "country": {
+          "code": "NO",
+          "slug": "norway",
+          "name": "Norway"
+        },
+        "population": "17,000",
+        "timezone": {
+          "name": "Europe/Oslo",
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.73,
+          63.11
         ]
       }
     },
@@ -2446,8 +2527,8 @@
         "population": "1.5m",
         "timezone": {
           "name": "Asia/Kuala_Lumpur",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2473,8 +2554,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Brisbane",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2500,8 +2581,8 @@
         "population": "30,000",
         "timezone": {
           "name": "Asia/Makassar",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2527,8 +2608,8 @@
         "population": "813,000",
         "timezone": {
           "name": "America/La_Paz",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2554,8 +2635,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Lima",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2581,8 +2662,8 @@
         "population": "0",
         "timezone": {
           "name": "America/La_Paz",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2608,8 +2689,8 @@
         "population": "106,000",
         "timezone": {
           "name": "Australia/Hobart",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2635,8 +2716,8 @@
         "population": "120,000",
         "timezone": {
           "name": "Europe/Amsterdam",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2662,8 +2743,8 @@
         "population": "7.7m",
         "timezone": {
           "name": "America/Lima",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2689,8 +2770,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Darwin",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2716,8 +2797,8 @@
         "population": "0",
         "timezone": {
           "name": "America/New_York",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2743,8 +2824,8 @@
         "population": "960",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2770,8 +2851,8 @@
         "population": "3.8m",
         "timezone": {
           "name": "America/Los_Angeles",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2797,8 +2878,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Los_Angeles",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2824,8 +2905,8 @@
         "population": "520,000",
         "timezone": {
           "name": "Asia/Macau",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2851,8 +2932,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Lima",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2878,8 +2959,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Brisbane",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2905,8 +2986,8 @@
         "population": "0",
         "timezone": {
           "name": "America/La_Paz",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2932,8 +3013,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Argentina/Mendoza",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2959,8 +3040,8 @@
         "population": "0",
         "timezone": {
           "name": "Pacific/Fiji",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -2986,8 +3067,8 @@
         "population": "6,000",
         "timezone": {
           "name": "Australia/Perth",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3013,8 +3094,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Guayaquil",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3040,8 +3121,8 @@
         "population": "0",
         "timezone": {
           "name": "Pacific/Easter",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3067,8 +3148,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Ho_Chi_Minh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3094,8 +3175,8 @@
         "population": "4.2m",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3121,8 +3202,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3148,8 +3229,8 @@
         "population": "877,000",
         "timezone": {
           "name": "America/Argentina/Mendoza",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3175,8 +3256,8 @@
         "population": "34,000",
         "timezone": {
           "name": "Europe/Amsterdam",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3202,8 +3283,8 @@
         "population": "152,000",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3229,8 +3310,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Darwin",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3256,8 +3337,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Ho_Chi_Minh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3283,8 +3364,8 @@
         "population": "42,000",
         "timezone": {
           "name": "Pacific/Fiji",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3310,8 +3391,8 @@
         "population": "0",
         "timezone": {
           "name": "Pacific/Fiji",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3337,8 +3418,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Ho_Chi_Minh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3364,8 +3445,8 @@
         "population": "4,000",
         "timezone": {
           "name": "Australia/Brisbane",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3391,8 +3472,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Brisbane",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3429,6 +3510,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3143244,
+        "slug": "3143244-oslo-no",
+        "name": "Oslo",
+        "region": "Oslo",
+        "country": {
+          "code": "NO",
+          "slug": "norway",
+          "name": "Norway"
+        },
+        "population": "580,000",
+        "timezone": {
+          "name": "Europe/Oslo",
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3455036,
         "slug": "3455036-paraty-br",
         "name": "Paraty",
@@ -3441,8 +3549,8 @@
         "population": "15,000",
         "timezone": {
           "name": "America/Sao_Paulo",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3468,8 +3576,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Santiago",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3495,8 +3603,8 @@
         "population": "264",
         "timezone": {
           "name": "Australia/Adelaide",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3522,8 +3630,8 @@
         "population": "440,000",
         "timezone": {
           "name": "America/Bogota",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3549,8 +3657,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Argentina/Rio_Gallegos",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3576,8 +3684,8 @@
         "population": "1.9m",
         "timezone": {
           "name": "Australia/Perth",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3603,8 +3711,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3630,8 +3738,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3657,8 +3765,8 @@
         "population": "1.6m",
         "timezone": {
           "name": "Asia/Phnom_Penh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3684,8 +3792,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Bogota",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3711,8 +3819,8 @@
         "population": "500",
         "timezone": {
           "name": "Australia/Hobart",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3738,8 +3846,8 @@
         "population": "599",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3765,8 +3873,8 @@
         "population": "3,000",
         "timezone": {
           "name": "Australia/Brisbane",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3792,8 +3900,8 @@
         "population": "584,000",
         "timezone": {
           "name": "America/Los_Angeles",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3819,8 +3927,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Santiago",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3846,8 +3954,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3873,8 +3981,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Brisbane",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3900,8 +4008,8 @@
         "population": "9,000",
         "timezone": {
           "name": "Pacific/Galapagos",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3927,8 +4035,8 @@
         "population": "32,000",
         "timezone": {
           "name": "America/Argentina/Cordoba",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3954,8 +4062,8 @@
         "population": "20,000",
         "timezone": {
           "name": "America/Santiago",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -3981,8 +4089,8 @@
         "population": "117,000",
         "timezone": {
           "name": "America/Santiago",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4008,8 +4116,8 @@
         "population": "23,000",
         "timezone": {
           "name": "Europe/Amsterdam",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4035,8 +4143,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Shanghai",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4062,8 +4170,8 @@
         "population": "10,000",
         "timezone": {
           "name": "Pacific/Auckland",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4089,8 +4197,8 @@
         "population": "1.4m",
         "timezone": {
           "name": "America/Guayaquil",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4116,8 +4224,8 @@
         "population": "6.0m",
         "timezone": {
           "name": "America/Sao_Paulo",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4143,8 +4251,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Sao_Paulo",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4170,8 +4278,8 @@
         "population": "66,000",
         "timezone": {
           "name": "Pacific/Auckland",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4197,8 +4305,8 @@
         "population": "12,000",
         "timezone": {
           "name": "America/La_Paz",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4224,8 +4332,8 @@
         "population": "0",
         "timezone": {
           "name": "America/La_Paz",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4251,8 +4359,8 @@
         "population": "0",
         "timezone": {
           "name": "America/La_Paz",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4278,8 +4386,8 @@
         "population": "4,000",
         "timezone": {
           "name": "America/Bogota",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4305,8 +4413,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Guayaquil",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4332,8 +4440,8 @@
         "population": "2,000",
         "timezone": {
           "name": "America/Santiago",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4359,8 +4467,8 @@
         "population": "4.8m",
         "timezone": {
           "name": "America/Santiago",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4386,8 +4494,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Ho_Chi_Minh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4413,8 +4521,8 @@
         "population": "609,000",
         "timezone": {
           "name": "America/Los_Angeles",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4440,8 +4548,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Los_Angeles",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4467,8 +4575,8 @@
         "population": "0",
         "timezone": {
           "name": "Pacific/Galapagos",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4494,8 +4602,8 @@
         "population": "22.3m",
         "timezone": {
           "name": "Asia/Shanghai",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4521,8 +4629,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Shanghai",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4548,8 +4656,8 @@
         "population": "139,000",
         "timezone": {
           "name": "Asia/Phnom_Penh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4575,8 +4683,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Phnom_Penh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4602,8 +4710,8 @@
         "population": "3.5m",
         "timezone": {
           "name": "Asia/Singapore",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4629,8 +4737,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Singapore",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4656,8 +4764,8 @@
         "population": "1.3m",
         "timezone": {
           "name": "Europe/Stockholm",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4683,8 +4791,8 @@
         "population": "19,000",
         "timezone": {
           "name": "Australia/Brisbane",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4710,8 +4818,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Bangkok",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4737,8 +4845,8 @@
         "population": "8,000",
         "timezone": {
           "name": "Australia/Perth",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4764,8 +4872,8 @@
         "population": "4.6m",
         "timezone": {
           "name": "Australia/Sydney",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4791,8 +4899,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Sydney",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4818,8 +4926,8 @@
         "population": "10.0m",
         "timezone": {
           "name": "America/Sao_Paulo",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4845,8 +4953,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Sao_Paulo",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4872,8 +4980,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Ho_Chi_Minh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4899,8 +5007,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Perth",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4926,8 +5034,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4953,8 +5061,8 @@
         "population": "28,000",
         "timezone": {
           "name": "Asia/Makassar",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -4980,8 +5088,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Darwin",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -5007,8 +5115,8 @@
         "population": "58,000",
         "timezone": {
           "name": "America/Argentina/Ushuaia",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -5034,8 +5142,8 @@
         "population": "291,000",
         "timezone": {
           "name": "Europe/Amsterdam",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -5061,8 +5169,8 @@
         "population": "10,000",
         "timezone": {
           "name": "America/La_Paz",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -5088,8 +5196,8 @@
         "population": "0",
         "timezone": {
           "name": "America/Bogota",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -5115,8 +5223,8 @@
         "population": "600,000",
         "timezone": {
           "name": "America/Vancouver",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -5142,8 +5250,8 @@
         "population": "75",
         "timezone": {
           "name": "America/La_Paz",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -5169,8 +5277,8 @@
         "population": "0",
         "timezone": {
           "name": "Asia/Ho_Chi_Minh",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -5196,8 +5304,8 @@
         "population": "382,000",
         "timezone": {
           "name": "Pacific/Auckland",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -5223,8 +5331,8 @@
         "population": "23,000",
         "timezone": {
           "name": "Australia/Hobart",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -5250,8 +5358,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Lindeman",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -5277,8 +5385,8 @@
         "population": "0",
         "timezone": {
           "name": "Australia/Melbourne",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -5304,8 +5412,8 @@
         "population": "986",
         "timezone": {
           "name": "Australia/Darwin",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
         }
       },
       "geometry": {
@@ -5313,6 +5421,33 @@
         "coordinates": [
           130.99,
           -25.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3163392,
+        "slug": "3163392-alesund-no",
+        "name": "Ålesund",
+        "region": "Møre og Romsdal",
+        "country": {
+          "code": "NO",
+          "slug": "norway",
+          "name": "Norway"
+        },
+        "population": "44,000",
+        "timezone": {
+          "name": "Europe/Oslo",
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15,
+          62.47
         ]
       }
     }

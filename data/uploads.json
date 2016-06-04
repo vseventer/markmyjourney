@@ -7412,6 +7412,550 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5142.JPG",
+        "date": "2016-05-22T15:20:12",
+        "description": "At the Tørvikbygd ferry crossing.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17,
+          60.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5163.JPG",
+        "date": "2016-05-22T16:50:24",
+        "description": "Dramatic views of the Gronsdalslona river near Odda.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57,
+          59.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5175.JPG",
+        "date": "2016-05-22T17:01:06",
+        "description": "Låtefossen.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.58,
+          59.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5198.JPG",
+        "date": "2016-05-23T09:38:43",
+        "description": "View from the Trolltunga trail over the Ringedalsdammen.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63,
+          60.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5215.JPG",
+        "date": "2016-05-23T10:42:50",
+        "description": "On the Trolltunga trail (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64,
+          60.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5223.JPG",
+        "date": "2016-05-23T11:14:51",
+        "description": "On the Trolltunga trail (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.65,
+          60.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5249.JPG",
+        "date": "2016-05-24T11:17:36",
+        "description": "A random rock and waterfall.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57,
+          59.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5291.JPG",
+        "date": "2016-05-24T15:36:27",
+        "description": "Odda.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.32,
+          60.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5355.JPG",
+        "date": "2016-05-25T14:00:22",
+        "description": "Train ride from Bergen to Oslo, picture taken near Myrdal.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.12,
+          60.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5395.JPG",
+        "date": "2016-05-26T12:15:51",
+        "description": "Aker Brygge neighborhood in Oslo.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72,
+          59.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5406.JPG",
+        "date": "2016-05-26T12:46:13",
+        "description": "The Royal Palace.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73,
+          59.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5417.JPG",
+        "date": "2016-05-26T13:09:08",
+        "description": "Paintings by Edvard Munch.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74,
+          59.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5420.JPG",
+        "date": "2016-05-26T13:21:33",
+        "description": "Parliament House.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74,
+          59.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5435.JPG",
+        "date": "2016-05-26T15:09:11",
+        "description": "Vigeland Park.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7,
+          59.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5443.JPG",
+        "date": "2016-05-26T16:14:21",
+        "description": "Holmenkollbakken.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67,
+          59.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5466.JPG",
+        "date": "2016-05-27T10:00:51",
+        "description": "Kristiansund (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.73,
+          63.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5468.JPG",
+        "date": "2016-05-27T10:01:05",
+        "description": "Kristiansund (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.73,
+          63.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5484.JPG",
+        "date": "2016-05-27T11:48:06",
+        "description": "Storseisundet Bridge on the Atlantic Road.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.36,
+          63.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5502.JPG",
+        "date": "2016-05-27T12:01:08",
+        "description": "View of the Atlantic Road.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.35,
+          63.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5511.JPG",
+        "date": "2016-05-27T12:37:35",
+        "description": "Bud fishing village.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.91,
+          62.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5533.JPG",
+        "date": "2016-05-27T14:17:56",
+        "description": "View over Molde from the Varden viewpoint.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.13,
+          62.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5585.JPG",
+        "date": "2016-05-28T12:46:33",
+        "description": "Trollvegen.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76,
+          62.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5613.JPG",
+        "date": "2016-05-28T13:31:41",
+        "description": "A common warning in Norway.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.68,
+          62.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5646.JPG",
+        "date": "2016-05-28T14:08:05",
+        "description": "Hook turns of the Trollstigen mountain road.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.67,
+          62.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5668.JPG",
+        "date": "2016-05-28T14:31:46",
+        "description": "Frozen lake.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66,
+          62.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5678.JPG",
+        "date": "2016-05-28T14:37:36",
+        "description": "Snowy landscape along Trollstigen.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66,
+          62.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5682.JPG",
+        "date": "2016-05-28T14:38:48",
+        "description": "Trollstigen had just re-opened, and this is why.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66,
+          62.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5712.JPG",
+        "date": "2016-05-28T16:06:38",
+        "description": "Geirangerfjord.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.17,
+          62.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5785.JPG",
+        "date": "2016-05-29T08:43:05",
+        "description": "Perfect mirrors of the mountains during the ferry ride (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.98,
+          62.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5795.JPG",
+        "date": "2016-05-29T08:47:10",
+        "description": "Perfect mirrors of the mountains during the ferry ride (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.95,
+          62.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5807.JPG",
+        "date": "2016-05-29T09:17:05",
+        "description": "Sunnylvsfjorden.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.92,
+          62.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5821.JPG",
+        "date": "2016-05-29T11:41:42",
+        "description": "View over Ålesund.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17,
+          62.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5840.JPG",
+        "date": "2016-05-29T12:40:05",
+        "description": "Ålesund waterfront (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15,
+          62.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5843.JPG",
+        "date": "2016-05-29T12:40:18",
+        "description": "Ålesund waterfront (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15,
+          62.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5954.JPG",
         "date": "2016-05-31T20:21:17",
         "description": "Glögg (muled wine).",
