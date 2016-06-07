@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.0.22 (June 7, 2016)
+* Added *Norway Food* post.
 * Set current location to Vilnius, Lithuania.
 
 ### 1.0.21 (June 4, 2016)

@@ -7412,6 +7412,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5132.JPG",
+        "date": "2016-05-22T13:16:28",
+        "description": "Smash.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.34,
+          60.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5142.JPG",
         "date": "2016-05-22T15:20:12",
         "description": "At the Tørvikbygd ferry crossing.",
@@ -7422,6 +7438,22 @@
         "coordinates": [
           6.17,
           60.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5148.JPG",
+        "date": "2016-05-22T15:40:37",
+        "description": "Hot dog with bacon.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23,
+          60.28
         ]
       }
     },
@@ -7454,6 +7486,54 @@
         "coordinates": [
           6.58,
           59.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5180.JPG",
+        "date": "2016-05-22T18:37:54",
+        "description": "Brown cheese.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.59,
+          59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5184.JPG",
+        "date": "2016-05-22T18:43:25",
+        "description": "Mills Kaviar.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.59,
+          59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5186.JPG",
+        "date": "2016-05-22T18:43:42",
+        "description": "Norwegian salmon.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.59,
+          59.94
         ]
       }
     },
@@ -7540,6 +7620,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5330.JPG",
+        "date": "2016-05-24T19:05:35",
+        "description": "Fishcakes.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.35,
+          60.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5355.JPG",
         "date": "2016-05-25T14:00:22",
         "description": "Train ride from Bergen to Oslo, picture taken near Myrdal.",
@@ -7550,6 +7646,54 @@
         "coordinates": [
           7.12,
           60.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5357.JPG",
+        "date": "2016-05-25T19:37:30",
+        "description": "Norwegian Hansa beer.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5359.JPG",
+        "date": "2016-05-25T19:53:15",
+        "description": "Reindeer steak.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5362.JPG",
+        "date": "2016-05-25T20:15:02",
+        "description": "Verdens Beste.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
         ]
       }
     },
@@ -7620,6 +7764,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5426.JPG",
+        "date": "2016-05-26T14:29:48",
+        "description": "Softi with kraken topping.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8,
+          59.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5435.JPG",
         "date": "2016-05-26T15:09:11",
         "description": "Vigeland Park.",
@@ -7652,6 +7812,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5452.JPG",
+        "date": "2016-05-27T06:51:22",
+        "description": "Waffles.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1,
+          60.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5466.JPG",
         "date": "2016-05-27T10:00:51",
         "description": "Kristiansund (1).",
@@ -7671,6 +7847,22 @@
         "src": "IMG_5468.JPG",
         "date": "2016-05-27T10:01:05",
         "description": "Kristiansund (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.73,
+          63.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5472.JPG",
+        "date": "2016-05-27T10:54:06",
+        "description": "Kjøttkaker.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -7742,6 +7934,38 @@
         "coordinates": [
           7.13,
           62.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5548.JPG",
+        "date": "2016-05-27T16:24:24",
+        "description": "Chocolate-roll popular in Norway.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.46,
+          62.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5551.JPG",
+        "date": "2016-05-27T18:18:43",
+        "description": "Whale.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.46,
+          62.69
         ]
       }
     },
@@ -7950,6 +8174,22 @@
         "coordinates": [
           6.15,
           62.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5844.JPG",
+        "date": "2016-05-29T14:14:23",
+        "description": "Smoked salmon on rye bread with cream cheese.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.29,
+          62.46
         ]
       }
     },
