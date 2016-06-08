@@ -8196,6 +8196,150 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5902.JPG",
+        "date": "2016-05-31T13:18:07",
+        "description": "Central Station.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94,
+          60.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5907.JPG",
+        "date": "2016-05-31T13:32:48",
+        "description": "Esplanadparken.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94,
+          60.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5911.JPG",
+        "date": "2016-05-31T13:44:04",
+        "description": "Market Square.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.95,
+          60.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5916.JPG",
+        "date": "2016-05-31T14:16:04",
+        "description": "Old Market.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.95,
+          60.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5921.JPG",
+        "date": "2016-05-31T15:06:25",
+        "description": "Uspenski Cathedral.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.96,
+          60.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5930.JPG",
+        "date": "2016-05-31T15:22:40",
+        "description": "Helsinki Cathedral.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.95,
+          60.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5945.JPG",
+        "date": "2016-05-31T17:21:40",
+        "description": "Temppeliaukio Church.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93,
+          60.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5950.JPG",
+        "date": "2016-05-31T17:39:24",
+        "description": "Outside Kamppi Center mall.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93,
+          60.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5951.JPG",
+        "date": "2016-05-31T18:15:38",
+        "description": "Chapel of Silence.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94,
+          60.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5954.JPG",
         "date": "2016-05-31T20:21:17",
         "description": "Glögg (muled wine).",
@@ -8206,6 +8350,38 @@
         "coordinates": [
           17.95,
           59.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5960.JPG",
+        "date": "2016-06-01T14:21:41",
+        "description": "A typical sauna found in residential buildings.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.89,
+          60.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6169.JPG",
+        "date": "2016-06-04T14:17:31",
+        "description": "The strange Bad Bad Boy statue.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.92,
+          60.16
         ]
       }
     },
