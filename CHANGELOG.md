@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.24 (June 9, 2016)
+* Updated `leaflet` and `leaflet.markercluster` dependencies.
+
 ### 1.0.23 (June 8, 2016)
 * Added *Finland* post.
 
