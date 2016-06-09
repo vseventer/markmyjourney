@@ -7380,6 +7380,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5115.JPG",
+        "date": "2016-05-21T18:11:21",
+        "description": "Salmiakki.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.89,
+          60.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5121.JPG",
         "date": "2016-05-22T08:31:11",
         "description": "Skagen toast.",
@@ -8196,6 +8212,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5888.JPG",
+        "date": "2016-05-31T11:54:43",
+        "description": "Leipäjuusto.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.91,
+          60.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5902.JPG",
         "date": "2016-05-31T13:18:07",
         "description": "Central Station.",
@@ -8244,9 +8276,41 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5912.JPG",
+        "date": "2016-05-31T13:55:15",
+        "description": "Fried vendace.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.96,
+          60.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5916.JPG",
         "date": "2016-05-31T14:16:04",
         "description": "Old Market.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.95,
+          60.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5917.JPG",
+        "date": "2016-05-31T14:21:25",
+        "description": "Karjalan Piirakka.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -8350,6 +8414,38 @@
         "coordinates": [
           17.95,
           59.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5956.JPG",
+        "date": "2016-06-01T00:05:54",
+        "description": "Chocolate with dried bilberries.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.89,
+          60.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5958.JPG",
+        "date": "2016-06-01T10:34:52",
+        "description": "Rye bread.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.89,
+          60.16
         ]
       }
     },

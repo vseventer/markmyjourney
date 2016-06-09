@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.0.24 (June 9, 2016)
+* Added *Finland Food* post.
 * Set current location to Warsaw, Poland.
 * Updated `leaflet` and `leaflet.markercluster` dependencies.
 
