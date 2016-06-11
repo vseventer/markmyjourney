@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.25 (June 11, 2016)
+* Set current location to Kraków, Poland.
+
 ### 1.0.24 (June 9, 2016)
 * Added *Finland Food* post.
 * Set current location to Warsaw, Poland.

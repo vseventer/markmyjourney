@@ -432,7 +432,8 @@
           "gmtOffset": "UTC+03:00"
         },
         "period": {
-          "start": "2016-06-10"
+          "start" : "2016-06-10",
+          "end"   : "2016-06-12"
         }
       },
       "geometry": {
@@ -440,6 +441,36 @@
         "coordinates": [
           21.01,
           52.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3094802,
+        "slug": "3094802-krakow-pl",
+        "name": "Kraków",
+        "region": "Lesser Poland Voivodeship",
+        "country": {
+          "code": "PL",
+          "slug": "poland",
+          "name": "Poland"
+        },
+        "population": "755,000",
+        "timezone": {
+          "name": "Europe/Warsaw",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-06-12"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
         ]
       }
     }
