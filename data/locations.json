@@ -463,7 +463,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-06-12"
+          "start" : "2016-06-12",
+          "end"   : "2016-06-14"
         }
       },
       "geometry": {
@@ -471,6 +472,36 @@
         "coordinates": [
           19.94,
           50.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3067696,
+        "slug": "3067696-prague-cz",
+        "name": "Prague",
+        "region": "Praha",
+        "country": {
+          "code": "CZ",
+          "slug": "czech-republic",
+          "name": "Czech Republic"
+        },
+        "population": "1.2m",
+        "timezone": {
+          "name": "Europe/Prague",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-06-14"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42,
+          50.09
         ]
       }
     }
