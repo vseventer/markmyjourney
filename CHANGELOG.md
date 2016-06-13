@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.26 (June 13, 2016)
+* Added *Russia* post.
+
 ### 1.0.25 (June 11, 2016)
 * Set current location to Kraków, Poland.
 

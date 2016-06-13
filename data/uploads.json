@@ -8468,6 +8468,246 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5969.JPG",
+        "date": "2016-06-01T16:41:50",
+        "description": "Princess Maria.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.23,
+          59.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5989.JPG",
+        "date": "2016-06-02T08:11:44",
+        "description": "Our simple cabin.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.23,
+          59.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5994.JPG",
+        "date": "2016-06-02T09:51:52",
+        "description": "St. Isaac’s Cathedral.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.31,
+          59.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5995.JPG",
+        "date": "2016-06-02T10:40:41",
+        "description": "Mariinsky Theatre.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3,
+          59.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6002.JPG",
+        "date": "2016-06-02T13:31:24",
+        "description": "Fountains and Peterhof Palace in the distance.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.91,
+          59.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6008.JPG",
+        "date": "2016-06-02T13:41:05",
+        "description": "Fountains and Peterhof Palace (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.91,
+          59.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6011.JPG",
+        "date": "2016-06-02T13:45:01",
+        "description": "Fountains and Peterhof Palace (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.91,
+          59.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6030.JPG",
+        "date": "2016-06-02T14:07:41",
+        "description": "Chess Mountain in Peterhof.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.92,
+          59.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6043.JPG",
+        "date": "2016-06-02T15:40:47",
+        "description": "Peter and Paul Fortress.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.31,
+          59.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6055.JPG",
+        "date": "2016-06-02T15:53:53",
+        "description": "Hermitage.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.31,
+          59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6058.JPG",
+        "date": "2016-06-02T15:53:59",
+        "description": "Palace Square.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.31,
+          59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6065.JPG",
+        "date": "2016-06-02T17:52:17",
+        "description": "Colorful canals of St. Petersburg.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.32,
+          59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6069.JPG",
+        "date": "2016-06-02T17:58:03",
+        "description": "Kazan Cathedral on Nevsky Prospect.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.32,
+          59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6080.JPG",
+        "date": "2016-06-02T18:07:43",
+        "description": "Church of the Savior on Spilled Blood.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.33,
+          59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6122.JPG",
+        "date": "2016-06-02T21:22:09",
+        "description": "Russian ballet at the Carneval Concert Hall.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.34,
+          59.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_6169.JPG",
         "date": "2016-06-04T14:17:31",
         "description": "The strange Bad Bad Boy statue.",

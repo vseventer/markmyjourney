@@ -4374,6 +4374,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 498817,
+        "slug": "498817-saint-petersburg-ru",
+        "name": "Saint Petersburg",
+        "region": "St.-Petersburg",
+        "country": {
+          "code": "RU",
+          "slug": "russia",
+          "name": "Russia"
+        },
+        "population": "5.0m",
+        "timezone": {
+          "name": "Europe/Moscow",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.31,
+          59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3901900,
         "slug": "3901900-salar-de-uyuni-bo",
         "name": "Salar de Uyuni",
