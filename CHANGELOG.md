@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.0.28 (June 15, 2016)
+* Added *Estonia* post.
 * Set current location to Český Krumlov, Czech Republic.
 
 ### 1.0.27 (June 14, 2016)

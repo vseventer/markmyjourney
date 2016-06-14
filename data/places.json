@@ -5022,6 +5022,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 588409,
+        "slug": "588409-tallinn-ee",
+        "name": "Tallinn",
+        "region": "Harjumaa",
+        "country": {
+          "code": "EE",
+          "slug": "estonia",
+          "name": "Estonia"
+        },
+        "population": "394,000",
+        "timezone": {
+          "name": "Europe/Tallinn",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75,
+          59.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1904593,
         "slug": "1904593-tan-son-nhat-international-airport-vn",
         "name": "Tan Son Nhat International Airport",
