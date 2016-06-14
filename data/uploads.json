@@ -8484,6 +8484,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5977.JPG",
+        "date": "2016-06-01T22:06:56",
+        "description": "Russian standard.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.23,
+          59.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5989.JPG",
         "date": "2016-06-02T08:11:44",
         "description": "Our simple cabin.",
@@ -8573,6 +8589,22 @@
         "type": "Point",
         "coordinates": [
           29.91,
+          59.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6026.JPG",
+        "date": "2016-06-02T14:03:08",
+        "description": "Piroski.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.92,
           59.88
         ]
       }
@@ -8685,6 +8717,86 @@
         "type": "Point",
         "coordinates": [
           30.33,
+          59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6082.JPG",
+        "date": "2016-06-02T18:35:29",
+        "description": "Nevskoe Classic.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.34,
+          59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6084.JPG",
+        "date": "2016-06-02T18:39:31",
+        "description": "Borscht.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.34,
+          59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6085.JPG",
+        "date": "2016-06-02T18:57:18",
+        "description": "Beef strogonoff.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.34,
+          59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6087.JPG",
+        "date": "2016-06-02T18:57:28",
+        "description": "Pelmeny.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.34,
+          59.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6088.JPG",
+        "date": "2016-06-02T19:11:59",
+        "description": "Belini with honey.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.34,
           59.94
         ]
       }

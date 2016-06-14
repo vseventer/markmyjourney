@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.27 (June 14, 2016)
+* Added *Russia Food* post.
+
 ### 1.0.26 (June 13, 2016)
 * Added *Russia* post.
 * Set current location to Prague, Czech Republic.
