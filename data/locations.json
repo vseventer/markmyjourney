@@ -494,7 +494,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-06-14"
+          "start" : "2016-06-14",
+          "end"   : "2016-06-16"
         }
       },
       "geometry": {
@@ -502,6 +503,36 @@
         "coordinates": [
           14.42,
           50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3077889,
+        "slug": "3077889-cesky-krumlov-cz",
+        "name": "Český Krumlov",
+        "region": "Jihočeský",
+        "country": {
+          "code": "CZ",
+          "slug": "czech-republic",
+          "name": "Czech Republic"
+        },
+        "population": "14,000",
+        "timezone": {
+          "name": "Europe/Prague",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-06-16"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.32,
+          48.81
         ]
       }
     }
