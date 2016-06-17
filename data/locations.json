@@ -525,7 +525,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-06-16"
+          "start" : "2016-06-16",
+          "end"   : "2016-06-17"
         }
       },
       "geometry": {
@@ -533,6 +534,36 @@
         "coordinates": [
           14.32,
           48.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2766824,
+        "slug": "2766824-salzburg-at",
+        "name": "Salzburg",
+        "region": "Salzburg",
+        "country": {
+          "code": "AT",
+          "slug": "austria",
+          "name": "Austria"
+        },
+        "population": "150,000",
+        "timezone": {
+          "name": "Europe/Vienna",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start" : "2016-06-17"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04,
+          47.8
         ]
       }
     }

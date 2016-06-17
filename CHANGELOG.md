@@ -1,8 +1,9 @@
 # Changelog
 
-### 1.0.28 (June 15, 2016)
+### 1.0.28 (June 17, 2016)
 * Added *Estonia* post.
-* Set current location to Český Krumlov, Czech Republic.
+* Fixed typo in *Russia Food* post.
+* Set current location to Salzburg, Austria.
 
 ### 1.0.27 (June 14, 2016)
 * Added *Russia Food* post.
