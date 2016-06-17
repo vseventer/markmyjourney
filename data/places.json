@@ -1975,6 +1975,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 592146,
+        "slug": "592146-helme-ee",
+        "name": "Helme",
+        "region": "Valgamaa",
+        "country": {
+          "code": "EE",
+          "slug": "estonia",
+          "name": "Estonia"
+        },
+        "population": "407",
+        "timezone": {
+          "name": "Europe/Tallinn",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9,
+          58.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 658225,
         "slug": "658225-helsinki-fi",
         "name": "Helsinki",
@@ -5265,6 +5292,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 587876,
+        "slug": "587876-valga-ee",
+        "name": "Valga",
+        "region": "Valgamaa",
+        "country": {
+          "code": "EE",
+          "slug": "estonia",
+          "name": "Estonia"
+        },
+        "population": "14,000",
+        "timezone": {
+          "name": "Europe/Tallinn",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.05,
+          57.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 7870994,
         "slug": "7870994-valle-de-cocora-co",
         "name": "Valle del Cocora",
@@ -5313,6 +5367,33 @@
         "coordinates": [
           -123.12,
           49.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 587577,
+        "slug": "587577-viljandi-ee",
+        "name": "Viljandi",
+        "region": "Viljandimaa",
+        "country": {
+          "code": "EE",
+          "slug": "estonia",
+          "name": "Estonia"
+        },
+        "population": "20,000",
+        "timezone": {
+          "name": "Europe/Tallinn",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.59,
+          58.36
         ]
       }
     },
