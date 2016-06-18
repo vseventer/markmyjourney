@@ -1246,6 +1246,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 460570,
+        "slug": "460570-cesis-lv",
+        "name": "Cēsis",
+        "region": "Cēsu Rajons",
+        "country": {
+          "code": "LV",
+          "slug": "latvia",
+          "name": "Latvia"
+        },
+        "population": "18,000",
+        "timezone": {
+          "name": "Europe/Riga",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27,
+          57.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1584661,
         "slug": "1584661-cu-chi-vn",
         "name": "Củ Chi",
@@ -1969,33 +1996,6 @@
         "coordinates": [
           5.62,
           52.34
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 592146,
-        "slug": "592146-helme-ee",
-        "name": "Helme",
-        "region": "Valgamaa",
-        "country": {
-          "code": "EE",
-          "slug": "estonia",
-          "name": "Estonia"
-        },
-        "population": "407",
-        "timezone": {
-          "name": "Europe/Tallinn",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.9,
-          58.01
         ]
       }
     },
@@ -4266,6 +4266,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 456172,
+        "slug": "456172-riga-lv",
+        "name": "Riga",
+        "region": "Riga",
+        "country": {
+          "code": "LV",
+          "slug": "latvia",
+          "name": "Latvia"
+        },
+        "population": "743,000",
+        "timezone": {
+          "name": "Europe/Riga",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.11,
+          56.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3451190,
         "slug": "3451190-rio-de-janeiro-br",
         "name": "Rio de Janeiro",
@@ -5286,33 +5313,6 @@
         "coordinates": [
           -66.83,
           -20.46
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 587876,
-        "slug": "587876-valga-ee",
-        "name": "Valga",
-        "region": "Valgamaa",
-        "country": {
-          "code": "EE",
-          "slug": "estonia",
-          "name": "Estonia"
-        },
-        "population": "14,000",
-        "timezone": {
-          "name": "Europe/Tallinn",
-          "dstOffset": "UTC+02:00",
-          "gmtOffset": "UTC+02:00"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.05,
-          57.78
         ]
       }
     },

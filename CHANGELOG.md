@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.0.29 (June 18, 2016)
+* Added *Latvia* post.
+* Set current location to Vienna, Austria.
+
 ### 1.0.28 (June 17, 2016)
 * Added *Estonia* post.
 * Fixed typo in *Russia Food* post.
