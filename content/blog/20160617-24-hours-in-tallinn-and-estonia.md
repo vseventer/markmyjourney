@@ -2,10 +2,7 @@
 date    = "2016-06-17"
 title   = "24 Hours in Tallinn and Estonia"
 destinations = [ "europe", "estonia" ]
-places  = [
-  "588409-tallinn-ee", "587577-viljandi-ee",
-  "592146-helme-ee", "587876-valga-ee"
-]
+places  = [ "588409-tallinn-ee", "587577-viljandi-ee" ]
 photos  = [
   "IMG_6185.JPG", "IMG_6188.JPG", "IMG_6219.JPG", "IMG_6193.JPG", "IMG_6194.JPG",
   "IMG_6201.JPG", "IMG_6210.JPG", "IMG_6225.JPG", "IMG_6246.JPG", "IMG_6261.JPG",
