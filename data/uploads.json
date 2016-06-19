@@ -9220,6 +9220,150 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6389.JPG",
+        "date": "2016-06-09T12:35:07",
+        "description": "Vokiečių gatvė, or German street.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28,
+          54.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6394.JPG",
+        "date": "2016-06-09T12:59:44",
+        "description": "Town Hall Square.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29,
+          54.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6399.JPG",
+        "date": "2016-06-09T13:19:53",
+        "description": "Entrance to Užupis.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29,
+          54.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6401.JPG",
+        "date": "2016-06-09T13:32:47",
+        "description": "Angel of Užupis statue.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3,
+          54.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6408.JPG",
+        "date": "2016-06-09T14:07:00",
+        "description": "St. Anne’s Church.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29,
+          54.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6414.JPG",
+        "date": "2016-06-09T14:20:59",
+        "description": "Vilnius University (left) and Palace (right).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29,
+          54.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6417.JPG",
+        "date": "2016-06-09T14:30:54",
+        "description": "Cathedral Square.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29,
+          54.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6428.JPG",
+        "date": "2016-06-09T15:43:07",
+        "description": "View of the new part of Vilnius.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29,
+          54.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6430.JPG",
+        "date": "2016-06-09T15:46:25",
+        "description": "View of the old part of Vilnius.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29,
+          54.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",

@@ -5427,6 +5427,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 593116,
+        "slug": "593116-vilnius-lt",
+        "name": "Vilnius",
+        "region": "Vilnius County",
+        "country": {
+          "code": "LT",
+          "slug": "lithuania",
+          "name": "Lithuania"
+        },
+        "population": "542,000",
+        "timezone": {
+          "name": "Europe/Vilnius",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28,
+          54.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1581250,
         "slug": "1581250-vinh-ha-long-vn",
         "name": "Vịnh Hạ Long",
