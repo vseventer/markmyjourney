@@ -587,7 +587,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-06-18"
+          "start" : "2016-06-18",
+          "end"   : "2016-06-20"
         }
       },
       "geometry": {
@@ -595,6 +596,36 @@
         "coordinates": [
           16.37,
           48.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3060972,
+        "slug": "3060972-bratislava-sk",
+        "name": "Bratislava",
+        "region": "Bratislavský",
+        "country": {
+          "code": "SK",
+          "slug": "slovakia",
+          "name": "Slovakia"
+        },
+        "population": "424,000",
+        "timezone": {
+          "name": "Europe/Bratislava",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-06-20"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.11,
+          48.15
         ]
       }
     }
