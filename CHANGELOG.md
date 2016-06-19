@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.0.30 (June 19, 2016)
+* Added *Lithuania* post.
+* Set current location to Bratislava, Slovakia.
+
 ### 1.0.29 (June 18, 2016)
 * Added *Latvia* post.
 * Set current location to Vienna, Austria.
