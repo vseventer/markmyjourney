@@ -618,7 +618,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-06-20"
+          "start" : "2016-06-20",
+          "end"   : "2016-06-22"
         }
       },
       "geometry": {
@@ -626,6 +627,36 @@
         "coordinates": [
           17.11,
           48.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3054643,
+        "slug": "3054643-budapest-hu",
+        "name": "Budapest",
+        "region": "Budapest",
+        "country": {
+          "code": "HU",
+          "slug": "hungary",
+          "name": "Hungary"
+        },
+        "population": "1.7m",
+        "timezone": {
+          "name": "Europe/Budapest",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-06-22"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.04,
+          47.5
         ]
       }
     }

@@ -1,5 +1,10 @@
 # Changelog
 
+### 1.0.31 (June 21, 2016)
+* Added *Baltic Food* post.
+* Set current location to Budapest, Hungary.
+* Updated `node-sass` and `sharp-cli` dependencies.
+
 ### 1.0.30 (June 19, 2016)
 * Added *Lithuania* post.
 * Set current location to Bratislava, Slovakia.

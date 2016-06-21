@@ -8836,6 +8836,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6176.JPG",
+        "date": "2016-06-04T19:40:22",
+        "description": "Kohuke.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73,
+          59.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_6185.JPG",
         "date": "2016-06-05T11:25:43",
         "description": "Old city gate.",
@@ -8948,6 +8964,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6220.JPG",
+        "date": "2016-06-05T14:12:02",
+        "description": "Vana, a rum-based liqueur popular in Estonia.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75,
+          59.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_6225.JPG",
         "date": "2016-06-05T14:16:48",
         "description": "Narrow streets of the old town.",
@@ -8957,6 +8989,70 @@
         "type": "Point",
         "coordinates": [
           24.75,
+          59.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6227.JPG",
+        "date": "2016-06-05T15:04:51",
+        "description": "Kiluvoileib.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75,
+          59.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6228.JPG",
+        "date": "2016-06-05T17:03:14",
+        "description": "Estonian chocolate.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73,
+          59.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6232.JPG",
+        "date": "2016-06-05T20:01:38",
+        "description": "Kama.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74,
+          59.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6234.JPG",
+        "date": "2016-06-05T21:11:46",
+        "description": "G:N drink, popular in Estonia, as drink or for cocktails.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74,
           59.44
         ]
       }
@@ -9092,6 +9188,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6317.JPG",
+        "date": "2016-06-07T10:17:57",
+        "description": "Piragi.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.12,
+          56.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_6318.JPG",
         "date": "2016-06-07T10:46:33",
         "description": "Riga Central Market.",
@@ -9118,6 +9230,70 @@
         "coordinates": [
           24.11,
           56.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6322.JPG",
+        "date": "2016-06-07T11:07:38",
+        "description": "Kartupeļu pankūkas with sauerkraut.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.11,
+          56.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6323.JPG",
+        "date": "2016-06-07T11:10:42",
+        "description": "Black balsam (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.11,
+          56.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6327.JPG",
+        "date": "2016-06-07T11:45:43",
+        "description": "Black balsam (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.11,
+          56.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6339.JPG",
+        "date": "2016-06-07T13:54:40",
+        "description": "Grandma’s cake.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.12,
+          56.95
         ]
       }
     },
@@ -9159,6 +9335,22 @@
         "src": "IMG_6351.JPG",
         "date": "2016-06-07T14:48:53",
         "description": "The Three Brothers.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1,
+          56.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6354.JPG",
+        "date": "2016-06-07T14:57:30",
+        "description": "Napoleon cake.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -9214,6 +9406,70 @@
         "coordinates": [
           24.11,
           56.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6372.JPG",
+        "date": "2016-06-07T17:07:36",
+        "description": "Blood sausage.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.12,
+          56.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6376.JPG",
+        "date": "2016-06-07T19:47:34",
+        "description": "Cracker with jāņu siers.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.12,
+          56.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6378.JPG",
+        "date": "2016-06-08T09:35:19",
+        "description": "Orange tomatoes, the cheapest tomatoes found in Latvia.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.12,
+          56.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6379.JPG",
+        "date": "2016-06-08T18:20:27",
+        "description": "Gira.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28,
+          54.69
         ]
       }
     },
@@ -9326,6 +9582,70 @@
         "coordinates": [
           25.29,
           54.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6421.JPG",
+        "date": "2016-06-09T14:57:03",
+        "description": "Cherry wine.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29,
+          54.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6423.JPG",
+        "date": "2016-06-09T15:02:22",
+        "description": "Šaltibarščiai.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29,
+          54.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6424.JPG",
+        "date": "2016-06-09T15:08:45",
+        "description": "Cepelinai.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29,
+          54.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6425.JPG",
+        "date": "2016-06-09T15:23:28",
+        "description": "Šakotis.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29,
+          54.68
         ]
       }
     },
