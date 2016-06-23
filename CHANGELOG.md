@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.32 (June 23, 2016)
+* Set current location to Ljubljana, Slovenia.
+
 ### 1.0.31 (June 21, 2016)
 * Added *Baltic Food* post.
 * Set current location to Budapest, Hungary.

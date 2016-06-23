@@ -2,7 +2,7 @@
 date    = "2016-06-19"
 title   = "Top Things to do in Lithuania: A Visit to Vilnius"
 destinations = [ "europe", "lithuania" ]
-places  = [ "593116-vilnius-lt", "3054643-budapest-hu" ]
+places  = [ "593116-vilnius-lt" ]
 photos  = [
   "IMG_6394.JPG", "IMG_6389.JPG", "IMG_6399.JPG", "IMG_6401.JPG", "IMG_6408.JPG",
   "IMG_6414.JPG", "IMG_6417.JPG", "IMG_6430.JPG", "IMG_6428.JPG"

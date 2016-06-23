@@ -649,7 +649,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-06-22"
+          "start" : "2016-06-22",
+          "end"   : "2016-06-24"
         }
       },
       "geometry": {
@@ -657,6 +658,36 @@
         "coordinates": [
           19.04,
           47.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3196359,
+        "slug": "3196359-ljubljana-si",
+        "name": "Ljubljana",
+        "region": "Ljubljana",
+        "country": {
+          "code": "SI",
+          "slug": "slovenia",
+          "name": "Slovenia"
+        },
+        "population": "272,000",
+        "timezone": {
+          "name": "Europe/Ljubljana",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-06-24"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          46.05
         ]
       }
     }
