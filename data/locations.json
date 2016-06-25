@@ -680,7 +680,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-06-24"
+          "start" : "2016-06-24",
+          "end"   : "2016-06-27"
         }
       },
       "geometry": {
@@ -688,6 +689,36 @@
         "coordinates": [
           14.51,
           46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3186886,
+        "slug": "3186886-zagreb-hr",
+        "name": "Zagreb",
+        "region": "City of Zagreb",
+        "country": {
+          "code": "HR",
+          "slug": "croatia",
+          "name": "Croatia"
+        },
+        "population": "699,000",
+        "timezone": {
+          "name": "Europe/Zagreb",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-06-27"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
         ]
       }
     }

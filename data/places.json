@@ -2542,6 +2542,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3094802,
+        "slug": "3094802-krakow-pl",
+        "name": "Kraków",
+        "region": "Lesser Poland Voivodeship",
+        "country": {
+          "code": "PL",
+          "slug": "poland",
+          "name": "Poland"
+        },
+        "population": "755,000",
+        "timezone": {
+          "name": "Europe/Warsaw",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3149312,
         "slug": "3149312-kristiansund-no",
         "name": "Kristiansund",
@@ -5475,6 +5502,33 @@
         "coordinates": [
           107.1,
           20.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 756135,
+        "slug": "756135-warsaw-pl",
+        "name": "Warsaw",
+        "region": "Masovian Voivodeship",
+        "country": {
+          "code": "PL",
+          "slug": "poland",
+          "name": "Poland"
+        },
+        "population": "1.7m",
+        "timezone": {
+          "name": "Europe/Warsaw",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
         ]
       }
     },
