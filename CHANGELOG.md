@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.0.33-dev
+### 1.0.33 (June 26, 2016)
 * Added *Poland* post.
 * Set current location to Zagreb, Croatia.
 

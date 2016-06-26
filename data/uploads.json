@@ -9684,6 +9684,246 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6464.JPG",
+        "date": "2016-06-11T10:26:40",
+        "description": "Castle Square.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6475.JPG",
+        "date": "2016-06-11T10:52:00",
+        "description": "Royal Castle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6478.JPG",
+        "date": "2016-06-11T11:07:02",
+        "description": "The narrowest house in Warsaw.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6486.JPG",
+        "date": "2016-06-11T11:17:29",
+        "description": "Market Square.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6490.JPG",
+        "date": "2016-06-11T11:22:36",
+        "description": "Castle walls.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6495.JPG",
+        "date": "2016-06-11T11:53:56",
+        "description": "Borders of the Warsaw Ghetto.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6499.JPG",
+        "date": "2016-06-11T12:08:02",
+        "description": "Warsaw Uprising Monument.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6500.JPG",
+        "date": "2016-06-11T12:23:08",
+        "description": "Music-playing bench.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6508.JPG",
+        "date": "2016-06-11T14:02:34",
+        "description": "Presidential Palace.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6510.JPG",
+        "date": "2016-06-11T14:44:00",
+        "description": "Stalin cake.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21,
+          52.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6577.JPG",
+        "date": "2016-06-13T15:46:26",
+        "description": "Planty Park.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6579.JPG",
+        "date": "2016-06-13T15:56:56",
+        "description": "St. Florian’s Gate.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6594.JPG",
+        "date": "2016-06-13T16:53:36",
+        "description": "Main Square.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6602.JPG",
+        "date": "2016-06-13T18:14:02",
+        "description": "Wawel Cathedral.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.93,
+          50.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6607.JPG",
+        "date": "2016-06-13T18:16:19",
+        "description": "Wawel Royal Castle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",
