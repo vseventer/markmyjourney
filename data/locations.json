@@ -711,7 +711,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-06-27"
+          "start" : "2016-06-27",
+          "end"   : "2016-06-28"
         }
       },
       "geometry": {
@@ -719,6 +720,36 @@
         "coordinates": [
           15.98,
           45.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3190261,
+        "slug": "3190261-split-hr",
+        "name": "Split",
+        "region": "Splitsko-Dalmatinska",
+        "country": {
+          "code": "HR",
+          "slug": "croatia",
+          "name": "Croatia"
+        },
+        "population": "176,000",
+        "timezone": {
+          "name": "Europe/Zagreb",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-06-28"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44,
+          43.51
         ]
       }
     }
