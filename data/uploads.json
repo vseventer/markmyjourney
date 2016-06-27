@@ -9844,6 +9844,150 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6532.JPG",
+        "date": "2016-06-13T09:26:12",
+        "description": "Red brick barracks.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2,
+          50.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6533.JPG",
+        "date": "2016-06-13T09:30:50",
+        "description": "An enormous amount of confiscated shoes.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.21,
+          50.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6547.JPG",
+        "date": "2016-06-13T10:50:51",
+        "description": "Entrance to Auschwitz.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2,
+          50.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6556.JPG",
+        "date": "2016-06-13T11:57:42",
+        "description": "Train carriage, which could hold up to 150 prisoners at the time.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.18,
+          50.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6557.JPG",
+        "date": "2016-06-13T12:02:19",
+        "description": "Birkenau.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.18,
+          50.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6560.JPG",
+        "date": "2016-06-13T12:16:23",
+        "description": "The one million cobblestones of the International Monument.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.17,
+          50.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6563.JPG",
+        "date": "2016-06-13T12:43:06",
+        "description": "Housing barracks.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.17,
+          50.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6565.JPG",
+        "date": "2016-06-13T13:06:31",
+        "description": "Cleaning facilities in Birkenau.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.18,
+          50.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6568.JPG",
+        "date": "2016-06-13T13:19:47",
+        "description": "Entrance to Birkenau.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.18,
+          50.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_6577.JPG",
         "date": "2016-06-13T15:46:26",
         "description": "Planty Park.",

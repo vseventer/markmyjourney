@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.0.34-dev
+* Added *Auschwitz* post.
 * Set current location to Split, Croatia.
 
 ### 1.0.33 (June 26, 2016)

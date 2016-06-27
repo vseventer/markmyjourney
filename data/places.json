@@ -409,6 +409,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 7701596,
+        "slug": "7701596-auschwitz-birkenau-pl",
+        "name": "Auschwitz-Birkenau Concentration Camp",
+        "region": "Lesser Poland Voivodeship",
+        "country": {
+          "code": "PL",
+          "slug": "poland",
+          "name": "Poland"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Warsaw",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.18,
+          50.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 8389116,
         "slug": "8389116-badaling-changcheng-cn",
         "name": "Badaling Changcheng",
