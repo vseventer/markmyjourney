@@ -773,7 +773,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-06-30"
+          "start" : "2016-06-30",
+          "end"   : "2016-07-02"
         }
       },
       "geometry": {
@@ -781,6 +782,36 @@
         "coordinates": [
           18.36,
           43.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3201047,
+        "slug": "3201047-dubrovnik-hr",
+        "name": "Dubrovnik",
+        "region": "Dubrovačko-Neretvanska",
+        "country": {
+          "code": "HR",
+          "slug": "croatia",
+          "name": "Croatia"
+        },
+        "population": "28,000",
+        "timezone": {
+          "name": "Europe/Zagreb",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-07-02"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.09,
+          42.65
         ]
       }
     }

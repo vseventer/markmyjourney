@@ -4023,6 +4023,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3067696,
+        "slug": "3067696-prague-cz",
+        "name": "Prague",
+        "region": "Praha",
+        "country": {
+          "code": "CZ",
+          "slug": "czech-republic",
+          "name": "Czech Republic"
+        },
+        "population": "1.2m",
+        "timezone": {
+          "name": "Europe/Prague",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 6300693,
         "slug": "6300693-presidente-carlos-ibanez-del-campo-international-airport-cl",
         "name": "Presidente Carlos Ibáñez del Campo International Airport",

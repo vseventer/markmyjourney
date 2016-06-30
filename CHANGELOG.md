@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.0.36 (July 1, 2016)
+* Added *Prague* post.
+* Set current location to Dubrovnik, Croatia.
+
 ### 1.0.35 (June 30, 2016)
 * Added *Poland Food* post.
 * Set current location to Sarajevo, Bosnia and Herzegovina.
