@@ -1,7 +1,8 @@
 # Changelog
 
-### 1.0.35-dev
+### 1.0.35 (June 30, 2016)
 * Added *Poland Food* post.
+* Set current location to Sarajevo, Bosnia and Herzegovina.
 
 ### 1.0.34 (June 27, 2016)
 * Added *Auschwitz* post.

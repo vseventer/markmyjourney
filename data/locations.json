@@ -742,7 +742,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-06-28"
+          "start" : "2016-06-28",
+          "end"   : "2016-06-30"
         }
       },
       "geometry": {
@@ -750,6 +751,36 @@
         "coordinates": [
           16.44,
           43.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3191281,
+        "slug": "3191281-sarajevo-ba",
+        "name": "Sarajevo",
+        "region": "Federation of Bosnia and Herzegovina",
+        "country": {
+          "code": "BA",
+          "slug": "bosnia-and-herzegovina",
+          "name": "Bosnia and Herzegovina"
+        },
+        "population": "697,000",
+        "timezone": {
+          "name": "Europe/Sarajevo",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-06-30"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.36,
+          43.85
         ]
       }
     }

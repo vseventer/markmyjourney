@@ -9812,6 +9812,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6505.JPG",
+        "date": "2016-06-11T13:26:35",
+        "description": "Pierogi.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_6508.JPG",
         "date": "2016-06-11T14:02:34",
         "description": "Presidential Palace.",
@@ -9838,6 +9854,86 @@
         "coordinates": [
           21,
           52.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6511.JPG",
+        "date": "2016-06-11T17:55:38",
+        "description": "Warka.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.99,
+          52.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6512.JPG",
+        "date": "2016-06-11T17:55:56",
+        "description": "Rogaliki.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.99,
+          52.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6518.JPG",
+        "date": "2016-06-12T12:25:12",
+        "description": "Sweet bread filled with jam.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.88,
+          52.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6526.JPG",
+        "date": "2016-06-12T18:55:21",
+        "description": "Tyskie.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6528.JPG",
+        "date": "2016-06-12T21:03:44",
+        "description": "Krówki.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
         ]
       }
     },
@@ -9988,6 +10084,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6574.JPG",
+        "date": "2016-06-13T14:55:42",
+        "description": "Obwarzanek krakowski.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6575.JPG",
+        "date": "2016-06-13T15:05:11",
+        "description": "Napoleon’s Cake.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_6577.JPG",
         "date": "2016-06-13T15:46:26",
         "description": "Planty Park.",
@@ -10062,6 +10190,86 @@
         "coordinates": [
           19.94,
           50.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6614.JPG",
+        "date": "2016-06-13T19:06:28",
+        "description": "Bigos.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6617.JPG",
+        "date": "2016-06-13T19:08:34",
+        "description": "Golabki.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6618.JPG",
+        "date": "2016-06-13T19:30:28",
+        "description": "Kielbasa sausage.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6619.JPG",
+        "date": "2016-06-13T19:36:53",
+        "description": "Chocolate-covered plums.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6623.JPG",
+        "date": "2016-06-14T07:00:35",
+        "description": "Zapiekanka.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          50.06
         ]
       }
     },
