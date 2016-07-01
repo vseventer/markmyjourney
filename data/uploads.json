@@ -10276,6 +10276,166 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6635.JPG",
+        "date": "2016-06-15T13:50:09",
+        "description": "Wenceslas Square.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42,
+          50.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6640.JPG",
+        "date": "2016-06-15T14:11:25",
+        "description": "Old Town Square (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6649.JPG",
+        "date": "2016-06-15T14:43:28",
+        "description": "House of the Black Madonna.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6652.JPG",
+        "date": "2016-06-15T14:56:31",
+        "description": "Municipal House.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6665.JPG",
+        "date": "2016-06-15T16:27:10",
+        "description": "Astronomical clock.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6667.JPG",
+        "date": "2016-06-15T16:30:35",
+        "description": "Old Town Square (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6676.JPG",
+        "date": "2016-06-15T17:01:22",
+        "description": "Old New Synagogue.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6687.JPG",
+        "date": "2016-06-15T17:18:24",
+        "description": "Parliament.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.41,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6688.JPG",
+        "date": "2016-06-15T17:19:55",
+        "description": "Prague Castle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.41,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6703.JPG",
+        "date": "2016-06-15T17:41:32",
+        "description": "Charles Bridge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.41,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",
