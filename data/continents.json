@@ -910,7 +910,7 @@
             "name": "Panama"
           }
         ],
-        "population": "43.3m",
+        "population": "154.3m",
         "timezone": null
       },
       "geometry": {
@@ -1363,7 +1363,7 @@
             "name": "Yemen"
           }
         ],
-        "population": null,
+        "population": "371.4m",
         "timezone": {
           "name": "Asia/Damascus",
           "dstOffset": "UTC+03:00",

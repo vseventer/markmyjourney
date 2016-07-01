@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.37-dev
+* Set current location to Kotor, Montenegro.
+
 ### 1.0.36 (July 1, 2016)
 * Added *Prague* post.
 * Set current location to Dubrovnik, Croatia.

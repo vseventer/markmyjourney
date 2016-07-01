@@ -804,7 +804,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-07-02"
+          "start" : "2016-07-02",
+          "end"   : "2016-07-03"
         }
       },
       "geometry": {
@@ -812,6 +813,36 @@
         "coordinates": [
           18.09,
           42.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3197538,
+        "slug": "3197538-kotor-me",
+        "name": "Kotor",
+        "region": "Kotor",
+        "country": {
+          "code": "ME",
+          "slug": "montenegro",
+          "name": "Montenegro"
+        },
+        "population": "5,000",
+        "timezone": {
+          "name": "Europe/Podgorica",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-07-03"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77,
+          42.42
         ]
       }
     }
