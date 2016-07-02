@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.0.37-dev
+### 1.0.37 (July 2, 2016)
 * Set current location to Kotor, Montenegro.
 
 ### 1.0.36 (July 1, 2016)
