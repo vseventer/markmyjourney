@@ -5747,6 +5747,33 @@
           62.47
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3077889,
+        "slug": "3077889-cesky-krumlov-cz",
+        "name": "Český Krumlov",
+        "region": "Jihočeský",
+        "country": {
+          "code": "CZ",
+          "slug": "czech-republic",
+          "name": "Czech Republic"
+        },
+        "population": "14,000",
+        "timezone": {
+          "name": "Europe/Prague",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.32,
+          48.81
+        ]
+      }
     }
   ]
 }

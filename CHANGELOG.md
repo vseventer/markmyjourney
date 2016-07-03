@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.0.38-dev
+* Added *Český Krumlov* post.
 * Set current location to Albania.
 
 ### 1.0.37 (July 2, 2016)
