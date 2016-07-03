@@ -835,7 +835,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-07-03"
+          "start" : "2016-07-03",
+          "end"   : "2016-07-05"
         }
       },
       "geometry": {
@@ -845,6 +846,30 @@
           42.42
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 783754,
+        "slug": "783754-albania",
+        "name": "Republic of Albania",
+        "region": null,
+        "country": {
+          "code": "AL",
+          "slug": "albania",
+          "name": "Albania"
+        },
+        "population": "3.0m",
+        "timezone": {
+          "name": "Europe/Tirane",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-07-05"
+        }
+      },
+      "geometry": null
     }
   ]
 }
