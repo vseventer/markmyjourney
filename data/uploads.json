@@ -10436,6 +10436,102 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6723.JPG",
+        "date": "2016-06-16T10:46:30",
+        "description": "View over the Vltava river and castle (top left).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.32,
+          48.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6730.JPG",
+        "date": "2016-06-16T11:09:12",
+        "description": "Streets of Český Krumlov (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.31,
+          48.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6731.JPG",
+        "date": "2016-06-16T11:10:21",
+        "description": "Streets of Český Krumlov (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.31,
+          48.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6741.JPG",
+        "date": "2016-06-16T11:26:28",
+        "description": "Streets of Český Krumlov (3).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.32,
+          48.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6756.JPG",
+        "date": "2016-06-16T11:59:08",
+        "description": "View from the castle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.31,
+          48.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6772.JPG",
+        "date": "2016-06-16T12:25:18",
+        "description": "Castle gardens.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.31,
+          48.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",

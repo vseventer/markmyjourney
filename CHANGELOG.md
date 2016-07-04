@@ -1,8 +1,9 @@
 # Changelog
 
-### 1.0.38-dev
+### 1.0.38 (July 4, 2016)
 * Added *Český Krumlov* post.
 * Set current location to Albania.
+* Updated `moment` dependency.
 
 ### 1.0.37 (July 2, 2016)
 * Set current location to Kotor, Montenegro.

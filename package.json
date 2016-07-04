@@ -1,6 +1,6 @@
 {
   "name"        : "MarkMyJourney",
-  "version"     : "1.0.38-dev",
+  "version"     : "1.0.38",
   "description" : "My travel blog, MarkMyJourney.com.",
   "keywords"    : [ "blog", "travel" ],
   "homepage"    : "https://www.markmyjourney.com",
@@ -72,7 +72,7 @@
     "leaflet-fullscreen"    : "1.0.x",
     "leaflet.markercluster" : "Leaflet/Leaflet.markercluster#v1.0.0-rc.1",
     "leaflet-minimap"       : "3.3.x",
-    "moment"        : "2.13.x",
+    "moment"        : "2.14.x",
     "napa"          : "2.3.x",
     "node-sass"     : "3.8.x",
     "parallelshell" : "2.0.x",
