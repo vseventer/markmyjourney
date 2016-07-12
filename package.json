@@ -1,6 +1,6 @@
 {
   "name"        : "MarkMyJourney",
-  "version"     : "1.0.39",
+  "version"     : "1.0.40-dev",
   "description" : "My travel blog, MarkMyJourney.com.",
   "keywords"    : [ "blog", "travel" ],
   "homepage"    : "https://www.markmyjourney.com",
@@ -25,12 +25,14 @@
     "make:exif"    : "./bin/exif.js uploads/*",
     "make:leaflet" : "npm run leaflet",
 
-    "preuploads"  : "rimraf ./static/uploads/*.{jpg,JPG} ./static/uploads/thumbs/*.{jpg,JPG}",
+    "preuploads"  : "rimraf ./.tmp && mkdir ./.tmp && mkdir ./.tmp/thumbs",
     "uploads"     : "parallelshell 'npm run uploads:resize' 'npm run uploads:thumbs'",
-    "uploads:resize"     : "sharp 'uploads/*' -w 1280 -h 1280 --max -o ./static/uploads --quality 100 --rotate --verbose --withoutMetadata",
-    "postuploads:resize" : "imagemin -P mozjpeg --progressive --quality 75 ./static/uploads ./static/uploads",
-    "uploads:thumbs"     : "sharp 'uploads/*' -w 133 -h 100 --sharpen 1 --sharpenFlat 0.3 --sharpenJagged 0.6 -o ./static/uploads/thumbs --quality=100 --rotate --withoutMetadata",
-    "postuploads:thumbs" : "imagemin -P mozjpeg --quality 75 ./static/uploads/thumbs ./static/uploads/thumbs",
+    "postuploads" : "cp -iRv .tmp/* ./static/uploads",
+
+    "uploads:resize"     : "sharp 'uploads/*' -w 1280 -h 1280 --max -o .tmp/ --quality 100 --rotate --verbose --withoutMetadata",
+    "postuploads:resize" : "imagemin -P mozjpeg --progressive --quality 75 .tmp/ .tmp/",
+    "uploads:thumbs"     : "sharp 'uploads/*' -w 133 -h 100 --sharpen 1 --sharpenFlat 0.3 --sharpenJagged 0.6 -o .tmp/thumbs --quality=100 --rotate --withoutMetadata",
+    "postuploads:thumbs" : "imagemin -P mozjpeg --quality 75 .tmp/thumbs .tmp/thumbs",
 
     "prebuild"  : "npm run clean && npm run build:hugo",
     "build"     : "parallelshell 'npm run build:css' 'npm run build:html' 'npm run build:img' 'npm run build:js'",
@@ -43,7 +45,7 @@
     "build:img"     : "imagemin -P mozjpeg -P pngquant --speed 1 'public/img/*' ./public/img",
     "build:js"      : "find ./public/js -iname '*.js' -exec uglifyjs {} -cmvo {} \\;",
 
-    "clean"       : "rimraf public/* static/css/*.css ./static/img/*.png",
+    "clean"       : "rimraf .tmp/ public/* static/css/*.css ./static/img/*.png",
     "postinstall" : "napa && npm run webpack",
     "prestart"    : "npm run make",
     "start"       : "npm run watch",

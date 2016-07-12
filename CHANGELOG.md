@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.40-dev
+* Optimize `uploads` build script.
+
 ### 1.0.39 (July 12, 2016)
 * Set current location to Skopje, Macedonia.
 * Updated `html-minifier` dependency.
