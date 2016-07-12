@@ -866,10 +866,41 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-07-05"
+          "start" : "2016-07-05",
+          "end"   : "2016-07-13"
         }
       },
       "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 785842,
+        "slug": "785842-skopje-mk",
+        "name": "Skopje",
+        "region": "Karpoš",
+        "country": {
+          "code": "MK",
+          "slug": "macedonia",
+          "name": "Macedonia"
+        },
+        "population": "475,000",
+        "timezone": {
+          "name": "Europe/Skopje",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-07-13"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.43,
+          42
+        ]
+      }
     }
   ]
 }

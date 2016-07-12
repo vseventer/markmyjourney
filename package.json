@@ -1,6 +1,6 @@
 {
   "name"        : "MarkMyJourney",
-  "version"     : "1.0.38",
+  "version"     : "1.0.39",
   "description" : "My travel blog, MarkMyJourney.com.",
   "keywords"    : [ "blog", "travel" ],
   "homepage"    : "https://www.markmyjourney.com",
@@ -62,7 +62,7 @@
     "exif-reader"   : "1.0.x",
     "gh-pages"      : "0.11.x",
     "hashmark"      : "3.1.x",
-    "html-minifier" : "2.1.x",
+    "html-minifier" : "3.0.x",
     "imagemin-cli"  : "2.1.x",
     "imagemin-mozjpeg"  : "5.1.x",
     "imagemin-pngquant" : "4.2.x",
