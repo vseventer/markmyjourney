@@ -1,7 +1,8 @@
 # Changelog
 
-### 1.0.40-dev
+### 1.0.40 (July 14, 2016)
 * Optimize `uploads` build script.
+* Set current location to Sofia, Bulgaria.
 
 ### 1.0.39 (July 12, 2016)
 * Set current location to Skopje, Macedonia.

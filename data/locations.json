@@ -891,7 +891,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-07-13"
+          "start" : "2016-07-13",
+          "end"   : "2016-07-15"
         }
       },
       "geometry": {
@@ -899,6 +900,36 @@
         "coordinates": [
           21.43,
           42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 727011,
+        "slug": "727011-sofia-bg",
+        "name": "Sofia",
+        "region": "Sofia-Capital",
+        "country": {
+          "code": "BG",
+          "slug": "bulgaria",
+          "name": "Bulgaria"
+        },
+        "population": "1.2m",
+        "timezone": {
+          "name": "Europe/Sofia",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start": "2016-07-15"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32,
+          42.7
         ]
       }
     }
