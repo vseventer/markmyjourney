@@ -922,7 +922,8 @@
           "gmtOffset": "UTC+02:00"
         },
         "period": {
-          "start": "2016-07-15"
+          "start" : "2016-07-15",
+          "end"   : "2016-07-17"
         }
       },
       "geometry": {
@@ -930,6 +931,36 @@
         "coordinates": [
           23.32,
           42.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 683506,
+        "slug": "683506-bucharest-ro",
+        "name": "Bucharest",
+        "region": "Bucureşti",
+        "country": {
+          "code": "RO",
+          "slug": "romania",
+          "name": "Romania"
+        },
+        "population": "1.9m",
+        "timezone": {
+          "name": "Europe/Bucharest",
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
+        },
+        "period": {
+          "start": "2016-07-17"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.11,
+          44.43
         ]
       }
     }

@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.41 (July 16, 2016)
+* Set current location to Bucharest, Romania.
+
 ### 1.0.40 (July 14, 2016)
 * Optimize `uploads` build script.
 * Set current location to Sofia, Bulgaria.
