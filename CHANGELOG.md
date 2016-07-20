@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.42 (July 20, 2016)
+* Set current location to Greece.
+
 ### 1.0.41 (July 16, 2016)
 * Set current location to Bucharest, Romania.
 
