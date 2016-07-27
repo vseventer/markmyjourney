@@ -1015,7 +1015,8 @@
           "gmtOffset": "UTC+03:00"
         },
         "period": {
-          "start": "2016-07-21"
+          "start" : "2016-07-21",
+          "end"   : "2016-07-27"
         }
       },
       "geometry": {
@@ -1023,6 +1024,36 @@
         "coordinates": [
           22,
           39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 146669,
+        "slug": "146669-cyprus",
+        "name": "Republic of Cyprus",
+        "region": null,
+        "country": {
+          "code": "CY",
+          "slug": "cyprus",
+          "name": "Cyprus"
+        },
+        "population": "1.1m",
+        "timezone": {
+          "name": "Asia/Nicosia",
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
+        },
+        "period": {
+          "start": "2016-07-27"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33,
+          35
         ]
       }
     }

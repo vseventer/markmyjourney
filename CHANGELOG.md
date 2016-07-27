@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.43 (July 27, 2016)
+* Set current location to Cyprus.
+
 ### 1.0.42 (July 20, 2016)
 * Set current location to Greece.
 
