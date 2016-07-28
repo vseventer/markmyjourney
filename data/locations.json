@@ -1046,7 +1046,8 @@
           "gmtOffset": "UTC+03:00"
         },
         "period": {
-          "start": "2016-07-27"
+          "start" : "2016-07-27",
+          "end"   : "2016-07-29"
         }
       },
       "geometry": {
@@ -1054,6 +1055,36 @@
         "coordinates": [
           33,
           35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 745044,
+        "slug": "745044-istanbul-tr",
+        "name": "İstanbul",
+        "region": "Istanbul",
+        "country": {
+          "code": "TR",
+          "slug": "turkey",
+          "name": "Turkey"
+        },
+        "population": "11.2m",
+        "timezone": {
+          "name": "Europe/Istanbul",
+          "dstOffset": "UTC+03:00",
+          "gmtOffset": "UTC+03:00"
+        },
+        "period": {
+          "start": "2016-07-29"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.95,
+          41.01
         ]
       }
     }

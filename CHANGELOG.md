@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.0.44 (July 28, 2016)
+* Set current location to Istanbul, Turkey.
+
 ### 1.0.43 (July 27, 2016)
 * Set current location to Cyprus.
 
