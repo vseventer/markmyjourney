@@ -1077,7 +1077,8 @@
           "gmtOffset": "UTC+03:00"
         },
         "period": {
-          "start": "2016-07-29"
+          "start" : "2016-07-29",
+          "end"   : "2016-07-31"
         }
       },
       "geometry": {
@@ -1085,6 +1086,36 @@
         "coordinates": [
           28.95,
           41.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2750815,
+        "slug": "2750815-mijdrecht-nl",
+        "name": "Mijdrecht",
+        "region": "Utrecht",
+        "country": {
+          "code": "NL",
+          "slug": "netherlands",
+          "name": "Netherlands"
+        },
+        "population": "34,000",
+        "timezone": {
+          "name": "Europe/Amsterdam",
+          "dstOffset": "UTC+12:00",
+          "gmtOffset": "UTC+12:00"
+        },
+        "period": {
+          "start": "2016-07-31"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86,
+          52.21
         ]
       }
     }
