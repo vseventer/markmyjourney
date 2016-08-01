@@ -1,5 +1,7 @@
 # Changelog
 
+### 1.0.46-dev
+
 ### 1.0.45 (July 31, 2016)
 * Set current location to Mijdrecht, The Netherlands.
 
