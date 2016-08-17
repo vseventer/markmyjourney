@@ -1,0 +1,58 @@
+<div class="card">
+  <h3 class="card-header m-b-0">
+    {{ .destination.properties.toponym }}
+    <span class="mmjy-icon icon-flags icon-flags-{{ lower .destination.properties.code }}"></span>
+  </h3>
+
+  <div class="mmjy-border-bottom mmjy-map" data-source="dest"></div>
+
+  <dl class="card-block m-b-0 mmjy-dl-horizontal">
+    <dt>Continent</dt>
+    <dd>
+      <a href="{{ printf "/destinations/%s/" .destination.properties.continent.slug | absURL }}">
+        {{ .destination.properties.continent.name }}
+      </a>
+    </dd>
+    {{ if ne .destination.properties.capital nil }}
+      <dt>Capital City</dt>
+      <dd>{{ .destination.properties.capital }}</dd>
+    {{ end }}
+    {{ if gt (len .destination.properties.languages) 0 }}
+      <dt>Languages</dt>
+      {{ range .destination.properties.languages }}
+        <dd>{{ .name }}</dd>
+      {{ end }}
+    {{ end }}
+    {{ if ne .destination.properties.area nil }}
+      <dt>Area</dt>
+      <dd>{{ .destination.properties.area }} km<sup>2</sup></dd>
+    {{ end }}
+    {{ if ne .destination.properties.population nil }}
+      <dt>Population</dt>
+      <dd>{{ .destination.properties.population }}</dd>
+    {{ end }}
+    {{ if ne .destination.properties.currency nil }}
+      <dt>Currency</dt>
+      <dd>{{ .destination.properties.currency.name }} ({{ .destination.properties.currency.code }})</dd>
+    {{ end }}
+    {{ if ne .destination.properties.timezone nil }}
+      <dt>Timezone</dt>
+      <dd>{{ .destination.properties.timezone.gmtOffset }}</dd>
+      {{ if ne .destination.properties.timezone.gmtOffset .destination.properties.timezone.dstOffset }}
+        <dd>{{ .destination.properties.timezone.dstOffset }} (DST)</dd>
+      {{ end }}
+    {{ end }}
+    {{ if gt (len .destination.properties.neighbours) 0 }}
+      <dt>Neighbors</dt>
+      {{ range .destination.properties.neighbours }}
+        <dd>
+          {{ if isset $.Site.Taxonomies.destinations .slug }}
+            <a href="{{ printf "destinations/%s/" .slug | absURL }}">
+          {{ end }}
+          {{ .name }} <span class="mmjy-icon icon-flags icon-flags-{{ lower .code }}"></span>
+          {{ if isset $.Site.Taxonomies.destinations .slug }}</a>{{ end }}
+        </dd>
+      {{ end }}
+    {{ end }}
+  </dl>
+</div><!-- /card -->

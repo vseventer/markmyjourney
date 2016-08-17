@@ -1,3 +1,0 @@
-mixin toTime($date)
-  if $date
-    time[datetime=dateFormat("2006-01-02", $date)] #{ dateFormat("January 2, 2006", $date) }

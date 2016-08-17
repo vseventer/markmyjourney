@@ -1,0 +1,23 @@
+<ol class="breadcrumb">
+  {{ if .IsHome }}
+    <li class="breadcrumb-item active">Home</li>
+  {{ else }}
+    <li class="breadcrumb-item">
+      <a href="{{ absURL "/" }}">Home</a>
+    </li>
+
+    {{ if isset .Data "Plural" }}
+      <li class="breadcrumb-item">{{ humanize .Data.Plural }}</li>
+    {{ end }}
+
+    {{ if eq 1 .Paginator.PageNumber }}
+      <li class="breadcrumb-item active">{{ .Title }}</li>
+    {{ else }}
+      <li class="breadcrumb-item">
+        <a href="{{ .Paginator.First.URL }}">{{ .Title }}</a>
+      </li>
+      <li class="breadcrumb-item active">Page {{ .Paginator.PageNumber }}</li>
+    {{ end }}
+  {{ end }}
+</ol>
+<hr />

@@ -1,0 +1,24 @@
+{{ $widget := $.Scratch.Get "widget" }}
+
+{{ if eq (getenv "NODE_ENV") "production" }}
+  {{ if isset $widget "disqus" }}
+    <script>
+    var disqus_config = function() {
+      this.page.url = {{ .Permalink }};
+      this.page.identifier = {{ replace .RelPermalink "/" "" }};
+    };
+    </script>
+    <script data-src="https://markmyjourney.disqus.com/embed.js"></script>
+  {{ end }}
+
+  {{ if isset $widget "share" }}
+    <div id="fb-root"></div>
+    <script data-src="https://platform.twitter.com/widgets.js"></script>
+    <script data-src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7"></script>
+    <script data-src="https://apis.google.com/js/platform.js"></script>
+  {{ end }}
+
+  {{ if isset $widget "twitter" }}
+    <script data-src="https://platform.twitter.com/widgets.js"></script>
+  {{ end }}
+{{ end }}

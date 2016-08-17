@@ -1,0 +1,26 @@
+<div class="card">
+  <h4 class="card-header m-b-0">Popular Posts</h4>
+  <ul class="list-group list-group-flush">
+  {{ $popular := first 5 (where .Site.Pages.ByWeight.Reverse "Type" "blog") }}
+  {{ range $popular }}
+    <li class="list-group-item">
+      {{ .Render "title" }}
+    </li>
+  {{ end }}
+  </ul>
+</div><!-- /card -->
+
+<div class="card">
+  <h4 class="card-header m-b-0">Follow Us</h4>
+  <ul class="card-block list-inline m-b-0">
+    {{ range .Site.Menus.social }}
+      <li class="list-inline-item">
+        {{ $identifier := default (lower .Name) .Identifier  }}
+        {{ $className  := printf "icon-stock-%s" $identifier }}
+        <a class="nav-link icon-stock {{ $className }}" href="{{ absURL .URL }}">
+          <span class="sr-only">{{ .Name }}</span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</div><!-- /card -->

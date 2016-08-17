@@ -1,0 +1,31 @@
+<div class="card">
+  <h3 class="card-header m-b-0">
+    {{ .destination.properties.name }}
+  </h3>
+
+  <dl class="card-block m-b-0 mmjy-dl-horizontal">
+    {{ if ne .destination.properties.population nil }}
+      <dt>Population</dt>
+      <dd>{{ .destination.properties.population }}</dd>
+    {{ end }}
+    {{ if ne .destination.properties.timezone nil }}
+      <dt>Timezone</dt>
+      <dd>{{ .destination.properties.timezone.gmtOffset }}</dd>
+      {{ if ne .destination.properties.timezone.gmtOffset .destination.properties.timezone.dstOffset }}
+        <dd>{{ .destination.properties.timezone.dstOffset }} (DST)</dd>
+      {{ end }}
+    {{ end }}
+    {{ if gt (len .destination.properties.countries) 0 }}
+      <dt>Countries</dt>
+      {{ range .destination.properties.countries }}
+        {{ if isset $.Site.Taxonomies.destinations .slug }}
+          <dd>
+            <a href="{{ printf "destinations/%s/" .slug | absURL }}">
+              {{ .name }} <span class="mmjy-icon icon-flags icon-flags-{{ lower .code }}"></span>
+            </a>
+          </dd>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </dl>
+</div><!-- /card -->

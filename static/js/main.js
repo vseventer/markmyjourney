@@ -25,11 +25,9 @@
   'use strict';
 
   // Constants.
-  var DEFAULT_ZOOM = 6,
-      MIN_ZOOM     = 1,
+  var MIN_ZOOM = 2,
       MINIMAP_THRESHOLD_ZOOM = 4,
-      MAX_ZOOM     = 12,
-      POPUP_DELAY  = 500; // ms.
+      MAX_ZOOM = 12; // ms.
 
   // Variables.
   var arraySlice = Array.prototype.slice;
@@ -67,21 +65,41 @@
       indicators.filter('[data-slide-to="' + target.index() + '"]').addClass('active');
     });
 
+    // Return default map options.
+    var initMapOptions = function() {
+      return {
+        // Options.
+        preferCanvas: true,
+
+        // Control options.
+        // zoomControl: false,
+
+        // Interaction options.
+        boxZoom         : false,
+        doubleClickZoom : false,
+        // dragging        : false,
+
+        // Map state options.
+        layers  : tileLayer(Leaflet),
+        maxZoom : MAX_ZOOM,
+        minZoom : MIN_ZOOM,
+
+        // Keyboard navigation options.
+        keyboard: false,
+
+        // Mousewheel options.
+        scrollWheelZoom: false,
+
+        // Touch interaction options.
+        tap: false
+      };
+    };
+
     // Initialize maps.
     var elements = document.querySelectorAll('.mmjy-map');
     arraySlice.call(elements).forEach(function(element) {
       // Configure.
-      var map = Leaflet.map(element, {
-        layers  : tileLayer(Leaflet),
-        maxZoom : MAX_ZOOM,
-        minZoom : MIN_ZOOM + 1,
-        scrollWheelZoom: false
-      });
-
-      // Add event listeners.
-      map.on('fullscreenchange', function() {
-        map.scrollWheelZoom[map.isFullscreen() ? 'enable' : 'disable']();
-      });
+      var map = Leaflet.map(element, initMapOptions());
 
       // Apply GeoJSON from specified source.
       var source = element.getAttribute('data-source');
@@ -97,20 +115,11 @@
         //   return Leaflet.latLng(lat, lng);
         // },
         onEachFeature: function(feature, layer) {
-          // Create popup.
+          // Create tooltip.
           if(null != feature.properties.title) {
-            layer.bindPopup(feature.properties.title, { closeButton: false, minWidth: 0 });
-
-            // Add event listeners.
-            var timeout;
-            layer.on('mouseover', function() {
-              clearTimeout(timeout); // Reset.
-              layer.openPopup();
-            });
-            layer.on('mouseout', function() {
-              timeout = setTimeout(function() {
-                layer.closePopup();
-              }, POPUP_DELAY);
+            layer.bindTooltip(feature.properties.title, {
+              className : 'mmjy-tooltip',
+              direction : 'top'
             });
           }
           return feature;
@@ -118,8 +127,8 @@
         pointToLayer: function(feature, latLng) {
           var marker = Leaflet.marker(latLng); // Create marker.
           if(null != feature.properties.html) { // Set marker icon.
-            var icon = new Leaflet.divIcon({
-              className : null,
+            var icon = new Leaflet.DivIcon({
+              className : null, // Avoid default .leaflet-div-icon.
               html      : feature.properties.html,
               iconSize  : null, // @see https://github.com/Leaflet/Leaflet/issues/1390
             });
@@ -133,13 +142,6 @@
         }
       });
 
-      // Validate layers.
-      var bounds = layer.getBounds();
-      if(!bounds.isValid()) { // No or invalid bounds.
-        return map.setView([ 0, 0 ], MIN_ZOOM);
-        // return element.remove();
-      }
-
       // Prepare cluster.
       var cluster = Leaflet.markerClusterGroup({
         maxClusterRadius    : 24,
@@ -148,40 +150,33 @@
 
       // Append layers.
       layer.getLayers().forEach(function(layer) {
-        var subject = null !== layer.feature.properties.html ? cluster : map;
-        // Add markers to cluster, all other layers to the map.
-        // var subject = layer instanceof Leaflet.Marker ? cluster : map;
+        var subject = null != layer.feature.properties.html ? cluster : map;
         subject.addLayer(layer);
       });
 
-      // Redefine maximum zoom if untouched. Update to max out on bounds or
-      // default.
-      if(MAX_ZOOM === map.getMaxZoom()) {
-        map.setMaxZoom(Math.max(DEFAULT_ZOOM, map.getBoundsZoom(bounds)));
-      }
+      // Minimap.
+      var minimap = new Leaflet.Control.MiniMap(tileLayer(Leaflet), {
+        height     : 100,
+        mapOptions : initMapOptions(),
+        width      : 100,
+        zoomLevelFixed: -8
+      });
 
-      // Focus map.
-      if(map.getZoom()) { // Use predefined zoom.
-        map.setView(bounds.getCenter());
-        bounds = map.getBounds(); // Update for minimap.
-      }
-      else { // Use layer bounds.
-        map.fitBounds(bounds);
-      }
-
-      // Show minimap for zoomed maps focused within a 20x20 degree polygon.
-      if(MINIMAP_THRESHOLD_ZOOM <= map.getZoom()) {
-        var latDiff = Math.abs(bounds.getNorth() - bounds.getSouth()),
-            lngDiff = Math.abs(bounds.getWest()  - bounds.getEast());
-        if(20 > latDiff || 20 > lngDiff) {
-          new Leaflet.Control.MiniMap(tileLayer(Leaflet), { // Configure.
-            centerFixed : bounds.getCenter(),
-            width       : 100,
-            height      : 100,
-            zoomLevelOffset: -8
-          }).addTo(map);
+      // Add event listener to show minimap only for focused maps.
+      map.on('load zoomend', function() {
+        if(MINIMAP_THRESHOLD_ZOOM < map.getZoom()) {
+          if(null == minimap._map) {
+            minimap.addTo(map)._miniMap.dragging.disable();
+          }
         }
-      }
+        else {
+          map.removeControl(minimap);
+        }
+      });
+
+      // Display map.
+      var bounds = layer.getBounds();
+      map.fitBounds(bounds).setMaxBounds(bounds);
     });
   }, false);
 

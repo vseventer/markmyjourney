@@ -1,0 +1,12 @@
+{{ $.Scratch.SetInMap "widget" "share" true }}
+<ul class="list-group d-inline-block">
+  <li class="list-group-item">
+    <a class="twitter-share-button" href="https://twitter.com/share" data-text="{{ .Title }}" data-url="{{ .Permalink }}" data-via="vseventer"></a>
+  </li>
+  <li class="list-group-item">
+    <div class="fb-share-button" data-href="{{ .Permalink }}" data-layout="box_count"></div>
+  </li>
+  <li class="list-group-item">
+    <div class="g-plus" data-action="share" data-annotation="vertical-bubble" data-height="60"></div>
+  </li>
+</ul>
