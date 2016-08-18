@@ -36,7 +36,7 @@
     "postbuild:img"  : "npm run imagemin -- public/img/* -o public/img/ -p pngquant --speed 1",
     "postbuild:js"   : "find $npm_package_config_destination -iname '*.js' -exec uglifyjs {} -cmo {} \\;",
 
-    "preuploads"     : "./bin/exif.js $(find uploads -iname '*?.*')",
+    "preuploads"     : "./bin/exif.js $(find uploads/ -iname '*?.*')",
     "uploads"        : "concurrently 'npm run uploads:full' 'npm run uploads:thumbs'",
     "uploads:full"   : "npm run imagemin $(npm run sharp -s -- -w 1280 -h 1280 --max -o static/uploads/) -- -o static/uploads/ --progressive",
     "uploads:thumbs" : "npm run imagemin $(npm run sharp -s -- -w 133  -h  100 -o static/uploads/thumbs/) -- -o static/uploads/thumbs/",
@@ -48,7 +48,7 @@
     "postinstall" : "concurrently 'npm run leaflet' 'npm run sprity' 'npm run webpack'",
     "prestage"    : "jshint --reporter=node_modules/jshint-stylish static/js/main.js",
     "stage"       : "NODE_ENV=staging npm run build -- -b $npm_package_config_staging",
-    "prestart"    : "npm run uploads",
+    "prestart"    : "([ -f uploads/*?.* ] && npm run uploads) || true",
     "start"       : "NODE_ENV=development npm run watch",
     "watch"       : "concurrently 'npm run hugo -- -v' 'npm run sass -- -w'"
   },
@@ -92,6 +92,7 @@
     "hugo" : "0.16",
     "node" : "4.x"
   },
-  "os"      : [ "darwin" ],
-  "private" : true
+  "engineStrict" : true,
+  "os"           : [ "darwin" ],
+  "private"      : true
 }
