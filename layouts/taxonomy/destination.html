@@ -1,0 +1,35 @@
+{{ define "content" }}
+  {{ partial "list.html" . }}
+{{ end }}
+
+{{ define "sidebar$prepend" }}
+  {{ $slug := urlize .Title }}
+
+  {{ $countries := where .Site.Data.countries.features "properties.slug" $slug }}
+  {{ range $countries }}
+    {{ $var := dict "destination" . "Site" $.Site }}
+    {{ partial "country.html" $var }}
+  {{ end }}
+
+  {{ $continents := where .Site.Data.continents.features "properties.slug" $slug }}
+  {{ range $continents }}
+    {{ $var := dict "destination" . "Site" $.Site }}
+    {{ partial "continent.html" $var }}
+  {{ end }}
+
+{{ end }}
+
+{{ define "scripts$prepend" }}
+  {{ $slug := urlize .Title }}
+
+  <script>
+    {{ $countries := where .Site.Data.countries.features "properties.slug" $slug }}
+    {{ range $countries }}
+      var dest = {
+        type       : 'Feature',
+        properties : { },
+        geometry   : {{ index .geometry.geometries 2 | jsonify | safeJS }}
+      }
+    {{ end }}
+  </script>
+{{ end }}

@@ -1,0 +1,8 @@
+{
+  type: 'Feature',
+  properties: {
+    html  : '<a class="mmjy-map-icon icon-flags icon-flags-{{ lower .properties.code }}" href="{{ printf "destinations/%s/" .properties.slug | absURL }}"></a>',
+    title : '{{ .properties.name }}'
+  },
+  geometry: {{ index .geometry.geometries 0 | jsonify }}
+}

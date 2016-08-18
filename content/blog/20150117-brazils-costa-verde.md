@@ -12,7 +12,7 @@ photos  = [
 cover = "P1104038.JPG"
 +++
 
-Despite the [problems we ran into](/a-week-of-problems/), we were still in one of the most beautiful areas of Brazil: Costa Verde.  We started out in Paraty, where we spend a day exploring the pictoresque colonial town.  Our second stop was Ilha Grande, which required us to take a bus followed by a ferry, however, very much worth our time.  Immensely popular among Brazilians and Argentinians, this island had much to offer from seclude pristine beaches to challenging, yet rewarding hiking trails.
+Despite the [problems we ran into]({{< ref "20150116-a-week-of-problems.md" >}}), we were still in one of the most beautiful areas of Brazil: Costa Verde.  We started out in Paraty, where we spend a day exploring the pictoresque colonial town.  Our second stop was Ilha Grande, which required us to take a bus followed by a ferry, however, very much worth our time.  Immensely popular among Brazilians and Argentinians, this island had much to offer from seclude pristine beaches to challenging, yet rewarding hiking trails.
 <!--more-->
 ## Paraty
 The coastal town of Paraty is located about five hours northeast of São Paulo. This historic town used to be the base for shippping gold from the mines up in the mountains nearby back to Portugal. Nowadays, its cobblestone streets, small  chill beaches, and colorful harbor make it a popular spot for Brazilians to get away from the cities of São Paulo and Rio de Janeiro.

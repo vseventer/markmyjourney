@@ -39,7 +39,7 @@ var images = process.argv.slice(2),
     source = path.join(__dirname, '../data/uploads.json');
 if(0 === images.length) {
   console.error('No input files.');
-  process.exit(1); // Failure.
+  process.exit(0); // Exit without failure, no files is OK.
 }
 
 // Initialize source.

@@ -17,7 +17,7 @@ cover  = "P4146877.JPG"
 
 Against our tradition, we will not wait until the end of the month to summarize expenses. As we are leaving South America behind, it is time to wrap up the finances and move on to the next chapter.
 <!--more-->
-From Quito, Ecuador, we arrived in Bogotá, a city we explored in only [two days](/the-two-opposites-of-bogota/). Next, we visited the famous [coffee region of Colombia](/colombias-coffee-triangle/), experiencing how delicious coffee is made. We ended our stay with a visit to [Cartagena](/the-colonial-charm-of-cartagena/) on the Caribbean coast, before flying back to Bogotá for one last night.
+From Quito, Ecuador, we arrived in Bogotá, a city we explored in only [two days]({{< ref "20150405-the-two-opposites-of-bogota.md" >}}). Next, we visited the famous [coffee region of Colombia]({{< ref "20150407-colombias-coffee-triangle.md" >}}), experiencing how delicious coffee is made. We ended our stay with a visit to [Cartagena]({{< ref "20150412-the-colonial-charm-of-cartagena.md" >}}) on the Caribbean coast, before flying back to Bogotá for one last night.
 
 **The Good**
 
@@ -39,7 +39,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Budget: **$1040** ($40 pppd),
 * Expenses: **$949** ($36.50 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-colombia.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-colombia.png" >}}</span>
 
 ## South America
 We visited eight countries in South America over the past three months. After accumulating the budgets of all the South American countries we visited, we stayed on budget: the difference is 330$. The total amount spent per day per person is **91$**. A bit more expensive than the 45.40$ in Asia, but generally South America is more expensive, as we budgeted.

@@ -11,9 +11,9 @@ photos  = [
 ]
 cover = "IMG_4820.JPG"
 +++
-After one year in Australia, it was time to leave and head back to the Netherlands, where it all started almost [18 months ago](/the-first-step/). As a flight from Australia to Europe is too long to do in one go, we chose to make a stopover in the United Arab Emirates to visit Abu Dhabi and Dubai.
+After one year in Australia, it was time to leave and head back to the Netherlands, where it all started almost [18 months ago]({{< ref "20141013-the-first-step.md" >}}). As a flight from Australia to Europe is too long to do in one go, we chose to make a stopover in the United Arab Emirates to visit Abu Dhabi and Dubai.
 <!--more-->
-Ironically, the price of the stopover was one of the least expensive purchases during our stay here. We managed to get a good stopover deal with Etihad, also one of the best carriers around. This meant we had to fly into Abu Dhabi, while we were mostly interested in Dubai. The flight went way more smoothly then our [previous experience](/the-long-way-south/) with Etihad. However, as with most overnight flights, unless you are in the business class, the sleep quality is lacking. Nevertheless, we had a lot of plans for our short stopover, so we got right to it.
+Ironically, the price of the stopover was one of the least expensive purchases during our stay here. We managed to get a good stopover deal with Etihad, also one of the best carriers around. This meant we had to fly into Abu Dhabi, while we were mostly interested in Dubai. The flight went way more smoothly then our [previous experience]({{< ref "20150106-the-long-way-south.md" >}}) with Etihad. However, as with most overnight flights, unless you are in the business class, the sleep quality is lacking. Nevertheless, we had a lot of plans for our short stopover, so we got right to it.
 
 After picking up our rental car, we quickly found out that traffic rules were subjective here. Needing to be on constant alert surely took its toll, but it wasn’t anything a couple shots of espresso couldn’t help with. Two big sights in Abu Dhabi worth a visit are the impressive white marble Sheikh Zayed Mosque and the luxurious Ferrari World.
 

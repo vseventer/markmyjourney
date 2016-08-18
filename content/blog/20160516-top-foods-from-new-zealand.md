@@ -12,7 +12,7 @@ photos = [
 ]
 cover = "IMG_3168.JPG"
 +++
-Apart from the excellent wine, cheeses, and the common fish and chips, Kiwis have quite the array of unique and unusual foods that are definitely worth a try. During [our trip to New Zealand](/new-zealand-by-campervan/), we tried some typical foods not found anywhere else.
+Apart from the excellent wine, cheeses, and the common fish and chips, Kiwis have quite the array of unique and unusual foods that are definitely worth a try. During [our trip to New Zealand]({{< ref "20160510-new-zealand-by-campervan.md" >}}), we tried some typical foods not found anywhere else.
 <!--more-->
 In the breakfast department, similar to its neighboring vegemite, **marmite** is best enjoyed thinly spread over a heavily buttered toasted piece of bread. Unlike vegemite, marmite is a bit tamer in taste and is less salty, but still not that great. Another thing we did not particularly like was **spaghetti on toast**.
 

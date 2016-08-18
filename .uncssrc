@@ -1,51 +1,22 @@
 {
   "ignore": [
-    "/^.carousel/",
-    "/.collapsing/",
-    "/.collapse.in/",
     ".open > a",
     ".open > .dropdown-menu",
 
-    "/.leaflet-container/",
-    "/.leaflet-tile/",
-    "/.leaflet-tile-container/",
+    "/^.carousel-inner > .active/",
+    "/^.carousel-inner > .next/",
+    "/^.carousel-inner > .prev/",
+    "/.carousel-item.active/",
+    "/.carousel-item.left/",
+    "/.carousel-item.right/",
+    "/.carousel-item.prev/",
+    "/.carousel-item.next/",
 
-    "/^.leaflet-popup/",
-    "/^.leaflet-touch/",
+    "/^.leaflet-cluster-anim/",
+    "/^.leaflet-pan-anim/",
+    "/^.leaflet-tooltip/",
+    "/^.leaflet-zoom-anim/",
 
-    ".leaflet-layer",
-    ".leaflet-pane",
-    ".leaflet-marker-pane",
-    ".leaflet-overlay-pane",
-    ".leaflet-popup-pane",
-    ".leaflet-shadow-pane",
-    ".leaflet-tile-pane",
-
-    ".leaflet-marker-icon",
-    ".leaflet-marker-shadow",
-    "/.leaflet-interactive/",
-
-    "/.leaflet-bar/",
-    ".leaflet-control",
-    "/^.leaflet-bottom",
-    "/^.leaflet-left",
-    "/^.leaflet-right",
-    "/^.leaflet-top",
-
-    "/.leaflet-zoom-animated/",
-    "/^.leaflet-control-zoom-in",
-    "/^.leaflet-control-zoom-out",
-
-    "/.leaflet-control-fullscreen/",
-    "/.leaflet-fullscreen/",
-    ".leaflet-pseudo-fullscreen",
-
-    "/^.leaflet-control-minimap/",
-
-    "/^.leaflet-cluster/",
-    "/^.marker-cluster/",
-
-    ".icon-stock-camera",
-    "/^.mmjy/"
+    ".mmjy-tooltip"
   ]
 }

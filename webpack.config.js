@@ -31,25 +31,37 @@ var webpack = require('webpack');
 
 // Exports.
 module.exports = {
+  // Source.
   entry: [
-    'jquery/src/attributes',
-    'jquery/src/css',
+    'jquery/src/attributes/attr',
+    'jquery/src/attributes/classes',
     'jquery/src/data',
     'jquery/src/event/trigger',
     'jquery/src/exports/global',
-    'bootstrap/dist/js/umd/carousel',
-    'bootstrap/dist/js/umd/collapse',
-    'bootstrap/dist/js/umd/dropdown',
+    'jquery/src/traversing',
+
+    'bootstrap/js/src/carousel',
+    'bootstrap/js/src/collapse',
+    'bootstrap/js/src/dropdown',
 
     'leaflet',
-    'leaflet-dataoptions',
-    'leaflet-fullscreen',
     'leaflet-geodesic/Leaflet.Geodesic.js',
     'leaflet.markercluster/dist/leaflet.markercluster-src',
     'leaflet-minimap/src/Control.MiniMap.js'
   ],
+
+  // Compile Bootstrap ES6 to vanilla JavaScript.
+  module: {
+    loaders: [{
+      test   : /bootstrap/,
+      loader : 'babel-loader',
+      query  : { presets: [ 'es2015' ] }
+    }]
+  },
+
+  // jQuery patches.
   plugins: [
-    // Patch required for `jquery/src/exports/global` (jQuery v2.2).
+    // Patch required for `jquery/src/exports/global` (jQuery v3.1).
     new webpack.DefinePlugin({ noGlobal: false }),
     new webpack.ProvidePlugin({ jQuery: 'jquery/src/core' }),
 

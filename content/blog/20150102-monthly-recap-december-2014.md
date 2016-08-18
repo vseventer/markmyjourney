@@ -19,9 +19,9 @@ route   = [
 ]
 +++
 
-In December 2014, we visited five countries: Cambodia, Vietnam, Hong Kong, Macau, and China. We visited some [great historical sites in Cambodia](/history-lessons-in-cambodia/), enjoyed the [cities of Vietnam](/cities-of-vietnam/), before heading on trips to [Hạ Long Bay](/two-day-cruise-in-ha-long-bay/) and [Sa Pá](/trekking-through-sapas-hmong-valley/). From Vietnam, we visited [Hong Kong and Macau](/shopping-and-gambling/), before celebrating Christmas and New Year’s in China.
+In December 2014, we visited five countries: Cambodia, Vietnam, Hong Kong, Macau, and China. We visited some [great historical sites in Cambodia]({{< ref "20141210-history-lessons-in-cambodia.md" >}}), enjoyed the [cities of Vietnam]({{< ref "20141230-cities-of-vietnam.md" >}}), before heading on trips to [Hạ Long Bay]({{< ref "20141213-two-day-cruise-in-ha-long-bay.md" >}}) and [Sa Pá]({{< ref "20141217-trekking-through-sapas-hmong-valley.md" >}}). From Vietnam, we visited [Hong Kong and Macau]({{< ref "20141230-shopping-and-gambling.md" >}}), before celebrating Christmas and New Year’s in China.
 <!--more-->
-After staying on budget in [November](/monthly-recap-november-2014/), our plan was to do the same in December. However, in Cambodia our stomaches did not take the local food (or water, we still are not really sure what caused it) well. Therefore, we switched back to Western food for a couple of days and spent slightly more. Well worth it.
+After staying on budget in [November]({{< ref "20141201-monthly-recap-november-2014.md" >}}), our plan was to do the same in December. However, in Cambodia our stomaches did not take the local food (or water, we still are not really sure what caused it) well. Therefore, we switched back to Western food for a couple of days and spent slightly more. Well worth it.
 
 In Vietnam we overspent (deliberately, as we had some money to spare from November) by going on a luxury cruise. Other than that, we stayed on budget. The same holds for Hong Kong and Macau. We also decided to include China into December’s Recap, even though we stayed here until January 6th. But, separating the budget between Asia and our next destination, South America, makes much more sense.
 
@@ -46,7 +46,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$402** ($33.50 pppd),
 * Additional visa costs: **$60** ($30 pp).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-cambodia.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-cambodia.png" >}})</span>
 
 ## Vietnam
 * Days: **16**,
@@ -54,7 +54,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$1,021** ($32 pppd),
 * Additional visa costs: **$200** ($100 pp).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-vietnam.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-vietnam.png" >}})</span>
 
 ## Hong Kong & Macau
 *Note: Macau accepts the Hong Kong Dollar, therefore we decided to add the money spent during our one-day trip to Macau to the Hong Kong budget.*
@@ -63,7 +63,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Budget: **$500** ($50 pppd),
 * Expenses: **$506** ($50.50 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-hong-kong.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-hong-kong.png" >}})</span>
 
 ## China
 * Days: **13**,
@@ -71,7 +71,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$1,102** ($42 pppd),
 * Additional visa costs: **$170** ($30 Mark, $140 Herta).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-china.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-china.png" >}})</span>
 
 ## Next Month
 On January 6th we will leave Asia behind us. From Beijing, we’ll fly to São Paulo, Brazil. In two weeks time, we’ll make our way to Rio de Janeiro, before crossing into Argentina. After a short stay in Buenos Aires, Patagonia (Chile & Argentina) awaits us. We are excited to see this part of the planet, not in the last place because wearing five layers of clothing and still being cold is not ideal. Back to summer!

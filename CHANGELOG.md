@@ -1,5 +1,12 @@
 # Changelog
 
+### 1.1.0-dev
+* Added JavaScript linting through [jshint](http://jshint.com/).
+* Optimized build scripts.
+* Switched to [Go Templates](https://gohugo.io/templates/go-templates/).
+* Updated dependencies.
+* Updated to `hugo` v0.16.
+
 ### 1.0.45 (July 31, 2016)
 * Set current location to Mijdrecht, The Netherlands.
 

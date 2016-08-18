@@ -1,0 +1,7 @@
+{{ $photo := .Get 0 }}
+{{ $.Page.Scratch.Add "photos" (slice $photo) }}
+
+<div class="m-b-1 mmjy-border mmjy-inset">
+  {{ $var := dict "src" $photo "Site" $.Site }}
+  {{ partial "photo.html" $var }}
+</div>

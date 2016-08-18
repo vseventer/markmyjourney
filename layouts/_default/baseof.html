@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Params.languageCode | default "en-us" }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+
+    <title>
+      {{ .Title }}
+      {{ if not .IsHome }} • {{ .Site.Title }}{{ end }}
+    </title>
+
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    {{ if .IsPage }}
+      <meta name="description" content="{{ .Summary }}" />
+    {{ end }}
+
+    {{ if and (or .IsHome .IsPage) (ne false .Params.index) }}
+      <meta name="robots" content="index, follow" />
+    {{ else }}
+      <meta name="robots" content="noindex, follow" />
+    {{ end }}
+    {{ block "seo" . }}{{ end }}
+
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+
+    {{ block "styles" . }}
+      <link rel="stylesheet" href="{{ absURL "css/main.css" }}">
+    {{ end }}
+  </head>
+  <body>
+      {{ block "nav" . }}
+        {{ partial "nav" . }}
+      {{ end }}
+
+      {{ block "header" . }}
+        {{ partial "header" . }}
+      {{ end }}
+
+      {{ block "main" . }}
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-md-8">{{ block "content" . }}{{ end }}</div>
+            <div class="col-xs-12 col-md-4">
+              {{ partial "search.html" . }}
+              {{ block "sidebar" . }}
+                {{ block "sidebar$prepend" . }}{{ end }}
+                {{ partial "sidebar.html" . }}
+                {{ block "sidebar$append" . }}{{ end }}
+              {{ end }}
+            </div>
+          </div><!-- /row -->
+        </div><!-- /container -->
+      {{ end }}
+
+      {{ block "footer"  . }}
+        {{ partial "footer" . }}
+      {{ end }}
+
+      {{ block "scripts" . }}
+        {{ block "scripts$prepend" . }}{{ end }}
+
+        {{ $locations := last 1 .Site.Data.locations.features }}
+        {{ $location  := index $locations 0}}
+
+        {{ $countries := where .Site.Data.countries.features ".properties.code" $location.properties.country.code }}
+        {{ $country   := index $countries 0 }}
+        <script>
+          var current = {
+            type: 'FeatureCollection',
+            features: [{
+              type: 'Feature',
+              properties : { },
+              geometry   : {{ jsonify $location.geometry | safeJS }}
+            }, {
+              type: 'Feature',
+              properties: { },
+              geometry: {{ index $country.geometry.geometries 2 | jsonify | safeJS }}
+            }]
+          };
+        </script>
+
+        <script data-event="components" data-src="{{ absURL "js/components.js" }}"></script>
+        <script async src="{{ absURL "js/main.js" }}"></script>
+        {{ partial "widgets/scripts.html" . }}
+
+        {{ block "scripts$append" . }}{{ end }}
+      {{ end }}
+  </body>
+</html>

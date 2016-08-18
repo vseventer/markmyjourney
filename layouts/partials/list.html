@@ -1,0 +1,8 @@
+{{ partial "breadcrumb.html" . }}
+
+{{ range .Paginator.Pages }}
+  {{ .Render "summary" }}
+  <hr />
+{{ end }}
+
+{{ partial "pager.html" . }}

@@ -12,7 +12,7 @@ photos  = [
 cover = "PC153643.JPG"
 +++
 
-The day after returning from our [Hạ Long Bay cruise](/two-day-cruise-in-ha-long-bay/) we were already on the move again. We went north to the mountain town of Sa Pá. Initially, we planned to take the train, but as the government opened a brand new highway just three weeks before, taking a bus is now equally safe, and cheaper too. Only the last hour of our journey consisted of driving on mountain passes, but nothing too bad.
+The day after returning from our [Hạ Long Bay cruise]({{< ref "20141213-two-day-cruise-in-ha-long-bay.md" >}}) we were already on the move again. We went north to the mountain town of Sa Pá. Initially, we planned to take the train, but as the government opened a brand new highway just three weeks before, taking a bus is now equally safe, and cheaper too. Only the last hour of our journey consisted of driving on mountain passes, but nothing too bad.
 <!--more-->
 Sa Pá is located 1,500 meters above sea level, therefore we arrived in a cold (just a few degrees above freezing) and misty town. I still wonder why so many locals hang out clothes to dry, seems like a bad idea to me.
 

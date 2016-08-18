@@ -1,0 +1,160 @@
+{{ define "seo" }}
+  <meta property="og:description" content="{{ .Summary }}" />
+  {{ if isset .Params "cover" }}
+    <meta property="og:image" content="{{ printf "uploads/%s" .Params.cover | absURL }}" />
+  {{ end }}
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:type" content="{{ .Type }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+{{ end }}
+
+{{ define "header" }}
+  <div class="jumbotron jumbotron-fluid m-b-0 text-md-center">
+    <div class="container">
+      {{ if isset .Params "destinations" }}
+        {{ $countries := where .Site.Data.countries.features "properties.slug" "in" .Params.destinations }}
+        <ul class="list-inline">
+          {{ range $countries }}
+            <li class="list-inline-item">
+              <a class="tag tag-default" href="{{ printf "destinations/%s/" .properties.slug | absURL }}">{{ .properties.name }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+
+      <h1 class="display-4">{{ .Title }}</h1>
+
+      {{ if ne (dateFormat "2006" .Date) "0001" }}
+        <span class="lead text-muted">
+          {{ partial "mixins/datetime.html" .Date }}
+        </span>
+      {{ end }}
+    </div><!-- /container -->
+  </div><!-- /jumbotron -->
+
+  {{ if isset .Params "cover" }}
+    {{ $cover := printf "uploads/%s" .Params.cover }}
+    {{ $style := printf "background-image: url('%s')" (absURL $cover) }}
+    <div class="m-b-1 mmjy-cover" style="{{ safeCSS $style }}"></div>
+  {{ end }}
+{{ end }}
+
+{{ define "main" }}
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-10 offset-lg-1 col-xl-8 offset-xl-2">
+        {{ if eq .Type "blog" }}
+          {{ .Summary }}
+        {{ end }}
+
+        {{ if or (isset .Params "photos") (isset .Params "places") (isset .Params "route") }}
+          <div class="m-b-1 mmjy-border mmjy-inset">
+            <div class="mmjy-map" data-source="places"></div>
+          </div><!-- /mmjy-inset -->
+        {{ end }}
+
+        {{ $content := replace .Content .Summary "" }}
+        {{ safeHTML $content }}
+
+      </div><!-- /col-xs-12 -->
+
+      <div class="col-xs-12 col-md-2 col-lg-1 col-xl-2">
+        {{ partial "widgets/share.html" . }}
+      </div><!-- /col-xs-12 -->
+    </div><!-- /row -->
+
+    {{/* Calculate difference between photos and scratch. */}}
+    {{ range .Params.photos }}
+      {{ if not (in ($.Scratch.Get "photos") .) }}
+        {{ $.Scratch.Add "diff" (slice .) }}
+      {{ end }}
+    {{ end }}
+    {{ $diff := default "" ($.Scratch.Get "diff") }}
+
+    {{ if gt (len $diff) 0 }}
+      <div class="row">
+        <div class="col-xs-12 col-md-10 offset-lg-1 col-xl-8 offset-xl-2">
+          {{ $var := dict "photos" $diff "Site" .Site }}
+          {{ partial "carousel.html" $var }}
+        </div><!-- /col-xs-12 -->
+      </div><!-- /row -->
+    {{ end }}
+
+    <div class="row">
+      <div class="col-xs-12 col-md-10 offset-lg-1 col-xl-8 offset-xl-2">
+        <hr />
+        {{ partial "widgets/disqus.html" . }}
+      </div><!-- /col-xs-12 -->
+    </div><!-- /row -->
+
+    <div class="row">
+      <div class="col-xs-12 col-md-6 col-lg-5 offset-lg-1 col-xl-4 offset-xl-2">
+        {{ with .PrevInSection }}
+          {{ .Scratch.Set "header" "Previous Post" }}
+          {{ .Render "card" }}
+        {{ end }}
+      </div><!-- /col-xs-6 -->
+      <div class="col-xs-12 col-md-6 col-lg-5 col-xl-4">
+        {{ with .NextInSection }}
+          {{ .Scratch.Set "header" "Next Post" }}
+          {{ .Render "card" }}
+        {{ end }}
+      </div><!-- /col-xs-6 -->
+    </div><!-- /row -->
+  </div><!-- /container -->
+{{ end }}
+
+{{ define "scripts$prepend" }}
+  {{ if or (isset .Params "photos") (isset .Params "places") (isset .Params "route") }}
+    {{ $places := where .Site.Data.places.features "properties.slug" "in" .Params.places }}
+    {{ $photos := where .Site.Data.uploads.features "properties.src" "in" .Params.photos }}
+
+    <script>
+      var places = {
+        type: 'FeatureCollection',
+        features: [
+          {{ range $places }}
+            {
+              type: 'Feature',
+              properties: { title: {{ .properties.name }} },
+              geometry: {{ jsonify .geometry | safeJS }}
+            },
+          {{ end }}
+          {{ if isset .Params "route" }}
+            {
+              type: 'Feature',
+              properties: { geodesic: true },
+              geometry: {
+                type: 'MultiLineString',
+                coordinates: [
+                  [
+                    {{ range .Params.route }}
+                      {{ if eq . "" }}
+                        ], [
+                      {{ else }}
+                        {{ $data := index (where $.Site.Data.places.features "properties.slug" "in" .) 0 }}
+                        {{ jsonify $data.geometry.coordinates | safeJS }},
+                      {{ end }}
+                    {{ end }}
+                  ]
+                ]
+              }
+            },
+          {{ end }}
+          {{ range $photos }}
+            {{ $src := printf "uploads/thumbs/%s" .properties.src | absURL }}
+            {{ $url := printf "%s#%s" $.Permalink .properties.src | absURL }}
+            {
+              type: 'Feature',
+              properties: {
+                html  : '<a class="d-block mmjy-map-icon icon-stock icon-stock-camera" href="{{ $url }}"></a>',
+                title : '<img class="mmjy-thumb" src="{{ $src }}" />'
+              },
+              geometry: {{ jsonify .geometry | safeJS }}
+            },
+          {{ end }}
+        ]
+      };
+    </script>
+  {{ end }}
+{{ end }}

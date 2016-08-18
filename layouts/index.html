@@ -1,0 +1,42 @@
+{{ define "header" }}
+  <div class="jumbotron jumbotron-fluid m-b-1 mmjy-border-bottom mmjy-map" data-source="cover">
+  </div><!-- /jumbotron -->
+{{ end }}
+
+{{ define "content" }}
+  {{ $pages     := first 5 (where .Site.Pages.ByDate.Reverse "Type" "blog") }}
+  {{ $paginator := .Paginate $pages }}
+
+  {{ partial "list.html" . }}
+
+  <nav class="text-xs-center">
+    <p class="pagination">
+      <span class="page-item">
+        <a class="page-link" href="{{ absURL "blog/" }}">More →</a>
+      </span>
+    </p>
+  </nav>
+{{ end }}
+
+{{ define "sidebar$append" }}
+  {{ partial "widgets/twitter.html" . }}
+{{ end }}
+
+{{ define "scripts$prepend" }}
+  <script>
+    var cover = [
+      {{ range .Site.Data.countries.features }}
+        {{ if isset $.Site.Taxonomies.destinations .properties.slug }}
+          {
+            type: 'Feature',
+            properties: {
+              html  : '<a class="d-block mmjy-map-icon icon-flags icon-flags-{{ lower .properties.code }}" href="{{ printf "destinations/%s/" .properties.slug | absURL }}"></a>',
+              title : '{{ .properties.name }}'
+            },
+            geometry: {{ index .geometry.geometries 0 | jsonify | safeJS }}
+          },
+        {{ end }}
+      {{ end }}
+    ];
+  </script>
+{{ end }}

@@ -26,7 +26,7 @@ route = [
 ]
 +++
 
-In April 2015, we visited five countries: Colombia, United States, Canada, Fiji, and Australia. Two weeks ago we summarized [Colombia](/the-next-chapter/), and now it is time for the remainder of the month. After Colombia, we visited the [Pacific Northwest](/cities-of-the-pacific-northwest/), before spending an unexpected day in [Fiji](/an-unexpected-stop-in-fiji/). We settled down in Melbourne, but not after we briefly visited Sydney.
+In April 2015, we visited five countries: Colombia, United States, Canada, Fiji, and Australia. Two weeks ago we summarized [Colombia]({{< ref "20150414-the-next-chapter.md" >}}), and now it is time for the remainder of the month. After Colombia, we visited the [Pacific Northwest]({{< ref "20150427-cities-of-the-pacific-northwest.md" >}}), before spending an unexpected day in [Fiji]({{< ref "20150501-an-unexpected-stop-in-fiji.md" >}}). We settled down in Melbourne, but not after we briefly visited Sydney.
 <!--more-->
 **The Good**
 
@@ -55,7 +55,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Budget: **$0**,
 * Expenses: **-$12** (-$6 pppd),
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-fiji.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-fiji.png" >}})</span>
 
 ## Sydney, Australia
 * Days: **2**,
@@ -63,7 +63,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$446** ($111.50 pppd),
 * Additional visa costs: **$800** ($400 pp).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-sydney.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-sydney.png" >}})</span>
 
 ## Next Month
 On April 30th, we arrived in Melbourne after a long journey of over six months. The next month we will look for an apartment, job, bike, furniture, and everything else that comes with being responsible adults. We plan to stay in Melbourne for a year or so, as on first sight it seems to be an extremely livable city.
