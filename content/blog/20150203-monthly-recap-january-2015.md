@@ -35,7 +35,7 @@ The overview below lists the expenses in Brazil, Argentina, and Uruguay. For Arg
 
 * We didn’t spent much the first two days in Brazil, as we got stuck in Rio de Janeiro. The hotel the airline put us in provided and excellent look into typical Brazilian foods, however, which was a welcome surprise.
 * As our card got cloned, we had to strictly limit our spending to avoid running out of money for things we really wanted to do. In the end, this lead to a lot of extra savings.
-* Due to the poor state of the Argentinian economy, we were able to get around 50% more Argentinian pesos on the black market than the official exchange rate indicates. More on this [here]({{< ref "20160206-money-exchange-in-argentina.md" >}}).
+* Due to the poor state of the Argentinian economy, we were able to get around 50% more Argentinian pesos on the black market than the official exchange rate indicates. More on this [here]({{< ref "20150206-money-exchange-in-argentina.md" >}}).
 
 **The Bad**
 
