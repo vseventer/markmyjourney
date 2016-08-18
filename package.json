@@ -80,7 +80,7 @@
     "@songkick/replaceinfiles": "1.1.x",
     "sprity-cli"    : "1.0.x",
     "uglifyjs"      : "2.4.x",
-    "uncss"         : "0.14.x",
+    "uncss"         : "vseventer/uncss",
     "wait-on"       : "1.5.x",
     "webpack"       : "1.13.x"
   },
