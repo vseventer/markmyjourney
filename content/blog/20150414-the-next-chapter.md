@@ -39,7 +39,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Budget: **$1040** ($40 pppd),
 * Expenses: **$949** ($36.50 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-colombia.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-colombia.png" >}}</span>
 
 ## South America
 We visited eight countries in South America over the past three months. After accumulating the budgets of all the South American countries we visited, we stayed on budget: the difference is 330$. The total amount spent per day per person is **91$**. A bit more expensive than the 45.40$ in Asia, but generally South America is more expensive, as we budgeted.

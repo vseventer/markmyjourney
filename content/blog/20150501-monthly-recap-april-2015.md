@@ -55,7 +55,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Budget: **$0**,
 * Expenses: **-$12** (-$6 pppd),
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-fiji.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-fiji.png" >}})</span>
 
 ## Sydney, Australia
 * Days: **2**,
@@ -63,7 +63,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$446** ($111.50 pppd),
 * Additional visa costs: **$800** ($400 pp).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-sydney.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-sydney.png" >}})</span>
 
 ## Next Month
 On April 30th, we arrived in Melbourne after a long journey of over six months. The next month we will look for an apartment, job, bike, furniture, and everything else that comes with being responsible adults. We plan to stay in Melbourne for a year or so, as on first sight it seems to be an extremely livable city.

@@ -63,21 +63,21 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$1,342** ($74.50 pppd),
 * Additional visa costs: **$160** (Herta).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-bolivia.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-bolivia.png" >}})</span>
 
 ## Peru
 * Days: **11**,
 * Budget: **$990** ($45 pppd),
 * Expenses: **$986** ($45 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-peru.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-peru.png" >}})</span>
 
 ## Ecuador
 * Days: **15**,
 * Budget: **$1,695** ($56.50 pppd),
 * Expenses: **$1,740** ($58 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-ecuador.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-ecuador.png" >}})</span>
 
 ## Next Month
 April marks the last month of our seven month journey through Asia and South America. On April 14, we will leave Colombia and return to the United States for ten days. Afterwards, it is on to Sydney and finally Melbourne, where we will settle down for a while.

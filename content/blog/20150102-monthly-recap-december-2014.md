@@ -46,7 +46,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$402** ($33.50 pppd),
 * Additional visa costs: **$60** ($30 pp).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-cambodia.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-cambodia.png" >}})</span>
 
 ## Vietnam
 * Days: **16**,
@@ -54,7 +54,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$1,021** ($32 pppd),
 * Additional visa costs: **$200** ($100 pp).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-vietnam.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-vietnam.png" >}})</span>
 
 ## Hong Kong & Macau
 *Note: Macau accepts the Hong Kong Dollar, therefore we decided to add the money spent during our one-day trip to Macau to the Hong Kong budget.*
@@ -63,7 +63,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Budget: **$500** ($50 pppd),
 * Expenses: **$506** ($50.50 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-hong-kong.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-hong-kong.png" >}})</span>
 
 ## China
 * Days: **13**,
@@ -71,7 +71,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$1,102** ($42 pppd),
 * Additional visa costs: **$170** ($30 Mark, $140 Herta).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-china.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-china.png" >}})</span>
 
 ## Next Month
 On January 6th we will leave Asia behind us. From Beijing, we’ll fly to São Paulo, Brazil. In two weeks time, we’ll make our way to Rio de Janeiro, before crossing into Argentina. After a short stay in Buenos Aires, Patagonia (Chile & Argentina) awaits us. We are excited to see this part of the planet, not in the last place because wearing five layers of clothing and still being cold is not ideal. Back to summer!

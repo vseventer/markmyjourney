@@ -56,7 +56,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$1,347** ($48 pppd),
 * Additional visa costs: **$160** (Herta).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-brazil.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-brazil.png" >}})</span>
 
 ## Argentina & Uruguay
 *Note (1): Uruguay accepts the Argentinian Peso and U.S. Dollar, therefore we decided to add the money spent during our one-day trip to Uruguay to the Argentina budget.*
@@ -68,7 +68,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Expenses: **$1,547** ($64.50 pppd),
 * Additional visa costs: **$160** (Herta).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-argentina.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-argentina.png" >}})</span>
 
 ## Next Month
 The first few days of February we will spend in Chilean Patagonia, before heading back north. We will spent more time in Chile there, and depending on how our plans enfold we might go to Argentina a bit more before crossing into Bolivia. For our one-year anniversary (February 12th), we have something special planned – you will see.

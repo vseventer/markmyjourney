@@ -46,21 +46,21 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Budget: **$1,540** ($35 pppd),
 * Expenses: **$1,413** ($32 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-thailand.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-thailand.png" >}})</span>
 
 ## Malaysia
 * Days: **4**,
 * Budget: **$320** ($40 pppd),
 * Expenses: **$276** ($34.50 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-malaysia.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-malaysia.png" >}})</span>
 
 ## Singapore
 * Days: **3**,
 * Budget: **$420** ($70 pppd),
 * Expenses: **$384** ($64 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-singapore.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-singapore.png" >}})</span>
 
 ## Next Month
 In December we’ll visit four new countries as our journey through Asia continues: Cambodia, Vietnam, Hong Kong, and China. The majority of the month will consist of exploring Vietnam and China, as our visits to Cambodia and Hong Kong will be limited to a few days. As we travel north, we will slowly transition into colder weather. Christmas and New Years should be familiarly cold.

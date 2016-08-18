@@ -43,7 +43,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Budget: **$2,520** ($60 pppd),
 * Expenses: **$2,373** ($56.50 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-chile.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-chile.png" >}})</span>
 
 ## Argentina
 * Days: **3**,
@@ -55,7 +55,7 @@ A detailed list of expenses per country is listed below. The amounts per person 
 * Budget: **$1,800** ($60 pppd),
 * Expenses: **$1,836** ($61 pppd).
 
-<span class="img-thumbnail">![Expenses Breakdown](/uploads/budget-argentina-feb15.png)</span>
+<span class="img-thumbnail">![Expenses Breakdown]({{< url "uploads/budget-argentina-feb15.png" >}})</span>
 
 ## Next Month
 From Chile, we crossed into Bolivia at the end of February, which is where we will stay for two weeks. After, it is onwards to Peru and Ecuador. Highlight of Ecuador will without a doubt be our visit to Galapagos Islands. On April 1st, we will leave Ecuador for Colombia.
