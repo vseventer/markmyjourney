@@ -14,7 +14,7 @@
   },
   "scripts": {
     "glob"    : "find $npm_package_config_destination -iname '*.html' -exec sh -c 'PATH={} && printf \"%s%s\n\" $npm_package_config_staging ${PATH#*/}' \\;",
-    "hash"    : "hashmark --cwd $npm_package_config_destination -l 4 '{css,js}/*' '{dir}/{name}.{hash}{ext}' | replaceinfiles -s 'public/**/*.html'",
+    "hash"    : "hashmark --cwd $npm_package_config_destination -l 4 '{css,js}/*' '{dir}/{name}.{hash}{ext}' | replaceinfiles -s 'public/**/*.html' --silent",
     "posthash": "rimraf 'public/{css,js}/!(*.*.*)'",
     "hugo"    : "hugo server",
     "imagemin": "imagemin -p mozjpeg --quality 75",
