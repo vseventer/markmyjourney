@@ -19,7 +19,7 @@ photos = [
 cover = "P2255498.JPG"
 +++
 
-Just like in [Asia](/transportation-in-asia/), we used a variety of transportation methods to get us across South America. Where in Asia we relied mostly on buses and trains, in South America we mostly used flights and buses as the rail network is almost nonexistent. Also, because the countries we visited in South America are a bit further away from each other, we often opted to skip 24+hr bus rides and just take a short flight instead. This made the trip a little bit more expensive, but way more comfortable.
+Just like in [Asia]({{< ref "20150106-transportation-in-asia.md" >}}), we used a variety of transportation methods to get us across South America. Where in Asia we relied mostly on buses and trains, in South America we mostly used flights and buses as the rail network is almost nonexistent. Also, because the countries we visited in South America are a bit further away from each other, we often opted to skip 24+hr bus rides and just take a short flight instead. This made the trip a little bit more expensive, but way more comfortable.
 <!--more-->
 ## Intracity
 Traditional underground subways cannot be found in every major city. São Paulo, Rio de Janeiro, Buenos Aires, Santiago, and Guayaquil have one, but for example Lima, Quito, and Bogotá don’t. In those cities, metro buses are in place which basically act like a subway, having separate lanes to transport loads of people from A to B quickly. We used both these systems and found them reliable, cheap, but very crowded (especially the metro buses).

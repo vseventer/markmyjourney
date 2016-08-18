@@ -11,7 +11,7 @@ photos  = [
 ]
 cover = "IMG_2174.JPG"
 +++
-Thanks to the thriving arts, food, music, and sport scenes in Melbourne, there are plenty of festivals throughout the year all over the city. In October, we already covered the [Melbourne Marathon](/melbourne-half-marathon-race-report/), and this post summarizes a few more we don’t want you to miss.
+Thanks to the thriving arts, food, music, and sport scenes in Melbourne, there are plenty of festivals throughout the year all over the city. In October, we already covered the [Melbourne Marathon]({{< ref "20151021-melbourne-half-marathon-race-report.md" >}}), and this post summarizes a few more we don’t want you to miss.
 <!--more-->
 ## Summer Night Market
 * When: January to March,
@@ -55,4 +55,4 @@ The Melbourne CBD is home to a couple of smaller festivals, often organized by l
 
 Australian Football (AFL) is a big thing in Australia. When the AFL competition reaches the final match, a national holiday is held to ensure everyone is able to watch the game. For us, we attended an AFL game in the Etihad Stadium. Without knowing all the rules, we enjoyed our time, but we wouldn’t necessarily take a day off for it.
 
-The festivals listed above are just a couple of examples. Melbourne hosts dozen of other festivals, like the Formula 1 Australian Grand Prix in Albert Park, which we missed because we were visiting [Uluru](/24-hours-in-the-outback/), or the dog races during Cup Carnival. In Melbourne, you can definitely attend a different festival every week of the year!
+The festivals listed above are just a couple of examples. Melbourne hosts dozen of other festivals, like the Formula 1 Australian Grand Prix in Albert Park, which we missed because we were visiting [Uluru]({{< "20160324-24-hours-in-the-outback.md" >}}), or the dog races during Cup Carnival. In Melbourne, you can definitely attend a different festival every week of the year!

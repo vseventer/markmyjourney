@@ -16,7 +16,7 @@ photos = [
 cover = "P1314853.JPG"
 +++
 
-From El Calafate in [Argentinian Patagonia](/trekking-in-argentinian-patagonia/) we took the bus across the border to Puerto Natales. This small town is the gateway to Torres del Paine national park.
+From El Calafate in [Argentinian Patagonia]({{< ref "20150203-trekking-in-argentinian-patagonia.md" >}}) we took the bus across the border to Puerto Natales. This small town is the gateway to Torres del Paine national park.
 <!--more-->
 ## Torres del Paine
 Initially, we thought of renting a car to explore Torres del Paine on our own. However, due to the magnitude of the park, and the gravel roads, we decided to go on a one-day tour instead. It brought us to several viewpoints of lakes, with the sharp mountain peaks of Torres del Paine.
@@ -27,4 +27,4 @@ The tour provided us with a good overview of the park, however, it was a bit clo
 The next day, we decided to head back towards Torres del Paine to try out horseback riding around Lago Sofia. This is a must-do when in this part of Patagonia not only because it is fun, but also because of the untouched landscape and amazing views. The trail catered to beginners as well as advanced riders. We chose the trail around Lago Sofia, because it allowed us to go through water with the horses, as well as a steep windy climb to a viewpoint.
 
 ## Punta Arenas
-After a three-day visit to [Ushuaia](/trekking-in-argentinian-patagonia/) we returned to Chilean Patagonia, this time we stayed in Punta Arenas. This is one of the biggest cities in Patagonia, located about three hours south of Puerto Natales. We did not have any plans other than to stock up on groceries for our [visit to Easter Island](/the-next-extreme/).
+After a three-day visit to [Ushuaia]({{< ref "20150203-trekking-in-argentinian-patagonia.md" >}}) we returned to Chilean Patagonia, this time we stayed in Punta Arenas. This is one of the biggest cities in Patagonia, located about three hours south of Puerto Natales. We did not have any plans other than to stock up on groceries for our [visit to Easter Island]({{< ref "20150205-the-next-extreme.md" >}}).

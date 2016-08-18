@@ -10,7 +10,7 @@ photos  = [
 ]
 cover = "IMG_6210.JPG"
 +++
-After arriving back in [Helsinki](/top-things-to-do-in-finland-a-city-break-to-helsinki/) from [St. Petersburg](/a-visa-free-visit-to-saint-petersburg/), we directly embarked on a short and quite pleasant ferry across the Baltic Sea to Tallinn, Estonia. The ferry from the [Eckerö Line](https://www.eckeroline.fi/) looked more like a cruise ship, and had plenty of entertainment and free Wi-Fi to keep us busy. Upon disembarking at the Tallinn Ferry Terminal, it only took about 15 minutes to reach the city center by foot.
+After arriving back in [Helsinki]({{< ref "20160608-top-things-to-do-in-finland-a-city-break-to-helsinki.md" >}}) from [St. Petersburg]({{< ref "20160613-a-visa-free-visit-to-saint-petersburg.md" >}}), we directly embarked on a short and quite pleasant ferry across the Baltic Sea to Tallinn, Estonia. The ferry from the [Eckerö Line](https://www.eckeroline.fi/) looked more like a cruise ship, and had plenty of entertainment and free Wi-Fi to keep us busy. Upon disembarking at the Tallinn Ferry Terminal, it only took about 15 minutes to reach the city center by foot.
 <!--more-->
 Tallinn is a compact and picturesque town. Its charming cobblestone streets and colorful buildings make for a pleasant stroll through the old city. We started out in Raekoja plats, the main square, from which our first stop was the St. Nicholas Church. This church, now a museum, has on display the famous painting *Dance Macabre* by Bernt Notke, which also is the most valuable piece of art in Estonia’s possession. Interestingly, Tallinn has many churches, but more people believe that trees have souls, than the number of people that are religious.
 

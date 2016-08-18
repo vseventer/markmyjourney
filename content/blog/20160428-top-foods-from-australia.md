@@ -23,7 +23,7 @@ For dinner we tried kangaroo, crocodile, and barramundi. Yes, Australia is one o
 
 For dessert, must try items are lamingtons, a delicious jam-filled cake rolled in coconut flakes, and pavlova, a merengue base topped with fruits and whipped cream, especially popular during Christmas.
 
-Something you will find in an Australian isle is definitely wine! Although Australia also produces some beers, it makes some of the most amazing wines. We already covered our trips to the [Yarra Valley](/wine-tasting-in-yarra-valley/), [Margaret and Swan Valley](/a-long-weekend-in-western-australia/), and [Barossa Valley](/a-taste-of-south-australia/). Typically, Australia’s specialty lies with shiraz, however there are great cabernet sauvignons and other varieties as well. The best part is there are wine regions almost everywhere, so just step into a wine cellar and try them all, and often for free!
+Something you will find in an Australian isle is definitely wine! Although Australia also produces some beers, it makes some of the most amazing wines. We already covered our trips to the [Yarra Valley]({{< ref "20150724-wine-tasting-in-yarra-valley.md" >}}), [Margaret and Swan Valley]({{< ref "20151204-a-long-weekend-in-western-australia.md" >}}), and [Barossa Valley]({{< ref "20160218-a-taste-of-south-australia.md" >}}). Typically, Australia’s specialty lies with shiraz, however there are great cabernet sauvignons and other varieties as well. The best part is there are wine regions almost everywhere, so just step into a wine cellar and try them all, and often for free!
 
 * The best: **wine**, **lamingtons**, and the **Tasmanian dairy products**.
 * The worst: obviously **vegemite**, but also the **meat pie**.

@@ -17,9 +17,9 @@ At the same restaurant, we also tried the **golabki**, which are gigantic cabbag
 
 We finished our meal by trying a **kielbasa sausage**, which comes with sautéed onion and although it was also tasty, we couldn’t quite finish it, as the portions were very generous. For desert, we tried **chocolate-covered plums**, simply a dried plum covered in chocolate. It was not our favorite, but quite all right.
 
-For snack in between meals the Polish love **krówki**, a semi-soft milk toffee. We also tried **Napoleon’s Cake**, the favorite cake of [Pope John Paul II](/top-things-to-do-in-poland-visit-warsaw-and-krakow/). It’s a flaky dough with French cream in the middle. We liked the cream, but not the two doughy parts.
+For snack in between meals the Polish love **krówki**, a semi-soft milk toffee. We also tried **Napoleon’s Cake**, the favorite cake of [Pope John Paul II]({{< ref "20160626-top-things-to-do-in-poland-visit-warsaw-and-krakow.md" >}}). It’s a flaky dough with French cream in the middle. We liked the cream, but not the two doughy parts.
 
-After drinking way too much vodka in [Russia](/top-foods-from-russia/), we decided to try some beers in Poland. We tried **tyskie** and **warka**, and by a long shot preferred warka. Flavorful and aromatic we went for refills!
+After drinking way too much vodka in [Russia]({{< ref "20160614-top-foods-from-russia.md" >}}), we decided to try some beers in Poland. We tried **tyskie** and **warka**, and by a long shot preferred warka. Flavorful and aromatic we went for refills!
 
 Finally, one thing we noticed but didn’t try was the widely popular late night snack **zapiekanka**: a gigantic baguette covered in a mushroom cheese mixture, topped with ketchup. We did however grab a **obwarzanek krakowski**, or twisted bagel, a popular street food usually sold in carts in the streets of Kraków. For sweet snacks on the go, we really enjoyed **rogaliki**, which are jam-filled cookies shaped like a mini croissant, and **sweet bread filled with jam**.
 

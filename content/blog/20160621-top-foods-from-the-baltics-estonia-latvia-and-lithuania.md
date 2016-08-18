@@ -10,7 +10,7 @@ photos = [
 ]
 cover = "IMG_6322.JPG"
 +++
-While [Estonian](/24-hours-in-tallinn-and-estonia/), [Latvian](/top-things-to-do-in-latvia-a-visit-to-riga/), and [Lithuanian](/top-things-to-do-in-lithuania-a-visit-to-vilnius/) cuisines certainly have their own unique dishes, many of the specialties can be found in all of the Baltic countries. In general we were not too satisfied with Baltic foods, still we definitely discovered some great tasting meals, drinks, and snacks.
+While [Estonian]({{< ref "20160617-24-hours-in-tallinn-and-estonia.md" >}}), [Latvian]({{< ref "20160618-top-things-to-do-in-latvia-a-visit-to-riga.md" >}}), and [Lithuanian]({{< ref "20160619-top-things-to-do-in-lithuania-a-visit-to-vilnius.md" >}}) cuisines certainly have their own unique dishes, many of the specialties can be found in all of the Baltic countries. In general we were not too satisfied with Baltic foods, still we definitely discovered some great tasting meals, drinks, and snacks.
 <!--more-->
 ## Estonia
 **Dark rye bread** is very commonly seen in the Baltics. This bread was created more out of necessity rather then culinary experimentation, as rye grew much easier in these regions. However, when made fresh, it’s pretty delicious. Estonian **kiluvoileib**, or sprat sandwich, consists of buttered rye bread, topped with Baltic herrings and egg. This dish is very popular among Estonians, however we did not like it at all.
@@ -29,7 +29,7 @@ For lunch we headed to the Central Market and tried **kartupeļu pankūkas** (po
 We also tried the **jāņu siers** cheese, which is a type of farmer’s cheese. It doesn’t taste like much, but we liked it on a cracker. We washed the pancakes and cheese down with a shot of **black balsam**, the traditional Latvian liqueur. We immediately regretted this decision, as it tasted quite bitter! We tried to cover up the taste with the much beloved **Napoleon cake**, which consists of layers of flaky pastry covered in cream, and sometimes raspberry jam. We weren’t amazed by it, but it definitely helped to fix the bitter taste of the black balsam.
 
 ## Lithuania
-The cuisine of Lithuania was a bit of a miss. First, we tried the cold version of the [beetroot soup](/top-foods-from-russia/): **šaltibarščiai**. This soup is very popular in the Baltics, but wasn’t our cup of soup, we definitely preferred the hot Russian version. It tasted like diluted yoghurt with almost non-existent beetroot flavor.
+The cuisine of Lithuania was a bit of a miss. First, we tried the cold version of the [beetroot soup]({{< ref "20160614-top-foods-from-russia.md" >}}): **šaltibarščiai**. This soup is very popular in the Baltics, but wasn’t our cup of soup, we definitely preferred the hot Russian version. It tasted like diluted yoghurt with almost non-existent beetroot flavor.
 
 The calorie-rich **cepelinai** potato, which is a potato dumpling filled with meat, tasted good, but pretty monotone. For drinks, we tried both the **gira** beverage as well as the **cherry wine**. While we liked the cherry wine, the gira was so bitter and strange tasting we actually didn’t get beyond one sip.
 

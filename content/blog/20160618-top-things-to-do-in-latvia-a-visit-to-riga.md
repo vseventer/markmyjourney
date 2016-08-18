@@ -10,7 +10,7 @@ photos  = [
 ]
 cover = "IMG_6364.JPG"
 +++
-After crossing the border with [Estonia](/24-hours-in-tallinn-and-estonia/), the first sight we visited in Latvia were the sandy cliffs of Sietiņiezis in Nationalpark Gauja. It is a beautiful short 30-minute hike along the edges of the forest to the cliffs. From there, we went to the quaint medieval town of Cēsis, where we heard the tale of the guardian of the town and the significant role he played in protecting the town. After getting back on the sightseeing shuttle, we continued on to Riga.
+After crossing the border with [Estonia]({{< ref "20160617-24-hours-in-tallinn-and-estonia.md" >}}), the first sight we visited in Latvia were the sandy cliffs of Sietiņiezis in Nationalpark Gauja. It is a beautiful short 30-minute hike along the edges of the forest to the cliffs. From there, we went to the quaint medieval town of Cēsis, where we heard the tale of the guardian of the town and the significant role he played in protecting the town. After getting back on the sightseeing shuttle, we continued on to Riga.
 <!--more-->
 Our last stop before arriving in Riga was the old Soviet Bobsleigh Track in Sigulda. The viewing platform had an amazing view of the valley part of the Nationalpark Gauja, and we had some fun going down the spirally path next to the track. After passing through mostly small towns, Riga seemed quite big.
 

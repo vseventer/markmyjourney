@@ -14,7 +14,7 @@ photos = [
 cover = "IMG_4450.JPG"
 +++
 
-Our last stop before settling down in Melbourne was supposed to be Sydney. After flying out from [Seattle](/cities-of-the-pacific-northwest/) and than Los Angeles, we landed in Fiji at six in the morning. Our transfer to Sydney was not for another three hours, so exhausted we laid down to catch some sleep.
+Our last stop before settling down in Melbourne was supposed to be Sydney. After flying out from [Seattle]({{< ref "20150427-cities-of-the-pacific-northwest.md" >}}) and than Los Angeles, we landed in Fiji at six in the morning. Our transfer to Sydney was not for another three hours, so exhausted we laid down to catch some sleep.
 <!--more-->
 ## Change of Plans
 About one hour before we were supposed to leave, a message was broadcasted stating our flight was overbooked and Fiji Airways was looking for volunteers to stay a (fully paid) day in Fiji and fly business class to Sydney the next morning. After a short discussion, we decided to go for it, and postpone our flight by a day. After waiting a while in the business class lounge, we were transported to a luxury resort on Denarau Island, about 30 minutes from the airport.

@@ -19,7 +19,7 @@ At twenty dollars apiece, **whale** seemed like an expensive gamble to try at th
 
 Similar to whale meat, **reindeer** will cost you between 20–30$. As it was a special occasion, we decided to treat ourselves to a reindeer steak and were quite surprised. It tasted very much like beef and was quite delicious. We definitely recommend trying this local specialty. We also found it to be readily available in Helsinki in various forms, including hot dogs or meatballs.
 
-As cheese enthusiast we didn’t think that it would be possible to find a cheese that we strongly disliked. Well… it happened. The **brown cheese** has the strangest taste we have ever encountered. When you eat it, it feels like you’re eating cheese, but then you get this sweet taste from the caramelization that’s just too much. This cheese makes eating a spoonful of plain [vegemite](/top-foods-from-australia/) more appealing. Sorry Norway!
+As cheese enthusiast we didn’t think that it would be possible to find a cheese that we strongly disliked. Well… it happened. The **brown cheese** has the strangest taste we have ever encountered. When you eat it, it feels like you’re eating cheese, but then you get this sweet taste from the caramelization that’s just too much. This cheese makes eating a spoonful of plain [vegemite]({{< ref "20160428-top-foods-from-australia.md" >}}) more appealing. Sorry Norway!
 
 **Softis** are everywhere! Every corner store, bus terminal, tourist centers,  it’s almost impossible not to try one. They are basically a soft-serve ice cream, but quite a nice treat on a hot summer day. You can choose different toppings, but the ones that we noticed the most and also liked the most were the powdered cacao and the local kraken, which are a sweet peanut crumbled brittle.
 
