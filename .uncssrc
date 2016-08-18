@@ -13,6 +13,7 @@
     "/.carousel-item.next/",
 
     "/^.leaflet-cluster-anim/",
+    "/^.leaflet-pan-anim/",
     "/^.leaflet-tooltip/",
     "/^.leaflet-zoom-anim/",
 
