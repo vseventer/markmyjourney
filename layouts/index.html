@@ -8,6 +8,14 @@
   {{ $paginator := .Paginate $pages }}
 
   {{ partial "list.html" . }}
+
+  <nav class="text-xs-center">
+    <p class="pagination">
+      <span class="page-item">
+        <a class="page-link" href="{{ absURL "blog/" }}">More →</a>
+      </span>
+    </p>
+  </nav>
 {{ end }}
 
 {{ define "sidebar$append" }}
