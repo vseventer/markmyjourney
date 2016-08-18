@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.0-dev
+### 1.1.0 (August 18, 2016)
 * Added JavaScript linting through [jshint](http://jshint.com/).
 * Optimized build scripts.
 * Switched to [Go Templates](https://gohugo.io/templates/go-templates/).
