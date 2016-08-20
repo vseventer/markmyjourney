@@ -1,6 +1,6 @@
 {{ $photo := index (where $.Site.Data.uploads.features ".properties.src" .src) 0 }}
 
-<figure class="m-b-0">
+<figure class="m-b-0" id="{{ $photo.properties.src }}">
   {{ $className := printf "mmjy-photo-%s" $photo.properties.orientation }}
   {{ $url   := printf "uploads/%s" $photo.properties.src | absURL }}
   {{ $style := printf "background-image: url('%s')" $url }}

@@ -10276,9 +10276,57 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6628.JPG",
+        "date": "2016-06-14T21:41:35",
+        "description": "Svíčková na smetaně.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6634.JPG",
+        "date": "2016-06-15T15:01:35",
+        "description": "Smažený sýr.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_6635.JPG",
         "date": "2016-06-15T13:50:09",
         "description": "Wenceslas Square.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42,
+          50.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6639.JPG",
+        "date": "2016-06-15T15:54:01",
+        "description": "Trdelník.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -10436,6 +10484,70 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6707.JPG",
+        "date": "2016-06-15T20:05:29",
+        "description": "Pilsner Urquell.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42,
+          50.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6710.JPG",
+        "date": "2016-06-15T20:38:40",
+        "description": "Medovnik.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6712.JPG",
+        "date": "2016-06-15T20:46:03",
+        "description": "Kofola.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6714.JPG",
+        "date": "2016-06-15T21:13:22",
+        "description": "Chlebíčky.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42,
+          50.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_6723.JPG",
         "date": "2016-06-16T10:46:30",
         "description": "View over the Vltava river and castle (top left).",
@@ -10520,6 +10632,54 @@
         "date": "2016-06-16T12:25:18",
         "description": "Castle gardens.",
         "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.31,
+          48.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6778.JPG",
+        "date": "2016-06-16T16:41:05",
+        "description": "Makový koláček.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.32,
+          48.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6780.JPG",
+        "date": "2016-06-16T20:51:23",
+        "description": "Budweiser Budvar.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.32,
+          48.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6782.JPG",
+        "date": "2016-06-16T23:43:42",
+        "description": "Eggenberg.",
+        "orientation": "portrait"
       },
       "geometry": {
         "type": "Point",

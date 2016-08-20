@@ -1,6 +1,6 @@
 {
   "name"        : "MarkMyJourney",
-  "version"     : "1.1.0",
+  "version"     : "1.1.1",
   "description" : "My travel blog, MarkMyJourney.com.",
   "keywords"    : [ "blog", "travel" ],
   "homepage"    : "https://www.markmyjourney.com",
@@ -48,7 +48,7 @@
     "postinstall" : "concurrently 'npm run leaflet' 'npm run sprity' 'npm run webpack'",
     "prestage"    : "jshint --reporter=node_modules/jshint-stylish static/js/main.js",
     "stage"       : "NODE_ENV=staging npm run build -- -b $npm_package_config_staging",
-    "prestart"    : "([ -f uploads/*?.* ] && npm run uploads) || true",
+    "prestart"    : "ls uploads/*?.* 1> /dev/null 2>&1 && npm run uploads",
     "start"       : "NODE_ENV=development npm run watch",
     "watch"       : "concurrently 'npm run hugo -- -v' 'npm run sass -- -w'"
   },
