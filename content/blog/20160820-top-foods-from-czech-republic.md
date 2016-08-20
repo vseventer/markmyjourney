@@ -21,7 +21,7 @@ A popular late night snack, smažený sýr consist of fried breaded Edam cheese 
 {{< photo "IMG_6634.JPG" >}}
 
 ## Chlebíčky
-Our tour guide spoke quite fondly of these open-faced sandwiches and in his opinion, this is something he considered traditional Czech foods. They looked similar to the [Swedish open-faced Skagen toast]({{< ref "20160607-top-foods-from-sweden.md" >}}), however the toppings are more meat oriented. Chlebíčky, with anything from potato salad and ham to other savory toppings, can be bought from bakeries and make for a great quick snack.
+Our tour guide spoke quite fondly of these open-faced sandwiches and in his opinion, this is something he considered traditional Czech foods. They looked similar to the [Swedish open-faced Skagen toast]({{< ref "20160601-top-foods-from-sweden.md" >}}), however the toppings are more meat oriented. Chlebíčky, with anything from potato salad and ham to other savory toppings, can be bought from bakeries and make for a great quick snack.
 
 {{< photo "IMG_6714.JPG" >}}
 ## Trdelník
