@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.2 (September 10, 2016)
+* Set current location to London, United Kingdom.
+* Updated `babel-preset-es2015`, `node-sass`, and `sharp` dependencies.
+
 ### 1.1.1 (August 20, 2016)
 * Added *Czech Republic Food* post.
 

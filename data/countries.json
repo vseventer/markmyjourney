@@ -136512,7 +136512,7 @@
           "slug": "oceania",
           "name": "Oceania"
         },
-        "area": "0",
+        "area": null,
         "capital": null,
         "currency": {
           "code": "USD",

@@ -1108,7 +1108,8 @@
           "gmtOffset": "UTC+12:00"
         },
         "period": {
-          "start": "2016-07-31"
+          "start" : "2016-07-31",
+          "end"   : "2016-08-25"
         }
       },
       "geometry": {
@@ -1116,6 +1117,36 @@
         "coordinates": [
           4.86,
           52.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2643743,
+        "slug": "2643743-london-gb",
+        "name": "London",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "7.6m",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        },
+        "period": {
+          "start": "2016-08-25"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13,
+          51.51
         ]
       }
     }
