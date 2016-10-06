@@ -2,7 +2,7 @@
 date    = "2016-07-04"
 title   = "Český Krumlov: Czech Republic’s Most Charming Town"
 slug    = "cesky-krumlov-czech-republics-most-charming-town"
-destinations = [ "europe", "czech-republic" ]
+destinations = [ "europe", "czechia" ]
 places  = [ "3077889-cesky-krumlov-cz" ]
 photos  = [
   "IMG_6723.JPG", "IMG_6730.JPG", "IMG_6731.JPG", "IMG_6741.JPG", "IMG_6756.JPG",

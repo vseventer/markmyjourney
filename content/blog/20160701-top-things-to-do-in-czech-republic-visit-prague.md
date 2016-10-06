@@ -1,7 +1,7 @@
 +++
 date    = "2016-07-01"
 title   = "Top Things to do in Czech Republic: Visit Prague"
-destinations = [ "europe", "czech-republic" ]
+destinations = [ "europe", "czechia" ]
 places  = [ "3067696-prague-cz" ]
 photos  = [
   "IMG_6667.JPG", "IMG_6640.JPG", "IMG_6665.JPG", "IMG_6649.JPG", "IMG_6652.JPG",

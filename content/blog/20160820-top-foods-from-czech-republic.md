@@ -1,7 +1,7 @@
 +++
 date    = "2016-08-20"
 title   = "Top Foods from Czech Republic"
-destinations = [ "europe", "czech-republic" ]
+destinations = [ "europe", "czechia" ]
 photos = [
   "IMG_6628.JPG", "IMG_6634.JPG", "IMG_6639.JPG", "IMG_6707.JPG", "IMG_6710.JPG",
   "IMG_6712.JPG", "IMG_6714.JPG", "IMG_6778.JPG", "IMG_6780.JPG", "IMG_6782.JPG"
