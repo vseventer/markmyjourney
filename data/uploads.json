@@ -10692,6 +10692,134 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6787.JPG",
+        "date": "2016-06-17T14:10:48",
+        "description": "The garden of Mirabell Palace, looking out over Fortress Hohensalzburg.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04,
+          47.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6788.JPG",
+        "date": "2016-06-17T14:15:34",
+        "description": "Salzach river leading into Salzburg’s Old Town.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04,
+          47.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6815.JPG",
+        "date": "2016-06-17T15:43:15",
+        "description": "Mozart’s birthplace.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04,
+          47.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6819.JPG",
+        "date": "2016-06-17T16:06:47",
+        "description": "Narrow shopping streets in the Old Town.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04,
+          47.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6831.JPG",
+        "date": "2016-06-17T16:23:05",
+        "description": "Kapitelplatz, situated next to the hill home to Fortress Hohensalzburg.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.05,
+          47.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6834.JPG",
+        "date": "2016-06-17T16:26:51",
+        "description": "Salzburg Cathedral.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.05,
+          47.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6837.JPG",
+        "date": "2016-06-17T16:36:21",
+        "description": "Capuchin Monastery on the Kapuzinerberg.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.05,
+          47.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6840.JPG",
+        "date": "2016-06-17T16:39:55",
+        "description": "Salzburg Old Town.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.05,
+          47.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",
