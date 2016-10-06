@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.1.3 (October 6, 2016)
+* Added *Salzburg* post.
+* Removed `napa` dependency.
+* Switched to [arc](https://github.com/springmeyer/arc.js) over [Leaflet.geodesic](https://github.com/henrythasler/Leaflet.Geodesic).
+* Updated `babel-preset-es2015`, `concurrently`, `hashmark`, `html-minifier`,
+  `leaflet`, `leaflet.markercluster`, `leaflet-minimap`, `moment` and
+  `node-sass` dependencies.
+
 ### 1.1.2 (September 10, 2016)
 * Set current location to London, United Kingdom.
 * Updated `babel-preset-es2015`, `node-sass`, and `sharp` dependencies.
@@ -123,7 +131,8 @@
 
 ### 1.0.17 (May 19, 2016)
 * Added *Dubai* post.
-* Rephrased *Great Barrier Reef*, *Uluru*, *Australia Food*, *New Zealand*, *New Zealand Food* posts.
+* Rephrased *Great Barrier Reef*, *Uluru*, *Australia Food*, *New Zealand*,
+  and *New Zealand Food* posts.
 * Set current location to Stockholm, Sweden.
 
 ### 1.0.16 (May 16, 2016)

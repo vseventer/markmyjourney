@@ -26,8 +26,14 @@
 
 // NOTE: This configuration is merged with any CLI flags.
 
+// Standard lib.
+var path = require('path');
+
 // Package modules.
 var webpack = require('webpack');
+
+// Configure.
+var arcPath = require.resolve('arc');
 
 // Exports.
 module.exports = {
@@ -45,7 +51,7 @@ module.exports = {
     'bootstrap/js/src/dropdown',
 
     'leaflet',
-    'leaflet-geodesic/Leaflet.Geodesic.js',
+    'arc',
     'leaflet.markercluster/dist/leaflet.markercluster-src',
     'leaflet-minimap/src/Control.MiniMap.js'
   ],
@@ -53,6 +59,13 @@ module.exports = {
   // Compile Bootstrap ES6 to vanilla JavaScript.
   module: {
     loaders: [{
+      test   : path.join(arcPath, '../arc.js'),
+      loader : 'webpack-append',
+      query  : 'var window = undefined;'
+    }, {
+      test   : arcPath,
+      loader : 'expose?Arc',
+    }, {
       test   : /bootstrap/,
       loader : 'babel-loader',
       query  : { presets: [ 'es2015' ] }

@@ -53,9 +53,10 @@
   // Add ready listeners.
   document.addEventListener('ready:components', function() {
     // Initialize.
-    var $ = window.jQuery,
+    var $       = window.jQuery,
+        Arc     = window.Arc,
         Leaflet = window.L;
-    Leaflet.Icon.Default.imagePath = '/img'; // Configure.
+    Leaflet.Icon.Default.imagePath = '/img/'; // Configure.
 
     // Lazy-load carousel items on slide & patch active carousel indicators outside carousel.
     $('.carousel').on('slide.bs.carousel', function(e) {
@@ -104,17 +105,28 @@
       // Apply GeoJSON from specified source.
       var source = element.getAttribute('data-source');
       var layer  = Leaflet.geoJson(window[source], {
-        // Wrap longitude around antemeridian.
-        // NOTE: `Leaflet.latLng.prototype.wrap` currently seems broken.
-        // coordsToLatLng: function(coords) {
-        //   var lng = coords[0],
-        //       lat = coords[1];
-        //   if(lng < 0) {
-        //     lng = 360 + lng;
-        //   }
-        //   return Leaflet.latLng(lat, lng);
-        // },
         onEachFeature: function(feature, layer) {
+          // Create a great circle route.
+          if(feature.properties.geodesic) {
+            var lines = feature.geometry.coordinates.map(function(line) {
+              var result = [ ]; // Init.
+              for(var i = 1; i < line.length; i += 1) {
+                var prev    = line[i - 1],
+                    current = line[i],
+                    start   = { x: prev[0],    y: prev[1]    },
+                    end     = { x: current[0], y: current[1] },
+                    circle  = new Arc.GreatCircle(start, end).Arc(10);
+                result.push(circle.json().geometry.coordinates.map(function(arg) {
+                  return arg.reverse();
+                }));
+              }
+              return result;
+            });
+
+            // Update lines.
+            layer.setLatLngs(lines);
+          }
+
           // Create tooltip.
           if(null != feature.properties.title) {
             layer.bindTooltip(feature.properties.title, {
