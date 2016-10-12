@@ -10820,6 +10820,230 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6868.JPG",
+        "date": "2016-06-19T13:10:11",
+        "description": "The Rathaus turned into a fanzone during EURO 2016.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36,
+          48.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6872.JPG",
+        "date": "2016-06-19T13:17:31",
+        "description": "Parliament.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36,
+          48.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6875.JPG",
+        "date": "2016-06-19T13:19:58",
+        "description": "Volksgarten.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36,
+          48.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6882.JPG",
+        "date": "2016-06-19T13:35:48",
+        "description": "Hofburg Palace.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36,
+          48.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6887.JPG",
+        "date": "2016-06-19T13:42:44",
+        "description": "MuseumsQuartier.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36,
+          48.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6891.JPG",
+        "date": "2016-06-19T13:44:47",
+        "description": "Maria Theresa Monument in the center of the MuseumsQuartier.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36,
+          48.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6899.JPG",
+        "date": "2016-06-19T14:06:07",
+        "description": "Vienna State Opera.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37,
+          48.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6906.JPG",
+        "date": "2016-06-19T14:44:11",
+        "description": "Busy city center.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37,
+          48.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6908.JPG",
+        "date": "2016-06-19T14:46:47",
+        "description": "St. Peter’s Church in the center of Vienna.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37,
+          48.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6922.JPG",
+        "date": "2016-06-19T15:51:25",
+        "description": "Stadtpark.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.38,
+          48.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6927.JPG",
+        "date": "2016-06-19T16:36:05",
+        "description": "Schönbrunn Palace.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31,
+          48.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6930.JPG",
+        "date": "2016-06-19T16:41:39",
+        "description": "Gardens of Schönbrunn Palace.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31,
+          48.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6936.JPG",
+        "date": "2016-06-19T16:52:06",
+        "description": "Rose garden of Schönbrunn Palace.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31,
+          48.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6954.JPG",
+        "date": "2016-06-19T21:49:08",
+        "description": "“Alceste” at the Vienna State Opera.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37,
+          48.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",

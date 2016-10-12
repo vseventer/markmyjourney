@@ -5481,6 +5481,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2761369,
+        "slug": "2761369-vienna-at",
+        "name": "Vienna",
+        "region": "Vienna",
+        "country": {
+          "code": "AT",
+          "slug": "austria",
+          "name": "Austria"
+        },
+        "population": "1.7m",
+        "timezone": {
+          "name": "Europe/Vienna",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37,
+          48.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 587577,
         "slug": "587577-viljandi-ee",
         "name": "Viljandi",

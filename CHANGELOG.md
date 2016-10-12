@@ -1,11 +1,15 @@
 # Changelog
 
+### 1.1.4 (October 12, 2016)
+* Added *Vienna* post.
+* Updated `hashmark` dependency.
+
 ### 1.1.3 (October 6, 2016)
 * Added *Salzburg* post.
 * Removed `napa` dependency.
 * Switched to [arc](https://github.com/springmeyer/arc.js) over [Leaflet.geodesic](https://github.com/henrythasler/Leaflet.Geodesic).
 * Updated `babel-preset-es2015`, `concurrently`, `hashmark`, `html-minifier`,
-  `leaflet`, `leaflet.markercluster`, `leaflet-minimap`, `moment` and
+  `leaflet`, `leaflet.markercluster`, `leaflet-minimap`, `moment`, and
   `node-sass` dependencies.
 
 ### 1.1.2 (September 10, 2016)
