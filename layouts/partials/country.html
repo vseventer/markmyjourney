@@ -1,12 +1,12 @@
 <div class="card">
-  <h3 class="card-header m-b-0">
+  <h3 class="card-header">
     {{ .destination.properties.toponym }}
     <span class="mmjy-icon icon-flags icon-flags-{{ lower .destination.properties.code }}"></span>
   </h3>
 
   <div class="mmjy-border-bottom mmjy-map" data-source="dest"></div>
 
-  <dl class="card-block m-b-0 mmjy-dl-horizontal">
+  <dl class="card-block mmjy-dl-horizontal">
     <dt>Continent</dt>
     <dd>
       <a href="{{ printf "/destinations/%s/" .destination.properties.continent.slug | absURL }}">

@@ -1,9 +1,9 @@
 <div class="card">
-  <h3 class="card-header m-b-0">
+  <h3 class="card-header">
     {{ .destination.properties.name }}
   </h3>
 
-  <dl class="card-block m-b-0 mmjy-dl-horizontal">
+  <dl class="card-block mmjy-dl-horizontal">
     {{ if ne .destination.properties.population nil }}
       <dt>Population</dt>
       <dd>{{ .destination.properties.population }}</dd>

@@ -9,7 +9,7 @@
 {{ end }}
 
 {{ define "header" }}
-  <div class="jumbotron jumbotron-fluid m-b-0 text-md-center">
+  <div class="jumbotron jumbotron-fluid mb-0 text-md-center">
     <div class="container">
       {{ if isset .Params "destinations" }}
         {{ $countries := where .Site.Data.countries.features "properties.slug" "in" .Params.destinations }}
@@ -35,7 +35,7 @@
   {{ if isset .Params "cover" }}
     {{ $cover := printf "uploads/%s" .Params.cover }}
     {{ $style := printf "background-image: url('%s')" (absURL $cover) }}
-    <div class="m-b-1 mmjy-cover" style="{{ safeCSS $style }}"></div>
+    <div class="mb-1 mmjy-cover" style="{{ safeCSS $style }}"></div>
   {{ end }}
 {{ end }}
 
@@ -48,7 +48,7 @@
         {{ end }}
 
         {{ if or (isset .Params "photos") (isset .Params "places") (isset .Params "route") }}
-          <div class="m-b-1 mmjy-border mmjy-inset">
+          <div class="mb-1 mmjy-border mmjy-inset">
             <div class="mmjy-map" data-source="places"></div>
           </div><!-- /mmjy-inset -->
         {{ end }}

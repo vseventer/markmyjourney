@@ -1,6 +1,6 @@
 {
   "name"        : "MarkMyJourney",
-  "version"     : "1.1.4",
+  "version"     : "1.1.5-dev",
   "description" : "My travel blog, MarkMyJourney.com.",
   "keywords"    : [ "blog", "travel" ],
   "homepage"    : "https://www.markmyjourney.com",
@@ -55,8 +55,8 @@
   "devDependencies" : {
     "arc"            : "0.1.x",
     "babel-loader"   : "6.2.x",
-    "babel-preset-es2015": "6.16.x",
-    "bootstrap"      : "v4.0.0-alpha.4",
+    "babel-preset-es2015": "6.18.x",
+    "bootstrap"      : "v4.0.0-alpha.5",
     "clean-css"      : "3.4.x",
     "concurrently"   : "3.1.x",
     "confirm"        : "0.1.x",
@@ -74,20 +74,20 @@
     "leaflet"        : "1.0.x",
     "leaflet.markercluster": "1.0.x",
     "leaflet-minimap": "3.4.x",
-    "moment"         : "2.15.x",
-    "node-sass"      : "3.10.x",
+    "moment"         : "2.16.x",
+    "node-sass"      : "3.11.x",
     "rimraf"         : "2.5.x",
     "sharp-cli"      : "0.7.x",
     "@songkick/replaceinfiles": "1.1.x",
     "sprity-cli"     : "1.0.x",
     "uglifyjs"       : "2.4.x",
     "uncss"          : "vseventer/uncss",
-    "wait-on"        : "1.5.x",
+    "wait-on"        : "2.0.x",
     "webpack"        : "1.13.x",
     "webpack-append" : "0.1.x"
   },
   "engines": {
-    "hugo" : "0.16",
+    "hugo" : ">=0.16",
     "node" : "4.x"
   },
   "os"      : [ "darwin" ],
