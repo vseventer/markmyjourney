@@ -10,6 +10,7 @@ photos  = [
 cover = "IMG_6568.JPG"
 +++
 From [Kraków]({{< ref "20160626-top-things-to-do-in-poland-visit-warsaw-and-krakow.md" >}}), it is about one hour to Auschwitz-Birkenau, the largest concentration camp during the Nazi regime. We decided on a half-day guided tour, as getting there by public transport is somewhat complicated. We visited both Auschwitz I (the original camp) and Auschwitz II (Birkenau).
+
 <!--more-->
 ## Auschwitz
 Our first stop was Auschwitz, a medium-sized complex composed of rows of red brick barracks, each displaying different horrific events that occurred there. Most of the barracks contained images and information about what went on in the camp, while some showed the thousands of suitcases, shoes, glasses, and even human hair the Nazis confiscated and piled up.

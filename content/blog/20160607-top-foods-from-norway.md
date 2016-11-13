@@ -10,6 +10,7 @@ photos = [
 cover = "IMG_5186.JPG"
 +++
 When it comes to Norwegian cuisine, seafood definitely plays a significant role. While the vegetable- and fruit sections of the supermarkets are rather small and overpriced, the seafood section on the other hand is abundant and relatively cheap.
+
 <!--more-->
 Norway is a major player in the fishing industry. We found ourselves eating seafood pretty much every day. **Norwegian salmon**, which is world renowned, seemed cheap here by comparison, probably because it didn’t have to travel too far. Whether it is smoked (thin fillet cured with cold smoke, usually served on top of rye bread with cream cheese) or simply grilled, Norwegian salmon tastes delicious and flavorful.
 

@@ -15,6 +15,7 @@ cover = "P1194280.JPG"
 +++
 
 After about 15 minutes of heavy turbulence due to a rainstorm, our plane landed safely in Foz do Iguaçu. Because it rained badly and the bus was not clearly marked we opted for a taxi drive into the town. After an unpleasant start we were happy to arrive at our hostel, which turned out to be one of our favorites. The town of Foz do Iguaçu is popular among tourists for one reason: it offers access to the Brazilian side of the Iguazú Falls.
+
 <!--more-->
 Our hostel was right accross the bus stop, so getting to the falls was pretty straightforward. Once there, the National Parks’ shuttle bus brought you to the actual trail. It was a quite simple one-way trail that allowed for many panoramic views of the falls, and at one point offered a very close (and wet) look. The Brazilian side turned out to be the best side for getting the big picture.
 

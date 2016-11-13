@@ -17,6 +17,7 @@ cover = "P1314853.JPG"
 +++
 
 From El Calafate in [Argentinian Patagonia]({{< ref "20150203-trekking-in-argentinian-patagonia.md" >}}) we took the bus across the border to Puerto Natales. This small town is the gateway to Torres del Paine national park.
+
 <!--more-->
 ## Torres del Paine
 Initially, we thought of renting a car to explore Torres del Paine on our own. However, due to the magnitude of the park, and the gravel roads, we decided to go on a one-day tour instead. It brought us to several viewpoints of lakes, with the sharp mountain peaks of Torres del Paine.

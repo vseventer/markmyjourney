@@ -12,6 +12,7 @@ photos  = [
 cover = "IMG_6065.JPG"
 +++
 The cheapest way to experience St. Petersburg is by taking a ferry from Scandinavia. By using [St. Peterline](https://stpeterline.com/) you can access Russia for 72 hours without having to obtain a visa. Depending on your nationality, this will save you around $100, plus you also don’t have to spent any time applying for a visa, as it is granted on arrival. We decided to stay two days, as we also wanted to see a Russian ballet.
+
 <!--more-->
 While the ferry tickets are not super cheap (we paid around $170 for the simplest accommodation), and you pretty much pay for everything else on the ferry, it is cheaper and easier than applying for a visa. After catching an early dinner, we departed at 7pm from [Helsinki]({{< ref "20160608-top-things-to-do-in-finland-a-city-break-to-helsinki.md" >}}). The check-in on [Princess Maria](https://stpeterline.com/princess-maria) was quite easy, and your boarding card also acted as room key. We had heard that the food options on board were of terrible quality, however we found that there are some options on board. While it definitely isn’t the best meal you’ll ever eat, it was decent enough and surprisingly way cheaper then we thought.
 

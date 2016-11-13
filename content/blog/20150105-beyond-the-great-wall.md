@@ -13,6 +13,7 @@ cover = "P1023959.JPG"
 +++
 
 A tourist trip to China typically includes a visit to the Great Wall, one of the major attractions of the immense country. From Beijing, multiple sections of the Great Wall are easily visited on a day-trip. We, of course, wanted to see what it was all about too. We chose to visit the Great Wall at Badaling.
+
 <!--more-->
 ## Badaling Great Wall
 Instead of paying 45$ for an organized tour to Badaling, we opted to arrange our own transport. Our first idea was to take the train, this would be the cheapest (around 2$), shortest (about an hour and a half), and most convenient way of travel. Yet, we were not the only ones who had this idea. Due to the sun being out for the first time in days, causing nice temperatures, loads of (mostly Chinese) tourists had already occupied the train. Plan B: take the public bus (4$). After looking for the bus station for a while, we found ourselves with standing places - we mistakenly stood in the shorter line for the bus, the longer line was for seating places.

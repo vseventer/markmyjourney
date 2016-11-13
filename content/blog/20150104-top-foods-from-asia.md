@@ -17,6 +17,7 @@ cover = "PB192684.JPG"
 +++
 
 All over Asia, street food is the way the locals eat. Prepared at every corner of the street, right in front of the customer, dirt cheap, and lots of options: eating street food is the way to go. As any Westerner, we were a little hesitant to try it. How do you know the ingredients are good? What if we get food posioning? How do we know which stand to go?
+
 <!--more-->
 Our first attempt on street food was in Bangkok, next to the Hualampong Train Station. We read a recommendation online about this street food place, and once arriving there we saw a mix of tourists and locals enjoying the food. We were at the right place.
 

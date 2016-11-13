@@ -13,6 +13,7 @@ cover = "P3286578.JPG"
 +++
 
 Baños de Agua Santa, or simply Baños, is a popular tourist town about three hours south of Quito. As it is situated in the mountains close to the Ecuadorian Amazon rainforest, it is the place to go in Ecuador for adventurous activities. We mainly went there for one activity: the “Swing at the End of the World,” which is a swing located on a mountain edge next to a steep hill.
+
 <!--more-->
 The town of Baños itself is very charming and picturesque with lots of small shops, colorful parks, and lots of locals and tourists wandering around. It made for a nice stroll in search for cheap but quality local food.
 

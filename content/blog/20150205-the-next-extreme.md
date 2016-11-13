@@ -13,6 +13,7 @@ cover = "P2055014.JPG"
 +++
 
 As our twelve day stay in Patagonia comes to an end, the next adventurous destination is already waiting for us. We will be flying from Punta Arenas to the capital of Santiago, stay overnight in the airport, and depart in the early morning to Easter Island!
+
 <!--more-->
 Located five hours away from any land, Easter Island is a very special destination, known for the Moai statues all over the island. We will be camping here for a week, before heading back to Santiago on the 13th.
 

@@ -13,6 +13,7 @@ cover = "P3076222.JPG"
 +++
 
 The first dish that comes to mind when visiting Peru is ceviche. Due to its location near the water, Lima seemed like the best place to try it and it certainly delivered. However, the Peruvian cuisine had so much more gastronomic choices to offer; anything from the decadent Alpaca Medallion in Rosemary Sauce to the less exotic Pollo A La Brasa and Lomo Saltado, not only tasted delicious, but also were presented well.
+
 <!--more-->
 * The best: **Pisco Sour**,
 * The worst: **Inca Kola**,

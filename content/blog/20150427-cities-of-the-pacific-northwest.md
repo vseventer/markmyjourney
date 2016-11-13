@@ -18,6 +18,7 @@ cover = "IMG_0036.JPG"
 +++
 
 From [Bogotá]({{< ref "20150414-the-next-chapter.md" >}}) we flew into Fort Lauderdale and onwards to Los Angeles. We almost missed our connecting flight, as we left 40 minutes late in Bogotá and it took a long time to clear customs and baggage inspection. Right after we entered the plane, the gate closed, and off to LA we went.
+
 <!--more-->
 We spent the night in Los Angeles Airport, before taking an early morning flight to Seattle, where we met up with Herta’s parents and drove to Portland.
 

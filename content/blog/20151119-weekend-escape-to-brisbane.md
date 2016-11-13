@@ -13,6 +13,7 @@ cover = "IMG_0730.JPG"
 +++
 
 The Melbourne winter of 2015 was one of the coldest in years. For us, coming from freezing and snowy Boston, did not think it was that bad. But, there were days you had to wear gloves, and that qualifies as cold Down Under.
+
 <!--more-->
 Luckily, it is easy to escape the winter and enjoy warmer weather. On Australia’s Gold Coast, Brisbane is definitely worth visiting. Temperatures were close to 20°C, which was a very welcome change from Melbourne.
 

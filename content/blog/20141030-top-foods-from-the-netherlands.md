@@ -12,6 +12,7 @@ cover = "PA161644.JPG"
 +++
 
 A store full of licorice. Chocolate sprinkles with everything. The Dutch have strange eating habits. Or at least, so you think, until you actually have breakfast in the Netherlands, and see yourself wandering around in the same store stocking up on delicious licorice.
+
 <!--more-->
 We tried a variety of foods only found in the Netherlands, so good some can now be found in stores abroad (stroopwafels, anyone?).
 

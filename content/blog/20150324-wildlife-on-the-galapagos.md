@@ -15,6 +15,7 @@ cover = "P3236461.JPG"
 +++
 
 The Galápagos Islands is unique destination which should be on every travelers’ list. It comes with a price, however, as everything on the island is quite expensive: it starts by paying 120$ in National Park fees before you even set foot on solid ground. On top of that, lodging and groceries are overpriced, and tours around the Galápagos start at 150$.
+
 <!--more-->
 Once you are out exploring, however, you see why the islands are so popular among tourists: dozen of exotic birds, turtles, iguanas and so on are all around you. Because wildlife on the island is so protected, the animals are not bothered by humans so you can get really close. During our six day stay we explored the main town of Puerto Ayora on the Santa Cruz island, and went on a tour to North Seymour.
 

@@ -12,6 +12,7 @@ cover = "P1234499.JPG"
 +++
 
 It is very easy do go on a day-trip to Colonia del Sacramento from Buenos Aires: a one-hour ferry ride (around 25$ one-way) brings you to the other side of the River Plate. Colonia is a charming yet quiet old town in Uruguay founded by the Portuguese in the 1600s. It is extremely walkable, and all sights can be covered in an hour or two.
+
 <!--more-->
 One thing we noticed is that almost everyone drinks *Yerba mate* (a tea-like drink) religiously, even carrying a separate matera bag for it. The area around the old city wall offered an artisian local ice cream: helado, which was delicious. Apart from the church built on remainders of the city wall, the many old-timer cars were another highlight of the town.
 

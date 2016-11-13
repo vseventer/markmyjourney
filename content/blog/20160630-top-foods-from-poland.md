@@ -10,6 +10,7 @@ photos = [
 cover = "IMG_6623.JPG"
 +++
 With only a limited amount of time, we weren’t exactly sure where to start given the amount of Polish specialties. Of course the pierogi is Poland’s signature dish, but the country has much more to offer. We sat down in a few restaurants in Warsaw and Kraków to try the countries’ best.
+
 <!--more-->
 The **pierogi**, meat-filled dumplings topped with caramelized onions, are amazing. We were happy we found [Polakowski](http://www.polakowski.com.pl/), a self-service restaurant in Warsaw that was a one-stop shop of almost everything we wanted to try. And, at 10$ for a two-person dinner, it was a steal.
 

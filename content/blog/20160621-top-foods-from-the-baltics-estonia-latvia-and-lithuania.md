@@ -11,6 +11,7 @@ photos = [
 cover = "IMG_6322.JPG"
 +++
 While [Estonian]({{< ref "20160617-24-hours-in-tallinn-and-estonia.md" >}}), [Latvian]({{< ref "20160618-top-things-to-do-in-latvia-a-visit-to-riga.md" >}}), and [Lithuanian]({{< ref "20160619-top-things-to-do-in-lithuania-a-visit-to-vilnius.md" >}}) cuisines certainly have their own unique dishes, many of the specialties can be found in all of the Baltic countries. In general we were not too satisfied with Baltic foods, still we definitely discovered some great tasting meals, drinks, and snacks.
+
 <!--more-->
 ## Estonia
 **Dark rye bread** is very commonly seen in the Baltics. This bread was created more out of necessity rather then culinary experimentation, as rye grew much easier in these regions. However, when made fresh, it’s pretty delicious. Estonian **kiluvoileib**, or sprat sandwich, consists of buttered rye bread, topped with Baltic herrings and egg. This dish is very popular among Estonians, however we did not like it at all.

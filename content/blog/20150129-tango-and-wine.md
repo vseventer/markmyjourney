@@ -15,6 +15,7 @@ cover = "P1224481.JPG"
 +++
 
 From [Puerto Iguazú]({{< ref "20150127-the-complete-picture-of-iguazu-falls.md" >}}) we flew to Buenos Aires for a brief visit before heading down to Patagonia. The first thing we noticed was the European-like architecture. Since we had a limited amount of time there, we decided to do a comprehensive city tour, which took us to the embassy-filled neighborhoods of Palermo and Recoleta, as well as the central Plaza de Mayo, Florida Street, the waterfront of Puerto Madero, and the Boca neighborhood.
+
 <!--more-->
 The only place we really stopped was the colorful neighborhood of Boca, which also houses Boca Juniors. We visited the soccer stadium of Boca Juniors. After four hours, we were glad to be off the bus, and decided to further explore the area around Florida Street on our own.
 

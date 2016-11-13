@@ -10,6 +10,7 @@ photos  = [
 cover = "IMG_2563.JPG"
 +++
 A visit to the Outback, the vast desert region in the center of Australia, is a must-do when living in Australia. We opted for a brief 24-hour visit to one of the most visited parts of the Outback: Uluru-Kata Tjuta National Park, home to the rock formations of Kata Tjuta and Uluru.
+
 <!--more-->
 ## Kata Tjuta
 The closest city to Uluru is Alice Springs, a mere six hours away. Therefore, we decided to fly into Ayers Rock Airport directly, and after picking up our rental car we were on our way. The first stop were the 36 red-rock domes of Kata Tjuta, also known as The Olgas.

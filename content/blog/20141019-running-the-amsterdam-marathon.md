@@ -13,6 +13,7 @@ cover = "P1000752.JPG"
 +++
 
 The Amsterdam Marathon. After almost a year of hard training, the day had finally come: my first marathon. After a very decent breakfast we headed out to the Olympic Stadion in Amsterdam, the starting point of what turned out to be a very tough run.
+
 <!--more-->
 At 9:30AM, I was off. The first 15km I felt great, the support was great, and I was keeping my target pace rather easily. However, the next 10km were gruelling. This part of the course consisted of an out-and-back along the Amstel River to Ouderkerk, and back to Amsterdam. Even though the temperature was perfect (around 17°C), the lack of cover along the river made it very easy for the wind to throw me off my game.
 

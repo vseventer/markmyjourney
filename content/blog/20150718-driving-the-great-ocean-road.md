@@ -19,6 +19,7 @@ cover = "IMG_0520.JPG"
 +++
 
 Back in May, barely a month after ending our seven-month trip around the world, we already felt the urge to get moving again. We opted to rent a car for the weekend, and head to Torquay, the beginning of Australia’s Great Ocean Road.
+
 <!--more-->
 The Great Ocean Road spans 243 kilometers from Torquay westwards until Allansford. The road is an Australian National Heritage, and it is no surprise why. The windy roads directly adjacent to the Pacific Ocean made for great views, and the landscape ranged from sandy beaches to rainforest.
 

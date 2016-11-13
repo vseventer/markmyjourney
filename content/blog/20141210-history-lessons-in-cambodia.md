@@ -15,6 +15,7 @@ cover = "PB283092.JPG"
 +++
 
 Our stay in Cambodia was limited to six days - three in Siem Reap and three in the capital Phnom Penh. Our main goal was to visit two important historic sites in Cambodia, before moving on to Vietnam. We flew in from Bangkok, and after a long and tiring visa procedure at the airport we found ourselves in Siem Reap. This town has little to offer except the ancient temples of Angkor Wat.
+
 <!--more-->
 # Angkor Wat
 After paying a steep 20$ entrance fee, you enter a huge complex of temples. All are centuries old, but most still in decent condition. A tuktuk brought us to three temples: Angkor Wat itself, Bayon, and Ta Prohm. Especially Ta Prohm was impressive, where roots of huge tries found their way into the stone walls.

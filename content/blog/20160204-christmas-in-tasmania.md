@@ -18,6 +18,7 @@ cover = "IMG_1150.JPG"
 +++
 
 With only three days to spare, our Christmas in Tasmania was quite action packed. Although we drove 1,250km in three days we quite enjoyed the luscious hilly landscape and somehow managed to see everything we wanted to: the Cradle Mountain, the East Coast, and the cities of Launceston and Hobart.
+
 <!--more-->
 ## Cradle Mountain National Park
 Hitting the ground running we grabbed a coffee at Hobart Airport as most places were closed due to it being Christmas Day, and headed straight to Cradle Mountain. After roughly a four-hour drive and a twenty-minute bus ride inside the park, we were met with spectacular views of the Cradle Mountain. We decided to go for the quick fifteen-minute walk up to Glacier Rock for a peaceful lunch at the edge.

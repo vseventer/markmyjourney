@@ -13,6 +13,7 @@ cover = "P1164272.JPG"
 +++
 
 After visiting [Paraty and Ilha Grande]({{< ref "20150117-brazils-costa-verde.md" >}}), we headed to the city where we initially got [stranded]({{< ref "20150116-a-week-of-problems.md" >}}): Rio de Janeiro. On our first day, we opted for the organized city tour offered by our hostel. On first sight, the tour was expensive, but after adding up the costs for all the entrance fees and transportation, it turned out to only be 10$ more and it would save us a lot of hassle. The itinerary included highlights such as Christ the Redeemer, Santa Teresa and Lapa neighborhoods, as well as Sugarloaf Mountain.
+
 <!--more-->
 ## Christ the Redeemer
 We were looking forward to seeing Christ the Redeemer, but when we finally got there after one hour of waiting in line, the statue was covered in clouds. We only had fourty minutes before our tour would continue, luckily it cleared up after 15 minutes, leaving us with amazing views of Rio de Janeiro and the statue.

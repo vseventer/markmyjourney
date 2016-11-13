@@ -10,6 +10,7 @@ photos  = [
 cover = "IMG_5102.JPG"
 +++
 Stockholm is a very walkable city; the old and new part of town are only a bridge apart, while ferries bring you to museums and parks a little further away. As the weather was incredibly nice for the time of year, we decided to spend the day walking from the new part of town to the Old Town, wrapping up the day in Slussen, just south of the Old Town.
+
 <!--more-->
 We started our day at the local Östermalm Food Hall, which is a great starting point to sample some traditional Swedish produce or indulge in fresh seafood at one of the restaurants. We then made our way to Central Station via the picturesque Kungsträdgården park and Gallerian mall. Just outside Central Station there are plenty of shopping opportunities, as well as bars and cafés along Kungsgatan.
 

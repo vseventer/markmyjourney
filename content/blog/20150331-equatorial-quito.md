@@ -13,6 +13,7 @@ cover = "P3266533.JPG"
 +++
 
 After spending a week on the [Galápagos]({{< ref "20150324-wildlife-on-the-galapagos.md" >}}) we flew, via Guayaquil, into Quito. The capital of Ecuador is officially the highest capital in the world, but we still think [La Paz]({{< ref "20150310-la-paz-the-worlds-highest-capital-city.md" >}}) deserves this title more. Apart from visiting [Baños]({{< ref "20150330-swinging-banos.md" >}}), we spent four days in Quito itself.
+
 <!--more-->
 ## Centro Histórico
 We opted for an organized walking tour through the historic center of Quito: the city is huge, and hard to explore on your own. It turned out the (free!) three-hour walking tour brought us to a lot of highlights we would have never found ourselves. We were even allowed in the palace on the Plaza Grande!

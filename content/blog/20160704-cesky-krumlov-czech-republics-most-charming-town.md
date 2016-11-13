@@ -11,6 +11,7 @@ photos  = [
 cover = "IMG_6756.JPG"
 +++
 Český Krumlov is situated close to the border of Czech Republic and Austria. It is a very charming town, with its historic center listed as UNESCO World Heritage Site. We passed through on our way from [Prague]({{< ref "20160701-top-things-to-do-in-czech-republic-visit-prague.md" >}}), and decided to make a quick one-day stop to explore the beauty of Český Krumlov.
+
 <!--more-->
 The town of Český Krumlov was constructed in two phases; first, in 1240, the castle was constructed. The second phase, shortly thereafter, was the forming of the town itself by the people working in the castle. Over time, the castle had various owners, and the architecture of the castle varies between Goth, Renaissance, and Baroque. Most of the towns’ inhabitants were German, although many of them were expelled after the Second World War.
 

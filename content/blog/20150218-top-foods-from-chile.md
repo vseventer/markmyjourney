@@ -15,6 +15,7 @@ cover = "P1314865.JPG"
 +++
 
 The four most popular items found in Chilean cuisine are avocado, mayo, corn, and wine. During our three week stay in the different regions of Chile, we tried a variety of foods based on these ingredients. Chilean food does not utilize spicies as much as its neighbors, rather they like to smother their food with mayo and avocado, something we didn’t mind.
+
 <!--more-->
 Even though we initially found the ingredient list of Pasta del Choclo quite unappealing, the national dish of Chile was surprisingly tasty and one of our favorites during our time in Chile. Another favorite was the Terremoto drink, although we wouldn’t recommend drinking more than one.
 

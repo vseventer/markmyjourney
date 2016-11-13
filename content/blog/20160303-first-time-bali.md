@@ -16,6 +16,7 @@ photos = [
 cover = "IMG_1670.JPG"
 +++
 Bali is the most popular tourist destination among Australians: nearly one million visit the island each year, a lot of them return visitors. For us, it would be our first trip, and as always we wanted to see as much as possible. We decided to also pay Gili Trawangan a visit, so after flying in from [Darwin]({{< ref "20160225-aboriginal-culture-in-darwin.md" >}}), we went straight to the harbor for our transfer to the Gili Islands.
+
 <!--more-->
 ## Gili Trawangan
 Gili Trawangan is the largest of three islands which make up the Gili Islands, which are located just northwest of Lombok. A two-hour boat-ride from Serangan Harbor in Denpasar brings you to the beaches of Gili Trawangan. The island almost exclusively lives of tourism; the main street, parallel to the beach, is lined with hotels, bars, restaurants, and tour agencies. Inland more hotels can be found, together with local housing and mosques. This is all relative though, as the island is no more than two kilometers wide.

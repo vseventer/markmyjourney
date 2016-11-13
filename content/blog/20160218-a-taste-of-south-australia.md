@@ -17,6 +17,7 @@ cover = "IMG_1393.JPG"
 +++
 
 After getting a great deal on flights to Adelaide we decided a one-hour flight sounded way better then an 18-hour car-ride from Melbourne. With limited time, we hit the ground running as soon as we landed, and visited Kangaroo Island, Adelaide, and the Barossa Valley in just two days.
+
 <!--more-->
 ## Kangaroo Island
 After arriving in Adelaide on late Friday night, we drove directly to our Airbnb located in Yankalilla, shortening our drive the following morning to the ferry connecting the mainland to the Kangaroo Island.

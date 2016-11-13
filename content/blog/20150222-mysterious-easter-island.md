@@ -15,6 +15,7 @@ cover = "P2095089.JPG"
 +++
 
 Eastern Islands remoteness and mystic statues lure numerous tourists each year. In December, we managed to get a great deal on round-trip tickets to the island (450$ instead of the regular 700+$ tickets), and also found out we would be visiting the island during the traditional Tapati festival. Apart from visiting the world famous Moai statues, we would now also experience the islands’ culture in the best way possible.
+
 <!--more-->
 ## Preparation
 Visiting Easter Island on a budget requires preparation: food prices are through the roof, mainly because (apart from fish, which will set you back *only* 30$) everything has to be shipped from Santiago. We saw a woman purchasing three juiceboxes, an onion, bottle of water, and sausagespread for 12$! Therefore, we did what all the locals do when coming from the mainland: buy a cooler, and bring all the items yourself. We did a lot of groceries in Punta Arenas, emptied one of our backpacks, and filled it with a full weeks’ worth of groceries.

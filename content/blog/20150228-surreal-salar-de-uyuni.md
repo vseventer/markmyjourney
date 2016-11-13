@@ -23,6 +23,7 @@ cover = "P2275775.JPG"
 +++
 
 From [San Pedro]({{< ref "20150224-the-chilean-desert.md" >}}), the best way to cross into Bolivia is by going on a 3-day tour to Salar de Uyuni and continuing to La Paz onwards.
+
 <!--more-->
 There are many bad stories about the companies which run these tours, which vary from seven people crammed in one jeep to drivers falling asleep or being drunk. In the past, accidents did occur, so it is important to choose the right company.
 

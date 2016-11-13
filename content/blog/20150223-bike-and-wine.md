@@ -15,6 +15,7 @@ cover = "P2175338.JPG"
 +++
 
 The region of Mendoza is known to produce some of the worlds finest wines. The drive from Santiago to Mendoza through the Andes mountains was quite scenic, however not recommended for those who get motion sickness due to the many hairpin turns made during the seven hour journey.
+
 <!--more-->
 The must do activity in this region is of course a wine tasting tour. As most of the tours offered range between 70-200$, we decided to do a budget friendly and fun bike and wine tour. The area of Maipú was not as scenic as Napa Valley and the constant traffic whizzing past us made it a bit less relaxing, however once you went into the wineries it as a different story. The region specialized in Malbec and delivered as we tried several delicious and decently priced wines.
 

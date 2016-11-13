@@ -13,6 +13,7 @@ cover = "IMG_3225.JPG"
 +++
 
 The city that never sleeps resembles Bangkok for us now. Upon exiting the plane, Mark being in a non-Western culture for the first time, we entered a different world. This city has so much going on, and will drag you with.
+
 <!--more-->
 We stayed four days in Bangkok before heading to Chiang Mai in the search of a more quiet place. But, we enjoyed Bangkok for what it had to offer: a thriving streetfood scene, beautiful historic buildings, and armies of motorbikes, tuk tuks, and taxis.
 

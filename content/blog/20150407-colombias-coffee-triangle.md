@@ -14,6 +14,7 @@ cover = "IMG_4242.JPG"
 +++
 
 Colombia is world famous for its coffee, which originates from a triangular-shaped area enclosed by the small cities of Armenia, Manizales, and Pereira. We chose Pereira as our home base in our search for a perfect Colombian coffee.
+
 <!--more-->
 Pereira itself does not have much to offer - the downtown area mainly consists of markets, with a shopping mall here and there. We were warned this area is not that safe, so we opted to stay along Avenida Circunvalar. Here, more upscale malls, restaurants, and hotels can be found. Apart from visiting the malls, we made day trips to Salento, in the heart of the coffee region, and coffee farm Don Manolo located ten minutes outside Pereira.
 

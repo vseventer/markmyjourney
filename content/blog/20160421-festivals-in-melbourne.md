@@ -12,6 +12,7 @@ photos  = [
 cover = "IMG_2174.JPG"
 +++
 Thanks to the thriving arts, food, music, and sport scenes in Melbourne, there are plenty of festivals throughout the year all over the city. In October, we already covered the [Melbourne Marathon]({{< ref "20151021-melbourne-half-marathon-race-report.md" >}}), and this post summarizes a few more we don’t want you to miss.
+
 <!--more-->
 ## Summer Night Market
 * When: January to March,

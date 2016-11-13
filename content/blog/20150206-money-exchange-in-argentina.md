@@ -6,6 +6,7 @@ destinations = [ "south-america", "argentina" ]
 +++
 
 The recent economic crisis in Argentina has bankrupted the country and left it with extreme inflation rates. In an attempt to save their assets, locals are stocking up on the far more reliable and stable U.S. dollar. In Argentina, demand for the U.S. dollar is at an all-time high. The government seems unable to stop the Argentinian peso from becoming weaker and weaker, and as a consequence a black market developed where U.S. dollars are sold for more than what the government dictates they’re worth.
+
 <!--more-->
 ## ATMs vs Black Market
 The official exchange rate currently stands at 1/8.66: one U.S. dollar equals 8.66 Argentinian pesos. The official exchange rate is used by the government, banks, and certain money exchange offices (for example, the ones in the airport). The black market rate is changing rapidly, but currently hovers just above 1/13.

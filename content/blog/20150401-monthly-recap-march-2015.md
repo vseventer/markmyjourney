@@ -30,6 +30,7 @@ route = [
 +++
 
 In March 2015, we visited three new countries: Bolivia, Peru, and Ecuador. We ended last month with a three day tour of [Salar de Uyuni]({{< ref "20150228-surreal-salar-de-uyuni.md" >}}), from where we continued on to [La Paz]({{< ref "20150310-la-paz-the-worlds-highest-capital-city.md" >}}). There, we conquered [the World’s Most Dangerous Road]({{< ref "20150307-biking-the-worlds-most-dangerous-road.md" >}}) and [Amazon rainforest]({{< ref "20150308-the-bolivian-amazon.md" >}}).
+
 <!--more-->
 We left Bolivia for Peru by bus, making a stop at [Copacabana & Lake Titicaca]({{< ref "20150310-copacabana-and-lake-titicaca-en-route-to-peru.md" >}}) on the way. In Peru, we spent six days in Cusco, where we visited [the ruins of Machu Picchu]({{< ref "20150312-the-ruins-of-machu-picchu.md" >}}). Our last stop was a brief visit to [Lima]({{< ref "20150320-old-and-new-lima.md" >}}), before flying out to Ecuador and the [Galápagos Islands]({{< ref "20150324-wildlife-on-the-galapagos.md" >}}).
 

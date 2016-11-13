@@ -12,6 +12,7 @@ photos  = [
 cover = "IMG_2774.JPG"
 +++
 We can only relax so much, so after a few days in [Noosa]({{< ref "20160331-a-retreat-to-noosa.md" >}}) we moved on and drove three hours north, to the small town of Hervey Bay. This town is the gateway to Fraser Island, the world’s largest sand island. We went on a one-day tour exploring the unique sights of this unique island.
+
 <!--more-->
 Before heading to Fraser Island, we opted to explore Hervey Bay itself. Since it was Good Friday (the Friday before Easter), most shops were closed. Luckily, we found a few restaurants that were still open, but the wait was long: it took almost two hours before we got served a plate of mediocre fish and chips.
 

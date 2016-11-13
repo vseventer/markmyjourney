@@ -9,6 +9,7 @@ photos = [
 cover = "IMG_6634.JPG"
 +++
 With things like cream sauce, bread dumplings, beer, and fried cheese, Czech food isn’t exactly on the heart-healthy list, but rather on the cheat-day list. As we only had a limited amount of time and didn’t want to eat out everyday, we choose two main dishes accompanied by a couple snacks along the way.
+
 <!--more-->
 ## Svíčková na smetaně
 A truly Czech dish, which comes in many different variations, however most will agree that it consist of a piece of beef covered in a cream-vegetable sauce made of carrots, celery, and parsley roots accompanied by bread dumplings. We must admit that at first, this didn’t look very appetizing, however once you try it it’s actually quite good and you find yourself soaking the rest of the sauce with the delicious bread dumplings.

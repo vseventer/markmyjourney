@@ -27,6 +27,7 @@ route = [
 +++
 
 In April 2015, we visited five countries: Colombia, United States, Canada, Fiji, and Australia. Two weeks ago we summarized [Colombia]({{< ref "20150414-the-next-chapter.md" >}}), and now it is time for the remainder of the month. After Colombia, we visited the [Pacific Northwest]({{< ref "20150427-cities-of-the-pacific-northwest.md" >}}), before spending an unexpected day in [Fiji]({{< ref "20150501-an-unexpected-stop-in-fiji.md" >}}). We settled down in Melbourne, but not after we briefly visited Sydney.
+
 <!--more-->
 **The Good**
 

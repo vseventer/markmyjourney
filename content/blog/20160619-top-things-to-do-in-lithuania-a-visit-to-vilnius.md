@@ -10,6 +10,7 @@ photos  = [
 cover = "IMG_6394.JPG"
 +++
 Vilnius is a bigger, less dense city then [Tallinn]({{< ref "20160617-24-hours-in-tallinn-and-estonia.md" >}}) and [Riga]({{< ref "20160618-top-things-to-do-in-latvia-a-visit-to-riga.md" >}}). Still, the best way to see the old part of Vilnius is by doing a walking tour. We started ours at the steps of the City Hall, from where we walked to Vokiečių gatvė to learn more about the history of Vilnius.
+
 <!--more-->
 This street, which translates to German street, has some of the oldest buildings in Vilnius. Next, we passed through the old Jewish quarter and towards Užupis. Užupis is a self-proclaimed independent republic, which is quite interesting. The “country” is filled with all sorts of artistic expressions; one of the requirements for entering is simply to smile. Have a look at their constitution, displayed in different languages on individual plaques. After an entertaining stroll, we headed towards our next stop: the St. Anne’s Church.
 

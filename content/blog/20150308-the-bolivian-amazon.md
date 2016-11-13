@@ -16,6 +16,7 @@ cover = "P3035932.JPG"
 +++
 
 The Amazon rainforest covers about 40% of South America, so a trip to the continent is not complete without visiting the Amazon. The majority of the rainforest (60%) lies within Brazil, yet we opted for a two-day visit of the Amazon while in Bolivia because we found it to be more economical and more remote.
+
 <!--more-->
 From La Paz a 30-minute flight brought us to Rurrenabaque, from where a three-hour boat ride took us to our lodge in Madidi National Park, which is part of the Amazon. Beware the often delayed early morning flight uses a tiny propellor aircraft, which makes for a very uncomfortable ride. Nevertheless, it beats taking an 18-hour bus ride through the jungle.
 

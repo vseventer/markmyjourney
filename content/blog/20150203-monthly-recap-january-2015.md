@@ -26,6 +26,7 @@ route = [
 +++
 
 In January 2015, we visited four countries: Brazil, Argentina, Uruguay, and Chile. From [China]({{< ref "20150105-beyond-the-great-wall.md" >}}) we were meant to land in São Paulo, but [ended up in Rio de Janeiro]({{< ref "20150106-the-long-way-south.md" >}}) instead, where we mainly [enjoyed Brazilian food]({{< ref "20150117-top-foods-from-brazil.md" >}}). The highlight of Brazil was without a doubt [Costa Verde]({{< ref "20150117-brazils-costa-verde.md" >}}), although the [tour of Rio de Janeiro]({{< ref "20150126-three-days-in-rio.md" >}}) was very nice too.
+
 <!--more-->
 After [getting our card cloned]({{< ref "20150116-a-week-of-problems.md" >}}) in Rio, we went to the [magnificent Iguazú Falls]({{< ref "20150127-the-complete-picture-of-iguazu-falls.md" >}}), after we headed down for some [tango & wine]({{< ref "20150129-tango-and-wine.md" >}}) in Buenos Aires. From there, we took a [ferry to Uruguay]({{< ref "20150129-the-quaint-town-of-colonia.md" >}}). We ended the month by flying south towards the end of the world: Patagonia. There, we spent time in both Argentina and Chile.
 

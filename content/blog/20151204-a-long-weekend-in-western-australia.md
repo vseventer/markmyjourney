@@ -16,6 +16,7 @@ cover = "IMG_0958.JPG"
 +++
 
 Our flight from Melbourne to Perth, the capital of Western Australia, took roughly four hours, and we landed on an early Saturday morning. Coming from Melbourne, Perth seemed a bit less fast-paced. Typically, on Saturday morning, people in Melbourne are out doing their weekend grocery shopping, but in Perth, it was very quiet in the CBD.
+
 <!--more-->
 ## Perth
 We started by exploring the Hay Street Mall and the Perth Mint in the CBD. From there, we crossed the Horseshoe Bridge towards the Northbridge neighborhood. This is an exciting area in Perth, lined with various bars and restaurants. On our way to Northbridge we came across a couple parks with big screens playing anything from sports to art themed films. We recommend to just grab an ice cream and enjoy the various green spaces. The highlight arguably, however is the view from Kings Park. You can take the free 37 bus all the way up to the top and it’s worth the drive up there. The views are spectacular and the park itself is very well maintained and enjoyable. Perth is also a great base for day trips to the Margaret Valley, Swan Valley, as well as the iconic Pinnacles.
