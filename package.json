@@ -75,7 +75,7 @@
     "leaflet.markercluster": "1.0.x",
     "leaflet-minimap": "3.4.x",
     "moment"         : "2.16.x",
-    "node-sass"      : "3.11.x",
+    "node-sass"      : "3.12.x",
     "rimraf"         : "2.5.x",
     "sharp-cli"      : "0.7.x",
     "@songkick/replaceinfiles": "1.1.x",
