@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.5-dev
+### 1.1.5 (November 15, 2016)
 * Added *Austria Food* post.
 * Updated `babel-preset-es2015`, `bootstrap`, `moment`, `node-sass`, and
   `wait-on` dependencies.

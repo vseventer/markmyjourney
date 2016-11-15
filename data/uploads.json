@@ -10724,6 +10724,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6798.JPG",
+        "date": "2016-06-17T13:36:18",
+        "description": "Wiener Schnitzel.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04,
+          47.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6799.JPG",
+        "date": "2016-06-17T14:01:52",
+        "description": "Kaiserschmarrn.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04,
+          47.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_6815.JPG",
         "date": "2016-06-17T15:43:15",
         "description": "Mozart’s birthplace.",
@@ -10814,6 +10846,70 @@
         "coordinates": [
           13.05,
           47.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6850.JPG",
+        "date": "2016-06-18T12:27:00",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.04,
+          47.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6855.JPG",
+        "date": "2016-06-18T14:49:53",
+        "description": "Manner Schnitten.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.05,
+          47.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6859.JPG",
+        "date": "2016-06-18T23:25:47",
+        "description": "Stiegl.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34,
+          48.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6861.JPG",
+        "date": "2016-06-18T23:46:07",
+        "description": "Ottakringer.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34,
+          48.22
         ]
       }
     },
@@ -10932,6 +11028,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6901.JPG",
+        "date": "2016-06-19T14:24:41",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37,
+          48.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6903.JPG",
+        "date": "2016-06-19T14:24:48",
+        "description": "Sacher Torte.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37,
+          48.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_6906.JPG",
         "date": "2016-06-19T14:44:11",
         "description": "Busy city center.",
@@ -11022,6 +11150,22 @@
         "coordinates": [
           16.31,
           48.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6937.JPG",
+        "date": "2016-06-19T18:05:37",
+        "description": "Käsespätzle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34,
+          48.22
         ]
       }
     },
