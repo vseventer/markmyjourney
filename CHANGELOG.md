@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.6 (December 21, 2016)
+* Added *Bratislava* post.
+* Added `canvas` dependency (required by `uncss`).
+* Updated `gh-pages`, `html-minifier`, `moment`, `node-sass`, `uncss`, and
+  `webpack` dependencies.
+
 ### 1.1.5 (November 15, 2016)
 * Added *Austria Food* post.
 * Updated `babel-preset-es2015`, `bootstrap`, `moment`, `node-sass`, and

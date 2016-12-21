@@ -11188,6 +11188,198 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_6976.JPG",
+        "date": "2016-06-21T11:52:15",
+        "description": "Outside Devín Castle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.98,
+          48.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6984.JPG",
+        "date": "2016-06-21T12:13:06",
+        "description": "Devín Castle (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.98,
+          48.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6991.JPG",
+        "date": "2016-06-21T12:24:23",
+        "description": "Devín Castle (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.98,
+          48.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6995.JPG",
+        "date": "2016-06-21T15:43:04",
+        "description": "Man at Work sculpture.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.11,
+          48.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6997.JPG",
+        "date": "2016-06-21T16:26:38",
+        "description": "Hviezdoslavovo Square (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.11,
+          48.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6998.JPG",
+        "date": "2016-06-21T16:27:55",
+        "description": "Hviezdoslavovo Square (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.11,
+          48.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_6999.JPG",
+        "date": "2016-06-21T16:32:55",
+        "description": "Nový most (new bridge), or simply UFO Bridge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1,
+          48.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7001.JPG",
+        "date": "2016-06-21T16:36:48",
+        "description": "St. Martin’s Cathedral.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1,
+          48.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7013.JPG",
+        "date": "2016-06-21T17:12:32",
+        "description": "Old Town.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.11,
+          48.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7016.JPG",
+        "date": "2016-06-21T17:16:05",
+        "description": "Baštová street, a narrow street in the Old Town.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.11,
+          48.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7017.JPG",
+        "date": "2016-06-21T17:16:55",
+        "description": "Michael’s Gate, the only remaining city gate.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.11,
+          48.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7021.JPG",
+        "date": "2016-06-21T18:04:50",
+        "description": "Church of St. Elisabeth.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.12,
+          48.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",
