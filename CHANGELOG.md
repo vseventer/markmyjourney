@@ -1,5 +1,7 @@
 # Changelog
 
+### 1.1.7-dev
+
 ### 1.1.6 (December 21, 2016)
 * Added *Bratislava* post.
 * Added `canvas` dependency (required by `uncss`).
