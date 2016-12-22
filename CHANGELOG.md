@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.1.7-dev
+* Added *Slovakia Food* post.
 
 ### 1.1.6 (December 21, 2016)
 * Added *Bratislava* post.
