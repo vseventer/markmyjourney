@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.1.8-dev
+* Added destinations page.
 * Explicitly added `babel-core` dependency.
 
 ### 1.1.7 (December 22, 2016)

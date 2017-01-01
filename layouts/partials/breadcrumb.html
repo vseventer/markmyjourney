@@ -7,7 +7,9 @@
     </li>
 
     {{ if isset .Data "Plural" }}
-      <li class="breadcrumb-item">{{ humanize .Data.Plural }}</li>
+      <li class="breadcrumb-item">
+        <a href="{{ printf "%s/" .Data.Plural | absURL }}">{{ humanize .Data.Plural }}</a>
+      </li>
     {{ end }}
 
     {{ if eq 1 .Paginator.PageNumber }}

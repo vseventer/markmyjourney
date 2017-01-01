@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+  {{ $Site := .Site }}
+
+  <div class="container">
+    <div class="card-deck">
+
+      {{ range .Site.Data.continents.features }}
+        {{ if isset $.Site.Taxonomies.destinations .properties.slug }}
+          {{ $taxonomyURL := printf "%s" (absURL (printf "destinations/%s/" .properties.slug)) }}
+          <div class="card">
+            <h4 class="card-header">
+              <a href="{{ $taxonomyURL }}">{{ .properties.name }}</a>
+            </h4>
+            <ul class="list-group list-group-flush">
+              {{ range (where $.Site.Data.countries.features ".properties.continent.code" .properties.code) }}
+                {{ if isset $.Site.Taxonomies.destinations .properties.slug }}
+                  {{ $taxonomyURL := printf "%s" (absURL (printf "destinations/%s/" .properties.slug)) }}
+                  <li class="list-group-item">
+                    <a href="{{ $taxonomyURL }}">
+                      {{ .properties.name }}
+                      <span class="mmjy-icon icon-flags icon-flags-{{ lower .properties.code }}"></span>
+                    </a>
+                  </li>
+                {{ end }}
+              {{ end }}
+            </ul>
+          </div><!-- /card -->
+        {{ end }}
+      {{ end }}
+
+    </div><!-- /card-deck -->
+  </div><!-- /container -->
+{{ end }}

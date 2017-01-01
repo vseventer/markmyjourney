@@ -14,7 +14,7 @@
       {{ end }}
 
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle{{ if in $.Permalink "destinations/" }} active{{ end }}" data-toggle="dropdown" href="#" role="button">Destinations</a>
+        <a class="nav-link dropdown-toggle{{ if in $.Permalink "destinations/" }} active{{ end }}" data-toggle="dropdown" href="{{ absURL "destinations/" }}" role="button">Destinations</a>
         <div class="dropdown-menu">
           {{ range .Site.Data.continents.features }}
             {{ if isset $.Site.Taxonomies.destinations .properties.slug }}
