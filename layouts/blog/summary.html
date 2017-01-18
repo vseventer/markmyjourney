@@ -9,7 +9,7 @@
     {{ $countries := where .Site.Data.countries.features "properties.slug" "in" .Params.destinations }}
     {{ range $countries }}
       <li class="list-inline-item">
-        <a class="tag tag-default" href="{{ printf "destinations/%s/" .properties.slug | absURL }}">{{ .properties.name }}</a>
+        <a class="badge badge-default" href="{{ printf "destinations/%s/" .properties.slug | absURL }}">{{ .properties.name }}</a>
       </li>
     {{ end }}
   </ul>

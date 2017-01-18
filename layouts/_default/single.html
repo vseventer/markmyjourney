@@ -16,7 +16,7 @@
         <ul class="list-inline">
           {{ range $countries }}
             <li class="list-inline-item">
-              <a class="tag tag-default" href="{{ printf "destinations/%s/" .properties.slug | absURL }}">{{ .properties.name }}</a>
+              <a class="badge badge-default" href="{{ printf "destinations/%s/" .properties.slug | absURL }}">{{ .properties.name }}</a>
             </li>
           {{ end }}
         </ul>
@@ -35,7 +35,7 @@
   {{ if isset .Params "cover" }}
     {{ $cover := printf "uploads/%s" .Params.cover }}
     {{ $style := printf "background-image: url('%s')" (absURL $cover) }}
-    <div class="mb-1 mmjy-cover" style="{{ safeCSS $style }}"></div>
+    <div class="mb-3 mmjy-cover" style="{{ safeCSS $style }}"></div>
   {{ end }}
 {{ end }}
 
@@ -48,7 +48,7 @@
         {{ end }}
 
         {{ if or (isset .Params "photos") (isset .Params "places") (isset .Params "route") }}
-          <div class="mb-1 mmjy-border mmjy-inset">
+          <div class="mb-3 mmjy-border mmjy-inset">
             <div class="mmjy-map" data-source="places"></div>
           </div><!-- /mmjy-inset -->
         {{ end }}

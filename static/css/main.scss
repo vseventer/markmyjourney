@@ -1,7 +1,6 @@
 // Bootstrap options.
-$enable-flex            : true;
-$enable-rounded         : true;
-$enable-transitions     : false;
+$enable-rounded     : true;
+$enable-transitions : false;
 
 // Bootstrap variables.
 $font-family-sans-serif : Georgia, "Times New Roman", Times, serif;;
@@ -19,6 +18,9 @@ $tag-font-weight        : "normal";
 // Bootstrap overrides.
 .bg-inverse {/* https://github.com/twbs/bootstrap/issues/20128 */
   color: $gray-lighter;
+}
+.carousel-item.active, .carousel-item-prev, .carousel-item-next, .carousel-item-left, .carousel-item-right {
+  display: block;
 }
 
 // @see https://github.com/twbs/bootstrap/issues/20395

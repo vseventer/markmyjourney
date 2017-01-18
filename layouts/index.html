@@ -1,5 +1,5 @@
 {{ define "header" }}
-  <div class="jumbotron jumbotron-fluid mb-1 mmjy-border-bottom mmjy-map" data-source="cover">
+  <div class="jumbotron jumbotron-fluid mb-3 mmjy-border-bottom mmjy-map" data-source="cover">
   </div><!-- /jumbotron -->
 {{ end }}
 
@@ -9,12 +9,10 @@
 
   {{ partial "list.html" . }}
 
-  <nav class="text-xs-center">
-    <p class="pagination">
-      <span class="page-item">
-        <a class="page-link" href="{{ absURL "blog/" }}">More →</a>
-      </span>
-    </p>
+  <nav class="justify-content-center mb-3 pagination">
+    <span class="page-item">
+      <a class="page-link" href="{{ absURL "blog/" }}">More →</a>
+    </span>
   </nav>
 {{ end }}
 
