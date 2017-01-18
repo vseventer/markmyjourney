@@ -11444,6 +11444,166 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_7038.JPG",
+        "date": "2016-06-22T15:14:03",
+        "description": "St. Stephen’s Basilica (back).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05,
+          47.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7041.JPG",
+        "date": "2016-06-22T16:00:04",
+        "description": "Danube River and Buda Castle on the other side.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05,
+          47.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7050.JPG",
+        "date": "2016-06-22T16:26:57",
+        "description": "St. Stephen’s Basilica (front).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.05,
+          47.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7068.JPG",
+        "date": "2016-06-22T17:03:41",
+        "description": "Buda Castle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.04,
+          47.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7075.JPG",
+        "date": "2016-06-22T17:28:52",
+        "description": "View from the Buda Castle over Budapest.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.04,
+          47.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7085.JPG",
+        "date": "2016-06-22T17:38:48",
+        "description": "Matthias Fountain statue in front of the castle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.04,
+          47.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7087.JPG",
+        "date": "2016-06-22T17:53:13",
+        "description": "Matthias Church.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.03,
+          47.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7099.JPG",
+        "date": "2016-06-23T12:22:21",
+        "description": "Central Market Hall.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06,
+          47.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7113.JPG",
+        "date": "2016-06-23T17:12:28",
+        "description": "Szechenyi Bath (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.08,
+          47.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7116.JPG",
+        "date": "2016-06-23T17:16:02",
+        "description": "Szechenyi Bath (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.08,
+          47.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",

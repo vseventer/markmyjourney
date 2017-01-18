@@ -1,8 +1,10 @@
 # Changelog
 
-### 1.1.8-dev
+### 1.1.8 (January 18, 2017)
+* Added *Hungary* post.
 * Added destinations page.
 * Explicitly added `babel-core` dependency.
+* Updated `bootstrap` and `node-sass` dependencies.
 
 ### 1.1.7 (December 22, 2016)
 * Added *Slovakia Food* post.
