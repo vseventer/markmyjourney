@@ -2,7 +2,6 @@
 date    = "2015-05-26"
 title   = "Our Gear & Packing List"
 slug    = "our-gear-and-packing-list"
-weight  = 50
 aliases = [ "/blog/our-gear-and-packing-list.html" ]
 destinations = [ ]
 photos  = [

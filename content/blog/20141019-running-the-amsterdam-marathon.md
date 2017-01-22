@@ -1,7 +1,6 @@
 +++
 date    = "2014-10-19"
 title   = "Running the Amsterdam Marathon"
-weight  = 25
 aliases = [ "/blog/running-the-amsterdam-marathon.html" ]
 destinations = [ "europe", "netherlands" ]
 places  = [ "2759794-amsterdam-nl" ]

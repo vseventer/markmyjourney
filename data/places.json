@@ -679,6 +679,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2661552,
+        "slug": "2661552-bern-ch",
+        "name": "Bern",
+        "region": "Bern",
+        "country": {
+          "code": "CH",
+          "slug": "switzerland",
+          "name": "Switzerland"
+        },
+        "population": "122,000",
+        "timezone": {
+          "name": "Europe/Zurich",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.45,
+          46.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2175227,
         "slug": "2175227-blue-mountains-national-park-au",
         "name": "Blue Mountains National Park",
@@ -808,6 +835,33 @@
         "coordinates": [
           153.03,
           -27.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3054643,
+        "slug": "3054643-budapest-hu",
+        "name": "Budapest",
+        "region": "Budapest",
+        "country": {
+          "code": "HU",
+          "slug": "hungary",
+          "name": "Hungary"
+        },
+        "population": "1.7m",
+        "timezone": {
+          "name": "Europe/Budapest",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.04,
+          47.5
         ]
       }
     },
@@ -5826,6 +5880,60 @@
         "coordinates": [
           130.99,
           -25.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2657928,
+        "slug": "2657928-zermatt-ch",
+        "name": "Zermatt",
+        "region": "Valais",
+        "country": {
+          "code": "CH",
+          "slug": "switzerland",
+          "name": "Switzerland"
+        },
+        "population": "7,000",
+        "timezone": {
+          "name": "Europe/Zurich",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75,
+          46.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2657896,
+        "slug": "2657896-zurich-ch",
+        "name": "Zürich",
+        "region": "Zurich",
+        "country": {
+          "code": "CH",
+          "slug": "switzerland",
+          "name": "Switzerland"
+        },
+        "population": "342,000",
+        "timezone": {
+          "name": "Europe/Zurich",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55,
+          47.37
         ]
       }
     },

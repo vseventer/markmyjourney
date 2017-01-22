@@ -1,7 +1,6 @@
 +++
 date    = "2015-04-14"
 title   = "The Next Chapter"
-weight  = 10
 aliases = [ "/blog/the-next-chapter.html" ]
 destinations = [ "north-america", "united-states", "south-america", "colombia" ]
 places  = [ "3688689-bogota-co", "5809844-seattle-washington-us" ]

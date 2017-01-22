@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.9-dev
+* Added *Switzerland* draft.
+
 ### 1.1.8 (January 18, 2017)
 * Added *Hungary* post.
 * Added destinations page.

@@ -4260,6 +4260,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2499.JPG",
+        "date": "2017-01-14T10:11:28",
+        "description": "Square along the Bahnhofstrasse (the main street).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75,
+          46.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2502.JPG",
         "date": "2016-03-19T13:38:29",
         "description": "Kata Tjuta, or Mount Olga; a group of large domed rock formations.",
@@ -4286,6 +4302,22 @@
         "coordinates": [
           130.79,
           -25.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2519.JPG",
+        "date": "2017-01-14T12:50:49",
+        "description": "At the Sunnegga.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.77,
+          46.02
         ]
       }
     },
@@ -4356,6 +4388,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2581.JPG",
+        "date": "2017-01-14T15:40:40",
+        "description": "After our ski lesson.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.77,
+          46.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2588.JPG",
+        "date": "2017-01-14T16:30:26",
+        "description": "On our way to the funicular to Sunnegga.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75,
+          46.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2602.JPG",
         "date": "2016-03-20T07:46:00",
         "description": "Uluru from close-by (1).",
@@ -4366,6 +4430,22 @@
         "coordinates": [
           131.02,
           -25.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2604.JPG",
+        "date": "2017-01-14T17:23:08",
+        "description": "Sunset over Zermatt.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74,
+          46.02
         ]
       }
     },
@@ -4436,6 +4516,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2652.JPG",
+        "date": "2017-01-14T20:36:12",
+        "description": "Bahnhofstrasse by night.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75,
+          46.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2653.JPG",
         "date": "2016-03-24T08:06:34",
         "description": "Hastings Street.",
@@ -4446,6 +4542,54 @@
         "coordinates": [
           153.09,
           -26.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2654.JPG",
+        "date": "2017-01-15T08:01:30",
+        "description": "Matterhorn mountain.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74,
+          46.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2675.JPG",
+        "date": "2017-01-15T09:39:25",
+        "description": "Vineyards of Valais, near Visp.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.88,
+          46.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2690.JPG",
+        "date": "2017-01-15T12:28:42",
+        "description": "Parliament.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.44,
+          46.95
         ]
       }
     },
@@ -4484,6 +4628,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2705.JPG",
+        "date": "2017-01-15T12:58:28",
+        "description": "Bear pit of Bern.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.46,
+          46.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2711-2.JPG",
+        "date": "2017-01-15T13:00:41",
+        "description": "View over Bern and the Aare River.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.46,
+          46.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2711.JPG",
         "date": "2016-03-24T09:27:12",
         "description": "On a deserted Alexandria Bay, which apparently also is a nudist beach.",
@@ -4510,6 +4686,38 @@
         "coordinates": [
           153.11,
           -26.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2727.JPG",
+        "date": "2017-01-15T16:09:12",
+        "description": "Limmat river.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2731-2.JPG",
+        "date": "2017-01-15T16:13:53",
+        "description": "Colorful houses along the Limmat river.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.37
         ]
       }
     },
@@ -4548,6 +4756,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2740.JPG",
+        "date": "2017-01-15T16:29:00",
+        "description": "Zürichsee.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2745.JPG",
         "date": "2016-03-25T10:07:52",
         "description": "Beach at Lake McKenzie.",
@@ -4558,6 +4782,22 @@
         "coordinates": [
           153.05,
           -25.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2746.JPG",
+        "date": "2017-01-15T17:06:24",
+        "description": "Zürich Hauptbahnhof.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
         ]
       }
     },

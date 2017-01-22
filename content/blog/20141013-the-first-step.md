@@ -1,7 +1,6 @@
 +++
 date    = "2014-10-13"
 title   = "The First Step"
-weight  = 10
 aliases = [ "/blog/the-first-step.html" ]
 destinations = [ "north-america", "united-states", "europe", "netherlands" ]
 places  = [ "4930956-boston-massachusetts-us", "2759794-amsterdam-nl" ]

@@ -1,7 +1,6 @@
 +++
 date    = "2015-10-21"
 title   = "Melbourne Half Marathon Race Report"
-weight  = 25
 aliases = [ "/blog/melbourne-half-marathon-race-report.html" ]
 destinations = [ "oceania", "australia" ]
 places  = [ "2158177-melbourne-au" ]
