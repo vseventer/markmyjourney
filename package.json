@@ -49,7 +49,7 @@
     "stage"       : "NODE_ENV=staging npm run build -- -b $npm_package_config_staging",
     "prestart"    : "ls uploads/*?.* 1> /dev/null 2>&1 && npm run uploads",
     "start"       : "NODE_ENV=development npm run watch",
-    "watch"       : "concurrently 'npm run hugo -- -v' 'npm run sass -- -w'"
+    "watch"       : "concurrently 'npm run hugo -- -Dv' 'npm run sass -- -w'"
   },
   "dependencies"    : { },
   "devDependencies" : {
