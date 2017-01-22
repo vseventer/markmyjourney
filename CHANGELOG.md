@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.9-dev
+### 1.1.9 (January 22, 2017)
 * Added *Hungary Food* post.
 * Added *Slovenia Food* draft.
 * Added *Switzerland* draft.
