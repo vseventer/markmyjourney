@@ -16,7 +16,7 @@ A trip to a ski resort in the Alps should definitely be on your bucket list if y
 <!--more-->
 January means snow and cold in Switzerland: temperatures barely reach above zero, and the landscape is covered in thick snow. We took the easy route, and opted to take the train instead of driving ourselves. A good decision, as the train turned out to be very punctual, more comfortable, and on top we had the luxury to make convenient stops in the city centers of Bern and Zürich.
 
-# Zermatt
+## Zermatt
 Four hours after landing in Zürich, we finally arrived in Zermatt. On the way, we weren’t really able to enjoy any views, as it was mostly pitch-dark outside. We checked in to our hotel, and went out to find some dinner, and explore Zermatt by night.
 
 {{< photo "IMG_2499.JPG" >}}
@@ -39,7 +39,7 @@ Up until then, we didn’t get to see the Matterhorn yet; it had been cloudy and
 
 {{< photo "IMG_2654.JPG" >}}
 
-# Bern
+## Bern
 We took the same way back; the train from Zermatt to Zürich. This time, it was during daytime, so we got to enjoy the scenic surroundings, including the vineyards of Valais. Midway through, we stopped in Bern for a quick lunchtime visit of the capital.
 
 {{< photo "IMG_2675.JPG" >}}
@@ -53,7 +53,7 @@ From there, we walked back to the train station to continue our journey. We pass
 
 {{< photo "IMG_2690.JPG" >}}
 
-# Zürich
+## Zürich
 We arrived in Zürich a few hours before flying back to London. We went out, embraced the cold yet again, and had a wonderful stroll through the center of the city. The old center is split in two by the Limmat river, which flows into the Zürichsee on the south.
 
 {{< photo "IMG_2727.JPG" >}}
