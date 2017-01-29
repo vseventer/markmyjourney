@@ -20,7 +20,7 @@
     "imagemin": "imagemin -p mozjpeg --quality 75",
     "leaflet" : "cp node_modules/leaflet/dist/images/*.png static/img/",
     "sass"    : "node-sass -o static/css/ static/css/main.scss",
-    "sharp"   : "sharp uploads/* --optimiseScans --overshootDeringing --quality=100 --rotate --trellisQuantisation -v --withoutMetadata",
+    "sharp"   : "sharp -i uploads/* --optimise -q100 rotate",
     "sprity"  : "sprity create static/img/ 'sprites/**/*.png' -c ../img/ -d 1:72 -d 2:192 -s ../css/sprite.css --margin 0 --name icon --split --orientation binary-tree --prefix icon",
     "preuncss": "wait-on -t 60000 $npm_package_config_staging",
     "uncss"   : "uncss -t 250 -u .uncssrc $(npm run glob -s) | cleancss -O2 all:on -o public/css/main.css",
@@ -38,8 +38,8 @@
 
     "preuploads"     : "./bin/exif.js $(find uploads/ -iname '*?.*')",
     "uploads"        : "concurrently 'npm run uploads:full' 'npm run uploads:thumbs'",
-    "uploads:full"   : "npm run imagemin $(npm run sharp -s -- -w 1280 -h 1280 --max -o static/uploads/) -- -o static/uploads/ --progressive",
-    "uploads:thumbs" : "npm run imagemin $(npm run sharp -s -- -w 133  -h  100 -o static/uploads/thumbs/) -- -o static/uploads/thumbs/",
+    "uploads:full"   : "npm run imagemin $(npm run sharp -s -- -o static/uploads/ -- resize 1280 1280 --max) -- -o static/uploads/ --progressive",
+    "uploads:thumbs" : "npm run imagemin $(npm run sharp -s -- -o static/uploads/thumbs -- resize 133 100) -- -o static/uploads/thumbs/",
 
     "clean"       : "rimraf $npm_package_config_destination static/css/main.css",
     "deploy"      : "NODE_ENV=production npm run build",
@@ -79,7 +79,7 @@
     "moment"         : "2.17.x",
     "node-sass"      : "4.4.x",
     "rimraf"         : "2.5.x",
-    "sharp-cli"      : "0.7.x",
+    "sharp-cli"      : "1.0.x",
     "@songkick/replaceinfiles": "1.1.x",
     "sprity-cli"     : "1.0.x",
     "uglifyjs"       : "2.4.x",
