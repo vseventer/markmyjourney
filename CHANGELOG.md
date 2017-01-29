@@ -1,5 +1,10 @@
 # Changelog
 
+### 1.1.10-dev
+* Replaced `clean-css` dependency by `clean-css-cli`.
+* Updated `babel-core`, `babel-preset-es2015`, `html-minifier`, `node-sass`
+  dependencies.
+
 ### 1.1.9 (January 22, 2017)
 * Added *Hungary Food* post.
 * Added *Slovenia Food* draft.
