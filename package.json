@@ -1,6 +1,6 @@
 {
   "name"        : "MarkMyJourney",
-  "version"     : "1.1.10-dev",
+  "version"     : "1.1.10",
   "description" : "My travel blog, MarkMyJourney.com.",
   "keywords"    : [ "blog", "travel" ],
   "homepage"    : "https://www.markmyjourney.com",
@@ -23,7 +23,7 @@
     "sharp"   : "sharp -i uploads/* --optimise -q100 rotate",
     "sprity"  : "sprity create static/img/ 'sprites/**/*.png' -c ../img/ -d 1:72 -d 2:192 -s ../css/sprite.css --margin 0 --name icon --split --orientation binary-tree --prefix icon",
     "preuncss": "wait-on -t 60000 $npm_package_config_staging",
-    "uncss"   : "uncss -t 250 -u .uncssrc $(npm run glob -s) | cleancss -O2 all:on -o public/css/main.css",
+    "uncss"   : "uncss -t 250 -u .uncssrc $(npm run glob -s) | cleancss -O1 all:on -o public/css/main.css",
     "postuncss"  : "rimraf public/css/main.scss public/css/sprite.css",
     "prewebpack" : "rimraf node_modules/leaflet-minimap/node_modules/leaflet/",
     "webpack" : "webpack static/js/components.js --display-modules",

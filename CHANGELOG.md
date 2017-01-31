@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.10-dev
+### 1.1.10 (January 31, 2017)
 * Added *The Natural Beauty of Slovenia* post.
 * Replaced `clean-css` dependency by `clean-css-cli`.
 * Updated `babel-core`, `babel-preset-es2015`, `html-minifier`, `node-sass`, and
