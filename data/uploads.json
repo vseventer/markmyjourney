@@ -12036,6 +12036,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_7204.JPG",
+        "date": "2016-06-26T08:39:32",
+        "description": "Lake Bled.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.11,
+          46.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7206.JPG",
+        "date": "2016-06-26T08:39:39",
+        "description": "Bled Castle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.11,
+          46.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_7211.JPG",
         "date": "2016-06-26T08:43:46",
         "description": null,
@@ -12046,6 +12078,166 @@
         "coordinates": [
           14.11,
           46.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7236.JPG",
+        "date": "2016-06-26T11:39:58",
+        "description": "Tolmin Gorges.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74,
+          46.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7242.JPG",
+        "date": "2016-06-26T11:51:21",
+        "description": "Zadlaščica River",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74,
+          46.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7253.JPG",
+        "date": "2016-06-26T12:27:37",
+        "description": "Napoleon’s Bridge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.59,
+          46.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7272.JPG",
+        "date": "2016-06-26T12:56:53",
+        "description": "Slap Kozjak.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.59,
+          46.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7274.JPG",
+        "date": "2016-06-26T13:14:58",
+        "description": "Kozjak River.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.59,
+          46.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7282.JPG",
+        "date": "2016-06-26T14:49:49",
+        "description": "Izvir Soče.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.73,
+          46.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7324.JPG",
+        "date": "2016-06-26T15:31:01",
+        "description": "Vršič Mountain Pass.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74,
+          46.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7327.JPG",
+        "date": "2016-06-26T15:32:42",
+        "description": "View over Triglav National Park.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74,
+          46.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7344.JPG",
+        "date": "2016-06-26T15:50:23",
+        "description": "Russian Chapel.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77,
+          46.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7346.JPG",
+        "date": "2016-06-26T16:02:57",
+        "description": "Lake Jasna.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.78,
+          46.48
         ]
       }
     },
