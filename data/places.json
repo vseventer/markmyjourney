@@ -2183,7 +2183,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.83,
+          152.77,
           -25.29
         ]
       }
@@ -3290,8 +3290,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.07,
-          -33.95
+          115.08,
+          -33.96
         ]
       }
     },
@@ -3301,7 +3301,7 @@
         "id": 6300721,
         "slug": "6300721-mariscal-sucre-international-airport-ec",
         "name": "Mariscal Sucre International Airport",
-        "region": null,
+        "region": "Pichincha",
         "country": {
           "code": "EC",
           "slug": "ecuador",
