@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.11-dev
+### 1.1.11 (February 2, 2017)
 * Added *Ljubljana: the Cutest Capital City* post.
 * Updated `node-sass` dependency.
 
