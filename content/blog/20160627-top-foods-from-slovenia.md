@@ -9,7 +9,7 @@ photos = [
 ]
 cover = "IMG_7103.JPG"
 +++
-After a sweaty 8-hour train ride from Budapest, we were not in the best mood to look for restaurants. Lucky for us, we got a tip that a food festival was taking place at the Central Market Square every Friday afternoon. Strolling through quaint and green Ljubljana, we felt a bit more energized so we went to look for our quick no frills gourmet dinner, and were quite happy what we found.
+After a sweaty 8-hour train ride from Budapest, we were not in the best mood to look for restaurants. Lucky for us, we got a tip that a food festival was taking place at the Central Market Square every Friday afternoon. Strolling through quaint and green [Ljubljana]({{< ref "20170202-ljubljana-the-cutest-capital-city.md" >}}), we felt a bit more energized so we went to look for our quick no frills gourmet dinner, and were quite happy what we found.
 
 <!--more-->
 ## Kranjska
@@ -34,6 +34,6 @@ You may notice these giant milk-dispensing vending machines in a few places acro
 {{< photo "IMG_7154.JPG" >}}
 
 ## Bled cake
-This was one of our favorite cakes in the region, as it was both light and delicious. This cake has a thin layer of butter dough, topped with a thick layer of custard, which is then topped with another thick layer of fresh whipped cream, finished off with another layer of dough sprinkled with powdered sugar. It’s a must try if you are visiting Lake Bled.
+This was one of our favorite cakes in the region, as it was both light and delicious. This cake has a thin layer of butter dough, topped with a thick layer of custard, which is then topped with another thick layer of fresh whipped cream, finished off with another layer of dough sprinkled with powdered sugar. It’s a must try if you are visiting [Lake Bled]({{< ref "20170131-the-natural-beauty-of-slovenia.md#lake-bled" >}}).
 
 {{< photo "IMG_7211.JPG" >}}

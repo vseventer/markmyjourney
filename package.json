@@ -1,6 +1,6 @@
 {
   "name"        : "MarkMyJourney",
-  "version"     : "1.1.10",
+  "version"     : "1.1.11-dev",
   "description" : "My travel blog, MarkMyJourney.com.",
   "keywords"    : [ "blog", "travel" ],
   "homepage"    : "https://www.markmyjourney.com",
@@ -77,7 +77,7 @@
     "leaflet.markercluster": "1.0.x",
     "leaflet-minimap": "3.4.x",
     "moment"         : "2.17.x",
-    "node-sass"      : "4.4.x",
+    "node-sass"      : "4.5.x",
     "rimraf"         : "2.5.x",
     "sharp-cli"      : "1.0.x",
     "@songkick/replaceinfiles": "1.1.x",

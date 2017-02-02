@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.11-dev
+* Added *Ljubljana: the Cutest Capital City* post.
+* Updated `node-sass` dependency.
+
 ### 1.1.10 (January 31, 2017)
 * Added *The Natural Beauty of Slovenia* post.
 * Replaced `clean-css` dependency by `clean-css-cli`.

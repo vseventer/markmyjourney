@@ -11940,9 +11940,41 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_7130.JPG",
+        "date": "2016-06-24T19:32:40",
+        "description": "Central Market.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_7133.JPG",
         "date": "2016-06-24T19:50:13",
         "description": "Laško beer.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7140.JPG",
+        "date": "2016-06-24T20:14:55",
+        "description": "Ljubljanica River (2).",
         "orientation": "landscape"
       },
       "geometry": {
@@ -11972,6 +12004,70 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_7146.JPG",
+        "date": "2016-06-25T12:21:39",
+        "description": "Franciscan Church of the Annunciation.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7148.JPG",
+        "date": "2016-06-25T12:22:33",
+        "description": "Triple Bridge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7150.JPG",
+        "date": "2016-06-25T12:32:49",
+        "description": "Ljubljanica River (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7153.JPG",
+        "date": "2016-06-25T12:47:04",
+        "description": "Dragon Bridge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_7154.JPG",
         "date": "2016-06-25T12:56:25",
         "description": null,
@@ -11991,6 +12087,70 @@
         "src": "IMG_7158.JPG",
         "date": "2016-06-25T13:16:09",
         "description": "Kranjska.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7161.JPG",
+        "date": "2016-06-25T13:31:59",
+        "description": "Town Hall and Robba Fountain.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7167.JPG",
+        "date": "2016-06-25T13:37:51",
+        "description": "Ljubljanica River (3).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7177.JPG",
+        "date": "2016-06-25T14:02:38",
+        "description": "Križanke Outdoor Theatre.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5,
+          46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7185.JPG",
+        "date": "2016-06-25T15:20:32",
+        "description": "Narrow streets of the Old Town.",
         "orientation": "landscape"
       },
       "geometry": {

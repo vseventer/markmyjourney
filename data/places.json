@@ -706,6 +706,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3203925,
+        "slug": "3203925-bled-si",
+        "name": "Bled",
+        "region": "Bled",
+        "country": {
+          "code": "SI",
+          "slug": "slovenia",
+          "name": "Slovenia"
+        },
+        "population": "5,000",
+        "timezone": {
+          "name": "Europe/Ljubljana",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.11,
+          46.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2175227,
         "slug": "2175227-blue-mountains-national-park-au",
         "name": "Blue Mountains National Park",
@@ -2995,6 +3022,33 @@
         "coordinates": [
           130.88,
           -13.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3196359,
+        "slug": "3196359-ljubljana-si",
+        "name": "Ljubljana",
+        "region": "Ljubljana",
+        "country": {
+          "code": "SI",
+          "slug": "slovenia",
+          "name": "Slovenia"
+        },
+        "population": "272,000",
+        "timezone": {
+          "name": "Europe/Ljubljana",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          46.05
         ]
       }
     },
@@ -5394,6 +5448,33 @@
         "coordinates": [
           144.33,
           -38.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3188834,
+        "slug": "3188834-triglav-national-park-si",
+        "name": "Triglav Nacionalni Park",
+        "region": "Bohinj",
+        "country": {
+          "code": "SI",
+          "slug": "slovenia",
+          "name": "Slovenia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Ljubljana",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77,
+          46.33
         ]
       }
     },
