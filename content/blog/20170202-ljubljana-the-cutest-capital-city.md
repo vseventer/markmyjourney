@@ -20,7 +20,7 @@ From to the Prešeren Square we walked across the river towards the Old Town. Th
 
 {{< photo "IMG_7148.JPG" >}}
 
-Instead of directly heading into the city center, we turned away from the center towards the Central Market. Every Friday during Summer, the Central Market turns into a Food Market, where one can buy delicious local dishes.
+Instead of directly heading into the city center, we turned away from the center towards the Central Market. Every Friday during Summer, the Central Market turns into a Food Market, where one can buy delicious [local dishes]({{< ref "20170205-top-foods-from-slovenia.md" >}}).
 
 {{< photo "IMG_7130.JPG" >}}
 

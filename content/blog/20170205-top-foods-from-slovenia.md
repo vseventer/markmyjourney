@@ -1,6 +1,5 @@
 +++
-draft  = true
-date   = "2016-06-27"
+date   = "2017-02-05"
 title  = "Top Foods from Slovenia"
 destinations = [ "europe", "slovenia" ]
 photos = [

@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.12 (February 5, 2017)
+* Published `Top Foods from Slovenia` post.
+
 ### 1.1.11 (February 2, 2017)
 * Added *Ljubljana: the Cutest Capital City* post.
 * Updated `node-sass` dependency.
