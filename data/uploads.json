@@ -12500,6 +12500,134 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_7402.JPG",
+        "date": "2016-06-28T20:50:24",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44,
+          43.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7404.JPG",
+        "date": "2016-06-28T20:50:47",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44,
+          43.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7410.JPG",
+        "date": "2016-06-28T20:53:35",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44,
+          43.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7413.JPG",
+        "date": "2016-06-28T20:55:24",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44,
+          43.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7425.JPG",
+        "date": "2016-06-28T21:04:23",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44,
+          43.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7429.JPG",
+        "date": "2016-06-28T21:13:09",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44,
+          43.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7431.JPG",
+        "date": "2016-06-28T21:20:49",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43,
+          43.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7443.JPG",
+        "date": "2016-06-29T12:00:59",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44,
+          43.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_7450.JPG",
         "date": "2016-06-29T14:24:12",
         "description": "Two of the seven waterfalls.",
@@ -12526,6 +12654,166 @@
         "coordinates": [
           15.96,
           43.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7624.JPG",
+        "date": "2016-07-02T17:39:40",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.11,
+          42.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7627.JPG",
+        "date": "2016-07-02T17:48:50",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.11,
+          42.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7641.JPG",
+        "date": "2016-07-02T17:55:41",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.11,
+          42.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7646.JPG",
+        "date": "2016-07-02T18:08:56",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.11,
+          42.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7651.JPG",
+        "date": "2016-07-02T18:43:54",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.11,
+          42.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7682.JPG",
+        "date": "2016-07-03T12:30:31",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.11,
+          42.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7684.JPG",
+        "date": "2016-07-03T12:30:57",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.11,
+          42.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7723.JPG",
+        "date": "2016-07-03T13:18:01",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.11,
+          42.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7742.JPG",
+        "date": "2016-07-03T14:13:56",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.12,
+          42.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7743.JPG",
+        "date": "2016-07-03T16:45:14",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.12,
+          42.64
         ]
       }
     },

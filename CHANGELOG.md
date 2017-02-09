@@ -1,7 +1,8 @@
 # Changelog
 
-### 1.1.13-dev
+### 1.1.13 (February 9, 2017)
 * Added *Highlights of Zagreb & Krka National Park* post.
+* Added *Croatia’s Adriatic Coast: Split & Dubrovnik* draft.
 * Updated `Top Foods from Slovenia` cover.
 * Updated `concurrently` dependency.
 

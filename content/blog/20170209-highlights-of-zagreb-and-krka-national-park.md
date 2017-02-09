@@ -1,5 +1,4 @@
 +++
-draft  = true
 date   = "2017-02-09"
 title  = "Highlights of Zagreb & Krka National Park"
 slug   = "highlights-of-zagreb-and-krka-national-park"
