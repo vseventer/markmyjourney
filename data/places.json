@@ -1597,6 +1597,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3201047,
+        "slug": "3201047-dubrovnik-hr",
+        "name": "Dubrovnik",
+        "region": "Dubrovačko-Neretvanska",
+        "country": {
+          "code": "HR",
+          "slug": "croatia",
+          "name": "Croatia"
+        },
+        "population": "28,000",
+        "timezone": {
+          "name": "Europe/Zagreb",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.09,
+          42.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 4030726,
         "slug": "4030726-easter-island-cl",
         "name": "Easter Island",
@@ -2752,6 +2779,33 @@
         "coordinates": [
           7.73,
           63.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11353080,
+        "slug": "11353080-krka-national-park-hr",
+        "name": "Krka National Park",
+        "region": null,
+        "country": {
+          "code": "HR",
+          "slug": "croatia",
+          "name": "Croatia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Zagreb",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          43.87
         ]
       }
     },
@@ -5130,6 +5184,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3190261,
+        "slug": "3190261-split-hr",
+        "name": "Split",
+        "region": "Splitsko-Dalmatinska",
+        "country": {
+          "code": "HR",
+          "slug": "croatia",
+          "name": "Croatia"
+        },
+        "population": "176,000",
+        "timezone": {
+          "name": "Europe/Zagreb",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.44,
+          43.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2673730,
         "slug": "2673730-stockholm-se",
         "name": "Stockholm",
@@ -5961,6 +6042,33 @@
         "coordinates": [
           130.99,
           -25.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3186886,
+        "slug": "3186886-zagreb-hr",
+        "name": "Zagreb",
+        "region": "City of Zagreb",
+        "country": {
+          "code": "HR",
+          "slug": "croatia",
+          "name": "Croatia"
+        },
+        "population": "699,000",
+        "timezone": {
+          "name": "Europe/Zagreb",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
         ]
       }
     },

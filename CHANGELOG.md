@@ -1,5 +1,10 @@
 # Changelog
 
+### 1.1.13-dev
+* Added *Highlights of Zagreb & Krka National Park* post.
+* Updated `Top Foods from Slovenia` cover.
+* Updated `concurrently` dependency.
+
 ### 1.1.12 (February 5, 2017)
 * Published `Top Foods from Slovenia` post.
 

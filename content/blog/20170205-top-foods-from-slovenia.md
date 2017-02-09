@@ -6,7 +6,7 @@ photos = [
   "IMG_7158.JPG", "IMG_7191.JPG", "IMG_7190.JPG", "IMG_7154.JPG", "IMG_7211.JPG",
   "IMG_7133.JPG"
 ]
-cover = "IMG_7103.JPG"
+cover = "IMG_7154.JPG"
 +++
 After a sweaty 8-hour train ride from Budapest, we were not in the best mood to look for restaurants. Lucky for us, we got a tip that a food festival was taking place at the Central Market Square every Friday afternoon. Strolling through quaint and green [Ljubljana]({{< ref "20170202-ljubljana-the-cutest-capital-city.md" >}}), we felt a bit more energized so we went to look for our quick no frills gourmet dinner, and were quite happy what we found.
 

@@ -1,6 +1,6 @@
 {
   "name"        : "MarkMyJourney",
-  "version"     : "1.1.12",
+  "version"     : "1.1.13-dev",
   "description" : "My travel blog, MarkMyJourney.com.",
   "keywords"    : [ "blog", "travel" ],
   "homepage"    : "https://www.markmyjourney.com",
@@ -60,7 +60,7 @@
     "bootstrap"      : "v4.0.0-alpha.6",
     "canvas"         : "1.6.x",
     "clean-css-cli"  : "4.0.x",
-    "concurrently"   : "3.1.x",
+    "concurrently"   : "3.2.x",
     "confirm"        : "0.1.x",
     "exif-reader"    : "1.0.x",
     "expose-loader"  : "0.7.x",

@@ -12404,6 +12404,134 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_7366.JPG",
+        "date": "2016-06-27T15:29:02",
+        "description": "Tkalčićeva Street.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7367.JPG",
+        "date": "2016-06-27T15:34:35",
+        "description": "Ban Jelačić Square.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7370.JPG",
+        "date": "2016-06-27T15:41:17",
+        "description": "Stone Gate and the statue of St. George.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7373.JPG",
+        "date": "2016-06-27T15:44:16",
+        "description": "St. Mark’s Church.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.97,
+          45.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7380.JPG",
+        "date": "2016-06-27T16:11:37",
+        "description": "Park Zrinjevac.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7383.JPG",
+        "date": "2016-06-27T16:33:25",
+        "description": "Cathedral of Zagreb.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7450.JPG",
+        "date": "2016-06-29T14:24:12",
+        "description": "Two of the seven waterfalls.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.96,
+          43.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7462.JPG",
+        "date": "2016-06-29T14:34:05",
+        "description": "The lake at the bottom of the waterfalls.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.96,
+          43.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",
