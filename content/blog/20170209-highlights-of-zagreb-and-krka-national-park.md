@@ -39,7 +39,7 @@ Our last stop in Zagreb was the Cathedral of Zagreb. This structure stands 108 m
 {{< photo "IMG_7383.JPG" >}}
 
 ## Krka National Park
-After our short stay in Zagreb, we planned to leave for Split and Dubrovnik. Yet, while we were reading up on Croatia, we noticed this country has much more to offer than just cities. The country is home to two National Parks: Krka near Split, and Plitvice Lakes located in the middle between Zagreb and Split.
+After our short stay in Zagreb, we planned to leave for [Split and Dubrovnik]({{< ref "20170212-croatias-adriatic-coast-split-and-dubrovnik.md" >}}). Yet, while we were reading up on Croatia, we noticed this country has much more to offer than just cities. The country is home to two National Parks: Krka near Split, and Plitvice Lakes located in the middle between Zagreb and Split.
 
 Since we still had to make it to Split, we decided to opt for Krka, as it was very close to Split. The main attraction of this National Park are the seven waterfalls, which eventually lead to a lake where locals and tourists go for a cooling swim.
 

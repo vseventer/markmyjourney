@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.14 (February 12, 2017)
+* Published *Croatia’s Adriatic Coast: Split & Dubrovnik* post.
+* Updated `concurrently` dependency.
+
 ### 1.1.13 (February 9, 2017)
 * Added *Highlights of Zagreb & Krka National Park* post.
 * Added *Croatia’s Adriatic Coast: Split & Dubrovnik* draft.
