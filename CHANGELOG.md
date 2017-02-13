@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.15-dev
+* Added *Scarred but Beautiful Sarajevo & Mostar* post.
+* Updated `sharp-cli` dependency.
+
 ### 1.1.14 (February 12, 2017)
 * Published *Croatia’s Adriatic Coast: Split & Dubrovnik* post.
 * Updated `concurrently` dependency.

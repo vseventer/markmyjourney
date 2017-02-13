@@ -12660,6 +12660,198 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_7510.JPG",
+        "date": "2016-07-01T10:16:29",
+        "description": "Eternal flame.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          43.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7513.JPG",
+        "date": "2016-07-01T10:22:19",
+        "description": "One of many Sarajevo Roses.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          43.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7524.JPG",
+        "date": "2016-07-01T10:57:13",
+        "description": "Pijaca Markale, the local fruit- and vegetable market.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          43.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7530.JPG",
+        "date": "2016-07-01T11:04:36",
+        "description": "Sacred Heart Cathedral.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43,
+          43.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7552.JPG",
+        "date": "2016-07-01T12:26:07",
+        "description": "Latin Bridge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43,
+          43.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7558.JPG",
+        "date": "2016-07-01T12:34:05",
+        "description": "Mosquée de Baščaršija.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43,
+          43.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7573.JPG",
+        "date": "2016-07-01T13:02:58",
+        "description": "Baščaršija square, with its wooden fountain, the Sebilj.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43,
+          43.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7580.JPG",
+        "date": "2016-07-01T13:08:37",
+        "description": "Small shops in the historic center.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43,
+          43.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7598.JPG",
+        "date": "2016-07-02T12:00:22",
+        "description": "Karađoz Bey Mosque.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.81,
+          43.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7599.JPG",
+        "date": "2016-07-02T12:04:27",
+        "description": "Historical center of Mostar.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.81,
+          43.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7602.JPG",
+        "date": "2016-07-02T12:06:01",
+        "description": "View over the old center and Stari Most, the Old Bridge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.82,
+          43.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7609.JPG",
+        "date": "2016-07-02T12:13:47",
+        "description": "Stari Most from the Neretva river.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.81,
+          43.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_7624.JPG",
         "date": "2016-07-02T17:39:40",
         "description": "City gate of Dubrovnik.",

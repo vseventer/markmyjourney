@@ -3622,6 +3622,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3194828,
+        "slug": "3194828-mostar-ba",
+        "name": "Mostar",
+        "region": "Federation of B&H",
+        "country": {
+          "code": "BA",
+          "slug": "bosnia-and-herzegovina",
+          "name": "Bosnia and Herzegovina"
+        },
+        "population": "105,000",
+        "timezone": {
+          "name": "Europe/Sarajevo",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.81,
+          43.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2064211,
         "slug": "2064211-mount-olga-au",
         "name": "Mount Olga",
@@ -4935,6 +4962,33 @@
         "coordinates": [
           103.87,
           22.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3191281,
+        "slug": "3191281-sarajevo-ba",
+        "name": "Sarajevo",
+        "region": "Federation of B&H",
+        "country": {
+          "code": "BA",
+          "slug": "bosnia-and-herzegovina",
+          "name": "Bosnia and Herzegovina"
+        },
+        "population": "697,000",
+        "timezone": {
+          "name": "Europe/Sarajevo",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.36,
+          43.85
         ]
       }
     },
