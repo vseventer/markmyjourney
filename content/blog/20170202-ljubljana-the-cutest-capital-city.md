@@ -24,7 +24,7 @@ Instead of directly heading into the city center, we turned away from the center
 
 {{< photo "IMG_7130.JPG" >}}
 
-Past the market, you can find the Dragon Bridge. As expected, the dragon is subject to tons of fairytale stories, and one can only guess which one is true. We crossed the bridge, and walked towards the city center along the river.
+Past the market, you can find the Dragon Bridge. As expected, the dragon is subject to tons of legends, and one can only guess which one is true. We crossed the bridge, and walked towards the city center along the river.
 
 {{< photo "IMG_7153.JPG" >}}
 

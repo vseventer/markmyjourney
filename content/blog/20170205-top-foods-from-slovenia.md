@@ -25,8 +25,6 @@ This baked or boiled rolled dough with various fillings, ranging from cottage ch
 ## Meat
 The next day we decided to try one of the many restaurants along the waterfront. After tasting some amazing steak at the food festival the previous day, we were still craving meat, so we decided to try Pop’s Place, which delivered an amazing juicy truffle burger. We found that the local produce of Slovenia is quite flavorful which probably is due to the tremendous greenery of the country.
 
-{{< photo "IMG_7190.JPG" >}}
-
 ## Fresh milk
 You may notice these giant milk-dispensing vending machines in a few places across Slovenia serving up fresh milk. Don’t hesitate to try, it’s fresh and tasty!
 

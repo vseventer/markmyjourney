@@ -12164,22 +12164,6 @@
     {
       "type": "Feature",
       "properties": {
-        "src": "IMG_7190.JPG",
-        "date": "2016-06-25T19:30:20",
-        "description": "Slovenian meats.",
-        "orientation": "landscape"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.51,
-          46.04
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "src": "IMG_7191.JPG",
         "date": "2016-06-25T20:41:10",
         "description": "Štruklji.",

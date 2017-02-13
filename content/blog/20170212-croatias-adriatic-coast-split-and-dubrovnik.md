@@ -50,7 +50,7 @@ Dubrovnik is a bit bigger than Split, and we stayed a bit out of the city center
 
 {{< photo "IMG_7624.JPG" >}}
 
-Compared to Split, the old town of Dubrovnik is also quite a bit different. It has the same amount of alleyways, but in Dubrovnik many only give access to local residences. Most restaurants and bars can be found along the main street, plus in the beginning of the alleyways. It made it easier to navigate, but also for a shorter walk.
+Compared to Split, the old town of Dubrovnik is also quite a bit different. It has the same amount of alleyways, but in Dubrovnik many only give access to local residences. Most restaurants and bars can be found along the main street, and in the beginning of the alleyways.
 
 {{< photo "IMG_7641.JPG" >}}
 {{< photo "IMG_7646.JPG" >}}
@@ -76,6 +76,6 @@ At this point, we had seen all of Dubrovnik, and it was time to grab lunch, a be
 
 {{< photo "IMG_7742.JPG" >}}
 
-It was the perfect end to a short stay in Dubrovnik. Unfortunately, we did not have the opportunity to view Dubrovnik from the mountain. We didn’t feel like climbing up the mountain just to snap a picture. Luckily, the bus that we left Dubrovnik with, did the work for us. This way, we were finally able to get a quick view of Dubrovnik from the heights of the mountain.
+It was the perfect end to a short stay in Dubrovnik. Unfortunately, we did not have the opportunity to view Dubrovnik from the mountain. Luckily, the bus that we left Dubrovnik with, did the work for us. This way, we were finally able to get a quick view of Dubrovnik from the heights of the mountain.
 
 {{< photo "IMG_7743.JPG" >}}

@@ -18,7 +18,7 @@ After visiting the cities of [Budapest]({{< ref "20170118-a-relaxing-visit-to-bu
 
 We left the capital Ljubljana in the early morning, and first headed to Bled: a small town about 45 minutes away. The town is very touristy, mainly thanks to its lake: Lake Bled. This lake is home to tiny Bled Island, an island with a few buildings, the most prominent one being a church. The only way to get to the island is by boat, and its beautiful surroundings make the church for a popular wedding spot.
 
-On first sight, that’s about all there is. Yet, if you walk a bit further along the banks, away from the town, you suddenly notice a castle rising out above everything else. We had to look twice, as we definitely didn’t expect a castle sticking out from a giant rock. It makes Lake Bled even more special, and no wonder this place is normally full of tourists. Luckily, we were the first tourists for the day (it was even before 9AM), so we had the whole lake to ourselves.
+On first sight, that’s about all there is. Yet, if you walk a bit further along the banks, away from the town, you suddenly notice a castle rising out above everything else. We had to look twice, as we definitely didn’t expect a castle sticking out from a giant rock. Luckily, we were the first tourists for the day (it was even before 9AM), so we had the whole lake to ourselves.
 
 {{< photo "IMG_7206.JPG" >}}
 
