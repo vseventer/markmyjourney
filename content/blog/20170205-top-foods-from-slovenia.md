@@ -3,8 +3,7 @@ date   = "2017-02-05"
 title  = "Top Foods from Slovenia"
 destinations = [ "europe", "slovenia" ]
 photos = [
-  "IMG_7158.JPG", "IMG_7191.JPG", "IMG_7190.JPG", "IMG_7154.JPG", "IMG_7211.JPG",
-  "IMG_7133.JPG"
+  "IMG_7158.JPG", "IMG_7191.JPG", "IMG_7154.JPG", "IMG_7211.JPG", "IMG_7133.JPG"
 ]
 cover = "IMG_7154.JPG"
 +++

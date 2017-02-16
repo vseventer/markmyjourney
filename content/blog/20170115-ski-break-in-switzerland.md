@@ -1,7 +1,7 @@
 +++
 draft   = true
 date    = "2017-01-15"
-title   = "Skibreak in Switzerland"
+title   = "Ski Break in Switzerland"
 destinations = [ "europe", "switzerland" ]
 places  = [ "2657928-zermatt-ch", "2661552-bern-ch", "2657896-zurich-ch" ]
 photos  = [

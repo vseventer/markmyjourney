@@ -1,8 +1,8 @@
 # Changelog
 
-### 1.1.15-dev
+### 1.1.15 (February 16, 2017)
 * Added *Scarred but Beautiful Sarajevo & Mostar* post.
-* Updated `sharp-cli` dependency.
+* Updated `babel-core`, `babel-loader`, and `sharp-cli` dependencies.
 
 ### 1.1.14 (February 12, 2017)
 * Published *Croatia’s Adriatic Coast: Split & Dubrovnik* post.
