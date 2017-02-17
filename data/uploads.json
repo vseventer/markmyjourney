@@ -12996,6 +12996,182 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_7754.JPG",
+        "date": "2016-07-04T12:24:07",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77,
+          42.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7769.JPG",
+        "date": "2016-07-04T12:34:57",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77,
+          42.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7811.JPG",
+        "date": "2016-07-04T13:10:56",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77,
+          42.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7815.JPG",
+        "date": "2016-07-04T13:15:05",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77,
+          42.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7827.JPG",
+        "date": "2016-07-04T14:10:43",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77,
+          42.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7832.JPG",
+        "date": "2016-07-04T14:13:42",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77,
+          42.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7835.JPG",
+        "date": "2016-07-04T14:24:16",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77,
+          42.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7836.JPG",
+        "date": "2016-07-04T14:24:50",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77,
+          42.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7837.JPG",
+        "date": "2016-07-04T14:25:19",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77,
+          42.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7841.JPG",
+        "date": "2016-07-04T14:30:49",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77,
+          42.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7853.JPG",
+        "date": "2016-07-04T15:37:11",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77,
+          42.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",

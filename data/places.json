@@ -2704,6 +2704,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3197537,
+        "slug": "3197537-kotor-me",
+        "name": "Kotor",
+        "region": "Kotor",
+        "country": {
+          "code": "ME",
+          "slug": "montenegro",
+          "name": "Montenegro"
+        },
+        "population": "23,000",
+        "timezone": {
+          "name": "Europe/Podgorica",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.77,
+          42.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1152633,
         "slug": "1152633-krabi-th",
         "name": "Krabi",

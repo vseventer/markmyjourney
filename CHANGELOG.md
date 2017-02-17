@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.16-dev
+* Added *The Castle of Kotor* post.
+
 ### 1.1.15 (February 16, 2017)
 * Added *Scarred but Beautiful Sarajevo & Mostar* post.
 * Updated `babel-core`, `babel-loader`, and `sharp-cli` dependencies.
