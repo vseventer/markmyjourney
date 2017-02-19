@@ -1,7 +1,9 @@
 # Changelog
 
 ### 1.1.16-dev
-* Added *The Castle of Kotor* post.
+* Added *San Giovanni’s Castle of Kotor* post.
+* Renamed *Scars Turned into Roses: Sarajevo & Mostar* post.
+* Updated `rimraf` dependency.
 
 ### 1.1.15 (February 16, 2017)
 * Added *Scarred but Beautiful Sarajevo & Mostar* post.

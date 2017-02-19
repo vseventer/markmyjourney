@@ -78,7 +78,7 @@
     "leaflet-minimap": "3.4.x",
     "moment"         : "2.17.x",
     "node-sass"      : "4.5.x",
-    "rimraf"         : "2.5.x",
+    "rimraf"         : "2.6.x",
     "sharp-cli"      : "1.1.x",
     "@songkick/replaceinfiles": "1.1.x",
     "sprity-cli"     : "1.0.x",
