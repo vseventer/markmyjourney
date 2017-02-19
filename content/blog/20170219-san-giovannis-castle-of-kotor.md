@@ -17,7 +17,7 @@ The main attraction of Kotor is actually its castle, from where you have brillia
 
 {{< photo "IMG_7754.JPG" >}}
 
-About halfway up the mountain you can pause at the Church of Our Lady of Remedy. This Roman Catholic Church was built in 1518, and only reachable on foot.
+About halfway up the mountain you can pause at the Church of Our Lady of Remedy. This Roman Catholic Church was built in 1518, and is only reachable on foot.
 
 {{< photo "IMG_7769.JPG" >}}
 
