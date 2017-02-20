@@ -5157,6 +5157,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3184081,
+        "slug": "3184081-shkoder-al",
+        "name": "Shkodër",
+        "region": "Shkodër",
+        "country": {
+          "code": "AL",
+          "slug": "albania",
+          "name": "Albania"
+        },
+        "population": "88,000",
+        "timezone": {
+          "name": "Europe/Tirane",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.51,
+          42.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1822214,
         "slug": "1822214-siem-reap-kh",
         "name": "Siem Reap",

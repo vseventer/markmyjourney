@@ -13172,6 +13172,150 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_7859.JPG",
+        "date": "2016-07-05T13:59:49",
+        "description": "Xhamia e Madhe mosque.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.51,
+          42.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7860.JPG",
+        "date": "2016-07-05T14:00:27",
+        "description": "Main street of Shkodër.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.51,
+          42.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7863.JPG",
+        "date": "2016-07-05T14:20:21",
+        "description": "Sheshi Demokracia.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.51,
+          42.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7869.JPG",
+        "date": "2016-07-05T14:44:09",
+        "description": "View over Shkodër from Rozafa Castle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.49,
+          42.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7875.JPG",
+        "date": "2016-07-05T14:46:37",
+        "description": "Rozafa Castle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.49,
+          42.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7893.JPG",
+        "date": "2016-07-05T17:49:00",
+        "description": "A selection of wines and memoires.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.88,
+          41.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7908.JPG",
+        "date": "2016-07-05T18:02:29",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.88,
+          41.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7926.JPG",
+        "date": "2016-07-05T18:42:31",
+        "description": "Kantina Arbëri.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.88,
+          41.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7931.JPG",
+        "date": "2016-07-05T18:58:34",
+        "description": "Vineyards of the winery.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9,
+          41.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",

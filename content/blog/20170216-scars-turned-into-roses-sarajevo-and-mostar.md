@@ -1,7 +1,7 @@
 +++
-date   = "2017-02-16"
-title  = "Scars Turned into Roses: Sarajevo & Mostar"
-slug   = "scars-turned-into-roses-sarajevo-and-mostar"
+date    = "2017-02-16"
+title   = "Scars Turned into Roses: Sarajevo & Mostar"
+slug    = "scars-turned-into-roses-sarajevo-and-mostar"
 aliases = [ "/scarred-but-beautiful-sarajevo-and-mostar/" ]
 destinations = [ "europe", "bosnia-and-herzegovina" ]
 places = [ "3191281-sarajevo-ba", "3194828-mostar-ba" ]

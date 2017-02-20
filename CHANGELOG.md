@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.17-dev
+* Added *One Week in Albania: The North (Day 1)* post.
+
 ### 1.1.16 (February 19, 2017)
 * Added *San Giovanni’s Castle of Kotor* post.
 * Renamed *Scars Turned into Roses: Sarajevo & Mostar* post.
