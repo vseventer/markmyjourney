@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.17-dev
+### 1.1.17 (February 23, 2017)
 * Added *One Week in Albania: The North (Day 1)* post.
 
 ### 1.1.16 (February 19, 2017)
