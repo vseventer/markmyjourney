@@ -652,6 +652,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3186084,
+        "slug": "3186084-berat-al",
+        "name": "Berat",
+        "region": "Berat",
+        "country": {
+          "code": "AL",
+          "slug": "albania",
+          "name": "Albania"
+        },
+        "population": "47,000",
+        "timezone": {
+          "name": "Europe/Tirane",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.95,
+          40.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3161732,
         "slug": "3161732-bergen-no",
         "name": "Bergen",
@@ -2050,6 +2077,33 @@
         "coordinates": [
           116.03,
           -8.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 783148,
+        "slug": "783148-gjirokaster-al",
+        "name": "Gjirokastër",
+        "region": "Gjirokastër",
+        "country": {
+          "code": "AL",
+          "slug": "albania",
+          "name": "Albania"
+        },
+        "population": "23,000",
+        "timezone": {
+          "name": "Europe/Tirane",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.14,
+          40.08
         ]
       }
     },
@@ -6258,6 +6312,33 @@
         "coordinates": [
           6.15,
           62.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 783408,
+        "slug": "783408-corovode-al",
+        "name": "Çorovodë",
+        "region": "Berat",
+        "country": {
+          "code": "AL",
+          "slug": "albania",
+          "name": "Albania"
+        },
+        "population": "14,000",
+        "timezone": {
+          "name": "Europe/Tirane",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.23,
+          40.5
         ]
       }
     },

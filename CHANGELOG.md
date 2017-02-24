@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.18-dev
+* Added *One Week in Albania: Central Albania (Day 2)* post.
+
 ### 1.1.17 (February 23, 2017)
 * Added *One Week in Albania: The North (Day 1)* post.
 
