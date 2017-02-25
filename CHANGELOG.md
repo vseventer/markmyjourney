@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.18-dev
+### 1.1.18 (February 26, 2017)
 * Added *One Week in Albania: Central Albania (Day 2)* post.
 * Added flag for Kosovo.
 
