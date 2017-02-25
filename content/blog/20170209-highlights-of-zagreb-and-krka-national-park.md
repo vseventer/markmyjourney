@@ -11,8 +11,8 @@ photos = [
 cover = "IMG_7462.JPG"
 +++
 After [Ljubljana]({{< ref "20170202-ljubljana-the-cutest-capital-city.md" >}}) and [Slovenia]({{< ref "20170131-the-natural-beauty-of-slovenia.md" >}}), it was time to move on to the next country: Croatia. Our first stop was Zagreb, the countries’ capital. Since our main goal was to spend time on the Adriatic coast, we merely spent only an afternoon here, to break up the otherwise long journey. The second stop before arriving at the coast was Krka National Park, famous for its series of seven waterfalls.
-
 <!--more-->
+
 ## Zagreb
 We stayed the night at an Airbnb on the northern side of Zagreb. Luckily, it was only a few minutes’ walk to the cozy city center. We entered the city center through Tkalčićeva Street, home to dozens of restaurants, bars, and clubs.
 

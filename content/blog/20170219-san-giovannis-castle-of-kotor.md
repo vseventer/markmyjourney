@@ -11,8 +11,8 @@ photos = [
 cover = "IMG_7769.JPG"
 +++
 A logical next destination when traveling south from [Croatia]({{< ref "20170212-croatias-adriatic-coast-split-and-dubrovnik.md" >}}) and [Bosnia and Herzegovina]({{< ref "20170216-scars-turned-into-roses-sarajevo-and-mostar.md" >}}) is Montenegro. At first, we didn’t really know what there was to see in this small country, but after hearing our fellow travelers rave about Kotor, we decided to take a bus there and see it for ourselves.
-
 <!--more-->
+
 The main attraction of Kotor is actually its castle, from where you have brilliant views over the Bay of Kotor and its fjords. It takes about one hour to climb from the town to the castle, located at an altitude of 280 meters. It is a bit tricky to find the starting point of the hike, but if you just follow the other tourists you’ll eventually get there.
 
 {{< photo "IMG_7754.JPG" >}}

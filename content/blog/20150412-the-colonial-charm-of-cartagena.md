@@ -11,10 +11,9 @@ photos  = [
 ]
 cover = "P4106814.JPG"
 +++
-
 Our final stop of our journey through South America was Cartagena, in the Caribbean region of Colombia. We spent four days in this city, characterized by its colonial architecture as it once was an important city for the Spanish invaders. The narrow cobblestone streets, colorful buildings with balconies, and many small squares make it a charming and walkable city.
-
 <!--more-->
+
 Cartagena is a very lively city and music can be heard from many corners, especially at nighttime with Wednesday surprisingly being the most busiest night. Even though the upscale neighborhood of Bocagrande has a beach, if you are looking for the best beach around, you have to head one hour south to Playa Blanca.
 
 ## Playa Blanca

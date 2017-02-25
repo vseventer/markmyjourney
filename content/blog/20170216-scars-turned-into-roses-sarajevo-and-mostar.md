@@ -13,8 +13,8 @@ photos = [
 cover = "IMG_7602.JPG"
 +++
 Sarajevo, the capital of Bosnia and Herzegovina, is situated a few hours’ drive out from both [Split and Dubrovnik]({{< ref "20170212-croatias-adriatic-coast-split-and-dubrovnik.md" >}}). If you choose to take the bus or train there, you will often find yourself transiting through picturesque Mostar, located only one hour from the Croatian border. Bosnia and Herzegovina has come a long way from its turbulent past, and is a country well worth visiting.
-
 <!--more-->
+
 ## Sarajevo
 The scars from the Bosnian War, which took place between 1992 and 1995, are still very visible especially in Sarajevo. Yet, at the beginning of the city center you can find the Eternal Flame, which is actually a memorial to the victims of the Second World War in Sarajevo. The flame has been burning non-stop since 1946.
 

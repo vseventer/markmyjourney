@@ -11,10 +11,9 @@ photos  = [
 ]
 cover = "PC123455.JPG"
 +++
-
 A few days before flying to Hanoi, we made reservations for a cruise around Hạ Long Bay. After browsing the various options, it became clear that paying a little bit more for the cruise would result in a much better experience. We read horror stories about boats being unsafe and crammed with tourists, something we really wanted to avoid. In the end, we decided to go with [Paloma Cruise](http://www.palomacruise.com). They have excellent reviews, and we found a great deal for the two day one night tour.
-
 <!--more-->
+
 # Day 1
 Hạ Long Bay is one of the main attractions of Vietnam. After an almost four hour bus ride from Hanoi, we arrived in Hạ Long City, the departure point for many of the boats, or “Junks”. Our tour guide, who had been joking a lot, informed us with a rather serious face that the cruise was canceled due to heavy winds. Given that the sun was shining for the first time in a few days, and there was practically no wind, we didn’t believe him. It turned out, however, that the Vietnamese government had ordered all boats to stay put in the harbor. As our itinerary was tight (we would be heading to Sa Pa in only two days), it looked like our cruise was over before it even started.
 

@@ -10,10 +10,9 @@ photos  = [
 ]
 cover = "PB202697.JPG"
 +++
-
 Thailand is hectic. Very hectic. In an attempt to slow down a little and increase our comfort level, we decided to head south. After enjoying the [beaches of Thailand]({{< ref "20141117-beaches-of-thailand.md" >}}), we took two overnight trains towards the capital of Malaysia: Kuala Lumpur.
-
 <!--more-->
+
 The first train departed from dark and unfriendly (I’m sure that was just our impression) Surat Thani in the middle of the night. Originally scheduled at 1:26, we left the station around 3AM, as our train arrived traditionally late. After getting a little bit of sleep, we crossed the Thai-Malay border, before arriving in Butterworth around 3 in the afternoon.
 
 Our next train wasn’t until 8PM, so we decided to take the ferry to Georgetown, Penang for a rush visit. This city is very picturesque, it almost looked European. Undoubtedly, the British influence from back in the day still lives there.

@@ -12,8 +12,8 @@ photos  = [
 cover = "IMG_2588.JPG"
 +++
 A trip to a ski resort in the Alps should definitely be on your bucket list if you’re living in Europe. From London, we took a not even two-hour flight to Zürich, followed by a long train-ride south to Zermatt. Zermatt is the most popular ski resort in Switzerland, not in the last place because of the impressive Matterhorn mountain.
-
 <!--more-->
+
 January means snow and cold in Switzerland: temperatures barely reach above zero, and the landscape is covered in thick snow. We took the easy route, and opted to take the train instead of driving ourselves. A good decision, as the train turned out to be very punctual, more comfortable, and on top we had the luxury to make convenient stops in the city centers of Bern and Zürich.
 
 ## Zermatt

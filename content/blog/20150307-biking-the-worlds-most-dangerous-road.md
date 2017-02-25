@@ -11,10 +11,9 @@ photos  = [
 ]
 cover = "P3015842.JPG"
 +++
-
 We arrived in La Paz after enduring a 10-hour overnight bus ride from [Uyuni]({{< ref "20150228-surreal-salar-de-uyuni.md" >}}). The city of La Paz is mainly known for its extremes: it is located at 3,650m above sea-level, and it is home to the [“World’s Most Dangerous Road.”](http://list25.com/25-most-dangerous-roads-in-the-world/) It was exactly that road we would conquer on a bicycle.
-
 <!--more-->
+
 ## The History
 The road is more commonly known as the North Yungas Road, or simply Death Road. It is called Death Road not because of the many cars that fell of into 600m deep ravines, but because of the people who built it. In 1930, Bolivia and Paraguay were at war, and Bolivia forced thousands of Paraguayan prisoners to build a road connecting La Paz with the Amazon (or Yungas) region. Many prisoners died while constructing this road, hence the name Death Road.
 

@@ -16,11 +16,10 @@ photos = [
 ]
 cover = "010A.jpg"
 +++
-
 It only took two minutes after landing in Cairns before we swapped our long pants and shoes for shorts and flip-flops: North Queensland has a hot & humid tropical climate. Our main objective for the weekend was to see the Great Barrier Reef, but by renting a car we were able to explore the surrounding areas as well.
 
-
 <!--more-->
+
 ## Kuranda National Park
 The windy road into Kuranda National Park caused our stomachs to be upset since we just landed hours earlier. Our first stop was the picturesque village of Kuranda itself, nestled in the rainforest. After strolling through the unique markets of Kuranda selling anything from crafts and local produce, we visited the picturesque Barron Falls. An easy five-minute walk on a paved trail provided a view of the rainforest and falls.
 

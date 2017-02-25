@@ -18,10 +18,9 @@ route   = [
   "6301386-shanghai-pudong-international-airport-cn"
 ]
 +++
-
 In December 2014, we visited five countries: Cambodia, Vietnam, Hong Kong, Macau, and China. We visited some [great historical sites in Cambodia]({{< ref "20141210-history-lessons-in-cambodia.md" >}}), enjoyed the [cities of Vietnam]({{< ref "20141230-cities-of-vietnam.md" >}}), before heading on trips to [Hạ Long Bay]({{< ref "20141213-two-day-cruise-in-ha-long-bay.md" >}}) and [Sa Pá]({{< ref "20141217-trekking-through-sapas-hmong-valley.md" >}}). From Vietnam, we visited [Hong Kong and Macau]({{< ref "20141230-shopping-and-gambling.md" >}}), before celebrating Christmas and New Year’s in China.
-
 <!--more-->
+
 After staying on budget in [November]({{< ref "20141201-monthly-recap-november-2014.md" >}}), our plan was to do the same in December. However, in Cambodia our stomaches did not take the local food (or water, we still are not really sure what caused it) well. Therefore, we switched back to Western food for a couple of days and spent slightly more. Well worth it.
 
 In Vietnam we overspent (deliberately, as we had some money to spare from November) by going on a luxury cruise. Other than that, we stayed on budget. The same holds for Hong Kong and Macau. We also decided to include China into December’s Recap, even though we stayed here until January 6th. But, separating the budget between Asia and our next destination, South America, makes much more sense.

@@ -11,8 +11,8 @@ photos = [
 cover = "IMG_7346.JPG"
 +++
 After visiting the cities of [Budapest]({{< ref "20170118-a-relaxing-visit-to-budapest.md" >}}), [Bratislava]({{< ref "20161221-a-day-in-bratislava-and-devin-castle.md" >}}), [Vienna]({{< ref "20161012-vienna-europes-old-cultural-capital.md" >}}), and [Salzburg]({{< ref "20161006-one-day-in-mozarts-city-of-salzburg.md" >}}), we figured it was time to broaden our horizon and head into nature instead. And we couldn’t have picked a better place then Slovenia’s Triglav National Park: its extreme greenery, beautiful lakes, and somewhat strange landmarks made for a perfect day out.
-
 <!--more-->
+
 ## Lake Bled
 {{< photo "IMG_7204.JPG" >}}
 

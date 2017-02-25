@@ -9,8 +9,8 @@ photos = [
 cover = "IMG_6799.JPG"
 +++
 The two main dishes that come to mind when thinking about Austria are its schnitzel and apfelstrudel. However, of course Austrian cuisine has a lot more to offer. We spent one-day sampling Austrian food, which pretty much wiped out our carbs for the week! Also, eating out is quite pricy in Austria, so we decided to stick to a few must try foods.
-
 <!--more-->
+
 ## Schnitzel
 We couldn’t leave Austria without trying the famous Wiener Schnitzel, that consists of fried battered veal slices with a serving of potato salad. We actually were a bit disappointed and prefer the pan cooked version from a restaurant called Schnitz in Melbourne.
 

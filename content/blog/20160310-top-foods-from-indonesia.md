@@ -12,8 +12,8 @@ photos  = [
 cover = "IMG_1667.JPG"
 +++
 The Netherlands and Indonesia have had intertwined roots for centuries, dating back to the 1800s up until 1949, when independence was proclaimed and recognized. Unsurprisingly, during this time, many Indonesian dishes found their way to the Netherlands, and have been part of the Dutch cuisine ever since. Going to Bali, we were eager to try these familiar foods in their original setting.
-
 <!--more-->
+
 The national dish of Indonesia is nasi goreng: fried rice prepared with thick soy sauce (ketjap), with fried onions and krupuk (deep fried crackers, often made from caridean shrimp) on the side. Sometimes, it is accompanied by chicken satay: skewered chicken dipped in satay (peanut sauce).
 
 The nasi goreng and chicken satay we tried in various restaurants tasted, almost without exception, fantastic, yet very similar to their Dutch counterparts. Especially the krupuk was sometimes indistinguishable from what’s available in Dutch supermarkets.

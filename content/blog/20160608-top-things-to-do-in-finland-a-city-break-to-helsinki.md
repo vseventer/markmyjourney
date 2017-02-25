@@ -11,8 +11,8 @@ photos  = [
 cover = "IMG_5930.JPG"
 +++
 Helsinki is quite a lively city, especially during summer. The cafés and park benches are filled with people enjoying their salad lunches, ice creams, and frappes. Tourists stroll through the markets looking for a souvenir or Finnish bite to eat, enjoying the capital’s churches, squares, monuments, and malls.
-
 <!--more-->
+
 Helsinki is also quite a walkable city, so we stuffed our backpacks in the Central Station luggage storage (4€ per 24 hours), and made our way to the waterfront via the Esplanadparken. This area hosts the central market on Market Square, where you can find your souvenir, or sample Finnish specialties. However, only a few steps away you can also find the Old Market, which offers some nice lunch options indoors.
 
 After a quick snack we made our way to the Uspenski Cathedral, beautifully situated on the hillside. From there, we walked towards the city center and onto the steps of the Helsinki Cathedral. After a short break, we walked around a bit more, and passed the Chapel of Silence. We stopped for coffee at the adjoining Kamppi Center mall, and walked towards the Temppeliaukio Church. This church comes with a unique setting, the rocky area surrounding the church being a popular hangout and sunbathing spot!

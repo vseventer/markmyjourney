@@ -12,8 +12,8 @@ photos = [
 cover = "IMG_7869.JPG"
 +++
 After moving around a lot, and seeing a new country every few days, it was time to slow down. Where better to do that than in Albania, not very well known among tourists, and a bit of an undiscovered country. We stayed with Herta’s family, who also showed us all of Albania. We loved it so much, we just had to dedicate the next seven posts to teach you all about this beautiful country. Today: the north.
-
 <!--more-->
+
 ## Shkodër
 Beforehand, it was hard to find much information on how exactly to enter Albania. There are no trains, flights are expensive, and bus schedules seemed nonexistent. Luckily, from [Kotor]({{< ref "20170219-san-giovannis-castle-of-kotor.md" >}}), there is a daily bus heading, via Podgorica, capital of Montenegro, to Shkodër. This city is the largest in the north of Albania, and the fifth-largest city overall. Now, Albania only has a population 2.75 million, and Shkodër is home to roughly 100,000 of them.
 

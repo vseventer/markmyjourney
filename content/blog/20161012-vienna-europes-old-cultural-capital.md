@@ -11,8 +11,8 @@ photos  = [
 cover = "IMG_6868.JPG"
 +++
 A straightforward three hour train journey brings you from [Salzburg]({{< ref "20161006-one-day-in-mozarts-city-of-salzburg.md" >}}) to the countries’ capital: Vienna. Vienna is world renowned for its opera, but the city definitely has more to offer: countless architectural masterpieces, museums, palaces, and lush green gardens show that Vienna once was the culture capital of Europe.
-
 <!--more-->
+
 We visited Vienna during the European Championship 2016 and therefore, with football among the most popular sports in Austria, various parks and squares were turned into *Fanzones*. During the day, giant screens showed match highlights from the previous day while at night, thousands of football fans gathered to watch live games. The most popular fanzone was at the Rathaus, with a capacity of 13,000.
 
 {{< photo "IMG_6868.JPG" >}}

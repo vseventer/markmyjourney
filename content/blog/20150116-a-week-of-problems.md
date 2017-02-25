@@ -4,10 +4,9 @@ title   = "A Week of Problems"
 aliases = [ "/blog/a-week-of-problems.html" ]
 destinations = [ "south-america", "brazil" ]
 +++
-
 Travel is supposed to be fun right? So far, Brazil turns out to be a challenge.
-
 <!--more-->
+
 # Problem 1: The flight
 It all started with the flight from Beijing which got diverted to Rio de Janeiro. Initially, it left Abu Dhabi with two hours delay, so our estimated arrival in São Paulo would be after dark. Originally, we would arrive during daytime which makes it a little easier (and safer) to navigate.
 

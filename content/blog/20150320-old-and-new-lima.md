@@ -10,10 +10,9 @@ photos  = [
 ]
 cover = "P3156332.JPG"
 +++
-
 Lima is the capital and the largest city of Peru. Not surprisingly, it consists of many neighborhoods all with their own character. We stayed three days in Miraflores, an up-scale neighborhood thirty minutes south of downtown Lima.
-
 <!--more-->
+
 ## Miraflores
 Miraflores borders the Pacific Ocean, and has an abundance of parks, luxury hotels, big apartment buildings, and shopping malls. We highly recommend visiting the seaside shopping mall of Larcomar, located on the cliffs of Miraflores. With plenty of police patroling the streets, the neighborhood is also very safe, even at night.
 

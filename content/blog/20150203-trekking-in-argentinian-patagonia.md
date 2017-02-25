@@ -16,10 +16,9 @@ photos = [
 ]
 cover = "P1264573.JPG"
 +++
-
 Patagonia: a near uninhabited area in southern Argentina and Chile. A destination which had been on our list for quite a while, so needless to say we were very excited to leave Buenos Aires and head south. We flew into El Calafate and took a bus north to El Chaltén upon arrival.
-
 <!--more-->
+
 ## Fitz Roy
 The small town of El Chaltén is also known as the “Trekking Capital of the World,” and it certainly delivered. We only spent one day here so we opted for the popular trail leading up to the Fitz Roy mountain. We had heard the peak is often covered in clouds for days, disappointing many hikers in their attempt to see what El Chaltén is all about.
 

@@ -11,10 +11,9 @@ photos  = [
 ]
 cover = "P3266538.JPG"
 +++
-
 The more you travel in South America, the more similarities you are going to notice between cuisines. Some dishes, like the mixed rice, the potato chicken or pork combos, empanadas, and salchipapas are also a favorite in Peru and Bolivia. One unusual meat that we tried was the guinea pig, or cuy. Although it was available and marketed in Cusco as well, it is more common in Ecuador. In Baños we were able to buy a quarter of guinea pig for only 3$ instead of 20$ in most other places.
-
 <!--more-->
+
 There are also similarities in the exotic fruit juices from Colombia as well as other neighboring countries. While there certainly isn’t a shortage of restaurants in Quito, we found it much easier exploring the food scene in Baños, which was also way cheaper than Galápagos.
 
 Some of the specialties in Ecuador that we didn’t notice anywhere else were the grilled plantains filled with cheese, which we unfortunately didn’t take a picture of but found to be quite a nice snack. The espumilla and the melchoca were also unique to Ecuador. For the salchipapas, the sauce used to top it was quite delicious and more appealing than the chaotic mixture of ketchup, mayo, and mustard layered on top of each other as we saw in other countries, such as Bolivia.

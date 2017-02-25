@@ -14,8 +14,8 @@ photos = [
 cover = "IMG_1566.JPG"
 +++
 Since arriving in Australia in May last year, we solely went on weekend trips exploring the country. After nine months, however, we wanted to experience something different. So, we did what thousands of Australians do each year: visit [Bali]({{< ref "20160303-first-time-bali.md" >}}) in Indonesia. But, we decided to make a stop in Darwin first, to see the beauty of the Northern Territory.
-
 <!--more-->
+
 ## Kakadu National Park
 Kakadu National Park is located about three hours east of Darwin, and this National Park is big; about half the size of Switzerland. We decided to opt for an organized tour, as renting a car was too expensive due to rentals having limited kilometers, with 33¢ per additional kilometer over 200km. Also, after flying in late at night the day before, we opted to sleep on the bus for the first few hours on the way to the park.
 

@@ -21,10 +21,9 @@ photos = [
 ]
 cover = "P2275775.JPG"
 +++
-
 From [San Pedro]({{< ref "20150224-the-chilean-desert.md" >}}), the best way to cross into Bolivia is by going on a 3-day tour to Salar de Uyuni and continuing to La Paz onwards.
-
 <!--more-->
+
 There are many bad stories about the companies which run these tours, which vary from seven people crammed in one jeep to drivers falling asleep or being drunk. In the past, accidents did occur, so it is important to choose the right company.
 
 In San Pedro, there are only a handful companies (most tours depart from Uyuni) to choose from, ranging from as cheap as 130$ to 560$ for a private tour. After consulting the internet and talking to fellow travelers, we decided to go with [Cordillera Traveller](http://www.cordilleratraveller.com/). They are a bit more expensive (we paid 185$ per person), but they have a good safety record and they pay their drivers a bit more, which we hoped would lead to a more motivated (and sober) driver.

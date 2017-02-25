@@ -10,8 +10,8 @@ photos  = [
 cover = "IMG_7116.JPG"
 +++
 From [Slovakia]({{< relref "20161221-a-day-in-bratislava-and-devin-castle.md" >}}) we took the train to Budapest, only three hours away. We planned to visit the city on our first day, and enjoy one of the many thermal baths on day two. A perfect plan, as this allowed us to recharge from our busy schedule and many transit days in the weeks prior.
-
 <!--more-->
+
 From our hotel we walked to the city center. The first landmark we passed was the St. Stephen’s Basilica, built in mid to late 19th century and named after Hungary’s first king.
 
 {{< photo "IMG_7050.JPG" >}}

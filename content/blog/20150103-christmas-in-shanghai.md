@@ -11,10 +11,9 @@ photos  = [
 ]
 cover = "PC263800.JPG"
 +++
-
 On Christmas Eve we left Hong Kong for Shanghai. After a short flight (about an hour and a half) we landed at Pudong Airport. Unfortunately for us, the 30km metro journey to our hostel took about two hours.
-
 <!--more-->
+
 ## Shanghai
 The first thing you notice about Shanghai is the abundance of shopping malls—especially the ones attached to the metro. We were amazed not only by the abundance, but also by the magnitude of luxury stores including a two-story Rolex store.
 

@@ -12,10 +12,9 @@ photos  = [
 ]
 cover = "P2225390.JPG"
 +++
-
 We chose San Pedro de Atacama as our last stop in Chile. Together with [Torres del Paine]({{< ref "20150206-the-wilderness-of-chilean-patagonia.md" >}}) and [Easter Island]({{< ref "20150222-mysterious-easter-island.md" >}}), San Pedro is the third most popular tourist destination in Chile. And for a reason, as we discovered unearthy and breathtaking landscapes in this desert region of Chile. We explored Valle de la Luna (Moon Valley), and Geyser del Tatio.
-
 <!--more-->
+
 From Santiago, we opted to take a short one hour flight over a 24-hour bus ride. The flight was a little bit more expensive (around 50$), but we really did not want to spend 24 hours in a bus not getting any sleep. Also, since San Pedro is located 2400m above sealevel, we thought we needed to be well rested to adapt and not get altitude sickness.
 
 San Pedro is a small pictoresque town close to the border with Bolivia. Many tour agencies organize tours to different parts of the desert, as well as tours to the world famous Salar de Uyuni in Bolivia. But, before we head to Salar de Uyuni and Bolivia, we had three days in San Pedro.

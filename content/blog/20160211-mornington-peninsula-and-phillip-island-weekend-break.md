@@ -10,10 +10,9 @@ photos  = [
 ]
 cover = "IMG_1067.JPG"
 +++
-
 If you are looking to escape Melbourne, are interested in wildlife and relaxation, and are looking for a unique experience, Phillip Island and the Mornington Peninsula are a mere ninety-minute drive away. We spent a day on Phillip Island, before heading to Mornington for a day of bathing at the Peninsula Hot Springs.
-
 <!--more-->
+
 ## Phillip Island
 Phillip Island is situated about two hours away from Melbourne by car, and makes for a great weekend getaway. We decided to stay in the center of the island, near Wimbledon Heights, as we decided to go to the Peninsula Hot Springs the following day.
 

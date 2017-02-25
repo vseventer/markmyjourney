@@ -10,8 +10,8 @@ photos  = [
 cover = "IMG_6840.JPG"
 +++
 After our brief visit to [Český Krumlov]({{< ref "20160704-cesky-krumlov-czech-republics-most-charming-town.md" >}}) we traveled three hours southwest, crossing the border with Austria and arriving in Salzburg. This would merely be a quick visit, as our itinerary dictated we had to take the train to [Vienna]({{< ref "20161012-vienna-europes-old-cultural-capital.md" >}}) the next day. After dropping of our bags at the newly opened hotel we were staying at, we went off for a self-guided walking tour.
-
 <!--more-->
+
 From the Salzburg Hauptbahnhof (Central Station), we walked towards the Salzach River, which basically cuts the city in two. Our first sight was Mirabell Palace, with its beautiful Mirabell Gardens offering great views over Fortress Hohensalzburg.
 
 {{< photo "IMG_6787.JPG" >}}

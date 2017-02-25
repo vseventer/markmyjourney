@@ -12,10 +12,9 @@ route   = [
 ]
 cover = "P1064010.JPG"
 +++
-
 After 69 days and eight countries our time in Asia is up. From Beijing Capital Airport, we flew to Abu Dhabi and onwards to São Paulo. A journey of 24 hours and almost 21,000km (13,000 miles), half of the earths’ circumfence.
-
 <!--more-->
+
 To make matters worse, the second leg of our flight got delayed two hours. Then, one hour before landing in São Paulo the plane got into bad weather, ran out of fuel, and got rerouted to Rio de Janeiro. After waiting for three more hours inside the plane, we were told we would not depart any time soon. We stayed in the Windsor hotel in downtown Rio de Janeiro for two days, before [Etihad Airways](http://www.etihad.com) arranged a flight to São Paulo at 3AM. Exhausted we arrived, but no time to sleep as travel goes on!
 
 ## Asia

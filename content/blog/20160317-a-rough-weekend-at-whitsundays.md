@@ -15,8 +15,8 @@ photos  = [
 cover = "IMG_2298.JPG"
 +++
 Our trip to the Whitsunday Islands was not without problems: it started when our flight got diverted to a different airport due to bad weather ([again!]({{< ref "20150116-a-week-of-problems.md" >}})). Next, once on the ground, this bad weather made our trip less pleasant than it should have been. And, finally, on our day of departure it was sunny with clear blue skies. Yet, despite our lack of luck, we were still able to see what we came for: Whitsunday Islands.
-
 <!--more-->
+
 ## Mackay
 Typically, when visiting the Whitsundays, you’d arrive in Proserpine Airport and take a 40-minute bus ride to Airlie Beach, where most tours depart from. For us, unfortunately, things went a little different. It started when the pilot attempted to land at Proserpine, but had to make a go-around twice due to bad weather. At that point, fuel was running low so there was no time to try again, and we got diverted to nearby Mackay Airport. Strangely, another plane was able to land at Proserpine around the time we were supposed to arrive.
 

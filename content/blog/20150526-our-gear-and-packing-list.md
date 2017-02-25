@@ -11,10 +11,9 @@ photos  = [
 ]
 cover = "PA281882.JPG"
 +++
-
 Packing is a hassle, often leaving you with a barely closable luggage and a messy room. When considering a long backpacking trip, you will need think and research what exactly to purchase. Then, after buying the needed materials, you will have to go through a couple packing rounds as packing lightly is a necessary but not easy task. The most important thing to ask yourself when packing is whether the item is practical and multipurpose.
-
 <!--more-->
+
 # Backpacks
 We traveled using the [Tortuga](http://www.tortugabackpacks.com/products/tortuga-travel-backpack) and [Gregory Z-35](http://gregorypacks.com/en/GM394_cfg.html?dwvar_GM394__cfg_gmp_color=storm_black#q=z35&start=1) backpacks, together with an [Oakley Sport](http://www.oakley.com/en/20l-tech-sport-backpack/product/92604) daypack. Both backpacks opened fully, had multiple compartments, and good back and hip support. The Gregory backpack had aIn the end, we really liked the Tortuga Backpack, as its square shape allows for neat placement of the various [packing cubes](http://shop.eaglecreek.com/packit-cube-set/d/1322_cl_2541) we bought. It is worth noting both backpacks can be carried on, even though the Z-35 is (theoretically) slightly to big, but this was often overlooked by airline staff.
 

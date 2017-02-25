@@ -10,8 +10,8 @@ photos = [
 cover = "IMG_7167.JPG"
 +++
 After escaping the busyness by spending a day in [Triglav National Park]({{< ref "20170131-the-natural-beauty-of-slovenia.md" >}}), we were ready to see another city. As always, we headed on a walking tour, through what turned out to be one of the cutest capital cities in the world: Ljubljana.
-
 <!--more-->
+
 We gathered at Prešeren Square, the central square in Ljubljana. It is home to a department store (former post office), main pharmacy, and Franciscan Church of the Annunciation.
 
 {{< photo "IMG_7146.JPG" >}}

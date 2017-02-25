@@ -10,8 +10,8 @@ photos  = [
 cover = "IMG_6667.JPG"
 +++
 The Czech Republic is well known for its beautiful architectural cities, and of course its beer. We decided to combine both by visiting the countries’ capital: Prague. We arrived in the city after a four-hour bus ride from [Kraków]({{< ref "20160626-top-things-to-do-in-poland-visit-warsaw-and-krakow.md" >}}), after which we started exploring right away.
-
 <!--more-->
+
 Prague is a big and international city. Although it’s pretty westernized, prices are still low, with beer funnily being cheaper than water or any other beverage. Another interesting fact about Prague is that a lot of Hollywood movies depicting other European cities are actually exclusively filmed in different parts of Prague, because of its diversity and cheapness.
 
 Despite being a big city, the old and new parts of Prague can be easily explored on foot. We started in the Old Town square, where the famous Astronomical clock is located, the oldest one still operating. From there, we went to the Estates Theatre, where Wolfgang Amadeus Mozart first received recognition for his work. He played most of the pieces himself in the theatre, and his piece of *Figaro* is arguably the best opera ever written.

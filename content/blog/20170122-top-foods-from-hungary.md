@@ -9,8 +9,8 @@ photos = [
 cover = "IMG_7103.JPG"
 +++
 If there is one particular food item that stands out in Hungary is definitely paprika. Even though the paprika peppers did not originate from Europe, Hungary has really embraced it as their national symbol and an essential spice in the Hungarian kitchen. Its usage is evident in Hungary’s main dishes, however we also tasted some non-paprika items that we thought deserved a try.
-
 <!--more-->
+
 ## Goulash
 Arguably the most internationally renowned Hungarian dish. Cooked over a slow heat in a kettle, this delicious and hearty dish contains carrots, potatoes, beef, and a healthy dose of paprika. Its consistency is more that of soup then a stew, but it’s quite filling.
 

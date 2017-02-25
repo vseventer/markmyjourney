@@ -8,8 +8,8 @@ photos = [
 cover = "IMG_7154.JPG"
 +++
 After a sweaty 8-hour train ride from Budapest, we were not in the best mood to look for restaurants. Lucky for us, we got a tip that a food festival was taking place at the Central Market Square every Friday afternoon. Strolling through quaint and green [Ljubljana]({{< ref "20170202-ljubljana-the-cutest-capital-city.md" >}}), we felt a bit more energized so we went to look for our quick no frills gourmet dinner, and were quite happy what we found.
-
 <!--more-->
+
 ## Kranjska
 These Carniolian sausages are packed with flavor and can be sampled at Klobasarna in the city center. In order to retain its full flavor, the sausage must be cooked on low heat to ensure the inside is cooked, while the outside remains unburned. These go great with a glass of Laško beer or powerful, dry regional red wine.
 

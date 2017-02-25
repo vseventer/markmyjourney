@@ -9,8 +9,8 @@ photos = [
 cover = "IMG_5888.JPG"
 +++
 Similar to its neighbor [Sweden]({{< ref "20160601-top-foods-from-sweden.md" >}}), fish also has a strong presence in the local Finish cuisine. The market on Market Square and the Old Market in Helsinki turned out to be a great foodie playground with plenty of options to try Finnish specialties.
-
 <!--more-->
+
 The first thing we sampled was **fried vendace**. We saw buckets full of these little fish everywhere. They are basically seasoned deep fried freshwater fish. They taste like salty fried dough, and are served as is, however they also come baked into bread. The bread version looked a bit more intimidating, so we just stuck to the snack-sized version.
 
 **Karjalan Piirakka** makes for quite a nice snack on the go. These pastries consist of dough traditionally baked with a potato and carrot mixture, however there also were different kinds of fillings, ranging from fish to something sweet.

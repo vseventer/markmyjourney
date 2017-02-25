@@ -13,8 +13,8 @@ photos = [
 cover = "IMG_7429.JPG"
 +++
 After spending a few weeks in Central Europe, it was great to be near the water again. We arrived in Split from [Zagreb and Krka National Park]({{< ref "20170209-highlights-of-zagreb-and-krka-national-park.md" >}}), left our luggage at the hotel, and went out to enjoy this typical Adriatic and Croatian city. Next to Split, we visited Dubrovnik, where we enjoyed the old medieval city, and found a nearby beach to enjoy the warm waters of the Adriatic Sea.
-
 <!--more-->
+
 ## Split
 The city center of Split consists of many marble alleyways, all interconnected with a few squares in between. Inside the old city walls, the old city is littered with tourists, restaurants, bars, and ancient monuments. A great place to spend a few days, and if it all gets too much, you can always relax at the waterfront.
 

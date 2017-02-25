@@ -13,8 +13,8 @@ photos  = [
 cover = "IMG_0684.JPG"
 +++
 As our time in Australia comes to an end, it is time to cover our home base: Melbourne. This city is often dubbed “the most livable city in the world” because of its arts, education, food, health, infrastructure, parks, and sports. After living here for a year we wholeheartedly agree: Melbourne is a great place to live.
-
 <!--more-->
+
 Before moving in to our own apartment, we stayed at an Airbnb in the **South Yarra** neighborhood. Trendy shops, nightclubs, and restaurants characterize this upscale neighborhood. From South Yarra, it is about a 30-minute stroll along the Botanical Gardens and Yarra River to the CBD, Southbank, and South Melbourne neighborhoods.
 
 Our apartment is located in one of many apartment towers in **Southbank**. A ten-minute walk will take you right to the center via the lively Southbank Promenade. The promenade is lined with upscale nightclubs and restaurants, as well as the Crown Casino. For grocery shopping, or less fancy restaurants, it is only a few minutes to **South Melbourne**.

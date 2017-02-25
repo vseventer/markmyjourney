@@ -21,8 +21,8 @@ photos = [
 cover = "IMG_4014.JPG"
 +++
 Empty roads, loose restrictions on freedom camping, and unbeatable scenery: traveling around New Zealand is best done by campervan. Starting in Queenstown, we made our way up to Christchurch exploring the South Island, before crossing the Cook Strait to Wellington. From there, we headed north through rugged National Parks, thermal pools, and beaches, only to end our journey in the city that hosts 31% of the countries’ population: Auckland.
-
 <!--more-->
+
 ## Queenstown
 The small city of Queenstown is often dubbed “The Adventure Capital of the World” due to the abundance of adventure sports: bungee, rafting, skydiving, zip lining, Queenstown has it all. We tried out zip lining at the Ben Lomond Scenic Reserve offering great views over the city and Lake Wakatipu.
 

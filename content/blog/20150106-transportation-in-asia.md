@@ -13,10 +13,9 @@ photos  = [
 ]
 cover = "PC073363.JPG"
 +++
-
 The easiest and cheapest way to travel around Southeast Asia is to rely on the local transportation means. We only took a couple of flights, other than that we relied on the local transportation methods, some better than others, to get to where we wanted to be.
-
 <!--more-->
+
 ## Intracity
 Except for Cambodia and Vietnam, the cities in Asia we visited all have a cheap and fast subway system. In some cities, like Hong Kong, the local buslines provide an additional way to see the highlights of the city. We did not use any of the expensive Hop On Hop Off buses, simply because we didn’t need to. In Bangkok and Hong Kong we relied on water transport as well, making using public transportation interesting and fun.
 

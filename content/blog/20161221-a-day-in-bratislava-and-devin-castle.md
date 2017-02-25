@@ -12,8 +12,8 @@ photos  = [
 cover = "IMG_6999.JPG"
 +++
 The capital cities of Austria and Slovakia are only separated by a 90-minute train ride. So, logically, our next stop after [Vienna]({{< ref "20161012-vienna-europes-old-cultural-capital.md" >}}) was Bratislava. We didn’t really know what to expect from Slovakia, as it is a country often overlooked. But, we figured, why not spend a day in Bratislava to see what it is all about.
-
 <!--more-->
+
 ## Bratislava
 As always, we opted for doing a walking tour of the city. We started at the calm and green Hviezdoslavovo Square, and made our way towards the Danube river.
 

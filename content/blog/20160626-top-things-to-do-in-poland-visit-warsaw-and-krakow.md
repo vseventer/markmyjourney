@@ -12,8 +12,8 @@ photos  = [
 cover = "IMG_6464.JPG"
 +++
 Poland surprised us; we spent two days in both Warsaw and Kraków, and found both to be way more modern than we initially thought. Both cities, although lacking a proper skyline, are very colorful yet very different. Both centers are very walkable, and therefore best explored on foot.
-
 <!--more-->
+
 ## Warsaw
 The skyline of Warsaw was dominated by another Stalin cake (there is one in [Riga]({{< ref "20160618-top-things-to-do-in-latvia-a-visit-to-riga.md" >}}), too), but otherwise the city is quite colorful. We started our walking tour in the picturesque Castle Square. The vastness of the square, in combination with the colorful houses and old city wall was a nice introduction to the beauty this city has to offer.
 

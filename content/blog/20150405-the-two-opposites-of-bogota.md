@@ -12,10 +12,9 @@ photos  = [
 ]
 cover = "P4026654.JPG"
 +++
-
 After arriving in Bogotá, the taxi ride to our hostel did not elicit excitement: lots of two-floor brick buildings covered in graffiti. Was this all Bogotá had to offer? Luckily, our hostel was next to a big intersection, with plenty of people and shops around, yet the regal houses where the only disruption in an otherwise bland neighborhood.
-
 <!--more-->
+
 ## La Candelaria
 The following day we decided to visit Bogotá’s old center: La Candelaria. We decided to join yet another free walking tour, as the one in [Quito]({{< ref "20150331-equatorial-quito.md" >}}) impressed us. The center was a bit run down and smelly at parts.
 

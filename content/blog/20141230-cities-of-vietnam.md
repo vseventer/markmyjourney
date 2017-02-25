@@ -14,10 +14,9 @@ photos = [
 ]
 cover = "PC053326.JPG"
 +++
-
 During our stay in Vietnam we used the cities of Ho Chi Minh and Hanoi as our main places to stay. From there, it is easy to visit many of the highlights the country has to offer. In previous posts we covered our [Hạ Long Bay cruise]({{< ref "20141213-two-day-cruise-in-ha-long-bay.md" >}}), and [trekking trip to Sa Pá]({{< ref "20141217-trekking-through-sapas-hmong-valley.md" >}}). Yet, Vietnam has more to offer. Apart from seeing Ho Chi Minh City and Hanoi itself, we went on trips to the Mekong Delta, Mũi Né, and the Củ Chi tunnels.
-
 <!--more-->
+
 ## Ho Chi Minh City
 Upon arriving from Phnom Penh in Ho Chi Minh City, the first thing that struck us were the motorbikes. Hundreds of them. Everywhere. Something as easy as crossing the street suddenly became quite the challenge. We managed however - the trick is to keep walking, and the motorbikes will find their way around you. Hopefully, that is. The city itself has not that much to offer, apart from the typical church - market - high building.
 

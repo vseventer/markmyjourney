@@ -6,8 +6,8 @@ photos = [ "IMG_7025.JPG", "IMG_6968.JPG", "IMG_7026.JPG", "IMG_6454.JPG" ]
 cover  = "IMG_7026.JPG"
 +++
 Slovakia shares a few favorites with neighboring countries, like [Kofola]({{< ref "20160820-top-foods-from-czech-republic.md#kofola" >}}) and poppy seed-filled sweets, however the most famous dish for sure has to be the Bryndzové halušky. It’s either a hit or miss, depending on how flavorful you like your cheese. We were big fans of this deliciously cheesy dish, and couldn’t wait to try more authentic dishes.
-
 <!--more-->
+
 ## Bryndzové halušky
 These super small potato dumplings smothered in a rich tangy sheep cheese, and often topped with sizzling bacon, surely is a treat! We actually attempted to make it ourselves, but it was not as easy as we thought to make those tiny dumplings without the proper equipment. So, if you’re going to try, we recommend just going to one of many restaurants or pubs that serve this. If on a tight budged, pick the microwavable version from Tesco.
 

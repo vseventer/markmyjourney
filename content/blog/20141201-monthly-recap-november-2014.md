@@ -18,10 +18,9 @@ route = [
   "6301065-siem-reap-international-airport-kh"
 ]
 +++
-
 In November 2014, we visited three countries: Thailand, Malaysia, and Singapore. After a [rough start in Thailand]({{< ref "20141104-bustling-bangkok.md" >}}), we found ourself being [comfortable in Kuala Lumpur]({{< ref "20141129-calmer-waters-in-kuala-lumpur.md" >}}), and [enjoying Singapore]({{< ref "20141129-three-days-in-singapore.md" >}}). Looking back, we probably won’t return to any of these countries any time soon as we feel we have a good impression of all of them.
-
 <!--more-->
+
 Determining the budget for Southeast Asia was not easy, especially since we hadn’t been there before. Yet, after a month of traveling here, we are happy to see our expected and actual expenses are pretty close!
 
 **The Good**

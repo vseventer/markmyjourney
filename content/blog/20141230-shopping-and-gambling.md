@@ -12,10 +12,9 @@ photos  = [
 ]
 cover = "PC223747.JPG"
 +++
-
 After traveling around Southeast Asia for almost two months, arriving in Hong Kong felt like Singapore: way more Western than like for example Vietnam where we just came from. We stayed in Hong Kong for five days, leaving the day of Christmas Eve.
-
 <!--more-->
+
 ## Hong Kong
 Two of the major highlights of Hong Kong are taking the [Star Ferry](http://www.starferry.com.hk/en/home) accross the river from the Hong Kong to Kowloon neighbourhoods, and taking the tram to Victoria Gap. Needless to say, we did both. Apart from that, Hong Kong has a lot to offer when it comes to shopping. We never saw so many Rolex, Gucci, or Prada stores. And they’re big, too. It looked like all residents went all out with their shopping, spending their entire income in a day. Maybe because Christmas was approaching, or maybe that’s just how it works here.
 

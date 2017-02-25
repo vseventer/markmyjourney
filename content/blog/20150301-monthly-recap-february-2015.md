@@ -16,10 +16,9 @@ route   = [
   "3891150-aerodromo-el-loa-cl"
 ]
 +++
-
 In February 2015, we visited only one new country: Chile, but we went back to Argentina for a few days. From [Patagonia]({{< ref "20150206-the-wilderness-of-chilean-patagonia.md" >}}), we traveled to [Easter Island]({{< ref "20150222-mysterious-easter-island.md" >}}), after returning to the mainland. We traveled by bus to Mendoza, to try out [Argentinian wines]({{< ref "20150223-bike-and-wine.md" >}}) in addition to the [food]({{< ref "20150223-top-foods-from-argentina.md" >}}) we already tried. After returning to Santiago, and trying out lots of [Chilean food]({{< ref "20150218-top-foods-from-chile.md" >}}), we flew north to [San Pedro]({{< ref "20150224-the-chilean-desert.md" >}}). From there, we crossed into Bolivia.
-
 <!--more-->
+
 The overview below lists the expenses in Chile and Argentina. For Argentina, the expenses during our three day stay this month are added to last months’ overview, as this gives the full picture of the expenses. For Bolivia, where we spent the last three days in February, we will cover all expenses in next months’ recap.
 
 **The Good**

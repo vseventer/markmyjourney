@@ -13,10 +13,9 @@ route   = [
 photos = [ "P4136858.JPG", "P4136855.JPG", "IMG_4305.JPG", "P4146877.JPG" ]
 cover  = "P4146877.JPG"
 +++
-
 Against our tradition, we will not wait until the end of the month to summarize expenses. As we are leaving South America behind, it is time to wrap up the finances and move on to the next chapter.
-
 <!--more-->
+
 From Quito, Ecuador, we arrived in Bogotá, a city we explored in only [two days]({{< ref "20150405-the-two-opposites-of-bogota.md" >}}). Next, we visited the famous [coffee region of Colombia]({{< ref "20150407-colombias-coffee-triangle.md" >}}), experiencing how delicious coffee is made. We ended our stay with a visit to [Cartagena]({{< ref "20150412-the-colonial-charm-of-cartagena.md" >}}) on the Caribbean coast, before flying back to Bogotá for one last night.
 
 **The Good**
