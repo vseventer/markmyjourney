@@ -10,7 +10,8 @@ photos  = [
   "IMG_0634.JPG", "IMG_0636.JPG", "IMG_0655.JPG", "IMG_0609.JPG", "IMG_0806.JPG",
   "IMG_1008.JPG"
 ]
-cover = "IMG_0684.JPG"
+cover  = "IMG_0684.JPG"
+sticky = 10
 +++
 As our time in Australia comes to an end, it is time to cover our home base: Melbourne. This city is often dubbed “the most livable city in the world” because of its arts, education, food, health, infrastructure, parks, and sports. After living here for a year we wholeheartedly agree: Melbourne is a great place to live.
 <!--more-->

@@ -11,7 +11,8 @@ photos  = [
   "P2095131.JPG", "P2105173.JPG", "P2105174.JPG", "P2125226.JPG", "P2105196.JPG",
   "P2125246.JPG", "P2125251.JPG"
 ]
-cover = "P2095089.JPG"
+cover  = "P2095089.JPG"
+sticky = 20
 +++
 Eastern Islands remoteness and mystic statues lure numerous tourists each year. In December, we managed to get a great deal on round-trip tickets to the island (450$ instead of the regular 700+$ tickets), and also found out we would be visiting the island during the traditional Tapati festival. Apart from visiting the world famous Moai statues, we would now also experience the islands’ culture in the best way possible.
 <!--more-->

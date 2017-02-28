@@ -8,7 +8,8 @@ photos  = [
   "PA171646.JPG", "PA171653.JPG", "P1000740.JPG", "P1000747.JPG", "P1000752.JPG",
   "P1000756.JPG", "P1000760.JPG"
 ]
-cover = "P1000752.JPG"
+cover  = "P1000752.JPG"
+sticky = 75
 +++
 The Amsterdam Marathon. After almost a year of hard training, the day had finally come: my first marathon. After a very decent breakfast we headed out to the Olympic Stadion in Amsterdam, the starting point of what turned out to be a very tough run.
 <!--more-->

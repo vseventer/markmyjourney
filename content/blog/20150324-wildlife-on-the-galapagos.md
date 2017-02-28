@@ -11,7 +11,8 @@ photos  = [
   "P3236468.JPG", "P3236473.JPG", "P3236477.JPG", "P3236480.JPG", "P3236483.JPG",
   "P3236502.JPG", "P3236506.JPG"
 ]
-cover = "P3236461.JPG"
+cover  = "P3236461.JPG"
+sticky = 20
 +++
 The Galápagos Islands is unique destination which should be on every travelers’ list. It comes with a price, however, as everything on the island is quite expensive: it starts by paying 120$ in National Park fees before you even set foot on solid ground. On top of that, lodging and groceries are overpriced, and tours around the Galápagos start at 150$.
 <!--more-->

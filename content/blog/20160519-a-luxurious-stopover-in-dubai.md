@@ -9,7 +9,8 @@ photos  = [
   "IMG_4605.JPG", "IMG_4842.JPG", "IMG_4868.JPG", "IMG_4912.JPG", "IMG_4941.JPG",
   "IMG_4930.JPG", "IMG_4742.JPG", "IMG_4634.JPG", "IMG_4692.JPG", "IMG_4716.JPG"
 ]
-cover = "IMG_4820.JPG"
+cover  = "IMG_4820.JPG"
+sticky = 50
 +++
 After one year in Australia, it was time to leave and head back to the Netherlands, where it all started almost [18 months ago]({{< ref "20141013-the-first-step.md" >}}). As a flight from Australia to Europe is too long to do in one go, we chose to make a stopover in the United Arab Emirates to visit Abu Dhabi and Dubai.
 <!--more-->
