@@ -25,12 +25,12 @@ From the castle, you can take an extremely steep road down to the town of Berat.
 {{< photo "IMG_7971.JPG" >}}
 
 ## Çorovodë
-Our next stop was just past the town of Çorovodë. Here, over the centuries, the Osum River cut a 900-metre deep canyon. The near-vertical cliffs on both sides of the river are simply incredible.
+Our next stop was just past the town of Çorovodë. Here, over the centuries, the Osum River cut a 900-metre deep canyon. The near-vertical cliffs on both sides of the river are simply incredible. If you feel adventurous you can also spend the day white-water rafting through the canyon.
 
 {{< photo "IMG_7987.JPG" >}}
 {{< photo "IMG_7997.JPG" >}}
 
-From Çorovodë, the plan was to drive to Gjirokastër. The shortest route is through Fir of Hotova National Park, a mountainous area with few inhabitants. Unfortunately, the GPS did not mention the roads are terrible; unsealed, hilly, and very, very rocky. Driving over loose rocks for over two hours, not knowing when the road would go back to normal, was not the best plan. Finally, we reached solid ground, and off we went to Gjirokastër.
+From Çorovodë, the plan was to drive to Gjirokastër. The shortest route is through Fir of Hotova National Park, a mountainous area with few inhabitants.  Unfortunately, the GPS directed us to what seemed a never-ending rollercoaster of unpaved trails and gravel roads. It offered untamed beautiful scenery, but it definitely required a powerful vehicle and an adventurous spirit to go along with it. Along the way, we encountered a few jeeps that did this for fun. After a bouncy two-hour ride, we finally touched solid ground, and off we went to Gjirokastër.
 
 ## Gjirokastër
 Gjirokastër is a city very similar to Berat: on the hill you can find the Gjirokastër Castle, while the houses are, again, white with red roofs. The town does have more of a center though, its old town is even a UNESCO World Heritage Site, because of its preserved buildings from Ottoman times.

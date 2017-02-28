@@ -4,7 +4,7 @@
 {{ end }}
 
 {{ define "content" }}
-  {{ $pages     := first 5 (where .Site.Pages.ByDate.Reverse "Type" "blog") }}
+  {{ $pages     := first 5 .Pages.ByDate.Reverse }}
   {{ $paginator := .Paginate $pages }}
 
   {{ partial "list.html" . }}

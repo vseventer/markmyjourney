@@ -1,6 +1,6 @@
 {
   "name"        : "MarkMyJourney",
-  "version"     : "1.1.18",
+  "version"     : "1.1.19-dev",
   "description" : "My travel blog, MarkMyJourney.com.",
   "keywords"    : [ "blog", "travel" ],
   "homepage"    : "https://www.markmyjourney.com",
@@ -66,7 +66,7 @@
     "expose-loader"  : "0.7.x",
     "gh-pages"       : "0.12.x",
     "hashmark"       : "4.1.x",
-    "html-minifier"  : "3.3.x",
+    "html-minifier"  : "3.4.x",
     "imagemin-cli"   : "3.0.x",
     "imagemin-mozjpeg"  : "6.0.x",
     "imagemin-pngquant" : "5.0.x",
@@ -89,7 +89,7 @@
     "webpack-append" : "0.1.x"
   },
   "engines": {
-    "hugo" : ">=0.16",
+    "hugo" : ">=0.19",
     "node" : ">=4.x"
   },
   "os"      : [ "darwin" ],

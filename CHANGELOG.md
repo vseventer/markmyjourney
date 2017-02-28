@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.19-dev
+* Extended *One Week in Albania: The North (Day 1)* post.
+* Updated *One Week in Albania: Central Albania (Day 2)* post.
+* Updated `html-minifier` dependency.
+* Updated to `hugo` v0.19.
+
 ### 1.1.18 (February 26, 2017)
 * Added *One Week in Albania: Central Albania (Day 2)* post.
 * Added flag for Kosovo.
