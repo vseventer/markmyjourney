@@ -2893,6 +2893,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 363312,
+        "slug": "363312-ksamil-al",
+        "name": "Ksamil",
+        "region": "Vlorë",
+        "country": {
+          "code": "AL",
+          "slug": "albania",
+          "name": "Albania"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Tirane",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          39.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1735161,
         "slug": "1735161-kuala-lumpur-my",
         "name": "Kuala Lumpur",
@@ -4590,6 +4617,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3184370,
+        "slug": "3184370-qeparo-al",
+        "name": "Qeparo",
+        "region": "Vlorë",
+        "country": {
+          "code": "AL",
+          "slug": "albania",
+          "name": "Albania"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Tirane",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82,
+          40.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1798097,
         "slug": "1798097-qibao-cn",
         "name": "Qibao",
@@ -5070,6 +5124,33 @@
         "coordinates": [
           18.36,
           43.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 363243,
+        "slug": "363243-sarande-al",
+        "name": "Sarandë",
+        "region": "Vlorë",
+        "country": {
+          "code": "AL",
+          "slug": "albania",
+          "name": "Albania"
+        },
+        "population": "15,000",
+        "timezone": {
+          "name": "Europe/Tirane",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.01,
+          39.88
         ]
       }
     },
@@ -6015,6 +6096,33 @@
         "coordinates": [
           25.28,
           54.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3183719,
+        "slug": "3183719-vlore-al",
+        "name": "Vlorë",
+        "region": "Vlorë",
+        "country": {
+          "code": "AL",
+          "slug": "albania",
+          "name": "Albania"
+        },
+        "population": "90,000",
+        "timezone": {
+          "name": "Europe/Tirane",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.49,
+          40.47
         ]
       }
     },

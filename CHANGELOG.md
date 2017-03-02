@@ -1,6 +1,7 @@
 # Changelog
 
-### 1.1.19-dev
+### 1.1.19 (March 2, 2017)
+* Added *One Week in Albania: the Beach (Day 3)* post.
 * Extended *One Week in Albania: The North (Day 1)* post.
 * Updated *One Week in Albania: Central Albania (Day 2)* post.
 * Updated `html-minifier` dependency.
