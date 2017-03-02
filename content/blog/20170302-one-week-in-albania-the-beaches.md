@@ -19,7 +19,7 @@ The coastal town of Sarandë is a popular resort town in Albania. Plenty of (mos
 <!--more-->
 
 ## Sarandë
-We had the luck we could stay with a family friend of our hosts, only steps away from the Sarandë promenade and waterfront. Especially at night, this area becomes alive; from people enjoying the weather, to kids playing around in the sand. Later at night, most restaurants are at full capacity, and the nightclubs are opening up.
+Lucky for us, we were able to stay at a family members’ beach house in Sarandë, which was only steps away from the waterfront.  had the luck we could stay with a family friend of our hosts, only steps away from the Sarandë promenade and waterfront. Especially at night, this area becomes alive; from people enjoying the weather, to kids playing around in the sand. Later at night, most restaurants are at full capacity, and the nightclubs are opening up.
 
 {{< photo "IMG_8043.JPG" >}}
 
