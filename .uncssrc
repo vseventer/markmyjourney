@@ -1,5 +1,6 @@
 {
   "ignore": [
+    ".d-block",
     ".show > a",
     ".show > .dropdown-menu",
 
@@ -17,6 +18,9 @@
     "/^.leaflet-tooltip/",
     "/^.leaflet-zoom-anim/",
 
+    ".icon-stock-camera",
+
+    ".mmjy-map-icon",
     ".mmjy-tooltip"
   ]
 }
