@@ -13908,6 +13908,198 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_8323.JPG",
+        "date": "2016-07-09T10:03:18",
+        "description": "Ferry from Koman to Fierzë.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.83,
+          42.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8352.JPG",
+        "date": "2016-07-09T11:51:21",
+        "description": "Komani Lake (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.89,
+          42.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8366.JPG",
+        "date": "2016-07-09T12:29:11",
+        "description": "Komani Lake (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.94,
+          42.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8367.JPG",
+        "date": "2016-07-09T14:20:54",
+        "description": "Swimming spot in the Valbona River (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.01,
+          42.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8376.JPG",
+        "date": "2016-07-09T14:25:03",
+        "description": "Swimming spot in the Valbona River (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.01,
+          42.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8391.JPG",
+        "date": "2016-07-09T16:00:29",
+        "description": "View from our lodge over Valbona National Park.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.88,
+          42.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8491.JPG",
+        "date": "2016-07-10T11:34:19",
+        "description": "View over the National Park.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.87,
+          42.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8502.JPG",
+        "date": "2016-07-10T16:59:43",
+        "description": "League of Prizren.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.74,
+          42.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8510.JPG",
+        "date": "2016-07-10T17:03:52",
+        "description": "Bistrica River flowing into Prizren.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.74,
+          42.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8529.JPG",
+        "date": "2016-07-10T17:25:53",
+        "description": "View over Prizren and its castle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.74,
+          42.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8532.JPG",
+        "date": "2016-07-10T17:53:30",
+        "description": "Shadervan Square.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.74,
+          42.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8540.JPG",
+        "date": "2016-07-10T18:05:45",
+        "description": "Sinan Pasha Mosque.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.74,
+          42.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",

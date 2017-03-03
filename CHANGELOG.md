@@ -1,5 +1,10 @@
 # Changelog
 
+### 1.1.20-dev
+* Added *One Week in Albania: Valbona National Park & Prizren (Day 4)* post.
+* Updated `.uncssrc`.
+* Updated `concurrently` dependency.
+
 ### 1.1.19 (March 2, 2017)
 * Added *One Week in Albania: the Beach (Day 3)* post.
 * Extended *One Week in Albania: The North (Day 1)* post.

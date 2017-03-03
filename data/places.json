@@ -4455,6 +4455,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 786712,
+        "slug": "786712-prizren-xk",
+        "name": "Prizren",
+        "region": "Prizren",
+        "country": {
+          "code": "XK",
+          "slug": "kosovo",
+          "name": "Kosovo"
+        },
+        "population": "171,000",
+        "timezone": {
+          "name": "Europe/Belgrade",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.74,
+          42.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 6301301,
         "slug": "6301301-proserpine-airport-au",
         "name": "Proserpine Airport",
@@ -5934,6 +5961,33 @@
         "coordinates": [
           -66.83,
           -20.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3184193,
+        "slug": "3184193-valbone-al",
+        "name": "Valbonë",
+        "region": "Kukës",
+        "country": {
+          "code": "AL",
+          "slug": "albania",
+          "name": "Albania"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Tirane",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.89,
+          42.45
         ]
       }
     },
