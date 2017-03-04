@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.20-dev
+### 1.1.20 (March 5, 2017)
 * Added *One Week in Albania: Valbona National Park & Prizren (Day 4)* post.
 * Updated `.uncssrc`.
 * Updated `concurrently` dependency.
