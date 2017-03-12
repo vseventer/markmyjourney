@@ -14100,6 +14100,166 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_8580.JPG",
+        "date": "2016-07-11T12:54:30",
+        "description": "Lake Ohrid, with Pogradec on the far left.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.71,
+          40.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8583.JPG",
+        "date": "2016-07-11T12:54:40",
+        "description": "Lake Ohrid, with the mountains of National Park Galichica.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.71,
+          40.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8602.JPG",
+        "date": "2016-07-11T13:48:40",
+        "description": "View from the Red Tower.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78,
+          40.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8609.JPG",
+        "date": "2016-07-11T13:55:19",
+        "description": "Orthodox Cathedral.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78,
+          40.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8611.JPG",
+        "date": "2016-07-11T13:55:55",
+        "description": "National Education Museum.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78,
+          40.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8614.JPG",
+        "date": "2016-07-11T14:01:37",
+        "description": "Red Tower.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78,
+          40.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8620.JPG",
+        "date": "2016-07-11T14:06:37",
+        "description": "Korçë bazaar (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78,
+          40.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8626.JPG",
+        "date": "2016-07-11T14:08:57",
+        "description": "Korçë bazaar (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.77,
+          40.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8632.JPG",
+        "date": "2016-07-11T14:42:21",
+        "description": "Birra Korça.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.79,
+          40.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8639.JPG",
+        "date": "2016-07-11T17:35:13",
+        "description": "The first sight of Lake Ohrid.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.63,
+          41.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",

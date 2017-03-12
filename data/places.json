@@ -2758,6 +2758,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 782756,
+        "slug": "782756-korce-al",
+        "name": "Korçë",
+        "region": "Korçë",
+        "country": {
+          "code": "AL",
+          "slug": "albania",
+          "name": "Albania"
+        },
+        "population": "58,000",
+        "timezone": {
+          "name": "Europe/Tirane",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.78,
+          40.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3197537,
         "slug": "3197537-kotor-me",
         "name": "Kotor",
@@ -3076,6 +3103,33 @@
         "coordinates": [
           -67.77,
           -22.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 782150,
+        "slug": "782150-lake-ohrid-al",
+        "name": "Lake Ohrid",
+        "region": null,
+        "country": {
+          "code": "MK",
+          "slug": "macedonia",
+          "name": "Macedonia"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Skopje",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.75,
+          41
         ]
       }
     },
