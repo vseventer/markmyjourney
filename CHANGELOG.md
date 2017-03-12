@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.21 (March 12, 2017)
+* Added *One Week in Albania: Lake Ohrid & Korçë (Day 5)* post.
+* Updated `babel-loader` dependency.
+
 ### 1.1.20 (March 5, 2017)
 * Added *One Week in Albania: Valbona National Park & Prizren (Day 4)* post.
 * Updated `.uncssrc`.
