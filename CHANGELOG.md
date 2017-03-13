@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.22-dev
+* Added *One Week in Albania: Tirana (Day 6)* post.
+* Updated `babel-core` and `babel-preset-es2015` dependencies.
+
 ### 1.1.21 (March 12, 2017)
 * Added *One Week in Albania: Lake Ohrid & Korçë (Day 5)* post.
 * Updated `babel-loader` dependency.

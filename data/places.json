@@ -5832,6 +5832,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3183875,
+        "slug": "3183875-tirana-al",
+        "name": "Tirana",
+        "region": "Tiranë",
+        "country": {
+          "code": "AL",
+          "slug": "albania",
+          "name": "Albania"
+        },
+        "population": "375,000",
+        "timezone": {
+          "name": "Europe/Tirane",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82,
+          41.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2146218,
         "slug": "2146218-torquay-au",
         "name": "Torquay",
