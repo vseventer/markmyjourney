@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.22-dev
+### 1.1.22 (March 16, 2017)
 * Added *One Week in Albania: Tirana (Day 6)* post.
 * Updated `babel-core` and `babel-preset-es2015` dependencies.
 
