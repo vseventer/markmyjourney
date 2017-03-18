@@ -5,11 +5,11 @@ slug    = "one-week-in-albania-top-foods"
 aliases = [ "/one-week-in-albania-top-foods-day-7/" ]
 destinations = [ "europe", "albania" ]
 photos = [
-  "IMG_7935.JPG", "IMG_7943.JPG", "IMG_7944.JPG", "IMG_7945.JPG", "IMG_7950.JPG",
-  "IMG_7952.JPG", "IMG_8048.JPG", "IMG_8100.JPG", "IMG_7955.JPG", "IMG_8053.JPG",
-  "IMG_8092.JPG", "IMG_8099.JPG", "IMG_8103.JPG", "IMG_8299.JPG", "IMG_8302.JPG",
-  "IMG_8466.JPG", "IMG_8500.JPG", "IMG_8576.JPG", "IMG_8633.JPG", "IMG_8669.JPG",
-  "IMG_8737.JPG", "IMG_8789.JPG"
+  "IMG_8576.JPG", "IMG_8466.JPG", "IMG_7943.JPG", "IMG_8302.JPG", "IMG_7952.JPG",
+  "IMG_8100.JPG", "IMG_7950.JPG", "IMG_8633.JPG", "IMG_8048.JPG", "IMG_8053.JPG",
+  "IMG_8103.JPG", "IMG_7945.JPG", "IMG_7944.JPG", "IMG_8299.JPG", "IMG_7955.JPG",
+  "IMG_7935.JPG", "IMG_8092.JPG", "IMG_8669.JPG", "IMG_8789.JPG", "IMG_8099.JPG",
+  "IMG_8737.JPG", "IMG_8500.JPG"
 ]
 cover = "IMG_7945.JPG"
 +++
