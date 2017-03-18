@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.23-dev
+* Added *One Week in Albania: Top Foods (Day 7) post.*
+* Updated `jquery` and `sharp-cli` dependencies.
+
 ### 1.1.22 (March 16, 2017)
 * Added *One Week in Albania: Tirana (Day 6)* post.
 * Updated `babel-core` and `babel-preset-es2015` dependencies.

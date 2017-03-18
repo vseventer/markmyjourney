@@ -13332,6 +13332,118 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_7935.JPG",
+        "date": "2016-07-05T21:27:26",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82,
+          41.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7943.JPG",
+        "date": "2016-07-05T23:41:00",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82,
+          41.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7944.JPG",
+        "date": "2016-07-05T23:41:11",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82,
+          41.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7945.JPG",
+        "date": "2016-07-05T23:41:20",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82,
+          41.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7950.JPG",
+        "date": "2016-07-05T23:45:30",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82,
+          41.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7952.JPG",
+        "date": "2016-07-05T23:56:34",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82,
+          41.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_7955.JPG",
+        "date": "2016-07-06T08:33:24",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.65,
+          41.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_7957.JPG",
         "date": "2016-07-06T09:41:31",
         "description": "Cobblestone streets around Berat Castle.",
@@ -13492,6 +13604,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_8048.JPG",
+        "date": "2016-07-06T22:15:58",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          39.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8053.JPG",
+        "date": "2016-07-07T10:46:38",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          39.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_8059.JPG",
         "date": "2016-07-07T11:31:11",
         "description": "Theatre of Buthrotum ancient city.",
@@ -13540,9 +13684,73 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_8092.JPG",
+        "date": "2016-07-07T13:15:19",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          39.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_8096.JPG",
         "date": "2016-07-07T14:27:12",
         "description": "Ksamil Beach.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          39.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8099.JPG",
+        "date": "2016-07-07T14:52:47",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          39.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8100.JPG",
+        "date": "2016-07-07T14:56:24",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          39.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8103.JPG",
+        "date": "2016-07-07T15:03:32",
+        "description": null,
         "orientation": "landscape"
       },
       "geometry": {
@@ -13892,6 +14100,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_8299.JPG",
+        "date": "2016-07-08T16:17:32",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.58,
+          40.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8302.JPG",
+        "date": "2016-07-08T16:48:45",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.58,
+          40.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_8311.JPG",
         "date": "2016-07-08T18:13:03",
         "description": "Tucked-away beach of Vlorë.",
@@ -14004,6 +14244,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_8466.JPG",
+        "date": "2016-07-10T09:48:03",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.88,
+          42.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_8491.JPG",
         "date": "2016-07-10T11:34:19",
         "description": "View over the National Park.",
@@ -14013,6 +14269,22 @@
         "type": "Point",
         "coordinates": [
           19.87,
+          42.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8500.JPG",
+        "date": "2016-07-10T13:34:33",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.88,
           42.44
         ]
       }
@@ -14094,6 +14366,22 @@
         "coordinates": [
           20.74,
           42.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8576.JPG",
+        "date": "2016-07-11T09:03:35",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82,
+          41.32
         ]
       }
     },
@@ -14244,6 +14532,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_8633.JPG",
+        "date": "2016-07-11T15:09:11",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.79,
+          40.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_8639.JPG",
         "date": "2016-07-11T17:35:13",
         "description": "The first sight of Lake Ohrid.",
@@ -14286,6 +14590,22 @@
         "coordinates": [
           19.82,
           41.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8669.JPG",
+        "date": "2016-07-12T11:50:18",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82,
+          41.32
         ]
       }
     },
@@ -14430,6 +14750,38 @@
         "coordinates": [
           19.82,
           41.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8737.JPG",
+        "date": "2016-07-12T21:25:30",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82,
+          41.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8789.JPG",
+        "date": "2016-07-14T13:05:59",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.44,
+          42
         ]
       }
     },
