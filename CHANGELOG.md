@@ -1,6 +1,8 @@
 # Changelog
 
 ### 1.1.24-dev
+* Added *Monuments of Skopje* post.
+* Added *Historical Day Trips from London* draft.
 * Updated `moment` dependency.
 
 ### 1.1.23 (March 19, 2017)
