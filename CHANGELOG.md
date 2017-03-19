@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.23-dev
+### 1.1.23 (March 19, 2017)
 * Added *One Week in Albania: Top Foods (Day 7) post.*
 * Updated `jquery` and `sharp-cli` dependencies.
 
