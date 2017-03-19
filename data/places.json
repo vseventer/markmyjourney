@@ -544,6 +544,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2656173,
+        "slug": "2656173-bath-gb",
+        "name": "Bath",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "93,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.36,
+          51.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2166667,
         "slug": "2166667-bay-of-fires-au",
         "name": "Bay of Fires",
@@ -949,6 +976,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 10104113,
+        "slug": "10104113-cairngorms-national-park-gb",
+        "name": "Cairngorms National Park",
+        "region": "Scotland",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6,
+          57.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2172797,
         "slug": "2172797-cairns-au",
         "name": "Cairns",
@@ -970,6 +1024,33 @@
         "coordinates": [
           145.77,
           -16.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2653941,
+        "slug": "2653941-cambridge-gb",
+        "name": "Cambridge",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "128,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12,
+          52.2
         ]
       }
     },
@@ -1678,6 +1759,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2650225,
+        "slug": "2650225-edinburgh-gb",
+        "name": "Edinburgh",
+        "region": "Scotland",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "436,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2,
+          55.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3913354,
         "slug": "3913354-el-alto-international-airport-bo",
         "name": "El Alto International Airport",
@@ -2110,6 +2218,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2648579,
+        "slug": "2648579-glasgow-gb",
+        "name": "Glasgow",
+        "region": "Scotland",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "610,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.26,
+          55.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 8215727,
         "slug": "8215727-glenaire-au",
         "name": "Glenaire Beach",
@@ -2428,6 +2563,33 @@
         "coordinates": [
           -44.24,
           -23.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2646088,
+        "slug": "2646088-inverness-gb",
+        "name": "Inverness",
+        "region": "Scotland",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "41,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.22,
+          57.48
         ]
       }
     },
@@ -3109,6 +3271,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2645021,
+        "slug": "2645021-lake-district-national-park-gb",
+        "name": "Lake District National Park",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17,
+          54.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 782150,
         "slug": "782150-lake-ohrid-al",
         "name": "Lake Ohrid",
@@ -3157,6 +3346,33 @@
         "coordinates": [
           147.13,
           -41.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2644688,
+        "slug": "2644688-leeds-gb",
+        "name": "Leeds",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "455,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.55,
+          53.8
         ]
       }
     },
@@ -3244,6 +3460,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2644210,
+        "slug": "2644210-liverpool-gb",
+        "name": "Liverpool",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "469,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98,
+          53.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3196359,
         "slug": "3196359-ljubljana-si",
         "name": "Ljubljana",
@@ -3265,6 +3508,33 @@
         "coordinates": [
           14.51,
           46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2641805,
+        "slug": "2641805-loch-ness-gb",
+        "name": "Loch Ness",
+        "region": "Scotland",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45,
+          57.3
         ]
       }
     },
@@ -3535,6 +3805,33 @@
         "coordinates": [
           177.28,
           -17.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2643123,
+        "slug": "2643123-manchester-gb",
+        "name": "Manchester",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "396,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24,
+          53.48
         ]
       }
     },
@@ -3919,6 +4216,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2641673,
+        "slug": "2641673-newcastle-upon-tyne-gb",
+        "name": "Newcastle upon Tyne",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "192,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.61,
+          54.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 6301877,
         "slug": "6301877-noi-bai-international-airport-vn",
         "name": "Noi Bai International Airport",
@@ -4044,6 +4368,33 @@
         "coordinates": [
           10.75,
           59.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2640729,
+        "slug": "2640729-oxford-gb",
+        "name": "Oxford",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "155,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.26,
+          51.75
         ]
       }
     },
@@ -5508,6 +5859,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 785842,
+        "slug": "785842-skopje-mk",
+        "name": "Skopje",
+        "region": "Karpoš",
+        "country": {
+          "code": "MK",
+          "slug": "macedonia",
+          "name": "Macedonia"
+        },
+        "population": "475,000",
+        "timezone": {
+          "name": "Europe/Skopje",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.43,
+          42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3190261,
         "slug": "3190261-split-hr",
         "name": "Split",
@@ -5556,6 +5934,60 @@
         "coordinates": [
           18.06,
           59.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2636812,
+        "slug": "2636812-stonehenge-gb",
+        "name": "Stonehenge",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83,
+          51.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2636713,
+        "slug": "2636713-stratford-upon-avon-gb",
+        "name": "Stratford-upon-Avon",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "23,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.71,
+          52.19
         ]
       }
     },

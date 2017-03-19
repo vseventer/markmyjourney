@@ -3444,6 +3444,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1800.JPG",
+        "date": "2016-12-11T12:25:21",
+        "description": "Stonehenge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83,
+          51.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1809.JPG",
         "date": "2016-02-17T11:51:25",
         "description": "Panorama of the temple.",
@@ -3454,6 +3470,70 @@
         "coordinates": [
           115.17,
           -8.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1817.JPG",
+        "date": "2016-12-11T15:58:56",
+        "description": "Shopping and restaurants in Oxford.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.26,
+          51.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1828.JPG",
+        "date": "2016-12-11T16:11:23",
+        "description": "Hertford Bridge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.25,
+          51.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1829.JPG",
+        "date": "2016-12-11T16:12:37",
+        "description": "Radcliffe Camera.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.25,
+          51.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1831.JPG",
+        "date": "2016-12-11T16:13:45",
+        "description": "University Church of St. Mary the Virgin.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.25,
+          51.75
         ]
       }
     },
@@ -5012,6 +5092,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2885.JPG",
+        "date": "2017-02-26T14:58:33",
+        "description": "Roman Baths.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.36,
+          51.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2903.JPG",
+        "date": "2017-02-26T15:24:04",
+        "description": "Roman Baths and Bath Abbey.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.36,
+          51.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2910.JPG",
         "date": "2016-03-25T15:55:13",
         "description": "Eli Creek.",
@@ -5022,6 +5134,38 @@
         "coordinates": [
           153.22,
           -25.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2913.JPG",
+        "date": "2017-02-26T15:38:00",
+        "description": "City center of Bath, with the entrance to the Roman Baths on the right.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.36,
+          51.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2917.JPG",
+        "date": "2017-02-26T15:54:52",
+        "description": "Pulteney Bridge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.36,
+          51.38
         ]
       }
     },
@@ -5070,6 +5214,86 @@
         "coordinates": [
           153.09,
           -26.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2952.JPG",
+        "date": "2017-03-05T13:09:51",
+        "description": "Christ’s College.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12,
+          52.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2957.JPG",
+        "date": "2017-03-05T14:06:52",
+        "description": "Downtown Cambridge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12,
+          52.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2959.JPG",
+        "date": "2017-03-05T14:10:02",
+        "description": "Sidney Sussex College.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12,
+          52.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2968.JPG",
+        "date": "2017-03-05T14:19:13",
+        "description": "Great St. Mary’s Church.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12,
+          52.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2970.JPG",
+        "date": "2017-03-05T14:22:49",
+        "description": "Trinity College.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12,
+          52.2
         ]
       }
     },
@@ -5924,6 +6148,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3414-2.JPG",
+        "date": "2017-03-11T17:21:54",
+        "description": "Jester Statue.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.71,
+          52.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3414.JPG",
         "date": "2016-04-30T11:48:30",
         "description": "Leaving the South Island by ferry.",
@@ -5934,6 +6174,70 @@
         "coordinates": [
           174.08,
           -41.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3417.JPG",
+        "date": "2017-03-11T17:23:51",
+        "description": "Shakespeare’s Birthplace.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.71,
+          52.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3420.JPG",
+        "date": "2017-03-11T17:27:44",
+        "description": "Picturesque Stratford.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.71,
+          52.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3422.JPG",
+        "date": "2017-03-11T17:30:29",
+        "description": "Waterfront.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7,
+          52.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3430.JPG",
+        "date": "2017-03-11T18:47:20",
+        "description": "American Fountain.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.71,
+          52.19
         ]
       }
     },
