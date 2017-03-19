@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.24-dev
+* Updated `moment` dependency.
+
 ### 1.1.23 (March 19, 2017)
 * Added *One Week in Albania: Top Foods (Day 7) post.*
 * Updated `jquery` and `sharp-cli` dependencies.
