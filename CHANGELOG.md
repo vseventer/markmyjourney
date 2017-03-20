@@ -2,6 +2,7 @@
 
 ### 1.1.24-dev
 * Added *Monuments of Skopje* post.
+* Added *A Rainy Day in Lake District National Park* draft.
 * Added *Historical Day Trips from London* draft.
 * Updated `moment` dependency.
 
@@ -52,11 +53,11 @@
 ### 1.1.13 (February 9, 2017)
 * Added *Highlights of Zagreb & Krka National Park* post.
 * Added *Croatia’s Adriatic Coast: Split & Dubrovnik* draft.
-* Updated `Top Foods from Slovenia` cover.
+* Updated *Top Foods from Slovenia* cover.
 * Updated `concurrently` dependency.
 
 ### 1.1.12 (February 5, 2017)
-* Published `Top Foods from Slovenia` post.
+* Published *Top Foods from Slovenia* post.
 
 ### 1.1.11 (February 2, 2017)
 * Added *Ljubljana: the Cutest Capital City* post.

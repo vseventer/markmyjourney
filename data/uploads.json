@@ -5348,6 +5348,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3030.JPG",
+        "date": "2017-03-07T13:34:13",
+        "description": "On the way up to Orrest Head Viewpoint.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91,
+          54.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3034-2.JPG",
+        "date": "2017-03-07T13:39:23",
+        "description": "Lake Windermere from Orrest Head Viewpoint.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9,
+          54.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3034.JPG",
         "date": "2016-04-23T19:12:59",
         "description": "Pinot Gris from the Gisborne region.",
@@ -5412,6 +5444,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3041.JPG",
+        "date": "2017-03-07T14:53:33",
+        "description": "Lake Windermere from Waterhead.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.96,
+          54.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3049.JPG",
+        "date": "2017-03-07T15:46:29",
+        "description": "Friars Crag Viewpoint over Derwent Water.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.14,
+          54.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3052.JPG",
         "date": "2016-04-24T10:34:30",
         "description": "Road leading into Milford Sound.",
@@ -5438,6 +5502,54 @@
         "coordinates": [
           168.01,
           -45.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3065.JPG",
+        "date": "2017-03-07T16:11:24",
+        "description": "Keswick.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.14,
+          54.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3069.JPG",
+        "date": "2017-03-07T16:41:30",
+        "description": "Castlerigg Stone Circle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1,
+          54.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3080.JPG",
+        "date": "2017-03-07T17:16:22",
+        "description": "Ullswater from Pooley Bridge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.83,
+          54.61
         ]
       }
     },
