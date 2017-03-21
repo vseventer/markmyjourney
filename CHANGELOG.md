@@ -4,6 +4,8 @@
 * Added *Monuments of Skopje* post.
 * Added *A Rainy Day in Lake District National Park* draft.
 * Added *Historical Day Trips from London* draft.
+* Added `autoprefixer` and `postcss-cli` dependencies.
+* Fixed broken carousel transition.
 * Updated `moment` dependency.
 
 ### 1.1.23 (March 19, 2017)

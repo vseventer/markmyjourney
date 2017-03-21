@@ -47,7 +47,6 @@ module.exports = {
     'jquery/src/traversing',
 
     'bootstrap/js/src/carousel',
-    'bootstrap/js/src/collapse',
     'bootstrap/js/src/dropdown',
 
     'leaflet',
