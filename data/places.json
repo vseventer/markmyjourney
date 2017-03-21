@@ -1462,6 +1462,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2652144,
+        "slug": "2652144-craigellachie-gb",
+        "name": "Craigellachie",
+        "region": "Scotland",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.19,
+          57.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3941584,
         "slug": "3941584-cusco-pe",
         "name": "Cusco",
@@ -4638,6 +4665,33 @@
         "coordinates": [
           104.92,
           11.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2640255,
+        "slug": "2640255-pitlochry-gb",
+        "name": "Pitlochry",
+        "region": "Scotland",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "3,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73,
+          56.71
         ]
       }
     },

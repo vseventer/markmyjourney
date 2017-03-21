@@ -5572,6 +5572,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3098.JPG",
+        "date": "2017-03-08T14:18:39",
+        "description": "Queen’s View.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.86,
+          56.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3100.JPG",
         "date": "2016-04-24T12:36:52",
         "description": "Just after leaving the harbor.",
@@ -5620,6 +5636,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3110.JPG",
+        "date": "2017-03-08T14:44:51",
+        "description": "Winding roads near Pitlochry.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82,
+          56.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3112.JPG",
         "date": "2016-04-24T12:52:00",
         "description": "The “view.”",
@@ -5630,6 +5662,22 @@
         "coordinates": [
           167.89,
           -44.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3123.JPG",
+        "date": "2017-03-08T15:24:33",
+        "description": "Mountains surrounding Loch Garry.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.22,
+          56.83
         ]
       }
     },
@@ -5652,6 +5700,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3128.JPG",
+        "date": "2017-03-08T16:17:06",
+        "description": "Loch an Eilein.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82,
+          57.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3137.JPG",
+        "date": "2017-03-08T17:01:44",
+        "description": "Carrbridge old bridge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82,
+          57.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3139.JPG",
         "date": "2016-04-24T13:20:46",
         "description": "The rain did make for plenty of beautiful waterfalls.",
@@ -5662,6 +5742,22 @@
         "coordinates": [
           167.84,
           -44.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3142.JPG",
+        "date": "2017-03-08T17:19:47",
+        "description": "Archie the yak.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68,
+          57.3
         ]
       }
     },
@@ -5716,6 +5812,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3157.JPG",
+        "date": "2017-03-08T17:53:21",
+        "description": "Packhorse Bridge.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.34,
+          57.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3168.JPG",
         "date": "2016-04-25T12:52:08",
         "description": "Wine truck in Queenstown.",
@@ -5742,6 +5854,22 @@
         "coordinates": [
           168.66,
           -45.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3173.JPG",
+        "date": "2017-03-09T10:53:00",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21,
+          57.48
         ]
       }
     },
@@ -5780,6 +5908,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3186.JPG",
+        "date": "2017-03-09T11:16:46",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21,
+          57.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3191.JPG",
         "date": "2016-04-25T18:27:44",
         "description": "Lamb shoulder.",
@@ -5790,6 +5934,22 @@
         "coordinates": [
           168.79,
           -45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3193.JPG",
+        "date": "2017-03-09T11:29:10",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21,
+          57.49
         ]
       }
     },
@@ -5828,6 +5988,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3213.JPG",
+        "date": "2017-03-09T12:20:28",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2,
+          57.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3214.JPG",
         "date": "2016-04-26T15:05:33",
         "description": "Lake Wakatipu.",
@@ -5838,6 +6014,22 @@
         "coordinates": [
           168.65,
           -45.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3219.JPG",
+        "date": "2017-03-09T12:29:50",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21,
+          57.49
         ]
       }
     },
@@ -5876,6 +6068,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3225-2.JPG",
+        "date": "2017-03-09T14:27:51",
+        "description": "Loch Ness.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.36,
+          57.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3225.JPG",
         "date": "2014-11-02T19:38:23",
         "description": "Eating on the street next to traffic.",
@@ -5902,6 +6110,22 @@
         "coordinates": [
           168.65,
           -45.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3238.JPG",
+        "date": "2017-03-09T14:56:24",
+        "description": "Urquhart Castle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45,
+          57.33
         ]
       }
     },
@@ -5940,6 +6164,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3256.JPG",
+        "date": "2017-03-09T15:12:16",
+        "description": "Castle grounds with the Grant Tower, and view over Loch Ness looking north.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.44,
+          57.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3287-2.JPG",
+        "date": "2017-03-09T17:25:34",
+        "description": "Our castle hotel.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3,
+          57.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3287.JPG",
         "date": "2016-04-26T18:31:59",
         "description": "Venison.",
@@ -5950,6 +6206,38 @@
         "coordinates": [
           168.66,
           -45.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3293.JPG",
+        "date": "2017-03-09T18:04:15",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.23,
+          57.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3301.JPG",
+        "date": "2017-03-09T18:15:25",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.22,
+          57.48
         ]
       }
     },
