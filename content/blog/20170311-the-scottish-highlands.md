@@ -79,6 +79,6 @@ Our hotel was located only minutes away from Inverness, the largest and only cit
 
 {{< photo "IMG_3293.JPG" >}}
 
-Even though it was a Friday-night, the city was very quiet, and many shops already closed for the day. It is clear that the Highlands are all about quietness and relaxation, not shopping and partying. We managed to find a restaurant that was open, and after a typical Scottish meal and dessert we went back to our castle for a good nights’ sleep.
+Even though it was a Thursday-night, the city was very quiet, and many shops already closed for the day. It is clear that the Highlands are all about quietness and relaxation, not shopping and partying. We managed to find a restaurant that was open, and after a typical Scottish meal and dessert we went back to our castle for a good nights’ sleep.
 
 {{< photo "IMG_3301.JPG" >}}
