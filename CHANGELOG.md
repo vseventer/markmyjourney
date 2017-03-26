@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.25-dev
+* Added Sofia post.
+
 ### 1.1.24 (March 23, 2017)
 * Added *Monuments of Skopje* post.
 * Added *A Rainy Day in Lake District National Park* draft.

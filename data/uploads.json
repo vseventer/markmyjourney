@@ -15668,6 +15668,134 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_8834.JPG",
+        "date": "2016-07-16T12:20:52",
+        "description": "Church St. George Rotunda.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32,
+          42.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8836.JPG",
+        "date": "2016-07-16T12:36:41",
+        "description": "City Garden and National Theatre.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.33,
+          42.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8840.JPG",
+        "date": "2016-07-16T13:18:37",
+        "description": "Open Book Market.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32,
+          42.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8842.JPG",
+        "date": "2016-07-16T13:27:26",
+        "description": "Cyrillic alphabet.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32,
+          42.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8856.JPG",
+        "date": "2016-07-16T14:14:47",
+        "description": "Church of Sveti Sedmochislenitsi.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.33,
+          42.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8859.JPG",
+        "date": "2016-07-16T15:21:28",
+        "description": "Vitosha Boulevard, Sofia’s main boulevard.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32,
+          42.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8868.JPG",
+        "date": "2016-07-16T15:56:36",
+        "description": "Central Mineral Bath.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32,
+          42.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8877.JPG",
+        "date": "2016-07-16T16:11:00",
+        "description": "National Art Gallery.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.33,
+          42.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",

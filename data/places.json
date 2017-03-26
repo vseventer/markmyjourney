@@ -5940,6 +5940,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 727011,
+        "slug": "727011-sofia-bg",
+        "name": "Sofia",
+        "region": "Sofia-Capital",
+        "country": {
+          "code": "BG",
+          "slug": "bulgaria",
+          "name": "Bulgaria"
+        },
+        "population": "1.2m",
+        "timezone": {
+          "name": "Europe/Sofia",
+          "dstOffset": "UTC+00:00",
+          "gmtOffset": "UTC+00:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32,
+          42.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3190261,
         "slug": "3190261-split-hr",
         "name": "Split",
