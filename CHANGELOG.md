@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.26 (March 30, 2017)
+* Added *The Beauty of Transylvania: Bran Castle & Brasov* post.
+* Fixed incorrect captions in *One Week in Albania: Top Foods (Day 7) post.*
+
 ### 1.1.25 (March 27, 2017)
 * Added *The Eastern City of Sofia* post.
 
