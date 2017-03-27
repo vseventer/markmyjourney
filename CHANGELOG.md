@@ -1,7 +1,7 @@
 # Changelog
 
-### 1.1.25-dev
-* Added Sofia post.
+### 1.1.25 (March 27, 2017)
+* Added *The Eastern City of Sofia* post.
 
 ### 1.1.24 (March 23, 2017)
 * Added *Monuments of Skopje* post.
