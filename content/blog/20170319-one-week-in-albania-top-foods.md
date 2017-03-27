@@ -43,7 +43,7 @@ This is a must try when in Albania! We ate it as part of every single meal. This
 {{< photo "IMG_8302.JPG" >}}
 
 ### Djath kackavall & Djath I bardhë
-There are two dominant cheeses in Albania; feta (djath kackavall) and semi-hard salty yellow cheese (djath I bardhë). There is no such thing as a small piece of cheese in Albania. If you are ordering cheese, you’re probably getting at least 5–7 large pieces. It’s quite popular to eat feta together with watermelon, especially on a hot summer day. When ordering a salad, you’re most definitely getting a huge piece of feta on top, similar to what you would see in Greece.
+There are two dominant cheeses in Albania; feta (djath I bardhë) and semi-hard salty yellow cheese (djath kackavall). There is no such thing as a small piece of cheese in Albania. If you are ordering cheese, you’re probably getting at least 5–7 large pieces. It’s quite popular to eat feta together with watermelon, especially on a hot summer day. When ordering a salad, you’re most definitely getting a huge piece of feta on top, similar to what you would see in Greece.
 
 {{< photo "IMG_7952.JPG" >}}
 {{< photo "IMG_8100.JPG" >}}
