@@ -5572,6 +5572,70 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3091.JPG",
+        "date": "2017-03-08T10:14:44",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.25,
+          55.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3092.JPG",
+        "date": "2017-03-08T10:23:05",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.25,
+          55.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3093.JPG",
+        "date": "2017-03-08T10:25:34",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.25,
+          55.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3096.JPG",
+        "date": "2017-03-08T10:42:02",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.26,
+          55.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3098.JPG",
         "date": "2017-03-08T14:18:39",
         "description": "Queen’s View.",
@@ -6276,6 +6340,70 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3321.JPG",
+        "date": "2017-03-10T15:08:17",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.19,
+          55.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3331.JPG",
+        "date": "2017-03-10T15:23:22",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.19,
+          55.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3333.JPG",
+        "date": "2017-03-10T15:24:39",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2,
+          55.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3334-2.JPG",
+        "date": "2017-03-10T15:25:51",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2,
+          55.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3334.JPG",
         "date": "2016-04-27T19:47:59",
         "description": "New Zealand mussels.",
@@ -6324,6 +6452,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3346.JPG",
+        "date": "2017-03-10T15:57:34",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2,
+          55.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3352.JPG",
         "date": "2016-04-28T11:45:18",
         "description": "Castle Hill.",
@@ -6334,6 +6478,22 @@
         "coordinates": [
           171.72,
           -43.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3353.JPG",
+        "date": "2017-03-10T16:08:14",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2,
+          55.95
         ]
       }
     },
@@ -6366,6 +6526,22 @@
         "coordinates": [
           172.64,
           -43.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3362.JPG",
+        "date": "2017-03-10T16:12:21",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2,
+          55.95
         ]
       }
     },
