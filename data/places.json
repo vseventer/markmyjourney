@@ -976,6 +976,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 683506,
+        "slug": "683506-bucharest-ro",
+        "name": "Bucharest",
+        "region": "Bucureşti",
+        "country": {
+          "code": "RO",
+          "slug": "romania",
+          "name": "Romania"
+        },
+        "population": "1.9m",
+        "timezone": {
+          "name": "Europe/Bucharest",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.11,
+          44.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3054643,
         "slug": "3054643-budapest-hu",
         "name": "Budapest",
