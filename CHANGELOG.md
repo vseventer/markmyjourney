@@ -3,7 +3,7 @@
 ### 1.1.26 (March 30, 2017)
 * Added *Cities of Scotland: Glasgow & Edinburgh* draft.
 * Added *The Modern City of Bucharest* draft.
-* Added *The Beauty of Transylvania: Bran Castle & Brasov* post.
+* Added *The Beauty of Transylvania: Bran Castle & Brașov* post.
 * Fixed incorrect captions in *One Week in Albania: Top Foods (Day 7) post.*
 
 ### 1.1.25 (March 27, 2017)
