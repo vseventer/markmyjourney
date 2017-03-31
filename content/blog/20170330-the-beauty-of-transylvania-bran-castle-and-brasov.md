@@ -10,7 +10,7 @@ photos = [
 ]
 cover = "IMG_9059.JPG"
 +++
-Transylvania is the central region of Romania, known for its medieval castles, forests, and mountains. From the countries’ capital, Bucharest, Transylvania is located about three hours north. We went on a day trip, visiting Peleș Castle, Bran Castle, also known as Dracula’s Castle, and the picturesque town of Brașov.
+Transylvania is the central region of Romania, known for its medieval castles, forests, and mountains. From the countries’ capital, [Bucharest]({{< ref "20170402-the-modern-city-of-bucharest.md" >}}), Transylvania is located about three hours north. We went on a day trip, visiting Peleș Castle, Bran Castle, also known as Dracula’s Castle, and the picturesque town of Brașov.
 <!--more-->
 
 ## Peleș Castle
@@ -27,7 +27,7 @@ The most famous castle of Transylvania is Bran Castle, better known as Dracula�
 
 {{< photo "IMG_9016.JPG" >}}
 
-Surprisingly, the inside of the castle doesn’t look anything like Dracula’s home. Most rooms are empty, while the cobblestones in the courtyard are nothing but picturesque. The architecture reminded us more of small picturesque towns we have seen on our travels, than the home of a vampire.
+Surprisingly, the inside of the castle doesn’t look anything like Dracula’s home. Most rooms are empty, while the cobblestones in the courtyard are nothing but picturesque. The architecture reminded us more of small Bavarian towns we have seen on our travels, than the home of a vampire.
 
 {{< photo "IMG_9022.JPG" >}}
 

@@ -29,7 +29,7 @@ Behind the Memorial House, away from the main street, you can find the Feudal To
 
 {{< photo "IMG_8765.JPG" >}}
 
-You can’t help but notice the sheer amount of monuments around the city center. Especially every corner on Macedonia Street seems to have one. After asking for an explanation, we were told the local government is obsessed with statues, and thinks it’s the perfect way to attract more tourists to the city. Many of the monuments look familiar, like “The Bull”, a replica of the one located on Wall Street in New York City.
+You can’t help but notice the sheer amount of monuments around the city center. After asking for an explanation, we were told the local government is obsessed with statues, and thinks it’s the perfect way to attract more tourists to the city. Many of the monuments look familiar, like “The Bull”, a replica of the one located on Wall Street in New York City.
 
 {{< photo "IMG_8750.JPG" >}}
 
