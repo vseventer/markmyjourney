@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.27-dev
+* Published *The Modern City of Bucharest* post.
+
 ### 1.1.26 (March 30, 2017)
 * Added *Cities of Scotland: Glasgow & Edinburgh* draft.
 * Added *The Modern City of Bucharest* draft.
