@@ -79,7 +79,7 @@
     "moment"         : "2.18.x",
     "node-sass"      : "4.5.x",
     "rimraf"         : "2.6.x",
-    "sharp-cli"      : "1.2.x",
+    "sharp-cli"      : "1.3.x",
     "@songkick/replaceinfiles": "1.1.x",
     "sprity-cli"     : "1.0.x",
     "uglifyjs"       : "2.4.x",

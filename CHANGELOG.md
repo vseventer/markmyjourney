@@ -2,6 +2,7 @@
 
 ### 1.1.27-dev
 * Published *The Modern City of Bucharest* post.
+* Updated `sharp-cli` dependency.
 
 ### 1.1.26 (March 30, 2017)
 * Added *Cities of Scotland: Glasgow & Edinburgh* draft.
