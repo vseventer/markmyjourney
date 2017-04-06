@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.27-dev
+### 1.1.27 (April 6, 2017)
 * Published *The Modern City of Bucharest* post.
 * Updated `sharp-cli` dependency.
 
