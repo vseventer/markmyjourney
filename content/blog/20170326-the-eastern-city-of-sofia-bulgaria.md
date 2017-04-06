@@ -9,7 +9,7 @@ photos = [
 ]
 cover = "IMG_8859.JPG"
 +++
-After [Bucharest]({{< ref "20170402-the-modern-city-of-bucharest.md" >}}) and Belgrade, Sofia is the third-biggest city in the Balkans. Home to over one million people, the city felt massive, especially arriving from the smaller cities of [Skopje in Macedonia]({{< ref "20170323-monuments-of-skopje.md" >}}) and [Tirana in Albania]({{< ref "20170316-one-week-in-albania-tirana.md" >}}). The city blocks in the center seemed never-ending, with lots to see, so off we went.
+After [Bucharest]({{< ref "20170406-the-modern-city-of-bucharest.md" >}}) and Belgrade, Sofia is the third-biggest city in the Balkans. Home to over one million people, the city felt massive, especially arriving from the smaller cities of [Skopje in Macedonia]({{< ref "20170323-monuments-of-skopje.md" >}}) and [Tirana in Albania]({{< ref "20170316-one-week-in-albania-tirana.md" >}}). The city blocks in the center seemed never-ending, with lots to see, so off we went.
 <!--more-->
 
 Our walking tour started in the city center, next to the Palace of Justice. The city center has a grid-like layout, with its many city blocks centered around the Todor Alexandrov, Sveta Nedelya, and Alabin boulevards. We walked north along the Sveta Nedelya boulevard, and stumbled upon the Church St. George, surrounded by archeological sites of the ancient settlement of Serdica. The church is the oldest building in Sofia, built by the Romans in the fourth century.
