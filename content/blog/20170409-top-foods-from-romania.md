@@ -3,8 +3,8 @@ date   = "2017-04-09"
 title  = "Top Foods from Romania"
 destinations = [ "europe", "romania" ]
 photos = [
-  "IMG_8960.JPG", "IMG_9072.JPG", "IMG_8963.JPG", "IMG_8965.JPG", "IMG_6639.JPG",
-  "IMG_9060.JPG", "IMG_8962.JPG", "IMG_8978.JPG"
+  "IMG_8960.JPG", "IMG_8963.JPG", "IMG_8965.JPG", "IMG_6639.JPG", "IMG_9060.JPG",
+  "IMG_8962.JPG", "IMG_8978.JPG"
 ]
 cover = "IMG_8963.JPG"
 +++
@@ -15,7 +15,6 @@ The Romanian cuisine is heavily influenced by its [Balkan neighbors]({{< ref "20
 We started out our lunch with an eggplant salad platter, which contained three different dips. The first, Salata de vinete, is a traditional roasted eggplant salad mixed with lemon, mustard, and sometimes mayo. Second, the Fasole Bătută, a white bean dip, and finally Zacuscă, which are eggplants mixed with peppers, onions, and tomato paste similar to ajvar. Our favorite was the Salata de vinete (green), with its very distinctive and creamy taste.
 
 {{< photo "IMG_8960.JPG" >}}
-{{< photo "IMG_9072.JPG" >}}
 
 ## Cabbage Rolls with Polenta
 For our main we shared a gigantic portion of Sarmale with Polenta; cabbage leaves filled with minced meat and spices, paired with cornmeal, cooked in the same way as porridge. This is quite a popular dish in neighboring countries as well, however we quite liked the Romanian version. It’s very heavy though, so you will most likely need a siesta after.
