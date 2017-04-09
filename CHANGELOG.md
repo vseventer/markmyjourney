@@ -1,7 +1,8 @@
 # Changelog
 
-### 1.1.28-dev
+### 1.1.28 (April 9, 2017)
 * Added *The Northern Cities of England* draft.
+* Added *Top Foods from Romania* post.
 
 ### 1.1.27 (April 6, 2017)
 * Published *The Modern City of Bucharest* post.

@@ -16452,6 +16452,70 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_8960.JPG",
+        "date": "2016-07-18T15:24:20",
+        "description": "Eggplant salad platter.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1,
+          44.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8962.JPG",
+        "date": "2016-07-18T15:33:25",
+        "description": "Țuică.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1,
+          44.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8963.JPG",
+        "date": "2016-07-18T15:45:32",
+        "description": "Cabbage Rolls with Polenta.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1,
+          44.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8965.JPG",
+        "date": "2016-07-18T16:02:46",
+        "description": "Papanasi.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1,
+          44.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_8968.JPG",
         "date": "2016-07-18T16:19:22",
         "description": "Memorial of Rebirth.",
@@ -16488,6 +16552,22 @@
         "date": "2016-07-18T16:53:02",
         "description": "Biserica Sfântul Ioan Nou.",
         "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1,
+          44.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_8978.JPG",
+        "date": "2016-07-18T21:31:34",
+        "description": "Romanian wine.",
+        "orientation": "portrait"
       },
       "geometry": {
         "type": "Point",
@@ -16612,6 +16692,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_9060.JPG",
+        "date": "2016-07-19T19:09:44",
+        "description": "Covricheese.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.59,
+          45.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_9065.JPG",
         "date": "2016-07-19T19:23:57",
         "description": "Restaurants on the main square.",
@@ -16622,6 +16718,22 @@
         "coordinates": [
           25.59,
           45.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9072.JPG",
+        "date": "2016-07-19T23:10:58",
+        "description": "A white eggplant, popular in Romania.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1,
+          44.43
         ]
       }
     },
