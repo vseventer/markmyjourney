@@ -5300,6 +5300,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2975.JPG",
+        "date": "2017-03-06T10:51:51",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98,
+          53.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2976.JPG",
         "date": "2016-04-10T14:26:42",
         "description": "Crown Casino on Southbank.",
@@ -5310,6 +5326,22 @@
         "coordinates": [
           144.96,
           -37.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2979-2.JPG",
+        "date": "2017-03-06T10:57:21",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98,
+          53.41
         ]
       }
     },
@@ -5332,6 +5364,70 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2982.JPG",
+        "date": "2017-03-06T10:58:45",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98,
+          53.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2986.JPG",
+        "date": "2017-03-06T11:05:07",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98,
+          53.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2991.JPG",
+        "date": "2017-03-06T11:12:14",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98,
+          53.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2992.JPG",
+        "date": "2017-03-06T11:32:27",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99,
+          53.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2993.JPG",
         "date": "2016-04-14T11:15:42",
         "description": "Southern Cross Station.",
@@ -5342,6 +5438,118 @@
         "coordinates": [
           144.95,
           -37.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2997.JPG",
+        "date": "2017-03-06T11:41:03",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99,
+          53.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3003.JPG",
+        "date": "2017-03-06T11:57:42",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99,
+          53.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3009.JPG",
+        "date": "2017-03-06T12:36:16",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99,
+          53.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3013.JPG",
+        "date": "2017-03-06T15:55:48",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.24,
+          53.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3014.JPG",
+        "date": "2017-03-06T15:59:46",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.25,
+          53.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3017.JPG",
+        "date": "2017-03-06T16:07:50",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.25,
+          53.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3023.JPG",
+        "date": "2017-03-06T16:22:54",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.25,
+          53.48
         ]
       }
     },
@@ -6644,6 +6852,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3383.JPG",
+        "date": "2017-03-11T09:49:53",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.61,
+          54.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3386-2.JPG",
+        "date": "2017-03-11T09:59:55",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.61,
+          54.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3386.JPG",
         "date": "2016-04-29T16:10:46",
         "description": "Kaikoura lookout on the way to Picton.",
@@ -6660,6 +6900,70 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3390.JPG",
+        "date": "2017-03-11T10:03:06",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.62,
+          54.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3392.JPG",
+        "date": "2017-03-11T10:11:09",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.61,
+          54.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3394.JPG",
+        "date": "2017-03-11T10:13:28",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.61,
+          54.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3395-2.JPG",
+        "date": "2017-03-11T10:26:00",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.61,
+          54.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3395.JPG",
         "date": "2016-04-29T16:12:48",
         "description": "Our campervan.",
@@ -6670,6 +6974,70 @@
         "coordinates": [
           173.69,
           -42.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3400.JPG",
+        "date": "2017-03-11T13:39:40",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54,
+          53.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3401.JPG",
+        "date": "2017-03-11T14:02:43",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54,
+          53.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3402.JPG",
+        "date": "2017-03-11T14:04:10",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54,
+          53.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3407.JPG",
+        "date": "2017-03-11T14:07:46",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54,
+          53.8
         ]
       }
     },
