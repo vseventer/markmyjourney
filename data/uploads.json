@@ -16740,6 +16740,150 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_9074.JPG",
+        "date": "2016-07-20T12:13:48",
+        "description": "National Theatre.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.46,
+          44.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9079.JPG",
+        "date": "2016-07-20T12:21:10",
+        "description": "Prince Mihailo Monument and National Museum.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.46,
+          44.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9084.JPG",
+        "date": "2016-07-20T12:35:25",
+        "description": "Skadarlija.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.46,
+          44.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9091.JPG",
+        "date": "2016-07-20T13:25:29",
+        "description": "Museum of Vuk and Dositej.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.46,
+          44.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9100.JPG",
+        "date": "2016-07-20T13:44:14",
+        "description": "Northern entrance into the castle.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.45,
+          44.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9105.JPG",
+        "date": "2016-07-20T14:00:33",
+        "description": "The Danube and Sava rivers joining together.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.45,
+          44.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9123.JPG",
+        "date": "2016-07-20T14:21:06",
+        "description": "Pobednik.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.45,
+          44.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9127.JPG",
+        "date": "2016-07-20T14:29:31",
+        "description": "500 billion dinars, worth less then 1$.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.45,
+          44.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9131.JPG",
+        "date": "2016-07-20T14:34:09",
+        "description": "Bridges over the Sava River.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.45,
+          44.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "P1000740.JPG",
         "date": "2014-10-19T09:05:50",
         "description": "Preparation stage, about an hour before the start.",

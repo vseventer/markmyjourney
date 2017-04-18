@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.29 (April 18, 2017)
+* Added *The Dynamic City of Belgrade* post.
+
 ### 1.1.28 (April 9, 2017)
 * Added *The Northern Cities of England* draft.
 * Added *Top Foods from Romania* post.

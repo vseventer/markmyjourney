@@ -679,6 +679,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 792680,
+        "slug": "792680-belgrade-rs",
+        "name": "Belgrade",
+        "region": "Central Serbia",
+        "country": {
+          "code": "RS",
+          "slug": "serbia",
+          "name": "Serbia"
+        },
+        "population": "1.3m",
+        "timezone": {
+          "name": "Europe/Belgrade",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.47,
+          44.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3186084,
         "slug": "3186084-berat-al",
         "name": "Berat",
