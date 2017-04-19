@@ -382,6 +382,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 264371,
+        "slug": "264371-athens-gr",
+        "name": "Athens",
+        "region": "Attica",
+        "country": {
+          "code": "GR",
+          "slug": "greece",
+          "name": "Greece"
+        },
+        "population": "664,000",
+        "timezone": {
+          "name": "Europe/Athens",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.72,
+          37.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2193733,
         "slug": "2193733-auckland-nz",
         "name": "Auckland",
@@ -1732,6 +1759,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 263219,
+        "slug": "263219-delphi-gr",
+        "name": "Delphi",
+        "region": "Central Greece",
+        "country": {
+          "code": "GR",
+          "slug": "greece",
+          "name": "Greece"
+        },
+        "population": "2,000",
+        "timezone": {
+          "name": "Europe/Athens",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.49,
+          38.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 10227101,
         "slug": "10227101-denarau-island-fj",
         "name": "Denarau Island",
@@ -2914,6 +2968,33 @@
         "coordinates": [
           132.44,
           -13.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 261601,
+        "slug": "261601-kalampaka-gr",
+        "name": "Kalampáka",
+        "region": "Thessaly",
+        "country": {
+          "code": "GR",
+          "slug": "greece",
+          "name": "Greece"
+        },
+        "population": "8,000",
+        "timezone": {
+          "name": "Europe/Athens",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.63,
+          39.7
         ]
       }
     },
@@ -4156,6 +4237,33 @@
         "coordinates": [
           -68.83,
           -32.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6941098,
+        "slug": "6941098-meteora-gr",
+        "name": "Meteora",
+        "region": "Thessaly",
+        "country": {
+          "code": "GR",
+          "slug": "greece",
+          "name": "Greece"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Athens",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.63,
+          39.71
         ]
       }
     },
