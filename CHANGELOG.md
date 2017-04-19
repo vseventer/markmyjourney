@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.30-dev
+* Added *The Monasteries of Meteora* post.
+* Added *Ancient Greece in Delphi & Athens* draft.
+
 ### 1.1.29 (April 18, 2017)
 * Added *The Dynamic City of Belgrade* post.
 
