@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.30-dev
+### 1.1.30 (April 20, 2017)
 * Added *The Monasteries of Meteora* post.
 * Added *Ancient Greece in Delphi & Athens* draft.
 
