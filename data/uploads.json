@@ -7220,6 +7220,54 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3524.JPG",
+        "date": "2017-04-14T15:38:11",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.59,
+          51.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3532.JPG",
+        "date": "2017-04-14T16:57:01",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.63,
+          51.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3535.JPG",
+        "date": "2017-04-14T19:59:00",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.46,
+          50.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3537.JPG",
         "date": "2016-05-01T15:16:53",
         "description": "Peak of Mount Ruapehu in Tongariro National Park.",
@@ -7230,6 +7278,22 @@
         "coordinates": [
           175.73,
           -39.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3538.JPG",
+        "date": "2017-04-14T20:02:41",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45,
+          50.35
         ]
       }
     },
@@ -7252,6 +7316,70 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3553.JPG",
+        "date": "2017-04-15T10:10:30",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.32,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3562.JPG",
+        "date": "2017-04-15T10:33:00",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.47,
+          50.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3565.JPG",
+        "date": "2017-04-15T11:25:35",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.65,
+          50.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3573.JPG",
+        "date": "2017-04-15T11:35:06",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.65,
+          50.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3579.JPG",
         "date": "2016-05-02T10:38:13",
         "description": "Waikato River and the cliff used for bungee jumps and swings.",
@@ -7268,6 +7396,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3590.JPG",
+        "date": "2017-04-15T13:26:29",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.48,
+          50.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3595.JPG",
         "date": "2016-05-02T11:27:32",
         "description": "Huka Falls in Taupo.",
@@ -7278,6 +7422,22 @@
         "coordinates": [
           176.09,
           -38.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3602.JPG",
+        "date": "2017-04-15T13:46:04",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.48,
+          50.21
         ]
       }
     },
@@ -7332,6 +7492,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3637.JPG",
+        "date": "2017-04-15T18:24:44",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.53,
+          50.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3643.JPG",
         "date": "2016-05-03T10:20:37",
         "description": "The inside of our campervan. During the day, the bed is converted to the seating area.",
@@ -7342,6 +7518,22 @@
         "coordinates": [
           175.77,
           -38.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3645.JPG",
+        "date": "2017-04-16T12:59:36",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14,
+          50.82
         ]
       }
     },
@@ -7406,6 +7598,70 @@
         "coordinates": [
           -54.57,
           -25.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3657.JPG",
+        "date": "2017-04-16T13:39:36",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14,
+          50.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3662.JPG",
+        "date": "2017-04-16T14:14:25",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14,
+          50.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3667.JPG",
+        "date": "2017-04-16T15:38:29",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.22,
+          50.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3680.JPG",
+        "date": "2017-04-16T16:07:38",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2,
+          50.74
         ]
       }
     },

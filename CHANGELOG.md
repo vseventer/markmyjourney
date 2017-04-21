@@ -2,6 +2,7 @@
 
 ### 1.1.31 (April 23, 2017)
 * Published *Ancient Greece in Delphi & Athens* post.
+* Added *Easter Break in Cornwall* draft.
 
 ### 1.1.30 (April 20, 2017)
 * Added *The Monasteries of Meteora* post.

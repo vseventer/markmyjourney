@@ -1003,6 +1003,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2654710,
+        "slug": "2654710-brighton-gb",
+        "name": "Brighton",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "139,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14,
+          50.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2174003,
         "slug": "2174003-brisbane-au",
         "name": "Brisbane",
@@ -1024,6 +1051,33 @@
         "coordinates": [
           153.03,
           -27.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2654675,
+        "slug": "2654675-bristol-gb",
+        "name": "Bristol",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "431,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6,
+          51.46
         ]
       }
     },
@@ -3784,6 +3838,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3345093,
+        "slug": "3345093-looe-gb",
+        "name": "Looe",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "5,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45,
+          50.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2159545,
         "slug": "2159545-lorne-au",
         "name": "Lorne",
@@ -6210,6 +6291,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2638778,
+        "slug": "2638778-st-ives-gb",
+        "name": "St Ives",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "11,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.49,
+          50.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2673730,
         "slug": "2673730-stockholm-se",
         "name": "Stockholm",
@@ -6609,6 +6717,33 @@
         "coordinates": [
           144.33,
           -38.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2635650,
+        "slug": "2635650-torquay-gb",
+        "name": "Torquay",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "65,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.51,
+          50.46
         ]
       }
     },
