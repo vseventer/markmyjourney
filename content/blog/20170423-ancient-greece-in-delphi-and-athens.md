@@ -1,5 +1,4 @@
 +++
-draft  = true
 date   = "2017-04-23"
 title  = "Ancient Greece in Delphi & Athens"
 slug   = "ancient-greece-in-delphi-and-athens"
