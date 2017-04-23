@@ -27,7 +27,7 @@ We left Bristol via the west, by taking the iconic Clifton Suspension Bridge. Th
 {{< photo "IMG_3532.JPG" >}}
 
 ## Cornwall
-Due to the traffic, we arrived in the Cornwall area about three hours later then planned. We changed our plans, and decided to head to Looe, a small coastal town on the southeast corner of Cornwall. The towns in this area of the country look very similar, with a harbor surrounded by houses built on the hillside.
+Due to the traffic, we arrived in the Cornwall area about three hours later than planned. We changed our plans, and decided to head to Looe, a small coastal town on the southeast corner of Cornwall. The towns in this area of the country look very similar, with a harbor surrounded by houses built on the hillside.
 
 {{< photo "IMG_3535.JPG" >}}
 
@@ -64,8 +64,22 @@ Our last stop before leaving Cornwall was Torquay, also known as the capital of 
 {{< photo "IMG_3637.JPG" >}}
 
 ## Brighton
+Our last stop on our Easter break was the seaside city of Brighton, located just over an hour south of London. Brighton is a popular day trip destination from the capital, with its iconic pier and long beach. During our visit, it was not too warm, so most of the tourists simply enjoyed wandering around the beachfront.
+
 {{< photo "IMG_3645.JPG" >}}
+
+The Brighton Pier, which extends half a kilometer into the Channel, offers entertainment, attraction rides, and a variety of restaurants. We spend a few pounds trying our luck in the Palace of Fun, a hall offering a variety of games, like coin pushers.
+
 {{< photo "IMG_3657.JPG" >}}
+
+We walked back towards our car through the Brighton Lanes; a neighborhood with many interconnected alleyways, all lined with boutique stores and coffee shops. We definitely recommend getting lost here!
+
 {{< photo "IMG_3662.JPG" >}}
+
+Our final stop before heading back to London was twenty miles east of Brighton, at Beachy Head. This area is famous for its chalk-white cliffs, and picturesque lighthouses. We went for a stroll in the grassy area next to the cliffs (make sure not to fall in, there are no fences anywhere!), admiring the beauty of this area of England.
+
 {{< photo "IMG_3667.JPG" >}}
+
+One mile further up the road you can make a stop at the Seven Sisters Cliffs; a series of seven chalk cliffs over three kilometers, along the beach made up of stone. As with the previous spot, the scenery around here is breathtaking!
+
 {{< photo "IMG_3680.JPG" >}}
