@@ -62,7 +62,7 @@ Looks familiar? That’s because suflaqe is pretty much like the Greek gyro. The
 {{< photo "IMG_8048.JPG" >}}
 
 ### Börek
-You will find many versions of this beloved food in the Balkans as well as in Turkey. Whether the dough is filled with spinach, feta, beans, or meat, you can’t escape trying it somewhere in the Balkans. It is quite satisfying as a meal of its own or simply as a snack. We quite loved the cheese filling, with our favorites being homemade ones in Albania. Often, you’ll buy this together with dhallë (drinkable yoghurt) to wash it down.
+You will find many versions of this beloved food in the Balkans as well as in Turkey. Whether the dough is filled with spinach, feta, beans, or meat, you can’t escape trying it somewhere in the Balkans. It is quite satisfying as a meal of its own or simply as a snack. We quite loved the cheese filling, with our favorites being homemade ones in Albania. Often, you’ll buy this together with dhallë (drinkable yogurt) to wash it down.
 
 {{< photo "IMG_8053.JPG" >}}
 

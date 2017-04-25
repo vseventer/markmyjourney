@@ -42,6 +42,6 @@ For desert, the country offers a variety of different ice creams. Fun to say and
 
 Finally, New Zealand is a big player in the **wine** industry. We found that white wines had a stronger presence, with the Marlborough and Hawke’s Bay producing great Chardonnay, Pinot Gris, and Sauvignon Blanc. In terms of red wine, we found that Pinot Noirs were heavily emphasized. The Otago region in particular produces what we thought to be excellent Pinot Noirs.
 
-* The best: **venison** for dinner, and **manuka honey** on yoghurt or in tea.
+* The best: **venison** for dinner, and **manuka honey** on yogurt or in tea.
 * The worst: **spaghetti on toast**.
 * The healthiest: **manuka honey**, or the **kiwifruit**.

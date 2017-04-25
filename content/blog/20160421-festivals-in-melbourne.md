@@ -48,7 +48,7 @@ The festival, held between 7 at night and 7 in the morning, draws hundreds of th
 * When: February,
 * Where: Lonsdale Street (Melbourne CBD).
 
-The Melbourne CBD is home to a couple of smaller festivals, often organized by local minorities. The Lonsdale Street Festival is such a festival, organized by the Greek minority in Melbourne. Lonsdale Street turns into a street full of street vendors selling yoghurt, souvlakis, and baklava. On stage, people engage in the traditional Greek dance. We highly recommend visiting one of the smaller festivals, as they still have a lot to offer!
+The Melbourne CBD is home to a couple of smaller festivals, often organized by local minorities. The Lonsdale Street Festival is such a festival, organized by the Greek minority in Melbourne. Lonsdale Street turns into a street full of street vendors selling yogurt, souvlakis, and baklava. On stage, people engage in the traditional Greek dance. We highly recommend visiting one of the smaller festivals, as they still have a lot to offer!
 
 ## AFL Grand Final
 * When: October,

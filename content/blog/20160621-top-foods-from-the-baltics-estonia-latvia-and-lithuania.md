@@ -30,7 +30,7 @@ For lunch we headed to the Central Market and tried **kartupeļu pankūkas** (po
 We also tried the **jāņu siers** cheese, which is a type of farmer’s cheese. It doesn’t taste like much, but we liked it on a cracker. We washed the pancakes and cheese down with a shot of **black balsam**, the traditional Latvian liqueur. We immediately regretted this decision, as it tasted quite bitter! We tried to cover up the taste with the much beloved **Napoleon cake**, which consists of layers of flaky pastry covered in cream, and sometimes raspberry jam. We weren’t amazed by it, but it definitely helped to fix the bitter taste of the black balsam.
 
 ## Lithuania
-The cuisine of Lithuania was a bit of a miss. First, we tried the cold version of the [beetroot soup]({{< ref "20160614-top-foods-from-russia.md" >}}): **šaltibarščiai**. This soup is very popular in the Baltics, but wasn’t our cup of soup, we definitely preferred the hot Russian version. It tasted like diluted yoghurt with almost non-existent beetroot flavor.
+The cuisine of Lithuania was a bit of a miss. First, we tried the cold version of the [beetroot soup]({{< ref "20160614-top-foods-from-russia.md" >}}): **šaltibarščiai**. This soup is very popular in the Baltics, but wasn’t our cup of soup, we definitely preferred the hot Russian version. It tasted like diluted yogurt with almost non-existent beetroot flavor.
 
 The calorie-rich **cepelinai** potato, which is a potato dumpling filled with meat, tasted good, but pretty monotone. For drinks, we tried both the **gira** beverage as well as the **cherry wine**. While we liked the cherry wine, the gira was so bitter and strange tasting we actually didn’t get beyond one sip.
 

@@ -18,7 +18,7 @@ If you’re walking through the international food isle you wouldn’t exactly e
 
 For breakfast, the infamous vegemite is a hit or miss (mostly miss among foreigners), as it has a rather acquired taste. The trick is to put a thin layer of vegemite onto a toast with a thick layer of butter. This is the way Australians eat it, and the only way to reduce the intense taste vegemite has on its own. Another breakfast item that has an acquired taste is weetbix. This is like the Australian version of oatmeal, and we quite liked the taste of it.
 
-Between breakfast and dinner, Australians love meat pies, topped with ketchup, as a quick snack on the go. Tasmania, a big dairy producer in Australia, makes exceptional honey, while we also particularly liked the sheep cheese haloumi and the Tamar Valley Greek yoghurt. In terms of fruit we found that passion fruit was quite abundant and incorporated in a lot of foods, even cocktails.
+Between breakfast and dinner, Australians love meat pies, topped with ketchup, as a quick snack on the go. Tasmania, a big dairy producer in Australia, makes exceptional honey, while we also particularly liked the sheep cheese haloumi and the Tamar Valley Greek yogurt. In terms of fruit we found that passion fruit was quite abundant and incorporated in a lot of foods, even cocktails.
 
 For dinner we tried kangaroo, crocodile, and barramundi. Yes, Australia is one of the few (or only?) country that eats its national animal. The kangaroo was served rare, and had a gamy, slightly chewy texture to it. You can also buy it in the supermarket if you want to have a go at it yourself. The crocodile tasted like a mix of chicken and fish, and is most commonly found in places like Darwin or Uluru. Finally, the barramundi, also a specialty in Darwin, tasted delicious as it was char-grilled. Australians also love to throw a good barbeque and have their own kind of barbeque sauces, which are different then say an American sauce, but quite delicious.
 
@@ -28,4 +28,4 @@ Something you will find in an Australian isle is definitely wine! Although Austr
 
 * The best: **wine**, **lamingtons**, and the **Tasmanian dairy products**.
 * The worst: obviously **vegemite**, but also the **meat pie**.
-* The healthiest: **Tasmanian yoghurt**.
+* The healthiest: **Tasmanian yogurt**.
