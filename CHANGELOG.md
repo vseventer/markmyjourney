@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.1.32-dev
+* Added *Top Foods from Greece* draft.
 * Rephrased *The Monasteries of Meteora* and *Ancient Greece in Delphi & Athens*
   posts.
 

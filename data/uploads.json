@@ -2134,7 +2134,7 @@
       "properties": {
         "src": "IMG_1143.JPG",
         "date": "2015-12-25T11:02:30",
-        "description": "Tasmanian yoghurt.",
+        "description": "Tasmanian yogurt.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -2518,7 +2518,7 @@
       "properties": {
         "src": "IMG_1304.JPG",
         "date": "2016-01-09T11:31:10",
-        "description": "A selection of local ligurian honey, sheep halloumi cheese, and yoghurt.",
+        "description": "A selection of local ligurian honey, sheep halloumi cheese, and yogurt.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -2534,7 +2534,7 @@
       "properties": {
         "src": "IMG_1305.JPG",
         "date": "2016-01-09T11:36:43",
-        "description": "Tasmanian cheese, honey, and yoghurt tasting.",
+        "description": "Tasmanian cheese, honey, and yogurt tasting.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -6630,7 +6630,7 @@
       "properties": {
         "src": "IMG_3336.JPG",
         "date": "2016-04-28T08:55:48",
-        "description": "Piako yoghurt for breakfast.",
+        "description": "Piako yogurt for breakfast.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -7734,7 +7734,7 @@
       "properties": {
         "src": "IMG_3780.JPG",
         "date": "2015-02-03T18:41:23",
-        "description": "Helado: the Argentinian variant of frozen yoghurt. Simply delicous: we highly recommend the “El Calafate” (blueberry) flavour.",
+        "description": "Helado: the Argentinian variant of frozen yogurt. Simply delicous: we highly recommend the “El Calafate” (blueberry) flavour.",
         "orientation": "portrait"
       },
       "geometry": {
@@ -17156,6 +17156,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_9199.JPG",
+        "date": "2016-07-21T22:10:23",
+        "description": "Greek beer.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.63,
+          39.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9200.JPG",
+        "date": "2016-07-21T22:10:39",
+        "description": "Gyro.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.63,
+          39.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_9212.JPG",
         "date": "2016-07-22T11:42:37",
         "description": "Varlaam (center) and Great Monasteries.",
@@ -17316,6 +17348,54 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_9316.JPG",
+        "date": "2016-07-22T20:19:13",
+        "description": "Feta me meli.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.49,
+          38.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9318.JPG",
+        "date": "2016-07-22T20:30:43",
+        "description": "Moussaka.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.49,
+          38.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9319.JPG",
+        "date": "2016-07-22T20:30:45",
+        "description": "Choriatiki.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.49,
+          38.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_9326.JPG",
         "date": "2016-07-23T13:18:59",
         "description": "Treasury of the Athenians.",
@@ -17422,6 +17502,86 @@
         "coordinates": [
           23.73,
           37.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9398.JPG",
+        "date": "2016-07-24T14:58:00",
+        "description": "Greek yogurt.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.73,
+          37.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9470.JPG",
+        "date": "2016-07-25T13:53:31",
+        "description": "Greek wine.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.43,
+          36.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9472.JPG",
+        "date": "2016-07-25T13:59:58",
+        "description": "Tomatokeftedes.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.43,
+          36.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9593.JPG",
+        "date": "2016-07-26T16:02:37",
+        "description": "Tiropita.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.33,
+          37.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9625.JPG",
+        "date": "2016-07-26T19:11:35",
+        "description": "Frappé.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.34,
+          37.41
         ]
       }
     },
@@ -26006,7 +26166,7 @@
       "properties": {
         "src": "PA181673.JPG",
         "date": "2014-10-18T08:37:39",
-        "description": "Vlaflip. A mix of vanilla pudding and yoghurt.",
+        "description": "Vlaflip. A mix of vanilla pudding and yogurt.",
         "orientation": "landscape"
       },
       "geometry": {
