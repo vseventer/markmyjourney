@@ -10,7 +10,7 @@ photos = [
 ]
 cover = "IMG_9389.JPG"
 +++
-When in Greece, you can’t escape the artifacts dating back to the Ancient Greeks, ruling the land for centuries starting back in the 12th century BC. To this day, archeological sites are everywhere to be found. We visited two of the most prominent ones: the Apollo complex in Delphi, and Acropolis of Athens.
+Although the Greek islands are quite alluring, you haven’t really seen Greece without exploring its history through the iconic Ancient Greek citadel: the Acropolis in Athens, and Apollo complex in Delphi.
 <!--more-->
 
 ## Delphi
@@ -26,7 +26,7 @@ The only non-archeological landmark in Delphi is the Church of Agiou Nikolaou, l
 
 {{< photo "IMG_9306.JPG" >}}
 
-Just a few hundred meters outside of Delphi you can find the archeological site. Ancient Delphi was a place of worship, mostly dedicated to Apollo, God of light, sun, music, and a few other things. For 12 euros, you can enter this remarkable site and make your way up Mount Parnassus, where eventually you will find Delphi stadium.
+Just a few hundred meters outside of Delphi you can find the archeological site. Ancient Delphi was a place of worship, mostly dedicated to Apollo, God of light, sun, and music. For 12 euros, you can enter this remarkable site and make your way up Mount Parnassus, where eventually you will find Delphi stadium.
 
 At the bottom of the site, you can find the remains of the Treasury of the Athenians, a temple where the Greeks made their offerings to Apollo. The building pictured here is a replica, the original is located in the Delphi Museum, located on the premises as well.
 
@@ -36,7 +36,7 @@ Despite the heat, we slowly made our way up the hill towards the stadium. We pas
 
 {{< photo "IMG_9337.JPG" >}}
 
-After a painful walk all the way to the top of the archeological complex, we arrived at Delphi Stadium. The stadium, built in the 5th century BC and adapted a few times over the centuries, had a capacity of 6,500. It is the best preserved stadium in all of Greece, and back in the day it hosted track and field sports, as well as musical performances.
+After a long walk all the way to the top of the archeological complex, we arrived at Delphi Stadium. The stadium, built in the 5th century BC and adapted a few times over the centuries, had a capacity of 6,500. It is the best preserved stadium in all of Greece, and back in the day it hosted track and field sports, as well as musical performances.
 
 {{< photo "IMG_9341.JPG" >}}
 
@@ -45,16 +45,16 @@ Upon arrival in Athens, we dropped of our rental car (driving in Athens is madne
 
 {{< photo "IMG_9379.JPG" >}}
 
-Halfway up the views over Athens start opening up. You’ll be able to spot the Panathenaic Stadium, hosting the first modern Olympic Games in 1896, as well as the 2004 Olympic Games. Every year, it is also the finish line of *The* Marathon.
+Halfway up, the views over Athens start opening up. You’ll be able to spot the Panathenaic Stadium, hosting the first modern Olympic Games in 1896, as well as the 2004 Olympic Games. Every year, it is also the finish line of *The* Marathon.
 
 Closer by, within the complex itself, you can see the ruins of Odeon of Herodes Atticus. This theatre, completed in the 2nd century, was renovated back in 1950, but the facade was left as is.
 
 {{< photo "IMG_9383.JPG" >}}
 
-After a few minutes you will end up on top of the hill. On the north side, you will find Erechtheion and The Porch of the Caryatids, a temple complex. There are loose stones everywhere here, and it is hard to figure out which ones are ancient, and which ones make up the dedicated walking path.
+After a few minutes you will end up on top of the hill. On the north side, you will find Erechtheion and The Porch of the Caryatids, a temple complex.
 
 {{< photo "IMG_9389.JPG" >}}
 
-The biggest sight, however, is the Parthenon facing east. This temple was dedicated to the goddess Athena, but over the centuries also served as a mosque and ammunition depot during the Ottoman rule in the 17th century. The building is heavily damaged, and there were reconstructions going on during our visit to stabilize the building. However, is still remains the most impressive landmark left by the Ancient Greeks.
+The biggest sight, however, is the Parthenon facing east. This temple was dedicated to the goddess Athena, but over the centuries also served as a mosque and ammunition depot during the Ottoman rule in the 17th century. The building is heavily damaged, and there were reconstructions going on during our visit to stabilize the building. However, is still remains the most impressive landmark of the Ancient Greeks.
 
 {{< photo "IMG_9390.JPG" >}}

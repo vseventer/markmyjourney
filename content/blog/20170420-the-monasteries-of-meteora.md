@@ -9,26 +9,26 @@ photos = [
 ]
 cover = "IMG_9267.JPG"
 +++
-Meteora. Located in the center of the Greek mainland, three hours from Thessaloniki and four from Athens, this UNESCO World Heritage Site is so unique it will take your breath away. Six monasteries, built by monks back in the 14th century, balancing on rocks with sheer vertical cliffs, it is simply an incredible sight.
+Meteora is a unique this UNESCO World Heritage Site. Located in the center of the Greek mainland it is roughly three hours away by car from Thessaloniki and four hours from Athens. Meteora consists of six dispersed monasteries perched on top of jagged cliffs, which make for an incredible sight. The monasteries were built by monks back in the 14th century, and have been beautifully maintained.
 <!--more-->
 
-Our journey started in Athens, from where we picked up our rental car and drove north to Kalampáka. Driving in Greece is quite the experience, but we found out that, as long as you let the speeding locals pass by moving to the shoulder, you’ll be fine. We arrived in Kalampáka before nightfall, allowing us to shortly visit the town center. Apart from the main street and Riga Fereou Square there is not much to see and do, as most tourists are here for one thing only: Meteora.
+Our journey started in Athens, from where we picked up our rental car and drove north to Kalampáka. Driving in Greece is quite the experience, but we found out that, as long as you let the speeding locals pass by moving to the shoulder, you’ll be fine. We arrived in Kalampáka before nightfall, allowing us to shortly visit the town center. Apart from the main street and Riga Fereou Square, there is not much to see and do, as most tourists are here for one thing only: Meteora.
 
 {{< photo "IMG_9195.JPG" >}}
 
-The next morning, we headed to Meteora. The best way to explore the surroundings and monasteries is just to start driving around. We opted to visit the Great Monastery first, and drive southeast from there, visiting a few other monasteries on our way. Be sure to stop at the various viewpoints along the way, as the scenery is spectacular.
+The next morning, we headed to Meteora. The best way to explore the surroundings and monasteries is by simply driving around. We opted to visit the Great Monastery first, and then made our way southeast from there. Be sure to stop at the various viewpoints along the way, as the scenery is spectacular.
 
 {{< photo "IMG_9212.JPG" >}}
 
-There is plenty of parking around the monasteries itself, although in summer you might have to wait a little bit for a spot to open up. For three euros you can enter a monastery, and every monastery is open six days a week. Be ready for a lot of stairs though.
+There is plenty of parking around the monasteries, although in summer you might have to wait a little bit for a spot to open up. Most monasteries cost three euros to enter and are open six days a week. Be ready for a lot of stairs though.
 
 {{< photo "IMG_9227.JPG" >}}
 
-The Great Monastery is the largest and oldest monastery of Meteora, built in the 14th century. The decorations and courtyard inside the monastery are beautiful, and to this day monks inhabit the monastery.
+The Great Monastery is the largest and oldest monastery of Meteora, built in the 14th century. The decorations and courtyard inside the monastery are quite charming and definitely worth a visit. If you are lucky you might see a monk make his way to the monastery using the lift.
 
 {{< photo "IMG_9245.JPG" >}}
 
-After our short visit, we decided to start heading towards the other five remaining monasteries. From the Great Monastery, you have great views over the Varlaam, the second largest monastery. We still couldn’t believe how monks were able to build on top of these rocks.
+After our short visit, we decided to start heading towards the other five remaining monasteries. From the Great Monastery, you have great views over the Varlaam, the second largest monastery.
 
 {{< photo "IMG_9247.JPG" >}}
 
@@ -40,6 +40,6 @@ The Monastery of the Holy Trinity is located closest to Kalampáka, and can be r
 
 {{< photo "IMG_9267.JPG" >}}
 
-The last monastery we visited was Agios Stefanos, isolated on the southeast corner of Meteora. From here, it is an easy ride back down to ground level and Kalampáka. If you plan on visiting only one or two monasteries, we highly recommend renting a car as opposed to an organized tour. We spent a good five to six hours in Meteora, and felt we got a good impression of this incredible place.
+The last monastery we visited was Agios Stefanos, isolated on the southeast corner of Meteora. From here, it is an easy ride back down to ground level and Kalampáka. If you plan on visiting only one or two monasteries, we highly recommend renting a car instead of an organized tour. We spent a good five to six hours in Meteora, and felt we got a good impression of this incredible place.
 
 {{< photo "IMG_9273.JPG" >}}

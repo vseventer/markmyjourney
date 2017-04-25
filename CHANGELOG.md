@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.32-dev
+* Rephrased *The Monasteries of Meteora* and *Ancient Greece in Delphi & Athens*
+  posts.
+
 ### 1.1.31 (April 23, 2017)
 * Published *Ancient Greece in Delphi & Athens* post.
 * Added *Easter Break in Cornwall* draft.
