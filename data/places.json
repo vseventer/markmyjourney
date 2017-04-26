@@ -4486,6 +4486,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 257055,
+        "slug": "257055-mykonos-gr",
+        "name": "Mykonos",
+        "region": "South Aegean",
+        "country": {
+          "code": "GR",
+          "slug": "greece",
+          "name": "Greece"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Athens",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.38,
+          37.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2202064,
         "slug": "2202064-nadi-fj",
         "name": "Nadi",
@@ -5853,6 +5880,33 @@
         "coordinates": [
           -70.65,
           -33.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 252919,
+        "slug": "252919-santorini-gr",
+        "name": "Santorini Island",
+        "region": "South Aegean",
+        "country": {
+          "code": "GR",
+          "slug": "greece",
+          "name": "Greece"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Athens",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.46,
+          36.41
         ]
       }
     },

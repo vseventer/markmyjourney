@@ -17524,6 +17524,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_9437.JPG",
+        "date": "2016-07-25T10:05:47",
+        "description": "Red Beach.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4,
+          36.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9445.JPG",
+        "date": "2016-07-25T11:45:21",
+        "description": "Kamari Beach.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.47,
+          36.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_9470.JPG",
         "date": "2016-07-25T13:53:31",
         "description": "Greek wine.",
@@ -17556,6 +17588,70 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_9477.JPG",
+        "date": "2016-07-25T15:04:25",
+        "description": "Fira.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.43,
+          36.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9510.JPG",
+        "date": "2016-07-25T19:53:04",
+        "description": "Blue roofs of the churches in Oia.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.38,
+          36.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9531.JPG",
+        "date": "2016-07-25T20:42:48",
+        "description": "Sunset in Oia (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.37,
+          36.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9540.JPG",
+        "date": "2016-07-25T21:23:35",
+        "description": "Sunset in Oia (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.37,
+          36.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_9593.JPG",
         "date": "2016-07-26T16:02:37",
         "description": "Tiropita.",
@@ -17572,6 +17668,54 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_9600.JPG",
+        "date": "2016-07-26T16:36:11",
+        "description": "Windmills of Kato Milli.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.33,
+          37.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9606.JPG",
+        "date": "2016-07-26T16:39:37",
+        "description": "Metropolitan Church.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.33,
+          37.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9608.JPG",
+        "date": "2016-07-26T17:45:28",
+        "description": "Plati Gialos Beach.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.34,
+          37.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_9625.JPG",
         "date": "2016-07-26T19:11:35",
         "description": "Frappé.",
@@ -17582,6 +17726,22 @@
         "coordinates": [
           25.34,
           37.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9674.JPG",
+        "date": "2016-07-26T21:34:18",
+        "description": "Streets of Mykonos Town.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.33,
+          37.45
         ]
       }
     },
