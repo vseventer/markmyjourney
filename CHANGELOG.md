@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.32-dev
+### 1.1.32 (April 27, 2017)
 * Added *The Greek Islands: Mykonos & Santorini* post.
 * Added *Top Foods from Greece* draft.
 * Rephrased *The Monasteries of Meteora* and *Ancient Greece in Delphi & Athens*
