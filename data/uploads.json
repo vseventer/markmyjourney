@@ -17524,6 +17524,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_9431.JPG",
+        "date": "2016-07-25T10:01:06",
+        "description": "Our rental car (in red), at the Red Beach parking lot.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4,
+          36.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_9437.JPG",
         "date": "2016-07-25T10:05:47",
         "description": "Red Beach.",
@@ -17542,7 +17558,7 @@
       "properties": {
         "src": "IMG_9445.JPG",
         "date": "2016-07-25T11:45:21",
-        "description": "Kamari Beach.",
+        "description": "Kamari Black Beach.",
         "orientation": "landscape"
       },
       "geometry": {
