@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.33-dev
+* Published *Top Foods from Greece* post.
+* Updated `leaflet-minimap` dependency.
+
 ### 1.1.32 (April 27, 2017)
 * Added *The Greek Islands: Mykonos & Santorini* post.
 * Added *Top Foods from Greece* draft.
