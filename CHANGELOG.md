@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.1.33-dev
+* Added *A Road Trip Around Cyprus* draft.
 * Published *Top Foods from Greece* post.
 * Updated `leaflet-minimap` dependency.
 

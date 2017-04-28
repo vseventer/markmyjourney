@@ -463,6 +463,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 146748,
+        "slug": "146748-ayia-napa-cy",
+        "name": "Ayia Napa",
+        "region": "Ammochostos",
+        "country": {
+          "code": "CY",
+          "slug": "cyprus",
+          "name": "Cyprus"
+        },
+        "population": "3,000",
+        "timezone": {
+          "name": "Asia/Nicosia",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34,
+          34.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 8389116,
         "slug": "8389116-badaling-changcheng-cn",
         "name": "Badaling Changcheng",
@@ -3595,6 +3622,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 146400,
+        "slug": "146400-larnaca-cy",
+        "name": "Larnaca",
+        "region": "Larnaka",
+        "country": {
+          "code": "CY",
+          "slug": "cyprus",
+          "name": "Cyprus"
+        },
+        "population": "72,000",
+        "timezone": {
+          "name": "Asia/Nicosia",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.62,
+          34.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2160517,
         "slug": "2160517-launceston-au",
         "name": "Launceston",
@@ -3697,6 +3751,33 @@
         "coordinates": [
           -77.03,
           -12.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 146384,
+        "slug": "146384-limassol-cy",
+        "name": "Limassol",
+        "region": "Limassol",
+        "country": {
+          "code": "CY",
+          "slug": "cyprus",
+          "name": "Cyprus"
+        },
+        "population": "154,000",
+        "timezone": {
+          "name": "Asia/Nicosia",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.04,
+          34.68
         ]
       }
     },
@@ -4746,6 +4827,33 @@
         "coordinates": [
           -1.26,
           51.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 146214,
+        "slug": "146214-paphos-cy",
+        "name": "Paphos",
+        "region": "Pafos",
+        "country": {
+          "code": "CY",
+          "slug": "cyprus",
+          "name": "Cyprus"
+        },
+        "population": "36,000",
+        "timezone": {
+          "name": "Asia/Nicosia",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.42,
+          34.78
         ]
       }
     },
