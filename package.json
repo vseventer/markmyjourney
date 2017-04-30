@@ -1,6 +1,6 @@
 {
   "name"        : "MarkMyJourney",
-  "version"     : "1.1.33-dev",
+  "version"     : "1.1.33",
   "description" : "My travel blog, MarkMyJourney.com.",
   "keywords"    : [ "blog", "travel" ],
   "homepage"    : "https://www.markmyjourney.com",
