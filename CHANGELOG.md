@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.34-dev
+* Published *A Road Trip Around Cyprus* post.
+
 ### 1.1.33 (April 30, 2017)
 * Added *A Road Trip Around Cyprus* draft.
 * Published *Top Foods from Greece* post.
