@@ -48,9 +48,6 @@ After all the swimming we were getting hungry, and decided to go for a quick mea
 The next morning, after visiting so many beaches, we were ready to explore the inlands of Cyprus, as well as Paphos, a seaside city on the western end of Cyprus famous for its archeological sites. From the main highway, we took an inland road leading towards the Troodos Mountains, the mountain range covering the center of the island. We stopped at the Karseras Family Winery to taste a few of the islands’ Commandarias (sweet dessert wines).
 
 {{< photo "IMG_9771.JPG" >}}
-
-TODO: Describe wines.
-
 {{< photo "IMG_9767.JPG" >}}
 
 We left the mountains behind us, and headed back towards the coast. Our destination was two miles north of Paphos, at the archeological site of the Tombs of the Kings. As the name suggests, this site was a burial ground, and many high officials and aristocrats (the upper class) are buried here.
