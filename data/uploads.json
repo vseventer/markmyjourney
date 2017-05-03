@@ -17942,7 +17942,7 @@
       "properties": {
         "src": "IMG_9812.JPG",
         "date": "2016-07-28T17:07:55",
-        "description": null,
+        "description": "Aphrodite’s Rock.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -17958,7 +17958,7 @@
       "properties": {
         "src": "IMG_9828.JPG",
         "date": "2016-07-28T17:26:01",
-        "description": null,
+        "description": "Beach at Aphrodite’s Rock.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -17974,7 +17974,7 @@
       "properties": {
         "src": "IMG_9838.JPG",
         "date": "2016-07-28T18:47:18",
-        "description": null,
+        "description": "Kourion Beach.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -17990,7 +17990,7 @@
       "properties": {
         "src": "IMG_9845.JPG",
         "date": "2016-07-28T20:00:52",
-        "description": null,
+        "description": "Alleyways of Limassol.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -18006,7 +18006,7 @@
       "properties": {
         "src": "IMG_9848.JPG",
         "date": "2016-07-28T20:08:58",
-        "description": null,
+        "description": "Limassol Promenade.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -18022,7 +18022,7 @@
       "properties": {
         "src": "IMG_9869.JPG",
         "date": "2016-07-29T13:24:59",
-        "description": null,
+        "description": "Church of Saint Lazarus.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -18038,7 +18038,7 @@
       "properties": {
         "src": "IMG_9871.JPG",
         "date": "2016-07-29T13:26:28",
-        "description": null,
+        "description": "Larnaca Old Town.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -18046,22 +18046,6 @@
         "coordinates": [
           33.64,
           34.91
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "src": "IMG_9877.JPG",
-        "date": "2016-07-29T14:11:33",
-        "description": null,
-        "orientation": "landscape"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.62,
-          34.88
         ]
       }
     },

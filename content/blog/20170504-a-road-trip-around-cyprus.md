@@ -10,7 +10,7 @@ photos = [
   "IMG_9701.JPG", "IMG_9709.JPG", "IMG_9719.JPG", "IMG_9735.JPG", "IMG_9738.JPG",
   "IMG_9763.JPG", "IMG_9767.JPG", "IMG_9771.JPG", "IMG_9776.JPG", "IMG_9793.JPG",
   "IMG_9806.JPG", "IMG_9812.JPG", "IMG_9828.JPG", "IMG_9838.JPG", "IMG_9845.JPG",
-  "IMG_9848.JPG", "IMG_9869.JPG", "IMG_9871.JPG", "IMG_9877.JPG"
+  "IMG_9848.JPG", "IMG_9869.JPG", "IMG_9871.JPG"
 ]
 cover = "IMG_9709.JPG"
 +++
@@ -32,7 +32,7 @@ Just a short drive north, you can find Konnos Beach. This beach is wildly popula
 
 {{< photo "IMG_9719.JPG" >}}
 
-The last beach we would visit that day was the beautiful Fig Tree Bay Beach, located in Protaras. Its fine sand and crystal-clear water make for a great swim, or alternatively you can rent a glass floor boat to explore the sealife a bit further off shore.
+The last beach we would visit that day was the beautiful Fig Tree Bay Beach, located in Protaras. Its fine sand and crystal-clear water make for a great swim, or alternatively you can rent a glass floor boat to explore the sea life a bit further off shore.
 
 {{< photo "IMG_9735.JPG" >}}
 
@@ -57,7 +57,7 @@ We left the mountains behind us, and headed back towards the coast. Our destinat
 
 {{< photo "IMG_9776.JPG" >}}
 
-Apart from the Tombs of the Kings, the city of Paphos has a few more archeological highlights, like its Castle of Paphos. This fort, built by the Byzantines, was used to protect the harbor. Over the years, it was rebuilt after an earthquake, as well as strenghtened by the Ottoman empire. In more recent history, the castle has been a prison, warehouse, before being turned into a museum.
+Apart from the Tombs of the Kings, the city of Paphos has a few more archeological highlights, like its Castle of Paphos. This fort, built by the Byzantines, was used to protect the harbor. Over the years, it was rebuilt after an earthquake, as well as strengthened by the Ottoman empire. In more recent history, the castle has been a prison, warehouse, before being turned into a museum.
 
 {{< photo "IMG_9793.JPG" >}}
 
@@ -66,13 +66,31 @@ Before leaving Paphos and heading to Limassol, we decided to go for a stroll alo
 {{< photo "IMG_9806.JPG" >}}
 
 ## Limassol
+From Paphos, we drove back eastwards towards Limassol, the second city of Cyprus. Halfway there, we stopped at Petra tou Romiou, also known as Aphrodite’s Rock. According to the Ancient Greeks, this rock is the birthplace of Aphrodite, Goddess of Love.
+
 {{< photo "IMG_9812.JPG" >}}
+
+The rock can be accessed by parking on the side of the highway, and taking a set of stairs down towards the beach. Apart from the rock itself, you can enjoy the rocky beach itself, and go for a swim if you like. Even though it is not the nicest beach, the presence of Aphrodite’s Rock makes it very scenic.
+
 {{< photo "IMG_9828.JPG" >}}
+
+If you are looking for a slightly nicer beach, you might want to opt for Kourion Beach. This beach, located just outside of Limassol, is quite basic when it comes to facilities, but very popular among locals. Many drive their cars right on the beach, and spend their day sunbathing, swimming, and relaxing. The beach has very little cover, however, which can lead to high waves and strong winds, making it less than pleasurable.
+
 {{< photo "IMG_9838.JPG" >}}
-{{< photo "IMG_9845.JPG" >}}
+
+We arrived in Limassol towards the end of day, and decided to go for a stroll along the Promenade. Here, you can find people enjoying the park, the beach, or a meal at one of the restaurants. The Promenade is over a kilometer long, ending at the Old Port in the west.
+
 {{< photo "IMG_9848.JPG" >}}
 
+Limassol Old Town is situated behind the Old Port, and consists of many alleyways, boutique shops, and more restaurants. This neighborhood is also home to the Limassol castle, cathedral, city hall, and university.
+
+{{< photo "IMG_9845.JPG" >}}
+
 ## Larnaca
+On our last day, prior to flying out from Ercan International Airport on the Turkish side of the island, we finally had time to visit Larnaca. The most prominent sight in Larnaca is the Church of Saint Lazarus, a Byzantine church built in the 9th century. The church holds the tomb of Saint Lazarus, a biblical figure restored from the dead by Jesus.
+
 {{< photo "IMG_9869.JPG" >}}
+
+From the church, we made our way to Finikoudes Beach, the beach right in front of the Old Town. Larnaca is a typical city thriving on tourism, given the many souvenir shops, fast food chains, and restaurants. We chose to get an ice cream, and enjoy our last hours in Cyprus.
+
 {{< photo "IMG_9871.JPG" >}}
-{{< photo "IMG_9877.JPG" >}}

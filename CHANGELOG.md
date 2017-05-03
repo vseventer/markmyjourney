@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.34-dev
+### 1.1.34 (May 4, 2017)
 * Published *A Road Trip Around Cyprus* post.
 
 ### 1.1.33 (April 30, 2017)
