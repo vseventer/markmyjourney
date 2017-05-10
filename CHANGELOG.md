@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.35-dev
+* Added flag for Azerbaijan.
+
 ### 1.1.34 (May 4, 2017)
 * Published *A Road Trip Around Cyprus* post.
 
