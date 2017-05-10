@@ -931,7 +931,7 @@
           "slug": "united-states",
           "name": "United States"
         },
-        "population": "618,000",
+        "population": "667,000",
         "timezone": {
           "name": "America/New_York",
           "dstOffset": "UTC+01:00",
@@ -3982,7 +3982,7 @@
           "slug": "united-states",
           "name": "United States"
         },
-        "population": "3.8m",
+        "population": "4.0m",
         "timezone": {
           "name": "America/Los_Angeles",
           "dstOffset": "UTC+01:00",
@@ -4441,7 +4441,7 @@
           "slug": "netherlands",
           "name": "Netherlands"
         },
-        "population": "34,000",
+        "population": "15,000",
         "timezone": {
           "name": "Europe/Amsterdam",
           "dstOffset": "UTC+01:00",
@@ -4933,8 +4933,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          137.93,
-          -35.73
+          137.94,
+          -35.72
         ]
       }
     },
@@ -5247,7 +5247,7 @@
           "slug": "united-states",
           "name": "United States"
         },
-        "population": "584,000",
+        "population": "632,000",
         "timezone": {
           "name": "America/Los_Angeles",
           "dstOffset": "UTC+01:00",
@@ -6111,7 +6111,7 @@
           "slug": "united-states",
           "name": "United States"
         },
-        "population": "609,000",
+        "population": "684,000",
         "timezone": {
           "name": "America/Los_Angeles",
           "dstOffset": "UTC+01:00",
@@ -6489,7 +6489,7 @@
           "slug": "sweden",
           "name": "Sweden"
         },
-        "population": "1.3m",
+        "population": "1.5m",
         "timezone": {
           "name": "Europe/Stockholm",
           "dstOffset": "UTC+01:00",
@@ -7635,6 +7635,33 @@
         "coordinates": [
           14.32,
           48.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 745044,
+        "slug": "745044-istanbul-tr",
+        "name": "İstanbul",
+        "region": "Istanbul",
+        "country": {
+          "code": "TR",
+          "slug": "turkey",
+          "name": "Turkey"
+        },
+        "population": "11.2m",
+        "timezone": {
+          "name": "Europe/Istanbul",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.95,
+          41.01
         ]
       }
     }
