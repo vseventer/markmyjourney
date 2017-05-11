@@ -18054,7 +18054,23 @@
       "properties": {
         "src": "IMG_9897.JPG",
         "date": "2016-07-30T06:28:16",
-        "description": null,
+        "description": "Hagia Sofia.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.98,
+          41.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9909.JPG",
+        "date": "2016-07-30T06:34:07",
+        "description": "Blue Mosque.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -18070,7 +18086,7 @@
       "properties": {
         "src": "IMG_9911.JPG",
         "date": "2016-07-30T06:39:02",
-        "description": null,
+        "description": "Sultanahmet Arkeolojik Park and minarets of the Blue Mosque.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -18086,7 +18102,7 @@
       "properties": {
         "src": "IMG_9916.JPG",
         "date": "2016-07-30T07:03:56",
-        "description": null,
+        "description": "Ortaköy Mosque and Bosphorus Bridge.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -18102,7 +18118,7 @@
       "properties": {
         "src": "IMG_9922.JPG",
         "date": "2016-07-30T07:05:52",
-        "description": null,
+        "description": "Ortaköy Bazaar.",
         "orientation": "landscape"
       },
       "geometry": {
