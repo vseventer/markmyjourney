@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.35-dev
+### 1.1.35 (May 11, 2017)
 * Added *A Brief Introduction to Istanbul* post.
 * Added flag for Azerbaijan.
 * Updated `clean-css-cli` and `gh-pages` dependencies.
