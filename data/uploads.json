@@ -308,6 +308,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_0055.JPG",
+        "date": "2016-08-08T18:06:07",
+        "description": "Canals of Giethoorn (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.09,
+          52.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_0056.JPG",
         "date": "2015-04-22T15:14:04",
         "description": "Old timers at The LeMay - America’s Car Museum.",
@@ -334,6 +350,22 @@
         "coordinates": [
           -122.43,
           47.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_0069.JPG",
+        "date": "2016-08-08T18:16:05",
+        "description": "Canals of Giethoorn (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.09,
+          52.72
         ]
       }
     },
@@ -8878,6 +8910,54 @@
         "coordinates": [
           55.28,
           25.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4958.JPG",
+        "date": "2016-05-15T12:45:03",
+        "description": "Keukenhof (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55,
+          52.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4960.JPG",
+        "date": "2016-05-15T12:50:01",
+        "description": "Keukenhof (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55,
+          52.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4984.JPG",
+        "date": "2016-05-15T13:29:53",
+        "description": "Mill at Keukenhof.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55,
+          52.27
         ]
       }
     },
@@ -18126,6 +18206,38 @@
         "coordinates": [
           29.03,
           41.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9989.JPG",
+        "date": "2016-08-07T14:14:28",
+        "description": "Fishing boats in the harbor.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.08,
+          52.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_9990.JPG",
+        "date": "2016-08-07T14:15:06",
+        "description": "Haven street of Volendam.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.08,
+          52.49
         ]
       }
     },

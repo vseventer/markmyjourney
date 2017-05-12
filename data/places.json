@@ -220,6 +220,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3183130,
+        "slug": "3183130-amalfi-it",
+        "name": "Amalfi",
+        "region": "Campania",
+        "country": {
+          "code": "IT",
+          "slug": "italy",
+          "name": "Italy"
+        },
+        "population": "5,000",
+        "timezone": {
+          "name": "Europe/Rome",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6,
+          40.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2759794,
         "slug": "2759794-amsterdam-nl",
         "name": "Amsterdam",
@@ -2434,6 +2461,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2755517,
+        "slug": "2755517-giethoorn-nl",
+        "name": "Giethoorn",
+        "region": "Overijssel",
+        "country": {
+          "code": "NL",
+          "slug": "netherlands",
+          "name": "Netherlands"
+        },
+        "population": "2,000",
+        "timezone": {
+          "name": "Europe/Amsterdam",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08,
+          52.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1624060,
         "slug": "1624060-gili-trawangan-id",
         "name": "Gili Trawangan",
@@ -2947,6 +3001,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3180629,
+        "slug": "3180629-capri-it",
+        "name": "Isola di Capri",
+        "region": "Campania",
+        "country": {
+          "code": "IT",
+          "slug": "italy",
+          "name": "Italy"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Rome",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.22,
+          40.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3937555,
         "slug": "3937555-jorge-chavez-international-airport-pe",
         "name": "Jorge Chávez International Airport",
@@ -3130,6 +3211,33 @@
         "coordinates": [
           -22.61,
           63.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8469097,
+        "slug": "8469097-keukenhof-nl",
+        "name": "Keukenhof",
+        "region": "South Holland",
+        "country": {
+          "code": "NL",
+          "slug": "netherlands",
+          "name": "Netherlands"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Amsterdam",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55,
+          52.27
         ]
       }
     },
@@ -4648,6 +4756,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3172394,
+        "slug": "3172394-naples-it",
+        "name": "Naples",
+        "region": "Campania",
+        "country": {
+          "code": "IT",
+          "slug": "italy",
+          "name": "Italy"
+        },
+        "population": "959,000",
+        "timezone": {
+          "name": "Europe/Rome",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          40.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2641673,
         "slug": "2641673-newcastle-upon-tyne-gb",
         "name": "Newcastle upon Tyne",
@@ -5157,6 +5292,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3170333,
+        "slug": "3170333-pompeii-it",
+        "name": "Pompei Scavi",
+        "region": "Campania",
+        "country": {
+          "code": "IT",
+          "slug": "italy",
+          "name": "Italy"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Rome",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.48,
+          40.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2152685,
         "slug": "2152685-port-arthur-au",
         "name": "Port Arthur",
@@ -5259,6 +5421,33 @@
         "coordinates": [
           -122.68,
           45.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3170051,
+        "slug": "3170051-positano-it",
+        "name": "Positano",
+        "region": "Campania",
+        "country": {
+          "code": "IT",
+          "slug": "italy",
+          "name": "Italy"
+        },
+        "population": "2,000",
+        "timezone": {
+          "name": "Europe/Rome",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.48,
+          40.63
         ]
       }
     },
@@ -5637,6 +5826,33 @@
         "coordinates": [
           -78.52,
           -0.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3169562,
+        "slug": "3169562-ravello-it",
+        "name": "Ravello",
+        "region": "Campania",
+        "country": {
+          "code": "IT",
+          "slug": "italy",
+          "name": "Italy"
+        },
+        "population": "2,000",
+        "timezone": {
+          "name": "Europe/Rome",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.61,
+          40.65
         ]
       }
     },
@@ -6420,6 +6636,33 @@
         "coordinates": [
           23.32,
           42.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3166350,
+        "slug": "3166350-sorrento-it",
+        "name": "Sorrento",
+        "region": "Campania",
+        "country": {
+          "code": "IT",
+          "slug": "italy",
+          "name": "Italy"
+        },
+        "population": "15,000",
+        "timezone": {
+          "name": "Europe/Rome",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.38,
+          40.62
         ]
       }
     },
@@ -7284,6 +7527,33 @@
         "coordinates": [
           19.49,
           40.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2745340,
+        "slug": "2745340-volendam-nl",
+        "name": "Volendam",
+        "region": "North Holland",
+        "country": {
+          "code": "NL",
+          "slug": "netherlands",
+          "name": "Netherlands"
+        },
+        "population": "22,000",
+        "timezone": {
+          "name": "Europe/Amsterdam",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.07,
+          52.49
         ]
       }
     },

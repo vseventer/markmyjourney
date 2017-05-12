@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.36-dev
+* Added *Holland’s Traditional Sights* post.
+
 ### 1.1.35 (May 11, 2017)
 * Added *A Brief Introduction to Istanbul* post.
 * Added flag for Azerbaijan.
