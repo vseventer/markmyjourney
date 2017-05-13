@@ -5508,25 +5508,9 @@
     {
       "type": "Feature",
       "properties": {
-        "src": "IMG_3009.JPG",
-        "date": "2017-03-06T12:36:16",
-        "description": null,
-        "orientation": "landscape"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.99,
-          53.41
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "src": "IMG_3013.JPG",
         "date": "2017-03-06T15:55:48",
-        "description": null,
+        "description": "Manchester Cathedral.",
         "orientation": "portrait"
       },
       "geometry": {
@@ -5542,7 +5526,7 @@
       "properties": {
         "src": "IMG_3014.JPG",
         "date": "2017-03-06T15:59:46",
-        "description": null,
+        "description": "Downtown Manchester.",
         "orientation": "portrait"
       },
       "geometry": {
@@ -5558,7 +5542,7 @@
       "properties": {
         "src": "IMG_3017.JPG",
         "date": "2017-03-06T16:07:50",
-        "description": null,
+        "description": "John Rylands Library.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -5574,7 +5558,7 @@
       "properties": {
         "src": "IMG_3023.JPG",
         "date": "2017-03-06T16:22:54",
-        "description": null,
+        "description": "Manchester Town Hall.",
         "orientation": "landscape"
       },
       "geometry": {

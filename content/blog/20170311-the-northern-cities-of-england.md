@@ -9,10 +9,10 @@ places = [
 ]
 photos = [
   "IMG_2975.JPG", "IMG_2979-2.JPG", "IMG_2986.JPG", "IMG_2982.JPG", "IMG_2991.JPG",
-  "IMG_2997.JPG", "IMG_2992.JPG", "IMG_3003.JPG", "IMG_3009.JPG", "IMG_3013.JPG",
-  "IMG_3014.JPG", "IMG_3017.JPG", "IMG_3023.JPG", "IMG_3401.JPG", "IMG_3400.JPG",
-  "IMG_3402.JPG", "IMG_3407.JPG", "IMG_3383.JPG", "IMG_3386-2.JPG", "IMG_3390.JPG",
-  "IMG_3392.JPG", "IMG_3394.JPG", "IMG_3395-2.JPG"
+  "IMG_2997.JPG", "IMG_2992.JPG", "IMG_3003.JPG", "IMG_3014.JPG", "IMG_3013.JPG",
+  "IMG_3017.JPG", "IMG_3023.JPG", "IMG_3401.JPG", "IMG_3400.JPG", "IMG_3402.JPG",
+  "IMG_3407.JPG", "IMG_3383.JPG", "IMG_3386-2.JPG", "IMG_3390.JPG", "IMG_3392.JPG",
+  "IMG_3394.JPG", "IMG_3395-2.JPG"
 ]
 cover = "IMG_3003.JPG"
 +++
@@ -53,9 +53,10 @@ Apart from the statue, the Quayside is definitely worth the visit. It is home to
 {{< photo "IMG_3003.JPG" >}}
 
 ## Manchester
-{{< photo "IMG_3009.JPG" >}}
-{{< photo "IMG_3013.JPG" >}}
+The drive from Liverpool to Manchester takes about an hour, and you’ll end up in Englands’ second biggest city. We parked near the city center, and started exploring the city on its
+
 {{< photo "IMG_3014.JPG" >}}
+{{< photo "IMG_3013.JPG" >}}
 {{< photo "IMG_3017.JPG" >}}
 {{< photo "IMG_3023.JPG" >}}
 
