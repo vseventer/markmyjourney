@@ -13,13 +13,13 @@ Over the past few years, we spent a considerable amount of time in the Netherlan
 <!--more-->
 
 ## Keukenhof
-The Keukenhof, located near the city of Lisse, is one of the largest seasonal flower gardens in the world. Every year, from mid-March to mid-May, seven million flowers are blooming in the gardens, attracting millions of visitors. We visited on the last weekend before closing, yet the majority of the flowers were still standing strong.
+The Keukenhof, located near the city of Lisse, is one of the largest seasonal flower gardens in the world. Every year, from mid-March to mid-May, seven million flowers bloom in the gardens, attracting millions of visitors. Although we visited on the last weekend before closing, the majority of the flowers were still standing strong.
 
-The fee to enter Keukenhof is 16 euros, plus an additional five if you arrive by car. Alternatively, you can take the train or bus from the airport and a variety of cities. We had the luxury of being dropped off by car, allowing us to make the most of our day.
+The fee to enter Keukenhof is 16 euros, plus an additional five if you arrive by car. Alternatively, you can take the train or bus from the airport or Amsterdam city center. We had the luxury of being dropped off by car, allowing us to make the most of our day.
 
 {{< photo "IMG_4958.JPG" >}}
 
-The gardens are divided in a number of smaller gardens, each having their own theme. We visited the tulip gardens, walked around some of the exhibition rooms, and got lost in a giant grass maze.
+The gardens are sectioned off into smaller gardens, each having their own theme. We visited the tulip gardens, walked around some of the exhibition rooms, and got lost in a giant grass maze.
 
 {{< photo "IMG_4960.JPG" >}}
 
@@ -30,7 +30,7 @@ Apart from the gardens itself, the Keukenhof has a few exhibition centers, flowe
 ## Volendam
 Visiting Volendam is yet another Dutch thing to do. This fishing village welcomes hundreds of tourists each day, either arriving by boat or bus from Amsterdam. As with Keukenhof, we arrived by car, and parked a short walk outside of the car free city center.
 
-The main street along the harbor is lined with restaurants serving primarily fresh fish ([herring]({{< ref "20141030-top-foods-from-the-netherlands.md" >}})), and tourists shops selling cheese, wooden shoes, or allow you to take a picture in traditional Volendam clothing.
+The main street along the harbor is lined with restaurants serving primarily fresh fish ([herring]({{< ref "20141030-top-foods-from-the-netherlands.md" >}})), and tourists shops selling cheese, wooden shoes, and offer the option to take a picture in traditional Volendam clothing.
 
 {{< photo "IMG_9990.JPG" >}}
 
