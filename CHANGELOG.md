@@ -1,7 +1,8 @@
 # Changelog
 
-### 1.1.36-dev
+### 1.1.36 (May 14, 2017)
 * Added *Holland’s Traditional Sights* post.
+* Updated *A Road Trip Around Cyprus* post.
 
 ### 1.1.35 (May 11, 2017)
 * Added *A Brief Introduction to Istanbul* post.
