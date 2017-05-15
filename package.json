@@ -1,6 +1,6 @@
 {
   "name"        : "MarkMyJourney",
-  "version"     : "1.1.36",
+  "version"     : "1.1.37-dev",
   "description" : "My travel blog, MarkMyJourney.com.",
   "keywords"    : [ "blog", "travel" ],
   "homepage"    : "https://www.markmyjourney.com",
@@ -43,7 +43,7 @@
 
     "clean"       : "rimraf $npm_package_config_destination static/css/main.css",
     "deploy"      : "NODE_ENV=production npm run build",
-    "postdeploy"  : "confirm && bin/deploy.js",
+    "postdeploy"  : "confirm && NODE_DEBUG=gh-pages bin/deploy.js",
     "postinstall" : "concurrently 'npm run leaflet' 'npm run sprity' 'npm run webpack'",
     "prestage"    : "jshint --reporter=node_modules/jshint-stylish static/js/main.js",
     "stage"       : "NODE_ENV=staging npm run build -- -b $npm_package_config_staging",

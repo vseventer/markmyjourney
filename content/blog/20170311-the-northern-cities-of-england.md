@@ -9,7 +9,7 @@ places = [
 ]
 photos = [
   "IMG_2975.JPG", "IMG_2979-2.JPG", "IMG_2986.JPG", "IMG_2982.JPG", "IMG_2991.JPG",
-  "IMG_2997.JPG", "IMG_2992.JPG", "IMG_3003.JPG", "IMG_3014.JPG", "IMG_3013.JPG",
+  "IMG_2997.JPG", "IMG_2992.JPG", "IMG_3003.JPG", "IMG_3013.JPG", "IMG_3014.JPG",
   "IMG_3017.JPG", "IMG_3023.JPG", "IMG_3401.JPG", "IMG_3400.JPG", "IMG_3402.JPG",
   "IMG_3407.JPG", "IMG_3383.JPG", "IMG_3386-2.JPG", "IMG_3390.JPG", "IMG_3392.JPG",
   "IMG_3394.JPG", "IMG_3395-2.JPG"
@@ -53,11 +53,20 @@ Apart from the statue, the Quayside is definitely worth the visit. It is home to
 {{< photo "IMG_3003.JPG" >}}
 
 ## Manchester
-The drive from Liverpool to Manchester takes about an hour, and you’ll end up in Englands’ second biggest city. We parked near the city center, and started exploring the city on its
+The drive from Liverpool to Manchester takes about an hour, and you’ll end up in Englands’ second biggest city. We started our walking tour on the northwestern side of the city center, where you can find the Manchester Cathedral. The cathedral is about 600 years old, although reconstructed throughout the centuries. You can visit the cathedral for free, so worth a short visit.
+
+{{< photo "IMG_3013.JPG" >}}
+
+From the cathedral we walked south, deeper into the city. Most of the center consists of pedestrian shopping streets, and plenty of larger shopping malls.
 
 {{< photo "IMG_3014.JPG" >}}
-{{< photo "IMG_3013.JPG" >}}
+
+One of the most special buildings in Manchester is the John Rylands Library. It has a totally different style than Liverpool’s Central Library we visitied earlier that day, but is equally beautiful. The library was built in Victorian Gothic style, and has the appearance of a church. As with the Manchester Cathedral, entry is free.
+
 {{< photo "IMG_3017.JPG" >}}
+
+Our last stop in Manchester was the Town Hall on Albert Square. As many buildings in the city, it is also built in Victorian Gothic style, in the mid-19th century. In front of the Town Hall you can see the Albert Memorial, commemorating Prince Albert who died of typhoid in 1861. There are several Albert Memorials around the United Kingdom, the most famous one being located in Kensington Gardens in London.
+
 {{< photo "IMG_3023.JPG" >}}
 
 ## Leeds
