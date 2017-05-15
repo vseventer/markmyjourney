@@ -7844,6 +7844,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3814.JPG",
+        "date": "2017-05-05T10:27:54",
+        "description": "Castel Nuovo.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          40.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3817.JPG",
+        "date": "2017-05-05T10:34:04",
+        "description": "Piazza del Plebiscito and San Francesco di Paola.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          40.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3818.JPG",
         "date": "2015-02-06T15:16:27",
         "description": "Coconut cake topped with meringue.",
@@ -7876,6 +7908,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3831.JPG",
+        "date": "2017-05-05T11:22:08",
+        "description": "Naples Old Town, with dome of the Church of the Croce di Lucca.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25,
+          40.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3838.JPG",
+        "date": "2017-05-05T11:32:06",
+        "description": "San Paolo Maggiore.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.26,
+          40.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3841.JPG",
         "date": "2016-05-04T12:46:55",
         "description": null,
@@ -7886,6 +7950,38 @@
         "coordinates": [
           176.37,
           -38.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3851.JPG",
+        "date": "2017-05-05T13:40:07",
+        "description": "Sanctuary of Apollo, with the looming Mt. Vesuvius.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.48,
+          40.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3861-2.JPG",
+        "date": "2017-05-05T14:01:40",
+        "description": "Garden of the Fugitives.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.49,
+          40.75
         ]
       }
     },
@@ -7918,6 +8014,22 @@
         "coordinates": [
           176.37,
           -38.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3872.JPG",
+        "date": "2017-05-05T14:34:18",
+        "description": "Forum.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.49,
+          40.75
         ]
       }
     },
