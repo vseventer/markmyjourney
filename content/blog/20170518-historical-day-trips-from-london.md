@@ -1,6 +1,5 @@
 +++
-draft   = true
-date    = "2017-03-05"
+date    = "2017-05-18"
 title   = "Historical Day Trips from London"
 destinations = [ "europe", "united-kingdom" ]
 places = [
