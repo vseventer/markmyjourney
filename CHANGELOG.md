@@ -3,6 +3,7 @@
 ### 1.1.37-dev
 * Published *Historical Day Trips from London* post.
 * Added *The Charm of Naples & Pompeii* draft.
+* Updated `html-minifier` dependency.
 
 ### 1.1.36 (May 14, 2017)
 * Added *Holland’s Traditional Sights* post.
