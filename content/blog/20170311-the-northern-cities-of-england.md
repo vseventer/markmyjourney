@@ -70,9 +70,20 @@ Our last stop in Manchester was the Town Hall on Albert Square. As many building
 {{< photo "IMG_3023.JPG" >}}
 
 ## Leeds
+After visiting nearby Liverpool and Manchester, we expected Leeds to offer more of the same. However, presumably because of the many international students studying in Leeds, we found the city more diverse. Also, the city center is littered with shopping malls, making Leeds the ultimate shopping destination.
+
 {{< photo "IMG_3401.JPG" >}}
+
+Due to British weather, most of the shopping malls are partly or fully covered. DESCRIBE BELOW.
+
 {{< photo "IMG_3400.JPG" >}}
+
+Between all the shopping, it is hard to find any historical buildings in Leeds. One of them, however, is the XXX.
+
 {{< photo "IMG_3402.JPG" >}}
+
+Across from XXX, you can find the YYY market. We stopped here to look for some small refreshments, and found cheap and local strawberries, blueberries, and blackberries. Apart from fruits and vegetables, market stalls sell anything from bread to clothing, and from cheese to electronics. A good place to get a steal!
+
 {{< photo "IMG_3407.JPG" >}}
 
 ## Newcastle
