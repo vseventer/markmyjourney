@@ -8052,6 +8052,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3898.JPG",
+        "date": "2017-05-05T19:42:01",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.41,
+          40.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3899.JPG",
         "date": "2015-02-28T16:14:57",
         "description": "Selection of Bolivian desserts - we recommend getting them fresh from the bakery though.",
@@ -8078,6 +8094,22 @@
         "coordinates": [
           -68.15,
           -16.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3911.JPG",
+        "date": "2017-05-05T21:29:47",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          40.66
         ]
       }
     },
@@ -8148,6 +8180,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3942.JPG",
+        "date": "2017-05-06T11:14:52",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.35,
+          40.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3958.JPG",
         "date": "2016-05-06T12:28:31",
         "description": "Hill full of tiny houses.",
@@ -8174,6 +8222,22 @@
         "coordinates": [
           -77.03,
           -12.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3984.JPG",
+        "date": "2017-05-06T12:20:15",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.26,
+          40.55
         ]
       }
     },
@@ -8308,6 +8372,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4049.JPG",
+        "date": "2017-05-06T14:16:04",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.24,
+          40.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4062-2.JPG",
+        "date": "2017-05-06T14:44:16",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.24,
+          40.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4062.JPG",
         "date": "2015-03-28T19:57:01",
         "description": "Sour mango with salt, a common snack but we felt salt was not needed.",
@@ -8334,6 +8430,22 @@
         "coordinates": [
           175.82,
           -36.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4069.JPG",
+        "date": "2017-05-06T15:13:53",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.24,
+          40.55
         ]
       }
     },
@@ -8372,6 +8484,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4105.JPG",
+        "date": "2017-05-06T17:11:33",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.23,
+          40.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4113.JPG",
         "date": "2016-05-08T11:26:32",
         "description": "West Brook Winery.",
@@ -8398,6 +8526,22 @@
         "coordinates": [
           174.58,
           -36.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4124.JPG",
+        "date": "2017-05-06T19:20:27",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.37,
+          40.63
         ]
       }
     },
@@ -8468,6 +8612,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4153.JPG",
+        "date": "2017-05-07T12:14:00",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.49,
+          40.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4167.JPG",
         "date": "2016-05-09T10:06:52",
         "description": "Takahē bird, unique to New Zealand.",
@@ -8500,6 +8660,54 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4176.JPG",
+        "date": "2017-05-07T13:37:58",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5,
+          40.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4185.JPG",
+        "date": "2017-05-07T14:33:04",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6,
+          40.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4189.JPG",
+        "date": "2017-05-07T14:34:58",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6,
+          40.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4195.JPG",
         "date": "2016-05-09T13:34:57",
         "description": "Villa Maria winery next to Auckland Airport.",
@@ -8510,6 +8718,38 @@
         "coordinates": [
           174.77,
           -36.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4204.JPG",
+        "date": "2017-05-07T16:26:31",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.61,
+          40.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4210.JPG",
+        "date": "2017-05-07T16:31:28",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.61,
+          40.65
         ]
       }
     },
