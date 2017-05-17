@@ -1139,7 +1139,8 @@
           "gmtOffset": "UTC+01:00"
         },
         "period": {
-          "start": "2016-08-25"
+          "start" : "2016-08-25",
+          "end"   : "2016-05-17"
         }
       },
       "geometry": {
@@ -1147,6 +1148,37 @@
         "coordinates": [
           -0.13,
           51.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 953987,
+        "slug": "south-africa",
+        "name": "South Africa",
+        "country": {
+          "code": "ZA",
+          "slug": "south-africa",
+          "name": "South Africa"
+        },
+        "area": "1.2m",
+        "capital": "Pretoria",
+        "population": "49.0m",
+        "timezone": {
+          "name": "Africa/Johannesburg",
+          "dstOffset": "UTC+02:00",
+          "gmtOffset": "UTC+02:00"
+        },
+        "period": {
+          "start" : "2017-05-16"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24,
+          -29
         ]
       }
     }
