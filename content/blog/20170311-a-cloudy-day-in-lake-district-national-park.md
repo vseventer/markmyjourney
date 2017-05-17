@@ -34,7 +34,7 @@ From the same parking lot, you can walk 15 minutes the other way to end up in Ke
 
 {{< photo "IMG_3065.JPG" >}}
 
-One of the few sights in the park that have nothing to do with water is the Castlerigg Stone Circle. This small version of [Stonehenge]({{< ref "20170305-historical-day-trips-from-london.md#stonehenge" >}}), which dates back about 4500 years, is a bit hard to find, but worth a short visit nonetheless. Surrounded by snow-capped mountains, these stones are set in a dramatic environment. Back in the day, these grounds were used by the elite to exchange goods, and for ceremonial activities.
+One of the few sights in the park that have nothing to do with water is the Castlerigg Stone Circle. This small version of [Stonehenge]({{< ref "20170518-historical-day-trips-from-london.md#stonehenge" >}}), which dates back about 4500 years, is a bit hard to find, but worth a short visit nonetheless. Surrounded by snow-capped mountains, these stones are set in a dramatic environment. Back in the day, these grounds were used by the elite to exchange goods, and for ceremonial activities.
 
 {{< photo "IMG_3069.JPG" >}}
 

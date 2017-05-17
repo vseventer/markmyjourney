@@ -80,7 +80,7 @@ Leaving Stratford it is likely you will stumble upon the American Fountain, whic
 {{< photo "IMG_3430.JPG" >}}
 
 ## Cambridge
-Similar to [Oxford]({{< ref "20170305-historical-day-trips-from-london.md#oxford" >}}), Cambridge is home to a large number of colleges and universities. Its resemblance to Oxford in terms of architecture is striking, and the shopping area is very similar too. Don’t let the students hear though, as Oxford and Cambridge are rivals.
+Similar to [Oxford]({{< ref "20170518-historical-day-trips-from-london.md#oxford" >}}), Cambridge is home to a large number of colleges and universities. Its resemblance to Oxford in terms of architecture is striking, and the shopping area is very similar too. Don’t let the students hear though, as Oxford and Cambridge are rivals.
 
 {{< photo "IMG_2952.JPG" >}}
 
