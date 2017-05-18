@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.37-dev
+### 1.1.37 (May 18, 2017)
 * Published *Historical Day Trips from London* post.
 * Added *The Charm of Naples & Pompeii* draft.
 * Set current location to South Africa.
