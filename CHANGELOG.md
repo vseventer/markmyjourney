@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.38 (May 28, 2017)
+* Published *Easter Break in Cornwall* post.
+
 ### 1.1.37 (May 18, 2017)
 * Published *Historical Day Trips from London* post.
 * Added *The Charm of Naples & Pompeii* draft.

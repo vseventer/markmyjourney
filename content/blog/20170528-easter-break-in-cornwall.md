@@ -1,6 +1,5 @@
 +++
-draft  = true
-date   = "2017-04-16"
+date   = "2017-05-28"
 title  = "Easter Break in Cornwall"
 destinations = [ "europe", "united-kingdom" ]
 places = [
