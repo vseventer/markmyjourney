@@ -16,26 +16,26 @@ Often characterized as dirty, full of graffiti, and dangerous, Naples is a city 
 ## Naples
 Naples International Airport is only a stones’ throw away from the city. However, traffic in this area of Italy is horrible, the roads are overcrowded with scooters, and no one seems to follow any traffic law. After parking on the easternmost end of the city, we exited the parking lot just in time to witness a biker getting knocked off his bike by a scooter. Welcome to Naples!
 
-Once in the city, it is easy and cheap to get around by metro. We exited near the Old City, and upon exiting we were greeted by Castel Nuovo. TODO: DESCRIBE CASTLE. Apart from this castle, Napels is also home to HARBOR CASTLE near the harbor.
+Once in the city, it is easy and cheap to get around by metro. We exited near the Old City, and upon exiting we were greeted by the medieval Castel Nuovo. This impressive castle was built in the 13th century, to house the court of the Kingdom of Naples. Apart from this castle, Napels is also home to the defensive fortress of Ovo Castle, located near the harbor.
 
 {{< photo "IMG_3814.JPG" >}}
 
-After a short walk from Castel Nuovo we arrived at the Piazza del Plebiscito, home to the San Francesco di Paola. DESCRIBE BOTH.
+After a short walk from Castel Nuovo we arrived at the Piazza del Plebiscito, home to the San Francesco di Paola. In the early 19th century, the square and church were built as a tribute to the emperor Napoleon. After Napoleon was overthrown, the building in the center of the square was converted to a church.
 
 {{< photo "IMG_3817.JPG" >}}
 
-From here, we had a 20-minute walk ahead of us in order to reach the Old City gates. We strolled north along the XXX BOULEVARD, which offers excellent food opportunities. We grabbed a mozzarella sandwich, fresh cannoli, slice of pizza, and a macchiato, all equally delicious. When it comes to food, Naples certainly delivers.
+From here, we had a 20-minute walk ahead of us in order to reach the Old City gates. We strolled north along the Via Toledo, which offers excellent food opportunities. We grabbed a mozzarella sandwich, fresh cannoli, slice of pizza, and a macchiato, all equally delicious. When it comes to food, Naples certainly delivers.
 
 After entering the Old City, we understood why some people don’t like Naples. There indeed is a lot of graffiti, the streets are narrow, with cars forcing their way through regardless. We, however, quite liked the charm of it. The colorful buildings, with small stores on the ground floor and apartments with balcony above, laundry left hanging out to dry, it all gives Naples a very authentic feeling.
 
 {{< photo "IMG_3831.JPG" >}}
 
-The Old City of Naples is home to a number of churches, all tucked away in the small streets. One of them is San Paolo Maggiore. DESCRIBE HERE. Afterwards, we went back to our car, and left for Pompeii. To us, Naples is definitely worth a visit, as it is one of the most authentic and charming cities in Italy.
+The Old City of Naples is home to a number of churches, all tucked away in the small streets. One of them is San Paolo Maggiore, a baroque-style church. Afterwards, we went back to our car, and left for Pompeii. To us, Naples is definitely worth a visit, as it is one of the most authentic and charming cities in Italy.
 
 {{< photo "IMG_3838.JPG" >}}
 
 ## Pompeii
-Pompeii, thirty (?) minutes from Naples and situated on the foot (??) of Mt. Vesuvius, is an ancient city completely destroyed by the YEAR vulcanic eruption. The people of Pompeii all rushed to flee their city, leaving everything behind, yet XXX people did not make it. Nowadays, you can walk around the immense complex to get a unique insight into life in the XXXs.
+Pompeii, thirty minutes from Naples and situated on the base of Mt. Vesuvius, is an ancient city completely destroyed by the vulcanic eruption in 79 AD. The people of Pompeii all rushed to flee their city, leaving everything behind, yet an estimated 2,000 people did not make it. Nowadays, you can walk around the immense complex to get a unique insight into life in the first century.
 
 The Sanctuary of Apollo is one of the most prominent landmarks of Pompeii. DESCRIBE. We noticed a large number of flowers blooming around Pompeii, presumably because of the richness of the volcanic ashes that settled here.
 
