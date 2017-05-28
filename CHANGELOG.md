@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.1.39-dev
+* Added *In Search of Wildlife in Kruger National Park* draft.
 * Added *The Natural Wonder of Victoria Falls* draft.
 * Added *Three Days in Cape Town* draft.
 * Set current location to London, United Kingdom.

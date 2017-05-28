@@ -3541,6 +3541,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 987174,
+        "slug": "987174-crocodile-bridge-za",
+        "name": "Krokodilburg",
+        "region": "Mpumalanga",
+        "country": {
+          "code": "ZA",
+          "slug": "south-africa",
+          "name": "South Africa"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Africa/Johannesburg",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9,
+          -25.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 363312,
         "slug": "363312-ksamil-al",
         "name": "Ksamil",
@@ -4432,6 +4459,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 7289237,
+        "slug": "7289237-marloth-park-za",
+        "name": "Marloth Park",
+        "region": "Mpumalanga",
+        "country": {
+          "code": "ZA",
+          "slug": "south-africa",
+          "name": "South Africa"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Africa/Johannesburg",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.78,
+          -25.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 4030749,
         "slug": "4030749-mataveri-international-airport-cl",
         "name": "Mataveri International Airport",
@@ -4962,6 +5016,33 @@
         "coordinates": [
           146,
           -16.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 968059,
+        "slug": "968059-lower-sabie-za",
+        "name": "Onder-Sabie",
+        "region": "Mpumalanga",
+        "country": {
+          "code": "ZA",
+          "slug": "south-africa",
+          "name": "South Africa"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Africa/Johannesburg",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.92,
+          -25.12
         ]
       }
     },

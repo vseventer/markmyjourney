@@ -9380,6 +9380,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4798.JPG",
+        "date": "2017-05-23T12:12:11",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.88,
+          -25.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4820.JPG",
         "date": "2016-05-13T13:48:23",
         "description": "Burj Al Arab (2).",
@@ -9428,6 +9444,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4847.JPG",
+        "date": "2017-05-23T14:13:24",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.89,
+          -25.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4868.JPG",
         "date": "2016-05-13T13:53:21",
         "description": "View over Dubai.",
@@ -9438,6 +9470,22 @@
         "coordinates": [
           55.2,
           25.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4889.JPG",
+        "date": "2017-05-23T14:55:04",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.95,
+          -25.19
         ]
       }
     },
@@ -9476,6 +9524,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4919.JPG",
+        "date": "2017-05-23T15:54:46",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.88,
+          -25.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4930.JPG",
         "date": "2016-05-13T16:19:58",
         "description": "Burj Khalifa.",
@@ -9486,6 +9550,22 @@
         "coordinates": [
           55.28,
           25.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4938.JPG",
+        "date": "2017-05-23T17:48:27",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.89,
+          -25.34
         ]
       }
     },
@@ -9540,6 +9620,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4964.JPG",
+        "date": "2017-05-23T18:33:44",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9,
+          -25.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4984.JPG",
         "date": "2016-05-15T13:29:53",
         "description": "Mill at Keukenhof.",
@@ -9550,6 +9646,22 @@
         "coordinates": [
           4.55,
           52.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4998.JPG",
+        "date": "2017-05-23T19:37:42",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.88,
+          -25.2
         ]
       }
     },
@@ -9636,6 +9748,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5047.JPG",
+        "date": "2017-05-24T10:33:06",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.69,
+          -25.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5054.JPG",
+        "date": "2017-05-24T12:12:12",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.56,
+          -25.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5055.JPG",
         "date": "2016-05-21T13:48:09",
         "description": "Cobblestone streets of the Old Town.",
@@ -9684,6 +9828,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5070.JPG",
+        "date": "2017-05-24T14:32:32",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.92,
+          -25.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5071.JPG",
         "date": "2016-05-21T14:09:39",
         "description": "Souvenir shops in the Old Town.",
@@ -9694,6 +9854,38 @@
         "coordinates": [
           18.07,
           59.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5072.JPG",
+        "date": "2017-05-24T15:04:06",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.94,
+          -25.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5079-2.JPG",
+        "date": "2017-05-24T16:21:05",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9,
+          -25.33
         ]
       }
     },
