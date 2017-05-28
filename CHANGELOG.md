@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.39-dev
+* Set current location to London, United Kingdom.
+
 ### 1.1.38 (May 28, 2017)
 * Published *Easter Break in Cornwall* post.
 
