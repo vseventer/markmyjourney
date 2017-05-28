@@ -1381,6 +1381,60 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3369157,
+        "slug": "3369157-cape-town-za",
+        "name": "Cape Town",
+        "region": "Western Cape",
+        "country": {
+          "code": "ZA",
+          "slug": "south-africa",
+          "name": "South Africa"
+        },
+        "population": "3.4m",
+        "timezone": {
+          "name": "Africa/Johannesburg",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3367577,
+        "slug": "3367577-cape-of-good-hope-za",
+        "name": "Cape of Good Hope",
+        "region": "Western Cape",
+        "country": {
+          "code": "ZA",
+          "slug": "south-africa",
+          "name": "South Africa"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Africa/Johannesburg",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.47,
+          -34.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3687238,
         "slug": "3687238-cartagena-co",
         "name": "Cartagena",
@@ -5940,6 +5994,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3362356,
+        "slug": "3362356-robben-island-za",
+        "name": "Robben Island",
+        "region": "Western Cape",
+        "country": {
+          "code": "ZA",
+          "slug": "south-africa",
+          "name": "South Africa"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Africa/Johannesburg",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.37,
+          -33.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 6241325,
         "slug": "6241325-rotorua-nz",
         "name": "Rotorua",
@@ -6534,6 +6615,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 3361618,
+        "slug": "3361618-simons-town-za",
+        "name": "Simon's Town",
+        "region": "Western Cape",
+        "country": {
+          "code": "ZA",
+          "slug": "south-africa",
+          "name": "South Africa"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Africa/Johannesburg",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -34.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 1880252,
         "slug": "1880252-singapore-sg",
         "name": "Singapore",
@@ -6987,6 +7095,33 @@
         "coordinates": [
           -46.48,
           -23.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3360688,
+        "slug": "3360688-table-mountain-national-park-za",
+        "name": "Table Mountain",
+        "region": "Western Cape",
+        "country": {
+          "code": "ZA",
+          "slug": "south-africa",
+          "name": "South Africa"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Africa/Johannesburg",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.41,
+          -33.96
         ]
       }
     },

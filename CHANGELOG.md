@@ -2,6 +2,7 @@
 
 ### 1.1.39-dev
 * Added *The Natural Wonder of Victoria Falls* draft.
+* Added *Three Days in Cape Town* draft.
 * Set current location to London, United Kingdom.
 
 ### 1.1.38 (May 28, 2017)
