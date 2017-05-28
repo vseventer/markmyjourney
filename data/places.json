@@ -7398,6 +7398,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 879432,
+        "slug": "879432-victoria-falls-zw",
+        "name": "Victoria Falls",
+        "region": "Matabeleland North",
+        "country": {
+          "code": "ZW",
+          "slug": "zimbabwe",
+          "name": "Zimbabwe"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Africa/Harare",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.85,
+          -17.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2761369,
         "slug": "2761369-vienna-at",
         "name": "Vienna",
