@@ -16,7 +16,7 @@ Often characterized as dirty, full of graffiti, and dangerous, Naples is a city 
 ## Naples
 Naples International Airport is only a stones’ throw away from the city. However, traffic in this area of Italy is horrible, the roads are overcrowded with scooters, and no one seems to follow any traffic law. After parking on the easternmost end of the city, we exited the parking lot just in time to witness a biker getting knocked off his bike by a scooter. Welcome to Naples!
 
-Once in the city, it is easy and cheap to get around by metro. We exited near the Old City, and upon exiting we were greeted by the medieval Castel Nuovo. This impressive castle was built in the 13th century, to house the court of the Kingdom of Naples. Apart from this castle, Napels is also home to the defensive fortress of Ovo Castle, located near the harbor.
+Once in the city, it is easy and cheap to get around by metro. We exited near the Old City, and upon exiting we were greeted by the medieval Castel Nuovo. This impressive castle was built in the 13th century, to house the court of the Kingdom of Naples. Apart from this castle, Naples is also home to the defensive fortress of Ovo Castle, located near the harbor.
 
 {{< photo "IMG_3814.JPG" >}}
 
@@ -35,16 +35,16 @@ The Old City of Naples is home to a number of churches, all tucked away in the s
 {{< photo "IMG_3838.JPG" >}}
 
 ## Pompeii
-Pompeii, thirty minutes from Naples and situated on the base of Mt. Vesuvius, is an ancient city completely destroyed by the vulcanic eruption in 79 AD. The people of Pompeii all rushed to flee their city, leaving everything behind, yet an estimated 2,000 people did not make it. Nowadays, you can walk around the immense complex to get a unique insight into life in the first century.
+Pompeii, thirty minutes from Naples and situated on the base of Mt. Vesuvius, is an ancient city completely destroyed by the volcanic eruption in 79 AD. The people of Pompeii all rushed to flee their city, leaving everything behind, yet an estimated 2,000 people did not make it. Nowadays, you can walk around the immense complex to get a unique insight into life in the first century.
 
-The Sanctuary of Apollo is one of the most prominent landmarks of Pompeii. DESCRIBE. We noticed a large number of flowers blooming around Pompeii, presumably because of the richness of the volcanic ashes that settled here.
+The Sanctuary of Apollo, a place of worship, is one of the most prominent and oldest landmarks of Pompeii, dating back to the 6th century BC. We noticed a large number of flowers blooming around Pompeii, presumably because of the richness of the volcanic ashes that settled here.
 
 {{< photo "IMG_3851.JPG" >}}
 
-Forum, the main square of Pompeii (??), DESCRIBE.
+Forum, the main square of Pompeii, was the most important place in the city. All public buildings, like the administration, justice department, and market were located along the square. Ironically, the square was built directly aligned with Mt. Vesuvius, which later destroyed the city.
 
 {{< photo "IMG_3872.JPG" >}}
 
-All the way at the end of the site, far away from the entrance, you can find the Garden of the Fugitives. Behind glass, you can see a number of people seemingly made out of volcanic clay. This exhibit summarizes Pompeii in a nutshell, and shows how the people of this ancient city were completely taken by surprise.
+All the way at the end of the site, far away from the entrance, you can find the Garden of the Fugitives. Behind glass, you can see thirteen people seemingly made out of volcanic clay. This exhibit summarizes Pompeii in a nutshell, and shows how the people of this ancient city were completely taken by surprise.
 
 {{< photo "IMG_3861-2.JPG" >}}
