@@ -17,23 +17,23 @@ cover = "IMG_1800.JPG"
 London is a buzzing metropole, but if you want to escape the city for the day, there are plenty of places worth seeing within a two-hours’ drive. While Stonehenge might be the most famous, the beautiful architecture of the colleges of Oxford and Cambridge, the Roman Baths at Bath, and Shakespeare’s Birthplace in Stratford-upon-Avon surely must not be forgotten.
 <!--more-->
 
-Most of the organized tours from London visit the Stonehenge–Bath–Oxford triangle, and start at a price of around £40. However, we found that, especially if you have company, renting a car is the better way to go. Once outside of London, getting around is pretty easy, and you have more flexibility to stop where you want, plus if you time your rental right, you’re cheaper of too.
+Most of the organized tours from London visit the Stonehenge–Bath–Oxford triangle, and start at a price of around £40. However, we found that, especially if you have company, renting a car is the better way to go. Once outside of London, getting around is pretty easy, and you have more flexibility to stop where you want, plus if you time your rental right, it’s cheaper too.
 
 ## Stonehenge
-The prehistoric monument of Stonehenge dates back to 3,000 to 2,000 BC. The ring of standing stones is situated in Wiltshire, with its nearest town three kilometers away. The location is a bit surreal, as the stones appear out of nowhere after the highway (which was built almost right next to it) passes over one of many rolling hills. To see the monument up close though, stop at the Visitor Centre, pay the entrance fee, and take a shuttle to the monument.
+The prehistoric monument of Stonehenge dates back to 3,000 to 2,000 BC. The ring of standing stones is situated in Wiltshire, with its nearest town three kilometers away. The location is quite surreal with many rolling hills. You can see the stones from the car as the highway is build almost next to it, however, if you want to take a closer look, stop at the Visitor Centre, pay the entrance fee, and take a shuttle to the monument.
 
 {{< photo "IMG_1800.JPG" >}}
 
 ## Bath
-Bath is known for its natural hot springs and 18th century architecture. The Roman Baths, a historical complex dating back to Roman times, is its most popular sight. It was built after the Roman invasion, as the Romans wanted to feel at home. The Roman Baths consist of a multitude of baths, including saunas and cold baths.
+Bath is known for its natural hot springs and 18th century architecture. The Roman Baths, a historical complex dating back to Roman times, is its most popular sight. It was built after the Roman invasion, as the Romans wanted to feel more at home. The Roman Baths consist of a multitude of baths, including saunas and cold baths.
 
 {{< photo "IMG_2903.JPG" >}}
 
-Interestingly, after the Romans left the United Kingdom, the Roman Baths were forgotten and left for centuries. It wasn’t until the late 19th century that the baths were reconstructed and reopened to the public. The Roman statues, as seen in the picture below, were actually an addition of this time in order to attract more visitors.
+Interestingly, after the Romans left the United Kingdom, the Roman Baths were forgotten and left for centuries. It wasn’t until the late 19th century that the baths were reconstructed and reopened to the public. The Roman statues, as seen in the picture below, were actually a recent addition designed to attract more visitors.
 
 {{< photo "IMG_2885.JPG" >}}
 
-The city of Bath itself has the same architectural style as the Roman Baths, which are actually located right in the center of the city. Baths honey-colored buildings make it seem you’re in a medieval town.
+The city of Bath itself has the same architectural style as the Roman Baths, which are actually located right in the center of the city. Baths uniform cream-colored buildings make you feel like you’re not in England, but rather in some medieval town.
 
 {{< photo "IMG_2913.JPG" >}}
 
@@ -42,11 +42,11 @@ Pulteney Bridge is another major landmark in Bath. This bridge, completed in 177
 {{< photo "IMG_2917.JPG" >}}
 
 ## Oxford
-The city of Oxford is famous for its colleges and universities. Apart from being an education hub, Oxford receives a lot of day trippers and other tourists. Therefore, there are ample restaurants, bars, and coffee shops in the city center.
+The city of Oxford is famous for its colleges and universities. Apart from being an education hub, Oxford receives a lot of day trippers and other tourists, and the city definitely doesn’t have a shortage of restaurants, bars, or coffee shops.
 
 {{< photo "IMG_1817.JPG" >}}
 
-Once you reach the university complex, the architecture will blow you away. The Hertford Bridge, or Bridge of Sighs, is a perfect example of the distinctive design of the buildings. The bridge connects two parts of the Hertford College.
+Once you reach the university complex, you will be amazed with the surrounding architecture. The Hertford Bridge, or Bridge of Sighs, is a perfect example of the distinctive design of the buildings. The bridge connects two parts of the Hertford College.
 
 {{< photo "IMG_1828.JPG" >}}
 
@@ -67,11 +67,11 @@ His birthplace is located further down the street. The restored 16th century hou
 
 {{< photo "IMG_3417.JPG" >}}
 
-Even if you are not into Shakespeare, Stratford is definitely worth visiting. The architecture throughout the town is beautiful, and there are plenty of coffee shops and restaurants to make a stop at.
+Even if you are not into Shakespeare, Stratford is definitely worth visiting. The architecture throughout the town is beautiful, and there are plenty of coffee shops and restaurants worth a visit.
 
 {{< photo "IMG_3420.JPG" >}}
 
-On a sunny day you will find plenty of people relaxing around the waterfront of Stratford. It is home to the Royal Shakespeare Theatre, a recreation ground, and there are boats available for hire.
+On a sunny day you will find plenty of people relaxing around the waterfront of Stratford. It is home to the Royal Shakespeare Theatre, a recreation ground, where it is also possible to hire a boat.
 
 {{< photo "IMG_3422.JPG" >}}
 

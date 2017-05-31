@@ -24,7 +24,7 @@ The closest beach to Ayia Napa is Nissi Beach. This 500-meter long beach has ext
 
 {{< photo "IMG_9701.JPG" >}}
 
-If you prefer to avoid the crowds, the Blue Lagoon near Cape Greco (the southeastern tip of Cyprus) might be of interest. This is not really a beach, but more like a rocky terrain from where you can jump into the sea. Many boats also anchor in the bay. No wonder, since the area is full of caves due to the rocky terrain.
+If you prefer to avoid the crowds, the Blue Lagoon near Cape Greco (the southeastern tip of Cyprus) might be of interest. This is not really a beach, but more like a rocky terrain from where you can jump into the sea. Many boats also anchor in the bay.
 
 {{< photo "IMG_9709.JPG" >}}
 
@@ -45,7 +45,7 @@ After all the swimming we were getting hungry, and decided to go for a quick mea
 {{< photo "IMG_9763.JPG" >}}
 
 ## Paphos
-The next morning, after visiting so many beaches, we were ready to explore the inlands of Cyprus, as well as Paphos, a seaside city on the western end of Cyprus famous for its archeological sites. From the main highway, we took an inland road leading towards the Troodos Mountains, the mountain range covering the center of the island. We didn’t really set out to explore wineries in Cyprus, however once we came across some signs we simply had to explore. We came across Karseras Family Winery, where the tasting included house red, white, or rose.
+The next morning, after visiting so many beaches, we were ready to explore the inlands of Cyprus, as well as Paphos, a seaside city on the western end of Cyprus famous for its archeological sites. From the main highway, we took an inland road leading towards the Troodos Mountains, the mountain range covering the center of the island. We didn’t really set out to explore wineries in Cyprus, however once we came across some signs we simply had to. We came across Karseras Family Winery, where the tasting included house red, white, or rose.
 
 {{< photo "IMG_9771.JPG" >}}
 
@@ -53,7 +53,7 @@ The real surprise discovery, and the wine that really stole the show was a speci
 
 {{< photo "IMG_9768.JPG" >}}
 
-We left the mountains behind us, and headed back towards the coast. Our destination was two miles north of Paphos, at the archeological site of the Tombs of the Kings. As the name suggests, this site was a burial ground, and many high officials and aristocrats (the upper class) were buried here.
+Continuing on, we left the mountains behind us, and headed back towards the coast. Our destination was two miles north of Paphos, at the archeological site of the Tombs of the Kings. As the name suggests, this site was a burial ground, and many high officials and aristocrats (the upper class) were buried here.
 
 {{< photo "IMG_9776.JPG" >}}
 
@@ -70,7 +70,7 @@ From Paphos, we drove back eastwards towards Limassol, the second city of Cyprus
 
 {{< photo "IMG_9812.JPG" >}}
 
-The rock can be accessed by parking on the side of the highway, and taking a set of stairs down towards the beach. Apart from the rock itself, go for a swim if you like. Even though it is not the nicest beach, the presence of Aphrodite’s Rock makes it very scenic.
+The rock can be accessed by parking on the side of the highway, and taking a set of stairs down towards the beach. Apart from the rock itself, you can go for a swim if you like. Even though it is not the nicest beach, the presence of Aphrodite’s Rock makes it very scenic.
 
 {{< photo "IMG_9828.JPG" >}}
 

@@ -28,7 +28,7 @@ Apart from the gardens itself, the Keukenhof has a few exhibition centers, flowe
 {{< photo "IMG_4984.JPG" >}}
 
 ## Volendam
-Visiting Volendam is yet another Dutch thing to do. This fishing village welcomes hundreds of tourists each day, either arriving by boat or bus from Amsterdam. As with Keukenhof, we arrived by car, and parked a short walk outside of the car free city center.
+Visiting Volendam is yet another thing to do. This fishing village welcomes hundreds of tourists each day, either arriving by boat or bus from Amsterdam. As with Keukenhof, we arrived by car, and parked a short walk outside of the car free city center.
 
 The main street along the harbor is lined with restaurants serving primarily fresh fish ([herring]({{< ref "20141030-top-foods-from-the-netherlands.md" >}})), and tourists shops selling cheese, wooden shoes, and offer the option to take a picture in traditional Volendam clothing.
 
