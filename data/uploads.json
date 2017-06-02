@@ -2068,6 +2068,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1106.JPG",
+        "date": "2016-11-12T10:53:51",
+        "description": "Danish custard pastry.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57,
+          55.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1108.JPG",
         "date": "2015-11-27T11:46:01",
         "description": "Palm Cove Beach.",
@@ -2212,6 +2228,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1156.JPG",
+        "date": "2016-11-12T14:31:30",
+        "description": "Smørrebrød.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6,
+          55.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1157.JPG",
         "date": "2015-12-25T14:25:56",
         "description": "One of many trails in the Cradle Mountain National Park.",
@@ -2222,6 +2254,22 @@
         "coordinates": [
           145.95,
           -41.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1158.JPG",
+        "date": "2016-11-12T15:18:19",
+        "description": "Nordic glögg.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6,
+          55.68
         ]
       }
     },
@@ -2350,6 +2398,38 @@
         "coordinates": [
           148.29,
           -42.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1212.JPG",
+        "date": "2016-11-13T10:14:57",
+        "description": "Lakrids.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.65,
+          55.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1213.JPG",
+        "date": "2016-11-13T10:24:05",
+        "description": "Royal Dansk cookies.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.65,
+          55.62
         ]
       }
     },

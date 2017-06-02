@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.40-dev
+* Added *Top Foods from Denmark* draft.
+
 ### 1.1.39 (June 1, 2017)
 * Added *In Search of Wildlife in Kruger National Park* draft.
 * Added *The Natural Wonder of Victoria Falls* draft.
