@@ -1524,6 +1524,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_0767.JPG",
+        "date": "2016-10-14T13:50:41",
+        "description": "Baguette.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3,
+          48.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_0768.JPG",
+        "date": "2016-10-14T14:02:20",
+        "description": "Éclair.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3,
+          48.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_0772.JPG",
         "date": "2014-10-22T16:26:37",
         "description": "Jonge Jenever (gin).",
@@ -1732,6 +1764,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_0874.JPG",
+        "date": "2016-10-15T15:16:20",
+        "description": "Ratatouille and pâté.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.94,
+          49.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_0890.JPG",
         "date": "2015-09-06T14:04:53",
         "description": "Xanadu Wines in the Margaret Valley.",
@@ -1764,6 +1812,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_0931.JPG",
+        "date": "2016-10-16T12:37:37",
+        "description": "Macaron.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36,
+          49.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_0935.JPG",
         "date": "2015-09-07T10:39:38",
         "description": "Winefields in the Swan Valley, located about 30 minutes northeast of Perth.",
@@ -1790,6 +1854,22 @@
         "coordinates": [
           115.16,
           -30.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_0948.JPG",
+        "date": "2016-10-16T13:15:51",
+        "description": "Chocolate croissant.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.28,
+          49.25
         ]
       }
     },
@@ -3140,6 +3220,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1577-2.JPG",
+        "date": "2016-12-02T19:26:40",
+        "description": "Burgundy snails.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84,
+          47.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1577.JPG",
         "date": "2016-02-13T15:19:34",
         "description": "Cliffs spanning the whole of Kakadu National Park.",
@@ -3150,6 +3246,22 @@
         "coordinates": [
           132.82,
           -12.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1581.JPG",
+        "date": "2016-12-02T19:38:11",
+        "description": "Beef bourguignon.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.84,
+          47.02
         ]
       }
     },
@@ -3182,6 +3294,22 @@
         "coordinates": [
           130.85,
           -12.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1597.JPG",
+        "date": "2016-12-03T10:13:21",
+        "description": "Dijon Mustard.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.04,
+          47.32
         ]
       }
     },
@@ -3454,6 +3582,22 @@
         "coordinates": [
           116.04,
           -8.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1729.JPG",
+        "date": "2016-12-04T16:49:00",
+        "description": "Crêpe.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.13,
+          45.9
         ]
       }
     },
