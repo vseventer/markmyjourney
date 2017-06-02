@@ -25,7 +25,7 @@ After walking the same way down, we decided to make a quick stop at Waterhead. W
 {{< photo "IMG_3041.JPG" >}}
 
 ## Derwent Water
-[Windermere]({{< ref "20170311-a-cloudy-day-in-lake-district-national-park.md#windermere" >}}) is the largest lake in the park, followed by [Ullswater]({{< ref "20170311-a-cloudy-day-in-lake-district-national-park.md#ullswater" >}}) and Derwent Water. The view of the latter from Friars Crog, however, we found most impressive. Park at the Lakeside Car Park near Keswick, and walk about 15 minutes towards the viewpoint. You’ll find an empty bench, and great view over Derwent Water and few many small uninhabited islands.
+[Windermere]({{< ref "20170604-a-cloudy-day-in-lake-district-national-park.md#windermere" >}}) is the largest lake in the park, followed by [Ullswater]({{< ref "20170604-a-cloudy-day-in-lake-district-national-park.md#ullswater" >}}) and Derwent Water. The view of the latter from Friars Crog, however, we found most impressive. Park at the Lakeside Car Park near Keswick, and walk about 15 minutes towards the viewpoint. You’ll find an empty bench, and great view over Derwent Water and few many small uninhabited islands.
 
 {{< photo "IMG_3049.JPG" >}}
 
