@@ -1,6 +1,5 @@
 +++
-draft   = true
-date    = "2017-03-11"
+date    = "2017-06-04"
 title   = "A Cloudy Day in Lake District National Park"
 destinations = [ "europe", "united-kingdom" ]
 places = [ "2645021-lake-district-national-park-gb" ]

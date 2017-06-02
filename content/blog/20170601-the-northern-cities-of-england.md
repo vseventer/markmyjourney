@@ -15,7 +15,7 @@ photos = [
 ]
 cover = "IMG_3003.JPG"
 +++
-Liverpool, Manchester, and Leeds form the central corridor of England. On our way to the Lake District National Park and Scotland, we visited these three megacities, together home to over five million people. Further north, we visited the largest city on the east coast: Newcastle, population 800,000.
+Liverpool, Manchester, and Leeds form the central corridor of England. On our way to the [Lake District National Park]({{< ref "20170604-a-cloudy-day-in-lake-district-national-park.md" >}}) and Scotland, we visited these three megacities, together home to over five million people. Further north, we visited the largest city on the east coast: Newcastle, population 800,000.
 <!--more-->
 
 ## Liverpool
