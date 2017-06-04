@@ -3,6 +3,7 @@
 ### 1.1.40-dev
 * Added *Top Foods from Denmark* draft.
 * Added *Top Foods from France* draft.
+* Added *Top Foods from Spain* draft.
 * Added *Top Foods from Switzerland* draft.
 * Published *A Cloudy Day in Lake District National Park* post.
 

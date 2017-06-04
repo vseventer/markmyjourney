@@ -1908,6 +1908,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1005.JPG",
+        "date": "2015-09-26T13:52:34",
+        "description": "Paella.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91,
+          43.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1008.JPG",
         "date": "2015-09-27T12:28:52",
         "description": "Along the Capital City Trail, a biking and walking trail around Melbourne.",
@@ -2692,6 +2708,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1298.JPG",
+        "date": "2016-11-18T13:06:12",
+        "description": "Olive oil.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.85,
+          42.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1299.JPG",
         "date": "2016-01-09T08:45:54",
         "description": "Our tiny rental car squeezed in the corner of the ferry.",
@@ -2814,6 +2846,22 @@
         "coordinates": [
           136.71,
           -36.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1344.JPG",
+        "date": "2016-11-18T15:55:41",
+        "description": "Ham croquetas.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.65,
+          42.82
         ]
       }
     },
@@ -2964,6 +3012,54 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1397.JPG",
+        "date": "2016-11-19T14:02:02",
+        "description": "Jamón ibérico.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.65,
+          42.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1402.JPG",
+        "date": "2016-11-19T14:18:39",
+        "description": "Tapas.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.65,
+          42.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1403.JPG",
+        "date": "2016-11-19T14:25:30",
+        "description": "Sangria.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.65,
+          42.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1406.JPG",
         "date": "2016-01-14T19:04:43",
         "description": "Foodtrucks at the South Melbourne Night Market.",
@@ -2990,6 +3086,22 @@
         "coordinates": [
           144.96,
           -37.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1413.JPG",
+        "date": "2016-11-19T20:29:28",
+        "description": "Veal cheek.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.99,
+          43.32
         ]
       }
     },
@@ -3076,6 +3188,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1496.JPG",
+        "date": "2016-11-20T18:30:12",
+        "description": "Churros.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93,
+          43.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1499.jpg",
         "date": "2014-05-28T10:21:33",
         "description": "Inside the mosque (1).",
@@ -3118,6 +3246,22 @@
         "coordinates": [
           55.12,
           25.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_1522.JPG",
+        "date": "2016-11-20T20:59:30",
+        "description": "Patatas Bravas.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91,
+          43.3
         ]
       }
     },
