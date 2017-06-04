@@ -16,6 +16,7 @@ cover = "IMG_3680.JPG"
 +++
 In Europe, the Easter Weekend consists of four days, as most people have Friday and Monday off too. It allowed us to take a short break and drive a few hours to the South of England, to visit Cornwall and its surroundings. Even though the motorways were packed, we embraced the traffic jams and headed out for a long Easter Break in Cornwall.
 <!--more-->
+
 ## Bristol
 After being stranded on the motorway for a good hour due to a vehicle fire, we finally made it halfway to Cornwall. We decided to make a quick stop in Bristol, a mid-size city with just under half a million inhabitants. The city center consists of mostly shopping areas, some of them quite modern and well designed.
 
