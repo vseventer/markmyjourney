@@ -4580,6 +4580,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2491.JPG",
+        "date": "2017-01-14T09:22:07",
+        "description": "Cheeses at our hotel breakfast.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74,
+          46.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2497.JPG",
         "date": "2016-03-19T13:53:11",
         "description": "Aerial view of Uluru while landing on Ayers Rock Airport.",
@@ -4788,6 +4804,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2607.JPG",
+        "date": "2017-01-14T17:24:24",
+        "description": "Toblerone, with its Matterhorn mountain logo.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74,
+          46.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2611.JPG",
         "date": "2016-03-20T07:53:34",
         "description": "Uluru from close-by (2).",
@@ -4836,6 +4868,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2638.JPG",
+        "date": "2017-01-14T18:57:36",
+        "description": "Raclette.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75,
+          46.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2640.JPG",
         "date": "2016-03-23T20:03:55",
         "description": "Passionfruit mojito (left).",
@@ -4846,6 +4894,22 @@
         "coordinates": [
           153.09,
           -26.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2645.JPG",
+        "date": "2017-01-14T19:21:23",
+        "description": "Cheese fondue.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75,
+          46.02
         ]
       }
     },
