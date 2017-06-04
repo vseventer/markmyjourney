@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.40-dev
+### 1.1.40 (June 4, 2017)
 * Added *Top Foods from Denmark* draft.
 * Added *Top Foods from France* draft.
 * Added *Top Foods from Spain* draft.
