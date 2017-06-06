@@ -4324,6 +4324,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2127.JPG",
+        "date": "2016-12-26T19:05:13",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4,
+          43.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2145.JPG",
         "date": "2016-02-21T00:12:33",
         "description": "Light projections onto the Royal Exhibition Building during White Night.",
@@ -4334,6 +4350,22 @@
         "coordinates": [
           144.97,
           -37.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2162.JPG",
+        "date": "2016-12-27T11:48:57",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3,
+          43.58
         ]
       }
     },
@@ -4372,6 +4404,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2191.JPG",
+        "date": "2016-12-27T14:44:50",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.08,
+          43.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2192.JPG",
         "date": "2016-02-27T17:35:06",
         "description": "Performance during the Lonsdale Street Greek Festival.",
@@ -4388,6 +4436,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2193.JPG",
+        "date": "2016-12-27T15:06:44",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.08,
+          43.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2194.JPG",
+        "date": "2016-12-27T15:35:12",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.08,
+          43.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2209.JPG",
         "date": "2016-03-05T17:33:48",
         "description": "Downtown Airlie Beach.",
@@ -4398,6 +4478,22 @@
         "coordinates": [
           148.72,
           -20.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2220.JPG",
+        "date": "2016-12-27T16:42:37",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.04,
+          43.47
         ]
       }
     },
@@ -4580,6 +4676,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2380.JPG",
+        "date": "2016-12-29T15:19:49",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.49,
+          41.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2398.JPG",
         "date": "2016-03-06T14:47:48",
         "description": "Ready to head back to the mainland.",
@@ -4590,6 +4702,22 @@
         "coordinates": [
           149.06,
           -20.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2402.JPG",
+        "date": "2016-12-29T20:48:26",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47,
+          41.87
         ]
       }
     },
@@ -4660,6 +4788,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2413.JPG",
+        "date": "2016-12-30T10:33:35",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.52,
+          41.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2421.JPG",
         "date": "2016-03-07T10:01:17",
         "description": "Port of Airlie.",
@@ -4670,6 +4814,38 @@
         "coordinates": [
           148.73,
           -20.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2427.JPG",
+        "date": "2016-12-30T12:22:26",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47,
+          41.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2428.JPG",
+        "date": "2016-12-30T12:43:13",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47,
+          41.89
         ]
       }
     },
@@ -8516,6 +8692,54 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3900.JPG",
+        "date": "2017-05-05T20:35:44",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          40.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3902.JPG",
+        "date": "2017-05-05T20:46:40",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          40.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3905.JPG",
+        "date": "2017-05-05T21:08:12",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          40.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3908.JPG",
         "date": "2015-03-02T14:28:44",
         "description": "City center.",
@@ -8526,6 +8750,22 @@
         "coordinates": [
           -68.15,
           -16.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3909.JPG",
+        "date": "2017-05-05T21:13:45",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          40.66
         ]
       }
     },
@@ -9150,6 +9390,22 @@
         "coordinates": [
           174.77,
           -36.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4201.JPG",
+        "date": "2017-05-07T15:13:37",
+        "description": null,
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6,
+          40.63
         ]
       }
     },
