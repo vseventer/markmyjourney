@@ -1,6 +1,5 @@
 +++
-draft   = true
-date    = "2017-03-11"
+date    = "2017-06-11"
 title   = "The Scottish Highlands"
 destinations = [ "europe", "united-kingdom" ]
 places = [
@@ -16,8 +15,8 @@ photos = [
 cover = "IMG_3123.JPG"
 +++
 The Scottish Highlands roughly encompasses the entire northwest of Scotland. Apart from Inverness, with roughly 50,000 inhabitants, the Highlands are sparsely populated. Its many mountains, lakes, and forests dominate the landscape. It makes for a great road trip, just be sure to fill up at every gas station you pass, as you’ll never know how far it is to the next.
-
 <!--more-->
+
 ## Pitlochry
 The small town of Pitlochry is the starting point of Cairngorms National Park, the largest National Park in the United Kingdom. Heading north from Pitlochry, you will leave much of civilization behind in exchange for the dramatic scenery of the mountains, lakes, and forests of the Highlands.
 

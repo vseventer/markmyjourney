@@ -11,7 +11,7 @@ photos = [
 ]
 cover = "IMG_3353.JPG"
 +++
-The most populated area in Scotland is located north of [Lake District National Park]({{< ref "20170604-a-cloudy-day-in-lake-district-national-park.md" >}}) and just south of the Highlands. The countries’ two biggest cities, Glasgow and Edinburgh, both have about 500,000 inhabitants, and are only one hour apart. On the way north, we stopped in Glasgow, while going south we stopped in Edinburgh, admiring its iconic hilltop castle.
+The most populated area in Scotland is located north of [Lake District National Park]({{< ref "20170604-a-cloudy-day-in-lake-district-national-park.md" >}}) and just south of the [Highlands]({{< ref "20170611-the-scottish-highlands.md" >}}). The countries’ two biggest cities, Glasgow and Edinburgh, both have about 500,000 inhabitants, and are only one hour apart. On the way north, we stopped in Glasgow, while going south we stopped in Edinburgh, admiring its iconic hilltop castle.
 <!--more-->
 
 ## Glasgow

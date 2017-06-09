@@ -1,7 +1,10 @@
 # Changelog
 
+### 1.1.42-dev
+* Published *The Scottish Highlands* post.
+
 ### 1.1.41 (June 8, 2017)
-* Publish *Cities of Scotland: Glasgow & Edinburgh* post.
+* Published *Cities of Scotland: Glasgow & Edinburgh* post.
 * Added *Top Foods from Italy* draft.
 
 ### 1.1.40 (June 4, 2017)
