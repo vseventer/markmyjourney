@@ -4326,8 +4326,8 @@
       "properties": {
         "src": "IMG_2127.JPG",
         "date": "2016-12-26T19:05:13",
-        "description": null,
-        "orientation": "portrait"
+        "description": "Pizza.",
+        "orientation": "landscape"
       },
       "geometry": {
         "type": "Point",
@@ -4358,7 +4358,7 @@
       "properties": {
         "src": "IMG_2162.JPG",
         "date": "2016-12-27T11:48:57",
-        "description": null,
+        "description": "Bruschetta.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -4406,7 +4406,7 @@
       "properties": {
         "src": "IMG_2191.JPG",
         "date": "2016-12-27T14:44:50",
-        "description": null,
+        "description": "Ribollita.",
         "orientation": "portrait"
       },
       "geometry": {
@@ -4438,7 +4438,7 @@
       "properties": {
         "src": "IMG_2193.JPG",
         "date": "2016-12-27T15:06:44",
-        "description": null,
+        "description": "Lasagna.",
         "orientation": "portrait"
       },
       "geometry": {
@@ -4454,7 +4454,7 @@
       "properties": {
         "src": "IMG_2194.JPG",
         "date": "2016-12-27T15:35:12",
-        "description": null,
+        "description": "Biscotti.",
         "orientation": "portrait"
       },
       "geometry": {
@@ -4486,7 +4486,7 @@
       "properties": {
         "src": "IMG_2220.JPG",
         "date": "2016-12-27T16:42:37",
-        "description": null,
+        "description": "Gelato.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -4678,7 +4678,7 @@
       "properties": {
         "src": "IMG_2380.JPG",
         "date": "2016-12-29T15:19:49",
-        "description": null,
+        "description": "Cannoli.",
         "orientation": "portrait"
       },
       "geometry": {
@@ -4710,8 +4710,24 @@
       "properties": {
         "src": "IMG_2402.JPG",
         "date": "2016-12-29T20:48:26",
-        "description": null,
+        "description": "Truffle gnocchi.",
         "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47,
+          41.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2403-2.JPG",
+        "date": "2016-12-29T20:48:40",
+        "description": null,
+        "orientation": "landscape"
       },
       "geometry": {
         "type": "Point",
@@ -4790,7 +4806,7 @@
       "properties": {
         "src": "IMG_2413.JPG",
         "date": "2016-12-30T10:33:35",
-        "description": null,
+        "description": "Panettone.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -4838,7 +4854,7 @@
       "properties": {
         "src": "IMG_2428.JPG",
         "date": "2016-12-30T12:43:13",
-        "description": null,
+        "description": "Carbonara.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -8564,6 +8580,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3843.JPG",
+        "date": "2017-05-05T11:49:50",
+        "description": "Buffalo mozarella on a Neapolitan pizza.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.27,
+          40.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3851.JPG",
         "date": "2017-05-05T13:40:07",
         "description": "Sanctuary of Apollo, with the looming Mt. Vesuvius.",
@@ -8694,7 +8726,7 @@
       "properties": {
         "src": "IMG_3900.JPG",
         "date": "2017-05-05T20:35:44",
-        "description": null,
+        "description": "Spritz.",
         "orientation": "portrait"
       },
       "geometry": {
@@ -8710,7 +8742,7 @@
       "properties": {
         "src": "IMG_3902.JPG",
         "date": "2017-05-05T20:46:40",
-        "description": null,
+        "description": "Ravioli.",
         "orientation": "portrait"
       },
       "geometry": {
@@ -8726,7 +8758,7 @@
       "properties": {
         "src": "IMG_3905.JPG",
         "date": "2017-05-05T21:08:12",
-        "description": null,
+        "description": "Limoncello.",
         "orientation": "portrait"
       },
       "geometry": {
@@ -8758,7 +8790,7 @@
       "properties": {
         "src": "IMG_3909.JPG",
         "date": "2017-05-05T21:13:45",
-        "description": null,
+        "description": "Tiramisu.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -9398,7 +9430,7 @@
       "properties": {
         "src": "IMG_4201.JPG",
         "date": "2017-05-07T15:13:37",
-        "description": null,
+        "description": "Prosciutto, salami, and mortadella.",
         "orientation": "portrait"
       },
       "geometry": {
