@@ -1,7 +1,8 @@
 # Changelog
 
-### 1.1.41-dev
+### 1.1.41 (June 8, 2017)
 * Publish *Cities of Scotland: Glasgow & Edinburgh* post.
+* Added *Top Foods from Italy* draft.
 
 ### 1.1.40 (June 4, 2017)
 * Added *Top Foods from Denmark* draft.
