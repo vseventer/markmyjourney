@@ -13,6 +13,7 @@ cover = "IMG_8580.JPG"
 +++
 Our second-to-last day in Albania brought us to the lakeside town of Pogradec, situated on the banks of Lake Ohrid, and Korçë, a city in the southeastern part of the country. The southeast is quite different compared to the mountains of [Valbona National Park]({{< ref "20170305-one-week-in-albania-valbona-national-park-and-prizren.md" >}}): south of Lake Ohrid you will still find mountains, but less rugged and vast.
 <!--more-->
+
 ## Lake Ohrid
 Lake Ohrid forms part of the Macedonian–Albanian border. In Macedonia, Struga and Ohrid are popular destinations, while in Albania Pogradec is the only city directly on the lake. When coming from Tirana, the first sight of Lake Ohrid is when you pass over the final hill just before entering Korçë County.
 

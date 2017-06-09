@@ -14,6 +14,7 @@ cover = "IMG_8529.JPG"
 +++
 After enjoying [Albania’s beaches]({{< ref "20170302-one-week-in-albania-the-beaches.md" >}}), we returned to Tirana for a short night. The next day we would embark on a two-day trip to Valbona National Park, with a detour through the Kosovan city of Prizren. The plan was to return to Tirana on Sunday night, just in time to watch the European Championship 2016 final together with the football-crazy Albanian crowd.
 <!--more-->
+
 ## Koman
 Valbona National Park is located in the northeast corner of Albania. One of the most scenic ways to get there from Tirana is to take the ferry from Koman to Fierzë. This three-hour journey over the Drin River is simply breathtaking, and reminded us of the [Norwegian fjords]({{< ref "20160604-top-things-to-do-in-norway-cruising-the-fjords.md" >}}). The ferry operates daily, but make sure to time your arrival as there is only one trip a day, leaving at 9AM sharp.
 
