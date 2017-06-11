@@ -4,24 +4,21 @@ date   = "2017-05-07"
 title  = "Top Foods from Italy"
 destinations = [ "europe", "italy" ]
 photos = [
-  "IMG_4201.JPG", "IMG_2194.JPG", "IMG_2162.JPG", "IMG_3843.JPG", "IMG_2191.JPG",
-  "IMG_2427.JPG", "IMG_2127.JPG", "IMG_2193.JPG", "IMG_2402.JPG", "IMG_2428.JPG",
-  "IMG_2403-2.JPG", "IMG_3902.JPG", "IMG_3905.JPG", "IMG_3900.JPG", "IMG_2380.JPG",
-  "IMG_2220.JPG", "IMG_3909.JPG", "IMG_2413.JPG"
+  "IMG_2131.JPG", "IMG_2417.JPG", "IMG_2194.JPG", "IMG_2162.JPG", "IMG_3843.JPG",
+  "IMG_2191.JPG", "IMG_2427.JPG", "IMG_2127.JPG", "IMG_2193.JPG", "IMG_2402.JPG",
+  "IMG_2428.JPG", "IMG_2403-2.JPG", "IMG_3902.JPG", "IMG_3905.JPG", "IMG_3900.JPG",
+  "IMG_2380.JPG", "IMG_2220.JPG", "IMG_3909.JPG", "IMG_2413.JPG"
 ]
 cover = "IMG_2162.JPG"
 +++
-When it comes to Italy you will definitely not have any trouble finding great food,
-whether you’re looking for a gourmet dinner or on the go pizza, you won’t be
-disappointed. As most of our meals consisted of some sort of dough, pasta, or bread,
-we found ourselves quite stuffed most of the time, but we always somehow
-managed to find space for tiramisu.
+When it comes to Italy you will definitely not have any trouble finding great food, whether you’re looking for a gourmet dinner or on the go pizza, you won’t be disappointed. As most of our meals consisted of some sort of dough, pasta, or bread, we found ourselves quite stuffed most of the time, but we always somehow managed to find space for tiramisu.
 <!--more-->
 
 ## Prosciutto, salami, and mortadella
 Prosciutto is the Italian version of dry-cured ham, while salami is a type of cured sausage that’s either beef or pork. Finally, mortadella is a finely ground cured pork. All are delicious and definitely worth a try, especially when in the Tuscan wine region, or Bologna in case of mortadella.
 
-{{< photo "IMG_4201.JPG" >}}
+{{< photo "IMG_2131.JPG" >}}
+{{< photo "IMG_2417.JPG" >}}
 
 ## Biscotti
 Biscotti are hard cookies with almonds. They are quite crunchy and we liked dipping ours in our coffee, so they become a bit softer prior to eating.
@@ -39,8 +36,7 @@ There is mozzarella and then there is Buffalo mozzarella! When in [Naples]({{< r
 {{< photo "IMG_3843.JPG" >}}
 
 ## Ribollita
-This is possibly the best vegetable soup we have ever tasted. Perhaps it’s the
-generous serving of olive oil, or the slow cooking process, either way this was a great start to our vertical wine tasting experience. The bread in the soup was a nice touch, to soak up the good wine that followed!
+This is possibly the best vegetable soup we have ever tasted. Perhaps it’s the generous serving of olive oil, or the slow cooking process, either way this was a great start to our vertical wine tasting experience. The bread in the soup was a nice touch, to soak up the good wine that followed!
 
 {{< photo "IMG_2191.JPG" >}}
 
@@ -75,14 +71,16 @@ Risotto is a rice dish that’s quite tough to get right. The rice is usually co
 {{< photo "IMG_2403-2.JPG" >}}
 
 ## Ravioli
+Yet another pasta-based dish, ravioli are composed of two rectangular shaped thin pieces of pasta dough that are sealed together around a central filling. We tried this ricotta filled ravioli with a tomato seafood sauce, and absolutely loved it. In fact, it was one of the most delicious foods we tried in the coastal region of [Amalfi]({{< ref "20170507-capri-amalfi-coast.md" >}}).
+
 {{< photo "IMG_3902.JPG" >}}
 
 ## Limoncello and Spritz
-Two perfect drinks. When visiting [Amalfi]({{< ref "20170507-capri-amalfi-coast.md" >}}), you will know from the gigantic lemons why Limoncello is such a popular drink. Limoncello is basically lemon liquer and quite delicious.
+Two perfect drinks. When visiting [Amalfi]({{< ref "20170507-capri-amalfi-coast.md" >}}), you will know from the gigantic lemons why Limoncello is such a popular drink. Limoncello is basically lemon liquor and quite delicious.
 
 {{< photo "IMG_3905.JPG" >}}
 
-In the same region, Spritz is THE ultimate summer drink. It’s a mix of Aperol, prosecco, and soda water, decorated with a slice of organe. We preferred it to the Campari, which is more bitter and heavier.
+In the same region, Spritz is THE ultimate summer drink. It’s a mix of Aperol, prosecco, and soda water, decorated with a slice of orange. We preferred it to the Campari, which is more bitter and heavier.
 
 {{< photo "IMG_3900.JPG" >}}
 

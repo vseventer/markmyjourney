@@ -4340,6 +4340,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2131.JPG",
+        "date": "2016-12-27T09:16:55",
+        "description": "Prosciutto and salami.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.88,
+          43.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2145.JPG",
         "date": "2016-02-21T00:12:33",
         "description": "Light projections onto the Royal Exhibition Building during White Night.",
@@ -4407,7 +4423,7 @@
         "src": "IMG_2191.JPG",
         "date": "2016-12-27T14:44:50",
         "description": "Ribollita.",
-        "orientation": "portrait"
+        "orientation": "landscape"
       },
       "geometry": {
         "type": "Point",
@@ -4807,6 +4823,22 @@
         "src": "IMG_2413.JPG",
         "date": "2016-12-30T10:33:35",
         "description": "Panettone.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.52,
+          41.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_2417.JPG",
+        "date": "2016-12-30T10:46:08",
+        "description": "Mortadella.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -8582,7 +8614,7 @@
       "properties": {
         "src": "IMG_3843.JPG",
         "date": "2017-05-05T11:49:50",
-        "description": "Buffalo mozarella on a Neapolitan pizza.",
+        "description": "Buffalo mozzarella on a Neapolitan pizza.",
         "orientation": "landscape"
       },
       "geometry": {
