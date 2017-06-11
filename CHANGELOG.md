@@ -1,5 +1,7 @@
 # Changelog
 
+### 1.1.43-dev
+
 ### 1.1.42 (June 11, 2017)
 * Published *The Scottish Highlands* post.
 
