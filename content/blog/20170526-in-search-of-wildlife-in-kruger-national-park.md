@@ -39,7 +39,7 @@ Our first day ended without seeing any cats; cheetahs, leopards, and lions are t
 
 {{< photo "IMG_4938.JPG" >}}
 
-We drove to the southeastern part, near the S-28 dirt road, as this area is known to house lions. We were allowed off the vehicle for a few minutes, to enjoy the sunset in Kruger National Park. We noticed a group of vultures nested in the tree tops, before continuing on into the darkness, as sun had now set.
+We drove to the southeastern part, near the S-28 dirt road, as this area is known to house lions. We were allowed off the vehicle for a few minutes, to enjoy the sunset in Kruger National Park. We noticed a group of large birds nested in the tree tops, before continuing on into the darkness, as sun had now set.
 
 {{< photo "IMG_4964.JPG" >}}
 
