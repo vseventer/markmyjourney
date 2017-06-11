@@ -6806,7 +6806,7 @@
       "properties": {
         "src": "IMG_3173.JPG",
         "date": "2017-03-09T10:53:00",
-        "description": null,
+        "description": "Macallan Distillery.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -6854,7 +6854,7 @@
       "properties": {
         "src": "IMG_3186.JPG",
         "date": "2017-03-09T11:16:46",
-        "description": null,
+        "description": "A journey through the whiskey flavors of Macallan.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -6886,7 +6886,7 @@
       "properties": {
         "src": "IMG_3193.JPG",
         "date": "2017-03-09T11:29:10",
-        "description": null,
+        "description": "Whiskeys of Macallan.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -6934,7 +6934,7 @@
       "properties": {
         "src": "IMG_3213.JPG",
         "date": "2017-03-09T12:20:28",
-        "description": null,
+        "description": "Macallan House.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -6958,22 +6958,6 @@
         "coordinates": [
           168.65,
           -45.03
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "src": "IMG_3219.JPG",
-        "date": "2017-03-09T12:29:50",
-        "description": null,
-        "orientation": "landscape"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.21,
-          57.49
         ]
       }
     },
@@ -7158,7 +7142,7 @@
       "properties": {
         "src": "IMG_3293.JPG",
         "date": "2017-03-09T18:04:15",
-        "description": null,
+        "description": "Inverness Castle.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -7174,7 +7158,7 @@
       "properties": {
         "src": "IMG_3301.JPG",
         "date": "2017-03-09T18:15:25",
-        "description": null,
+        "description": "Inverness city center.",
         "orientation": "landscape"
       },
       "geometry": {

@@ -9,8 +9,8 @@ places = [
 photos = [
   "IMG_3098.JPG", "IMG_3110.JPG", "IMG_3123.JPG", "IMG_3128.JPG", "IMG_3137.JPG",
   "IMG_3142.JPG", "IMG_3157.JPG", "IMG_3213.JPG", "IMG_3173.JPG", "IMG_3186.JPG",
-  "IMG_3193.JPG", "IMG_3219.JPG", "IMG_3225-2.JPG", "IMG_3238.JPG", "IMG_3256.JPG",
-  "IMG_3287-2.JPG", "IMG_3293.JPG", "IMG_3301.JPG"
+  "IMG_3193.JPG", "IMG_3225-2.JPG", "IMG_3238.JPG", "IMG_3256.JPG", "IMG_3287-2.JPG",
+  "IMG_3293.JPG", "IMG_3301.JPG"
 ]
 cover = "IMG_3123.JPG"
 +++
@@ -50,11 +50,28 @@ As it was turning late, we decided to head to our accommodation in the heart of 
 {{< photo "IMG_3157.JPG" >}}
 
 ## Macallan Distillery
-{{< photo "IMG_3213.JPG" >}}
+We felt that our trip to the Highlands wouldn’t be complete without a visit to the adjacent Speyside, which has the highest concentration of fine whiskey distilleries in Scotland. Although there are many notable distilleries in Speyside, we chose to visit the Macallan distillery.
+
 {{< photo "IMG_3173.JPG" >}}
+
+The Macallan distillery makes, arguably, one of the finest single malt Scotch whiskey in the world. Although the Speyside produces a lot of light and grassy whiskeys, the Macallan is more smooth and rich due to their use of sherry oak casks. There are four important factors that determine the quality of the whiskey: the barley, the water quality, the shape of the copper pot stills, and the casks.
+
 {{< photo "IMG_3186.JPG" >}}
+
+The general pot still process consists of four different stages:
+
+* Malting: washing and temperature-controlled germination of barley,
+* Mashing: dried malt is ground, and the grist is mixed with water. This mixture subsequently turns from a soluble starch into a sugary liquid called wort,
+* Fermentation: yeast is introduced to the wort, which eats the sugar resulting in alcohol that is called wash,
+* Distillation: wash is heated and becomes vapor, which moves up through the stills until a coiled copper condenser turns it back into liquid form. This results in low wines that are distilled again in the spirit still using different temperatures in order to separate the alcohol into the head, the heart and the tails. Only the heart cut is used for whiskey.
+
+Afterwards, the whiskey is matured for at least three years, blended (addition of color, soft water, filtration), and packaged. After this detailed introduction of how to make whiskey, we were able to taste some great Macallan.
+
 {{< photo "IMG_3193.JPG" >}}
-{{< photo "IMG_3219.JPG" >}}
+
+After the tour, we went for a short walk around the facility. We found the  Macallan House, which today is part of their logo. During our visit, Macallan was in the process of building its new visitor center, which looks massive compared to the intimate tour we got.
+
+{{< photo "IMG_3213.JPG" >}}
 
 ## Loch Ness
 From the distillery, we drove the two hours towards Inverness. Just south of Inverness, you can find mythical Loch Ness, home to the Loch Ness Monster. Unfortunately, we were unable to spot it on this sunny day, but we’re sure it’s hiding somewhere, as the lake is quite big. It would take a mere two hours to drive the 100 kilometers around it.
