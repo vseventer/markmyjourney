@@ -6772,6 +6772,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3165.JPG",
+        "date": "2017-03-09T09:54:19",
+        "description": "Tablet.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21,
+          57.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3166.JPG",
+        "date": "2017-03-09T09:56:31",
+        "description": null,
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21,
+          57.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3168.JPG",
         "date": "2016-04-25T12:52:08",
         "description": "Wine truck in Queenstown.",
@@ -6980,6 +7012,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3224-2.JPG",
+        "date": "2017-03-09T12:54:35",
+        "description": "Shortbread.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.47,
+          57.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3224.JPG",
         "date": "2014-11-02T19:25:08",
         "description": null,
@@ -7182,6 +7230,70 @@
         "coordinates": [
           169.13,
           -44.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3308.JPG",
+        "date": "2017-03-09T20:03:47",
+        "description": "Haggis.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.23,
+          57.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3310.JPG",
+        "date": "2017-03-09T20:52:29",
+        "description": "Cranachan.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.23,
+          57.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3312.JPG",
+        "date": "2017-03-10T09:17:40",
+        "description": "Scottish porridge.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3,
+          57.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3313.JPG",
+        "date": "2017-03-10T09:29:33",
+        "description": "Traditional Scottish breakfast.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3,
+          57.48
         ]
       }
     },
