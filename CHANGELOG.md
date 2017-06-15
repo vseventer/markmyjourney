@@ -2,6 +2,7 @@
 
 ### 1.1.43 (June 15, 2017)
 * Added *Top Foods from Scotland* post.
+* Updated `babel-core` dependency.
 
 ### 1.1.42 (June 11, 2017)
 * Published *The Scottish Highlands* post.
