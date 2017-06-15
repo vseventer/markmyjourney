@@ -1,6 +1,7 @@
 # Changelog
 
-### 1.1.43-dev
+### 1.1.43 (June 15, 2017)
+* Added *Top Foods from Scotland* post.
 
 ### 1.1.42 (June 11, 2017)
 * Published *The Scottish Highlands* post.
