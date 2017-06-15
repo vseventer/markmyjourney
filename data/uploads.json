@@ -3828,6 +3828,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_1780.JPG",
+        "date": "2016-12-09T19:09:39",
+        "description": "High tea.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14,
+          51.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_1793.JPG",
         "date": "2016-02-17T11:45:14",
         "description": "Temple on the Lake, or Ulun Danu Bratan Temple.",
@@ -5732,6 +5748,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_2805.JPG",
+        "date": "2017-02-11T13:51:33",
+        "description": "Fish and chips.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16,
+          51.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_2818.JPG",
         "date": "2016-03-25T13:06:31",
         "description": "In the pools.",
@@ -6222,6 +6254,22 @@
         "coordinates": [
           -2.25,
           53.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3028.JPG",
+        "date": "2017-03-07T10:44:03",
+        "description": "Steak pie.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.27,
+          53.44
         ]
       }
     },
@@ -8084,6 +8132,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_3551.JPG",
+        "date": "2017-04-15T09:28:32",
+        "description": "Traditional English breakfast.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.32,
+          50.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_3553.JPG",
         "date": "2017-04-15T10:10:30",
         "description": "Porthleven.",
@@ -8168,6 +8232,22 @@
         "date": "2017-04-15T13:26:29",
         "description": "St. Ives (1).",
         "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.48,
+          50.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_3592.JPG",
+        "date": "2017-04-15T13:33:27",
+        "description": "Cornish pastry.",
+        "orientation": "portrait"
       },
       "geometry": {
         "type": "Point",
