@@ -1,10 +1,9 @@
 +++
-draft   = true
-date    = "2017-01-15"
-title   = "Ski Break in Switzerland"
+date   = "2017-06-18"
+title  = "Ski Break in Switzerland"
 destinations = [ "europe", "switzerland" ]
-places  = [ "2657928-zermatt-ch", "2661552-bern-ch", "2657896-zurich-ch" ]
-photos  = [
+places = [ "2657928-zermatt-ch", "2661552-bern-ch", "2657896-zurich-ch" ]
+photos = [
   "IMG_2499.JPG", "IMG_2519.JPG", "IMG_2581.JPG", "IMG_2588.JPG", "IMG_2604.JPG",
   "IMG_2652.JPG", "IMG_2654.JPG", "IMG_2675.JPG", "IMG_2690.JPG", "IMG_2705.JPG",
   "IMG_2711-2.JPG", "IMG_2727.JPG", "IMG_2731-2.JPG", "IMG_2740.JPG", "IMG_2746.JPG"

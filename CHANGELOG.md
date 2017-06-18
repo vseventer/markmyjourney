@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.44 (June 18, 2017)
+* Published *Ski Break in Switzerland* post.
+
 ### 1.1.43 (June 15, 2017)
 * Added *Top Foods from Scotland* post.
 * Added *Top Foods from England* draft.
