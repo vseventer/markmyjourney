@@ -1,9 +1,8 @@
 +++
-draft   = true
-date    = "2017-01-15"
-title   = "Top Foods from Switzerland"
+date   = "2017-06-22"
+title  = "Top Foods from Switzerland"
 destinations = [ "europe", "switzerland" ]
-photos  = [
+photos = [
   "IMG_2491.JPG", "IMG_2645.JPG", "IMG_2675.JPG", "IMG_2638.JPG", "IMG_2607.JPG"
 ]
 cover = "IMG_2491.JPG"

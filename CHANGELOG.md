@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.45-dev
+* Published *Top Foods from Switzerland* post.
+
 ### 1.1.44 (June 18, 2017)
 * Published *Ski Break in Switzerland* post.
 
