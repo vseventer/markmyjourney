@@ -455,8 +455,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          174.77,
-          -36.87
+          174.76,
+          -36.85
         ]
       }
     },
@@ -1705,6 +1705,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2618425,
+        "slug": "2618425-copenhagen-dk",
+        "name": "Copenhagen",
+        "region": "Capital Region",
+        "country": {
+          "code": "DK",
+          "slug": "denmark",
+          "name": "Denmark"
+        },
+        "population": "1.2m",
+        "timezone": {
+          "name": "Europe/Copenhagen",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.57,
+          55.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3919085,
         "slug": "3919085-coroico-bo",
         "name": "Coroico",
@@ -2885,8 +2912,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.16,
-          22.29
+          114.17,
+          22.28
         ]
       }
     },
@@ -4883,8 +4910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.25,
-          40.86
+          14.27,
+          40.85
         ]
       }
     },
@@ -7363,7 +7390,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.51,
+          -3.53,
           50.46
         ]
       }

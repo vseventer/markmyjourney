@@ -1,6 +1,7 @@
 # Changelog
 
-### 1.1.45-dev
+### 1.1.45 (June 22, 2017)
+* Added *Cold and Colorful Copenhagen* draft.
 * Published *Top Foods from Switzerland* post.
 
 ### 1.1.44 (June 18, 2017)
