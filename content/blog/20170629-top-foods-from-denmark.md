@@ -1,10 +1,10 @@
 +++
 draft  = true
-date   = "2016-11-13"
+date   = "2017-06-29"
 title  = "Top Foods from Denmark"
 destinations = [ "europe", "denmark" ]
 photos = [
-  "IMG_1106.JPG", "IMG_1156.JPG", "IMG_1158.JPG", "IMG_1212.JPG", "IMG_1213.JPG"
+  "IMG_1156.JPG", "IMG_1106.JPG", "IMG_1158.JPG", "IMG_1213.JPG", "IMG_1212.JPG"
 ]
 cover = "IMG_1106.JPG"
 +++
