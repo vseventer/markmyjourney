@@ -1,5 +1,4 @@
 +++
-draft  = true
 date   = "2017-06-25"
 title  = "Cold and Colorful Copenhagen"
 destinations = [ "europe", "denmark" ]
