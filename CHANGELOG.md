@@ -2,6 +2,7 @@
 
 ### 1.1.47-dev
 * Published *Top Foods from Denmark* post.
+* Updated *Top Food from Spain* photo.
 
 ### 1.1.46 (June 25, 2017)
 * Published *Cold and Colorful Copenhagen* post.

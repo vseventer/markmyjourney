@@ -5,7 +5,7 @@ title  = "Top Foods from Spain"
 destinations = [ "europe", "spain" ]
 photos = [
   "IMG_1298.JPG", "IMG_1402.JPG", "IMG_1344.JPG", "IMG_1397.JPG", "IMG_1413.JPG",
-  "IMG_1005.JPG", "IMG_1522.JPG", "IMG_1496.JPG", "IMG_1403.JPG"
+  "IMG_5388.JPG", "IMG_1522.JPG", "IMG_1496.JPG", "IMG_1403.JPG"
 ]
 cover = "IMG_1402.JPG"
 +++
@@ -41,7 +41,7 @@ We usually talk about food rather than specific restaurants, but the La Cuchara 
 ## Paella
 If there is one food that’s worth waiting 45 minutes for, it’s Paella. This rice-based dish is quite filling as it usually has ingredients such as chicken, meat, vegetables, or mixed seafood. It’s prepared on an open fire and takes times to cook properly.
 
-{{< photo "IMG_1005.JPG" >}}
+{{< photo "IMG_5388.JPG" >}}
 
 ## Patatas Bravas
 If you go out for a couple beers and find yourself hungry, you can always buy yourself some one euro patatas bravas. It’s basically potatoes with a special spicy sauce that consists of tomato, red pepper, vinegar, olive oil, paprika, and a bit of chili for a kick.
