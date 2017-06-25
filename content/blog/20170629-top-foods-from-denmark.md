@@ -1,5 +1,4 @@
 +++
-draft  = true
 date   = "2017-06-29"
 title  = "Top Foods from Denmark"
 destinations = [ "europe", "denmark" ]

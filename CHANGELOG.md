@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.47-dev
+* Published *Top Foods from Denmark* post.
+
 ### 1.1.46 (June 25, 2017)
 * Published *Cold and Colorful Copenhagen* post.
 * Updated `concurrently` and `hashmark` dependencies.
