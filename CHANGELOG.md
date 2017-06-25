@@ -2,6 +2,7 @@
 
 ### 1.1.46 (June 25, 2017)
 * Published *Cold and Colorful Copenhagen* post.
+* Updated `concurrently` and `hashmark` dependencies.
 
 ### 1.1.45 (June 22, 2017)
 * Added *Cold and Colorful Copenhagen* draft.
