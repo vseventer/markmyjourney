@@ -2947,6 +2947,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2516479,
+        "slug": "2516479-ibiza-town-es",
+        "name": "Ibiza",
+        "region": "Balearic Islands",
+        "country": {
+          "code": "ES",
+          "slug": "spain",
+          "name": "Spain"
+        },
+        "population": "49,000",
+        "timezone": {
+          "name": "Europe/Madrid",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.43,
+          38.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3462217,
         "slug": "3462217-ilha-grande-br",
         "name": "Ilha Grande",

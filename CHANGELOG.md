@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.1.47-dev
+* Added *Ibiza: Party Capital of Europe* draft.
 * Published *Top Foods from Denmark* post.
 * Updated *Top Food from Spain* photo.
 

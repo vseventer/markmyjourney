@@ -1908,22 +1908,6 @@
     {
       "type": "Feature",
       "properties": {
-        "src": "IMG_1005.JPG",
-        "date": "2015-09-26T13:52:34",
-        "description": "Paella.",
-        "orientation": "portrait"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.91,
-          43.3
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "src": "IMG_1008.JPG",
         "date": "2015-09-27T12:28:52",
         "description": "Along the Capital City Trail, a biking and walking trail around Melbourne.",
@@ -11396,6 +11380,54 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5339.JPG",
+        "date": "2017-06-23T15:32:51",
+        "description": "Cala Bassa (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.24,
+          38.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5341.JPG",
+        "date": "2017-06-23T15:39:48",
+        "description": "Cala Bassa (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.24,
+          38.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5353.JPG",
+        "date": "2017-06-23T16:30:29",
+        "description": "Cala Comte.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.22,
+          38.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5355.JPG",
         "date": "2016-05-25T14:00:22",
         "description": "Train ride from Bergen to Oslo, picture taken near Myrdal.",
@@ -11444,6 +11476,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5361.JPG",
+        "date": "2017-06-23T17:27:07",
+        "description": "Cala Vadella (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.22,
+          38.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5362-2.JPG",
+        "date": "2017-06-23T17:27:11",
+        "description": "Cala Vadella (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.22,
+          38.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5362.JPG",
         "date": "2016-05-25T20:15:02",
         "description": "Verdens Beste.",
@@ -11454,6 +11518,86 @@
         "coordinates": [
           10.75,
           59.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5376.JPG",
+        "date": "2017-06-23T18:35:42",
+        "description": "View over Cala Vadella from the Es Torraci headland.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.22,
+          38.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5379.JPG",
+        "date": "2017-06-23T19:03:49",
+        "description": "Cala d’Hort and Es Vedra.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.22,
+          38.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5384.JPG",
+        "date": "2017-06-23T19:35:43",
+        "description": "Cala Jondal.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.31,
+          38.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5388.JPG",
+        "date": "2017-06-23T20:27:27",
+        "description": "Paella.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.31,
+          38.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5391.JPG",
+        "date": "2017-06-23T21:06:37",
+        "description": "Sa Caleta (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.33,
+          38.87
         ]
       }
     },
@@ -11476,6 +11620,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5397.JPG",
+        "date": "2017-06-23T21:08:52",
+        "description": "Sa Caleta (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.33,
+          38.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5406.JPG",
         "date": "2016-05-26T12:46:13",
         "description": "The Royal Palace.",
@@ -11486,6 +11646,38 @@
         "coordinates": [
           10.73,
           59.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5409.JPG",
+        "date": "2017-06-24T02:07:07",
+        "description": "Amnesia (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.41,
+          38.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5417-2.JPG",
+        "date": "2017-06-24T02:28:18",
+        "description": "Amnesia (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.41,
+          38.95
         ]
       }
     },
@@ -11572,6 +11764,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5451.JPG",
+        "date": "2017-06-24T14:03:10",
+        "description": "Platja d’en Bossa.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.41,
+          38.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5452.JPG",
         "date": "2016-05-27T06:51:22",
         "description": "Waffles.",
@@ -11582,6 +11790,54 @@
         "coordinates": [
           11.1,
           60.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5455.JPG",
+        "date": "2017-06-24T14:42:50",
+        "description": "Local restaurants.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.43,
+          38.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5460.JPG",
+        "date": "2017-06-24T15:13:50",
+        "description": "Souvenir shops.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44,
+          38.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5465.JPG",
+        "date": "2017-06-24T16:02:29",
+        "description": "Portal de ses Taules and Castle of Ibiza.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44,
+          38.91
         ]
       }
     },
