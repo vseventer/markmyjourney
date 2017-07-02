@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.1.48-dev
+* Published *Three Days in Cape Town* post.
 * Updated `leaflet` and `sharp-cli` dependencies.
 
 ### 1.1.47 (June 28, 2017)

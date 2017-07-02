@@ -1,6 +1,5 @@
 +++
-draft  = true
-date   = "2017-05-22"
+date   = "2017-07-02"
 title  = "Three Days in Cape Town"
 destinations = [ "africa", "south-africa" ]
 places = [
