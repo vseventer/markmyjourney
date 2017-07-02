@@ -1,6 +1,9 @@
 # Changelog
 
-### 1.1.47-dev
+### 1.1.48-dev
+* Updated `leaflet` and `sharp-cli` dependencies.
+
+### 1.1.47 (June 28, 2017)
 * Added *Ibiza: Party Capital of Europe* draft.
 * Published *Top Foods from Denmark* post.
 * Updated *Top Food from Spain* photo.
