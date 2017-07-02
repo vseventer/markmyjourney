@@ -3001,6 +3001,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2562746,
+        "slug": "2562746-imdina-mt",
+        "name": "Imdina",
+        "region": "L-Imdina",
+        "country": {
+          "code": "MT",
+          "slug": "malta",
+          "name": "Malta"
+        },
+        "population": "360",
+        "timezone": {
+          "name": "Europe/Malta",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4,
+          35.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2646088,
         "slug": "2646088-inverness-gb",
         "name": "Inverness",
@@ -3319,6 +3346,33 @@
         "coordinates": [
           -22.61,
           63.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2562820,
+        "slug": "2562820-kemmuna-mt",
+        "name": "Kemmuna",
+        "region": "Il-Qala",
+        "country": {
+          "code": "MT",
+          "slug": "malta",
+          "name": "Malta"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/Malta",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.34,
+          36.01
         ]
       }
     },
@@ -7635,6 +7689,33 @@
         "coordinates": [
           -75.49,
           4.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2562305,
+        "slug": "2562305-valletta-mt",
+        "name": "Valletta",
+        "region": "Il-Belt Valletta",
+        "country": {
+          "code": "MT",
+          "slug": "malta",
+          "name": "Malta"
+        },
+        "population": "7,000",
+        "timezone": {
+          "name": "Europe/Malta",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          35.9
         ]
       }
     },

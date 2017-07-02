@@ -11908,6 +11908,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5502-2.JPG",
+        "date": "2017-06-30T11:39:56",
+        "description": "Blue Grotto.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.46,
+          35.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5502.JPG",
         "date": "2016-05-27T12:01:08",
         "description": "View of the Atlantic Road.",
@@ -11918,6 +11934,22 @@
         "coordinates": [
           7.35,
           63.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5509.JPG",
+        "date": "2017-06-30T11:59:52",
+        "description": "Għar Lapsi.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42,
+          35.83
         ]
       }
     },
@@ -11940,6 +11972,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5533-2.JPG",
+        "date": "2017-06-30T14:04:33",
+        "description": "Blue Lagoon.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.32,
+          36.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5533.JPG",
         "date": "2016-05-27T14:17:56",
         "description": "View over Molde from the Varden viewpoint.",
@@ -11950,6 +11998,22 @@
         "coordinates": [
           7.13,
           62.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5536.JPG",
+        "date": "2017-06-30T14:54:44",
+        "description": "Santa Maria Caves.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.34,
+          36.02
         ]
       }
     },
@@ -11988,6 +12052,54 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5560.JPG",
+        "date": "2017-06-30T15:43:02",
+        "description": "Għadira Bay Beach.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.35,
+          35.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5563.JPG",
+        "date": "2017-06-30T16:00:24",
+        "description": "Golden Bay Beach.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.35,
+          35.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5581.JPG",
+        "date": "2017-06-30T17:33:52",
+        "description": "Għajn Tuffieħa Bay Beach.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.35,
+          35.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5585.JPG",
         "date": "2016-05-28T12:46:33",
         "description": "Trollvegen.",
@@ -11998,6 +12110,38 @@
         "coordinates": [
           7.76,
           62.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5602.JPG",
+        "date": "2017-07-01T12:49:11",
+        "description": "Mdina from afar.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.41,
+          35.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5609.JPG",
+        "date": "2017-07-01T13:29:53",
+        "description": "Mdina Gate.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4,
+          35.88
         ]
       }
     },
@@ -12020,6 +12164,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5615.JPG",
+        "date": "2017-07-01T13:36:26",
+        "description": "Mdina Cathedral.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4,
+          35.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5630.JPG",
+        "date": "2017-07-01T14:02:42",
+        "description": "Empty alleys of Mdina.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4,
+          35.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5646.JPG",
         "date": "2016-05-28T14:08:05",
         "description": "Hook turns of the Trollstigen mountain road.",
@@ -12030,6 +12206,38 @@
         "coordinates": [
           7.67,
           62.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5649.JPG",
+        "date": "2017-07-01T16:11:12",
+        "description": "St. Peter’s Pool.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.56,
+          35.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5667.JPG",
+        "date": "2017-07-01T17:43:38",
+        "description": "Valletta Main Street.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          35.9
         ]
       }
     },
@@ -12078,6 +12286,38 @@
         "coordinates": [
           7.66,
           62.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5685.JPG",
+        "date": "2017-07-01T18:24:13",
+        "description": "The Grand Harbour from the Upper Barrakka Gardens.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          35.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5698.JPG",
+        "date": "2017-07-01T19:03:42",
+        "description": "Valletta Waterfront.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51,
+          35.89
         ]
       }
     },
