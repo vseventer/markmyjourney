@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.48-dev
+### 1.1.48 (July 2, 2017)
 * Added *Malta: Mixture of Civilizations* draft.
 * Published *Three Days in Cape Town* post.
 * Updated `leaflet` and `sharp-cli` dependencies.
