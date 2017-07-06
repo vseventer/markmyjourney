@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.49-dev
+* Published *In Search of Wildlife in Kruger National Park* post.
+
 ### 1.1.48 (July 2, 2017)
 * Added *Malta: Mixture of Civilizations* draft.
 * Published *Three Days in Cape Town* post.

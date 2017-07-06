@@ -1,5 +1,4 @@
 +++
-draft  = true
 date   = "2017-07-06"
 title  = "In Search of Wildlife in Kruger National Park"
 destinations = [ "africa", "south-africa" ]
