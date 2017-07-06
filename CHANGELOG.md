@@ -1,6 +1,7 @@
 # Changelog
 
-### 1.1.49-dev
+### 1.1.49 (July 6, 2017)
+* Complete *Malta: Mixture of Civilizations* draft.
 * Published *In Search of Wildlife in Kruger National Park* post.
 
 ### 1.1.48 (July 2, 2017)
