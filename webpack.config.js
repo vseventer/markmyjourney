@@ -63,7 +63,7 @@ module.exports = {
       query  : 'var window = undefined;'
     }, {
       test   : arcPath,
-      loader : 'expose?Arc',
+      loader : 'expose-loader?Arc',
     }, {
       test   : /bootstrap/,
       loader : 'babel-loader',

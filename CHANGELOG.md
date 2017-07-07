@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.50-dev
+* Updated `babel-loader`, `uncss`, and `webpack` dependencies.
+
 ### 1.1.49 (July 6, 2017)
 * Complete *Malta: Mixture of Civilizations* draft.
 * Published *In Search of Wildlife in Kruger National Park* post.
