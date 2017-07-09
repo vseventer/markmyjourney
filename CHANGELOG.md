@@ -1,6 +1,7 @@
 # Changelog
 
 ### 1.1.50-dev
+* Added *Top Foods from South Africa* post.
 * Updated `babel-loader`, `uncss`, and `webpack` dependencies.
 
 ### 1.1.49 (July 6, 2017)

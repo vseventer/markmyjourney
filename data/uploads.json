@@ -9876,6 +9876,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4309.JPG",
+        "date": "2017-05-17T22:52:14",
+        "description": "Amarula.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6,
+          -33.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4330.JPG",
         "date": "2017-05-18T16:54:48",
         "description": "Cape Town City Centre.",
@@ -9895,6 +9911,38 @@
         "src": "IMG_4340.JPG",
         "date": "2017-05-18T17:10:51",
         "description": "Bo Kaap.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4343.JPG",
+        "date": "2017-05-18T18:39:31",
+        "description": "Biltong.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4346.JPG",
+        "date": "2017-05-18T20:55:05",
+        "description": "Bobotie.",
         "orientation": "landscape"
       },
       "geometry": {
@@ -10100,6 +10148,22 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4448.JPG",
+        "date": "2017-05-19T17:29:47",
+        "description": "Boerewors.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4450.JPG",
         "date": "2015-04-27T13:13:22",
         "description": "Colorful catamaran on the beach.",
@@ -10110,6 +10174,22 @@
         "coordinates": [
           177.13,
           -17.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4451.JPG",
+        "date": "2017-05-19T18:01:22",
+        "description": "Bunny Chow.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.92
         ]
       }
     },
@@ -10942,6 +11022,22 @@
         "coordinates": [
           18.06,
           59.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5094-2.JPG",
+        "date": "2017-05-24T21:32:22",
+        "description": "Malva Pudding.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.78,
+          -25.35
         ]
       }
     },
