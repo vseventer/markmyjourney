@@ -1,7 +1,7 @@
 <div class="card mb-3">
   <h4 class="card-header">Popular Posts</h4>
   <ul class="list-group list-group-flush">
-  {{ $popular := first 5 (.Site.Pages.ByParam "sticky") }}
+  {{ $popular := first 5 (.Site.RegularPages.ByParam "sticky") }}
   {{ range $popular }}
     <li class="list-group-item">
       {{ .Render "title" }}

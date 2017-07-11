@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.51-dev
+* Updated `config.toml` with latest Hugo settings.
+
 ### 1.1.50 (July 9, 2017)
 * Added *Top Foods from South Africa* post.
 * Updated `babel-loader`, `uncss`, and `webpack` dependencies.

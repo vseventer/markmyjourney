@@ -2,10 +2,9 @@ baseurl      = "https://www.markmyjourney.com/"
 languageCode = "en-us"
 title        = "MarkMyJourney"
 
+canonifyURLs    = true
+disableKinds    = [ "RSS", "Sitemap" ]
 disableHugoGeneratorInject = true
-disableRSS      = true
-disableSitemap  = true
-enableRobotsTXT = true
 paginate        = 5
 pluralizeListTitles = false
 SectionPagesMenu = "main"
