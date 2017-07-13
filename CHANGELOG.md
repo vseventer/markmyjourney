@@ -1,6 +1,7 @@
 # Changelog
 
-### 1.1.51-dev
+### 1.1.51 (July 13, 2017)
+* Published *The Natural Wonder of Victoria Falls* post.
 * Updated `config.toml` with latest Hugo settings.
 
 ### 1.1.50 (July 9, 2017)
