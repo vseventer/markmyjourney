@@ -10212,6 +10212,38 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4463.JPG",
+        "date": "2017-05-20T10:47:56",
+        "description": "Jordan’s wine cellar.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.74,
+          -33.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4469-2.JPG",
+        "date": "2017-05-20T10:59:48",
+        "description": "Jordan Wines in a perfect setting.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.75,
+          -33.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4469.JPG",
         "date": "2015-04-27T14:29:28",
         "description": "Uninhabited island of Malamala.",
@@ -10238,6 +10270,118 @@
         "coordinates": [
           177.28,
           -17.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4490.JPG",
+        "date": "2017-05-20T11:59:31",
+        "description": "Inside Rust en Vrede.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.86,
+          -34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4503.JPG",
+        "date": "2017-05-20T12:36:37",
+        "description": "Views from the drive to Rust en Vrede.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.85,
+          -34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4509.JPG",
+        "date": "2017-05-20T13:17:01",
+        "description": "Flagship and Reserve Range tasting.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.89,
+          -34.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4520.JPG",
+        "date": "2017-05-20T13:42:34",
+        "description": "Gardens of Vergelegen.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.89,
+          -34.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4531.JPG",
+        "date": "2017-05-20T14:34:18",
+        "description": "Lunch at Waterkloof.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.89,
+          -34.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4541.JPG",
+        "date": "2017-05-20T15:06:46",
+        "description": "The impressive Waterkloof building.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.89,
+          -34.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4558.JPG",
+        "date": "2017-05-20T16:27:03",
+        "description": "Chocolate Tasting at Boschendal.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.97,
+          -33.89
         ]
       }
     },
@@ -10276,6 +10420,54 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_4584.JPG",
+        "date": "2017-05-20T17:20:07",
+        "description": "Goats at Fairview.",
+        "orientation": "portrait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.92,
+          -33.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4591.JPG",
+        "date": "2017-05-20T17:30:02",
+        "description": "Cheese Tasting.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.92,
+          -33.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4602.JPG",
+        "date": "2017-05-20T18:34:49",
+        "description": "Sunset over the wineries.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.92,
+          -33.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_4605.JPG",
         "date": "2016-05-12T15:36:30",
         "description": "The aquarium inside Atlantis, The Palm.",
@@ -10286,6 +10478,22 @@
         "coordinates": [
           55.12,
           25.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_4632.JPG",
+        "date": "2017-05-20T20:22:13",
+        "description": "Springbok (antelope) steak.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.92,
+          -33.92
         ]
       }
     },

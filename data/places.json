@@ -7020,6 +7020,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 8347475,
+        "slug": "8347475-stellenbosch-valley-za",
+        "name": "Stellenbosch",
+        "region": "Western Cape",
+        "country": {
+          "code": "ZA",
+          "slug": "south-africa",
+          "name": "South Africa"
+        },
+        "population": "201,000",
+        "timezone": {
+          "name": "Africa/Johannesburg",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.94,
+          -33.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2673730,
         "slug": "2673730-stockholm-se",
         "name": "Stockholm",
