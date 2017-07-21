@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.52-dev
+* Updated `sharp-cli` and `webpack` dependencies.
+
 ### 1.1.51 (July 13, 2017)
 * Published *The Natural Wonder of Victoria Falls* post.
 * Updated `config.toml` with latest Hugo settings.
