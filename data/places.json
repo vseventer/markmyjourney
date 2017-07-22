@@ -868,6 +868,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 2655730,
+        "slug": "2655730-bibury-gb",
+        "name": "Bibury",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "0",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83,
+          51.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 3203925,
         "slug": "3203925-bled-si",
         "name": "Bled",
@@ -970,6 +997,33 @@
         "coordinates": [
           -71.06,
           42.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2655087,
+        "slug": "2655087-bourton-on-the-water-gb",
+        "name": "Bourton on the Water",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "3,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.75,
+          51.87
         ]
       }
     },
@@ -1132,6 +1186,33 @@
         "coordinates": [
           -2.6,
           51.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2654628,
+        "slug": "2654628-broadway-gb",
+        "name": "Broadway",
+        "region": "England",
+        "country": {
+          "code": "GB",
+          "slug": "united-kingdom",
+          "name": "United Kingdom"
+        },
+        "population": "3,000",
+        "timezone": {
+          "name": "Europe/London",
+          "dstOffset": "UTC+01:00",
+          "gmtOffset": "UTC+01:00"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.86,
+          52.04
         ]
       }
     },

@@ -11652,6 +11652,86 @@
     {
       "type": "Feature",
       "properties": {
+        "src": "IMG_5264.JPG",
+        "date": "2017-06-17T14:07:38",
+        "description": "Arlington Row.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83,
+          51.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5267.JPG",
+        "date": "2017-06-17T14:08:44",
+        "description": "Yellow limestone houses in the green landscape of The Cotswold.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83,
+          51.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5274.JPG",
+        "date": "2017-06-17T15:09:27",
+        "description": "Bourton-on-the-Water (1).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.76,
+          51.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5279.JPG",
+        "date": "2017-06-17T15:22:34",
+        "description": "Bourton-on-the-Water (2).",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.76,
+          51.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "src": "IMG_5282.JPG",
+        "date": "2017-06-17T16:43:33",
+        "description": "Broadway.",
+        "orientation": "landscape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.86,
+          52.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "src": "IMG_5291.JPG",
         "date": "2016-05-24T15:36:27",
         "description": "Odda.",

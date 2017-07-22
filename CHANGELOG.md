@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.1.53-dev
+* Published *A Day in The Cotswold* post.
+
 ### 1.1.52 (July 21, 2017)
 * Published *South Africa’s Wine Route: Stellenbosch* post.
 * Updated `sharp-cli` and `webpack` dependencies.
