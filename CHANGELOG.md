@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.1.53-dev
+### 1.1.53 (July 23, 2017)
 * Published *A Day in The Cotswold* post.
 
 ### 1.1.52 (July 21, 2017)
