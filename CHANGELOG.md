@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.1.54-dev
+* Updated `babel-core`, `leaflet`, `leaflet.markercluster`, and `webpack`
+  dependencies.
+
 ### 1.1.53 (July 23, 2017)
 * Published *A Day in The Cotswold* post.
 
