@@ -1,5 +1,5 @@
 <div class="mmjy-border mmjy-inset">
-  <div class="carousel slide" data-keyboard="true" data-ride="carousel" id="gallery">
+  <div class="carousel slide" data-keyboard="true" id="gallery">
     <div class="carousel-inner" role="listbox">
       {{ range $index, $element := .photos }}
         <div class="carousel-item{{ if eq $index 0 }} active{{ end }}" id="{{ $element }}">
@@ -21,7 +21,7 @@
 
 <ol class="list-inline">
   {{ range $index, $element := .photos }}
-    <li class="list-inline-item{{ if eq $index 0 }} active {{ end }} mmjy-a-2" data-slide-to="{{ $index }}" data-target="#gallery">
+    <li class="list-inline-item{{ if eq $index 0 }} active{{ end }} mmjy-a-2" data-slide-to="{{ $index }}" data-target="#gallery">
       {{ $url := printf "uploads/thumbs//%s" $element | absURL }}
       <img class="mmjy-thumb mmjy-thumb-inset" role="button" src="{{ $url }}" />
     </li>

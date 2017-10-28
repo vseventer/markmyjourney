@@ -12,7 +12,7 @@
 
 <div class="card mb-3">
   <h4 class="card-header">Follow Us</h4>
-  <ul class="card-block list-inline mb-0">
+  <ul class="card-body list-inline mb-0">
     {{ range .Site.Menus.social }}
       <li class="list-inline-item">
         {{ $identifier := default (lower .Name) .Identifier  }}

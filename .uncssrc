@@ -1,8 +1,7 @@
 {
   "ignore": [
     ".d-block",
-    ".show > a",
-    ".show > .dropdown-menu",
+    ".dropdown-menu.show",
 
     "/^.carousel-inner > .active/",
     "/^.carousel-inner > .next/",

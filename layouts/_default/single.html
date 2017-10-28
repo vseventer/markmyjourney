@@ -16,7 +16,7 @@
         <ul class="list-inline">
           {{ range $countries }}
             <li class="list-inline-item">
-              <a class="badge badge-default" href="{{ printf "destinations/%s/" .properties.slug | absURL }}">{{ .properties.name }}</a>
+              <a class="badge badge-secondary" href="{{ printf "destinations/%s/" .properties.slug | absURL }}">{{ .properties.name }}</a>
             </li>
           {{ end }}
         </ul>

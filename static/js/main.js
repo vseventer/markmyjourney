@@ -58,11 +58,10 @@
         Leaflet = window.L;
     Leaflet.Icon.Default.imagePath = '/img/'; // Configure.
 
-    // Lazy-load carousel items on slide & patch active carousel indicators outside carousel.
+    // Patch active carousel indicators outside carousel.
     $('.carousel').on('slide.bs.carousel', function(e) {
       var indicators = $('[data-target="#' + this.id + '"]').removeClass('active'),
           target     = $(e.relatedTarget);
-      target.attr('style', target.attr('data-style')).removeAttr('data-style');
       indicators.filter('[data-slide-to="' + target.index() + '"]').addClass('active');
     });
 
